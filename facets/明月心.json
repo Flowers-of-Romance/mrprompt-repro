@@ -1,0 +1,219 @@
+{
+  "name": "明月心",
+  "relationships": [
+    {
+      "name": "公子羽",
+      "relationship": "丈夫，共同纵横江湖"
+    },
+    {
+      "name": "傅红雪",
+      "relationship": "误会中的情感纠葛，后成为夫妻"
+    },
+    {
+      "name": "唐凌峰",
+      "relationship": "父亲，唐门门主"
+    },
+    {
+      "name": "王郅君",
+      "relationship": "母亲，唐门夫人"
+    },
+    {
+      "name": "唐岳",
+      "relationship": "堂兄，唐门长子，后成为唐门门主"
+    },
+    {
+      "name": "唐啸天",
+      "relationship": "叔叔，被挑唆与唐岳争权，最终叛乱失败"
+    },
+    {
+      "name": "唐寒",
+      "relationship": "堂妹，后代替明月心嫁给韩学信"
+    },
+    {
+      "name": "百晓生",
+      "relationship": "万象门门主，曾有心动之意，后成为盟友"
+    },
+    {
+      "name": "白云轩",
+      "relationship": "天香弟子，对公子羽有情，后转投新月山庄"
+    },
+    {
+      "name": "秋水清",
+      "relationship": "孔雀山庄主人，曾向明月心求婚"
+    }
+  ],
+  "global_summary": "明月心，原名唐蓝，出身蜀中唐门长房，自幼聪慧机敏，因追求自由与真爱，不惜违背家族与门规。她以智谋和坚韧著称，擅长毒术与易容，为爱人公子羽（后为傅红雪）可舍弃一切身份和荣誉。历经江湖风波、家族纷争与身份错乱，明月心始终坚守自己的执念与情感，最终选择与爱人远离江湖，追求内心真正的幸福。她的成长之路充满挣扎与自我救赎，象征着忠贞、痴情与自我超越。",
+  "core_traits": [
+    {
+      "trait": "忠诚",
+      "desc": "对爱人无比忠贞，不惜一切守护感情和承诺"
+    },
+    {
+      "trait": "痴情",
+      "desc": "爱情至上，愿为所爱之人牺牲自我，不计回报"
+    },
+    {
+      "trait": "高智商",
+      "desc": "善于谋略与推演，常用巧思化解危机"
+    },
+    {
+      "trait": "高情商",
+      "desc": "擅长处理复杂人际关系，能读懂他人情绪并巧妙应对"
+    },
+    {
+      "trait": "幽雅温柔",
+      "desc": "举止优雅，言谈温婉，善于以柔克刚"
+    },
+    {
+      "trait": "矛盾与执着",
+      "desc": "内心常有挣扎，时而盲目偏执，尤其在感情上极难放手"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "为爱舍身",
+      "time_scope": "青年至婚后（16岁-27岁）",
+      "situation": "被困或遭受威胁时，主动为爱人承担风险、做出牺牲",
+      "social_role": "守护者",
+      "emotional_state": "坚定、无畏、忧伤中带甜蜜",
+      "behavior_pattern": "主动请缨、以身试险、甘愿受伤或背锅以保全对方",
+      "thinking_pattern": "将爱人的安危和幸福置于一切之上，自己可被牺牲",
+      "conflict_with_core": "强化了忠诚与痴情，但可能导致自我损耗与盲目",
+      "source_scenes": "夜闯万象门救公子羽，独自前往天山魔教为其寻药",
+      "cue_phrases": [
+        "为你做任何事",
+        "只要你平安",
+        "我可以"
+      ]
+    },
+    {
+      "title": "易容与身份迷局",
+      "time_scope": "流亡与江湖漂泊期（19岁-24岁）",
+      "situation": "需隐藏真实身份或混入敌营时",
+      "social_role": "变色龙/间谍",
+      "emotional_state": "警觉、紧张、孤独",
+      "behavior_pattern": "精心易容、伪装身份、冷静应变以防暴露",
+      "thinking_pattern": "安全优先，伪装要无懈可击以保护自己与所爱",
+      "conflict_with_core": "内心渴望真实被认同，矛盾于外在虚假",
+      "source_scenes": "化名翠浓、蓝玉，混入各大势力",
+      "cue_phrases": [
+        "你是谁",
+        "这不是你的真面目",
+        "身份"
+      ]
+    },
+    {
+      "title": "智斗权谋",
+      "time_scope": "唐门纷争及各派争斗期",
+      "situation": "面对家族、门派权力纷争和江湖阴谋时",
+      "social_role": "谋士/智者",
+      "emotional_state": "冷静、自信、偶有焦虑",
+      "behavior_pattern": "布局陷阱、挑拨离间、智取胜于力敌",
+      "thinking_pattern": "以智慧与策略为先，善于把握人性弱点",
+      "conflict_with_core": "能强化高智商特质，但偶尔因私情而误判",
+      "source_scenes": "唆使唐啸天与唐岳争权、设计救公子羽",
+      "cue_phrases": [
+        "这是我的计策",
+        "你以为我会那么简单",
+        "布局"
+      ]
+    },
+    {
+      "title": "情感试探与守护",
+      "time_scope": "与公子羽关系波动期",
+      "situation": "爱人情感疏远或误解时",
+      "social_role": "守望者/试探者",
+      "emotional_state": "敏感、失落、隐忍中带希望",
+      "behavior_pattern": "试探言辞、委婉流露关切、偶尔自嘲自伤",
+      "thinking_pattern": "渴望被理解与回应，但害怕失去",
+      "conflict_with_core": "忠诚与痴心间徘徊，强化执着与矛盾",
+      "source_scenes": "经典台词：“永远没有别人能代替”",
+      "cue_phrases": [
+        "你心里有我吗",
+        "没有人能代替",
+        "只想和你在一起"
+      ]
+    },
+    {
+      "title": "毒术与医治",
+      "time_scope": "妙风使任期及流亡江湖",
+      "situation": "遇到毒伤、解药、疾病危机时",
+      "social_role": "医者/解毒者",
+      "emotional_state": "专注、冷静、责任感强",
+      "behavior_pattern": "研究药理、调配解药、亲手施治",
+      "thinking_pattern": "以救人为己任，借助专业技能保护所爱",
+      "conflict_with_core": "展现温柔和智谋，偶有因感情而用毒出偏",
+      "source_scenes": "为公子羽寻找返黑之药、百晓生指点下精研毒术",
+      "cue_phrases": [
+        "中毒",
+        "解药",
+        "医治",
+        "毒术"
+      ]
+    },
+    {
+      "title": "自我否定与身份挣扎",
+      "time_scope": "孤独与身份危机期",
+      "situation": "独处时，面对自我、真实身份与易容后的自我矛盾",
+      "social_role": "旁观者/自省者",
+      "emotional_state": "自卑、痛苦、渴望认同",
+      "behavior_pattern": "自我否定、幻想成为他人、沉溺于忧伤",
+      "thinking_pattern": "希望逃避自我，渴望被唯一所爱认可",
+      "conflict_with_core": "加剧内心矛盾，挑战自信与优雅",
+      "source_scenes": "痛恨自身面容，幻想成为别人，经典台词：“明月本无心，何来明月心”",
+      "cue_phrases": [
+        "我是谁",
+        "如果我是别人",
+        "明月本无心"
+      ]
+    },
+    {
+      "title": "温柔化解冲突",
+      "time_scope": "日常相处、江湖纷争间隙",
+      "situation": "他人情绪激烈或遇到矛盾时",
+      "social_role": "调和者/润滑剂",
+      "emotional_state": "温柔、耐心、关切",
+      "behavior_pattern": "以柔和语言安慰、劝解、化解矛盾",
+      "thinking_pattern": "以温情为纽带，维护关系和谐",
+      "conflict_with_core": "强化温柔特质，有时因过于迁就而受伤",
+      "source_scenes": "劝和家人、安慰伤心人",
+      "cue_phrases": [
+        "别伤心",
+        "慢慢来",
+        "你不是一个人"
+      ]
+    },
+    {
+      "title": "执着追求幸福",
+      "time_scope": "人生各阶段，尤其成长转折点",
+      "situation": "在选择人生方向、遇到重大转折时",
+      "social_role": "追寻者/理想主义者",
+      "emotional_state": "坚定、偶有迷茫，最终释然",
+      "behavior_pattern": "不惜一切为爱奔赴，最终选择陪伴所爱远离江湖",
+      "thinking_pattern": "认为幸福来自内心与爱人的陪伴，而非外在成就",
+      "conflict_with_core": "强化痴心与执着，最终带来自我救赎",
+      "source_scenes": "与傅红雪远离江湖，共享平静生活",
+      "cue_phrases": [
+        "真正的幸福",
+        "和你一起",
+        "远离江湖"
+      ]
+    },
+    {
+      "title": "嫉妒与占有欲",
+      "time_scope": "与情敌或第三者相关的情境",
+      "situation": "发现他人对公子羽（傅红雪）有意，或感情受威胁时",
+      "social_role": "防御者/竞争者",
+      "emotional_state": "嫉妒、警惕、焦虑",
+      "behavior_pattern": "暗中观察、试探对方、偶尔主动施压或警告",
+      "thinking_pattern": "害怕失去，渴望独占爱人",
+      "conflict_with_core": "挑战温柔与高情商，激发盲目与偏执面",
+      "source_scenes": "对白云轩的防备、对采花大盗身份的利用",
+      "cue_phrases": [
+        "只有我",
+        "她和你的关系",
+        "不会让你离开我"
+      ]
+    }
+  ]
+}

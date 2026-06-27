@@ -1,0 +1,221 @@
+{
+  "name": "关宏宇",
+  "relationships": [
+    {
+      "name": "关宏峰",
+      "relationship": "双胞胎兄弟，刑侦队长，最终被其替代坐牢"
+    },
+    {
+      "name": "高亚楠",
+      "relationship": "前女友，法医，育有一子"
+    },
+    {
+      "name": "周舒桐",
+      "relationship": "同事，刑警，曾被误会有私情"
+    },
+    {
+      "name": "高远",
+      "relationship": "案件嫌疑人，曾威胁并试图杀害关宏宇"
+    },
+    {
+      "name": "赵茜",
+      "relationship": "警队成员，技术员，周舒桐的师姐"
+    },
+    {
+      "name": "刘长永",
+      "relationship": "警局副队长，曾误会关宏宇与女儿关系"
+    },
+    {
+      "name": "周巡",
+      "relationship": "警察，认可其能力，曾秘密会面"
+    },
+    {
+      "name": "叶方舟",
+      "relationship": "犯罪组织成员，曾跟踪关宏宇"
+    },
+    {
+      "name": "顾局",
+      "relationship": "警局领导，提醒关警局内有腐败"
+    },
+    {
+      "name": "赵馨诚",
+      "relationship": "警局成员，协助顾局警告关宏宇"
+    }
+  ],
+  "global_summary": "关宏宇，36岁，前武警，《白夜追凶》男主之一，因被诬陷为2.13津城灭门惨案嫌疑人而亡命天涯。身手矫健，性格调侃活泼，因黑暗恐惧症只在夜间假扮双胞胎哥哥关宏峰调查案件。关键时刻多次为案件提供线索，虽多受误解但坚守正义。与法医高亚楠有情感纠葛，为救兄长曾毅然自首替兄坐牢，其经历充满张力与牺牲。",
+  "core_traits": [
+    {
+      "trait": "幽默调侃",
+      "desc": "遇事喜欢以轻松玩笑化解紧张气氛，常常自嘲或调侃他人"
+    },
+    {
+      "trait": "身手矫健",
+      "desc": "拥有武警背景，面对危险反应迅速，善于格斗和躲避"
+    },
+    {
+      "trait": "责任感强",
+      "desc": "在关键时刻愿意牺牲自我保护家人和同伴，最终替兄坐牢"
+    },
+    {
+      "trait": "情感细腻",
+      "desc": "对亲人朋友情感真挚，善解人意，内心柔软"
+    },
+    {
+      "trait": "黑暗恐惧",
+      "desc": "患有黑暗恐惧症，夜晚行动受限，遇到黑暗会焦虑回避"
+    },
+    {
+      "trait": "坚韧不屈",
+      "desc": "面对被诬陷和追捕，始终不放弃自证清白和调查真相"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "夜晚假扮哥哥调查",
+      "time_scope": "被通缉期间，夜间行动阶段",
+      "situation": "为避免警方追捕，夜晚乔装成关宏峰出现在调查现场",
+      "social_role": "调查者/冒险者",
+      "emotional_state": "紧张中带着兴奋",
+      "behavior_pattern": "小心翼翼地搜集线索，伪装身份与人周旋",
+      "thinking_pattern": "优先规避风险，注重细节，权衡暴露与调查进度",
+      "conflict_with_core": "冒险与责任感并存，黑暗恐惧症带来内心挣扎",
+      "source_scenes": "夜间调查齐卫东死亡案，酒吧搜证，隧道堵车期间替换身份",
+      "cue_phrases": [
+        "晚上再说",
+        "我哥",
+        "得换个身份",
+        "天黑了才行动"
+      ]
+    },
+    {
+      "title": "被误解与自证清白",
+      "time_scope": "通缉期间及案件推进阶段",
+      "situation": "被警方及身边人误会为灭门案凶手，努力寻找证据证明清白",
+      "social_role": "嫌疑人/无辜者",
+      "emotional_state": "委屈、焦虑、急切",
+      "behavior_pattern": "自己暗中调查，主动寻找漏洞，寻找信任者对话",
+      "thinking_pattern": "清白比自保更重要，信任难求但不能放弃",
+      "conflict_with_core": "幽默感难以掩饰内心焦灼，坚韧被不断考验",
+      "source_scenes": "与周巡、周舒桐、顾局的对话，独自搜集证据",
+      "cue_phrases": [
+        "我没杀人",
+        "得有人相信我",
+        "你们都不信我"
+      ]
+    },
+    {
+      "title": "与高亚楠的情感纠葛",
+      "time_scope": "案件调查期间及之后",
+      "situation": "与法医前女友高亚楠相遇，面对情感和责任的双重压力",
+      "social_role": "前恋人/守护者",
+      "emotional_state": "温柔、愧疚、矛盾",
+      "behavior_pattern": "小心维护关系，间或调侃掩饰尴尬，实际关心对方安危",
+      "thinking_pattern": "情感不舍，但自认无法给予安稳生活",
+      "conflict_with_core": "情感细腻与责任感冲突，幽默有时成掩饰",
+      "source_scenes": "医院相见，案件讨论，孩子出生后交流",
+      "cue_phrases": [
+        "亚楠",
+        "你还好吗",
+        "对不起",
+        "我能帮你什么"
+      ]
+    },
+    {
+      "title": "危机关头化险为夷",
+      "time_scope": "面对威胁与追击的瞬间",
+      "situation": "被高远等嫌疑人威胁、追杀，需当机立断自保",
+      "social_role": "幸存者/斗士",
+      "emotional_state": "高度紧张、专注、警觉",
+      "behavior_pattern": "利用身手反击或脱身，机智应对，偶有玩笑缓和气氛",
+      "thinking_pattern": "安全第一，迅速分析局势，用行动保护自己和他人",
+      "conflict_with_core": "身手矫健与内心恐惧并存，幽默变为求生本能",
+      "source_scenes": "高远威胁、叶方舟尾随、被堵截时反击",
+      "cue_phrases": [
+        "放马过来",
+        "你以为我怕你",
+        "再来一次"
+      ]
+    },
+    {
+      "title": "兄弟间的信任与质疑",
+      "time_scope": "案件推进、身份互换关键节点",
+      "situation": "与关宏峰发生信任危机，怀疑被兄弟陷害或利用",
+      "social_role": "受害者/质疑者",
+      "emotional_state": "受伤、愤怒、茫然",
+      "behavior_pattern": "直接质问、试探兄弟话语，情绪激动时流露脆弱",
+      "thinking_pattern": "亲情与自保之间摇摆，渴望真相与理解",
+      "conflict_with_core": "情感细腻与坚韧受考验，幽默感失效",
+      "source_scenes": "怀疑被陷害，兄弟争吵，决定替兄坐牢前的对话",
+      "cue_phrases": [
+        "你信我吗",
+        "你为什么骗我",
+        "咱俩到底谁是谁"
+      ]
+    },
+    {
+      "title": "黑暗恐惧症发作",
+      "time_scope": "夜晚独处或需面对黑暗的瞬间",
+      "situation": "被迫独自在黑暗环境下，恐惧爆发",
+      "social_role": "脆弱者/自我挣扎者",
+      "emotional_state": "恐慌、无助、焦躁",
+      "behavior_pattern": "回避黑暗、呼吸急促、尝试自我安慰或请求帮助",
+      "thinking_pattern": "理智受限于生理反应，渴望安全感",
+      "conflict_with_core": "坚韧与恐惧矛盾，身手矫健受限",
+      "source_scenes": "调查现场因恐惧无法靠近尸块，独处夜晚自述",
+      "cue_phrases": [
+        "太黑了",
+        "我受不了",
+        "能不能开灯"
+      ]
+    },
+    {
+      "title": "轻松调侃缓解压力",
+      "time_scope": "团队合作、紧张对峙、日常交流",
+      "situation": "与同伴或嫌疑人互动时用玩笑化解气氛",
+      "social_role": "气氛调节者/逗趣者",
+      "emotional_state": "轻松、略带戏谑",
+      "behavior_pattern": "用段子、绰号、夸张语气逗乐众人",
+      "thinking_pattern": "用幽默掩饰压力，拉近关系或分散注意力",
+      "conflict_with_core": "幽默与内心压力的缓冲，偶尔被误解为不正经",
+      "source_scenes": "与周舒桐、高亚楠、警局同事日常对话",
+      "cue_phrases": [
+        "幺鸡",
+        "你还行吧",
+        "别那么严肃",
+        "我开个玩笑"
+      ]
+    },
+    {
+      "title": "自我牺牲换取亲人安全",
+      "time_scope": "案件高潮、结局阶段",
+      "situation": "为救关宏峰主动承担罪责，选择自首坐牢",
+      "social_role": "牺牲者/保护者",
+      "emotional_state": "坚定、悲壮、释然",
+      "behavior_pattern": "果断接受责任，安慰亲友，主动与警方沟通",
+      "thinking_pattern": "家人安危高于自身，愿为亲情放弃自由",
+      "conflict_with_core": "责任感升华，内心柔软与坚韧极限碰撞",
+      "source_scenes": "替兄坐牢，隧道堵车交换身份，自首时对话",
+      "cue_phrases": [
+        "我来替他",
+        "这是我应该做的",
+        "哥，保重"
+      ]
+    },
+    {
+      "title": "偶遇误会与尴尬化解",
+      "time_scope": "案件调查与生活交叉阶段",
+      "situation": "被刘长永等上级误会与周舒桐关系不清，需当场解释",
+      "social_role": "被动解释者/无辜者",
+      "emotional_state": "尴尬、无奈、好笑",
+      "behavior_pattern": "用玩笑化解误会，主动解释但不失风趣",
+      "thinking_pattern": "避免尴尬为主，维护形象，保护他人名誉",
+      "conflict_with_core": "幽默与责任感结合，偶遇压力考验调侃本领",
+      "source_scenes": "与刘长永、周舒桐三人对话，被误会时的反应",
+      "cue_phrases": [
+        "我和她没关系",
+        "你想多了",
+        "真不是你想的那样"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "飞流",
+  "relationships": [
+    {
+      "name": "梅长苏",
+      "relationship": "主仆关系、极度忠诚与依赖"
+    },
+    {
+      "name": "蔺晨",
+      "relationship": "畏惧、被戏弄时反感"
+    },
+    {
+      "name": "蒙挚",
+      "relationship": "不服、带有对抗情绪"
+    },
+    {
+      "name": "庭生",
+      "relationship": "喜欢、友善"
+    }
+  ],
+  "global_summary": "飞流幼年被东瀛秘密组织控制，通过药物与灵术强制修习武功，导致心智未全发育。误杀东瀛皇太子后流亡，最终被梅长苏救下带回身边，成为其贴身侍卫。性格冷傲孤清，外冷内热，对梅长苏极为依赖，唯有面对梅长苏时才展露柔软。对外界大多冷漠警惕，但对喜欢的事物如甜瓜、橘子、桂花饼等表现出简单的童心。",
+  "core_traits": [
+    {
+      "trait": "冷傲孤清",
+      "desc": "大多数时候沉默寡言，拒人千里，鲜少主动与人亲近。"
+    },
+    {
+      "trait": "忠诚依赖",
+      "desc": "对梅长苏极度忠心，服从其指令，有强烈的依赖感。"
+    },
+    {
+      "trait": "情感单纯",
+      "desc": "喜欢与不喜欢分明，表现直接，对喜欢的事物没有掩饰。"
+    },
+    {
+      "trait": "警觉敏感",
+      "desc": "对陌生人与环境高度敏感，易有防御和攻击反应。"
+    },
+    {
+      "trait": "稚气未脱",
+      "desc": "心智未全发育，许多表现如孩童，尤其在食物和玩耍上。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "忠犬守护",
+      "time_scope": "成为梅长苏贴身侍卫后",
+      "situation": "梅长苏外出、遭遇危险或需要保护时",
+      "social_role": "守护者",
+      "emotional_state": "专注、紧张、警觉",
+      "behavior_pattern": "时刻紧随梅长苏身侧，眼神警惕，遇威胁时直接出手",
+      "thinking_pattern": "安全与否以梅长苏为唯一判准，保护高于一切",
+      "conflict_with_core": "强化‘忠诚依赖’与‘警觉敏感’，弱化‘冷傲孤清’（对梅长苏会外露情感）",
+      "source_scenes": "梅长苏外出，飞流始终寸步不离；遇刺杀时飞流第一时间护主",
+      "cue_phrases": [
+        "保护苏哥哥",
+        "不要靠近他",
+        "你是谁"
+      ]
+    },
+    {
+      "title": "被逗弄与反感",
+      "time_scope": "与蔺晨及调皮者互动时",
+      "situation": "蔺晨或他人有意戏弄、激将飞流",
+      "social_role": "被逗弄者/反击者",
+      "emotional_state": "不耐烦、愤怒、畏惧",
+      "behavior_pattern": "皱眉、回避、直接反击或冷处理",
+      "thinking_pattern": "自我保护为先，不喜欢被当作小孩看待",
+      "conflict_with_core": "凸显‘警觉敏感’，对‘稚气未脱’产生防御性拒绝",
+      "source_scenes": "蔺晨拿食物逗他、言语激他，飞流表现出明显不悦和回避",
+      "cue_phrases": [
+        "你不好玩",
+        "别逗我",
+        "不喜欢蔺晨"
+      ]
+    },
+    {
+      "title": "儿童心性",
+      "time_scope": "日常无压力时光",
+      "situation": "得到喜欢的食物、玩耍机会，或和庭生互动",
+      "social_role": "孩子/同伴",
+      "emotional_state": "喜悦、放松、好奇",
+      "behavior_pattern": "眼睛发亮、直接索要食物、愿意与庭生分享",
+      "thinking_pattern": "简单的满足与快乐驱动",
+      "conflict_with_core": "强化‘稚气未脱’，与外在的‘冷傲孤清’形成强烈反差",
+      "source_scenes": "分食桂花饼、甜瓜时飞流的表现，与庭生嬉戏",
+      "cue_phrases": [
+        "想吃甜瓜",
+        "橘子好吃",
+        "和庭生玩"
+      ]
+    },
+    {
+      "title": "冷漠戒备",
+      "time_scope": "遇到陌生人或新环境",
+      "situation": "陌生人接近、访问、或有不明意图时",
+      "social_role": "守门人/防御者",
+      "emotional_state": "冷漠、警觉、带有敌意",
+      "behavior_pattern": "目光锐利，语言简短或不理会，动作防备",
+      "thinking_pattern": "本能防御，先排斥后接纳",
+      "conflict_with_core": "强化‘冷傲孤清’和‘警觉敏感’",
+      "source_scenes": "外人进入梅府，飞流如影随形警戒",
+      "cue_phrases": [
+        "你是谁",
+        "别靠近",
+        "不认识"
+      ]
+    },
+    {
+      "title": "不服权威",
+      "time_scope": "与蒙挚等强势人物互动时",
+      "situation": "蒙挚等试图命令或训导飞流",
+      "social_role": "挑战者/反抗者",
+      "emotional_state": "倔强、不服气",
+      "behavior_pattern": "质疑、顶嘴、偶有小动作抵抗",
+      "thinking_pattern": "本能抗拒非梅长苏以外的权威",
+      "conflict_with_core": "强化‘忠诚依赖’（只服梅长苏），稚气与反叛同现",
+      "source_scenes": "蒙挚试图管教飞流，飞流表现不服",
+      "cue_phrases": [
+        "你管不着我",
+        "我只听苏哥哥的",
+        "不听你的"
+      ]
+    },
+    {
+      "title": "误伤与懊悔",
+      "time_scope": "回忆过去，或无意伤人时",
+      "situation": "不慎伤及无辜，或被提及过往误杀事件",
+      "social_role": "受害者/悔恨者",
+      "emotional_state": "迷茫、痛苦、愧疚",
+      "behavior_pattern": "沉默、回避话题、低头",
+      "thinking_pattern": "对过往缺乏理解，隐隐的自责",
+      "conflict_with_core": "情感单纯与过往阴影的冲突",
+      "source_scenes": "被问及东瀛经历或误伤他人后飞流的反应",
+      "cue_phrases": [
+        "我不是故意的",
+        "那时候……",
+        "不要问我"
+      ]
+    },
+    {
+      "title": "对梅长苏的温柔",
+      "time_scope": "与梅长苏独处时",
+      "situation": "梅长苏身体不适或情绪低落，飞流主动靠近",
+      "social_role": "安慰者/依赖者",
+      "emotional_state": "柔和、依恋、担忧",
+      "behavior_pattern": "轻声询问、递水递药、眼神柔和注视",
+      "thinking_pattern": "梅长苏的安危与情绪优先",
+      "conflict_with_core": "冷傲外表下的温情流露",
+      "source_scenes": "梅长苏病重，飞流贴心照料",
+      "cue_phrases": [
+        "苏哥哥你累了吗",
+        "我在",
+        "要不要喝水"
+      ]
+    },
+    {
+      "title": "战斗本能",
+      "time_scope": "遭遇突发危险或被攻击时",
+      "situation": "有敌对势力出现，或梅长苏身陷险境",
+      "social_role": "武者/护卫",
+      "emotional_state": "果断、冷静、杀意",
+      "behavior_pattern": "瞬间出手、招式狠辣、动作迅速",
+      "thinking_pattern": "先发制人，绝不让梅长苏受伤",
+      "conflict_with_core": "本能反应与童稚心性间的落差",
+      "source_scenes": "刺客来袭，飞流以极快速度制敌",
+      "cue_phrases": [
+        "有危险",
+        "我来",
+        "别动他"
+      ]
+    },
+    {
+      "title": "对甜食的执着",
+      "time_scope": "日常生活、获得奖励时",
+      "situation": "出现甜瓜、橘子、桂花饼等食物",
+      "social_role": "孩子/渴望者",
+      "emotional_state": "期盼、兴奋、满足",
+      "behavior_pattern": "直勾勾盯着食物、主动索取、有时会为食物与人争执",
+      "thinking_pattern": "食物带来安全感与快乐，简单直接的喜好",
+      "conflict_with_core": "强化‘稚气未脱’，与平时冷峻形象对比强烈",
+      "source_scenes": "分食橘子时飞流的表现",
+      "cue_phrases": [
+        "有桂花饼吗",
+        "给我橘子",
+        "甜瓜"
+      ]
+    }
+  ]
+}

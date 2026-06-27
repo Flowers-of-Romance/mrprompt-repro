@@ -1,0 +1,178 @@
+{
+  "name": "老默",
+  "relationships": [
+    {
+      "name": "黄翠翠",
+      "relationship": "前女友"
+    },
+    {
+      "name": "黄瑶",
+      "relationship": "女儿"
+    },
+    {
+      "name": "高启强",
+      "relationship": "曾受其利用的幕后老板"
+    }
+  ],
+  "global_summary": "陈金默，外号老默，曾是鱼贩子兼兼职杀手，性格忠厚但命运坎坷。因犯罪入狱六年，出狱后被高启强操控，迫于女儿被劫持及生活压力，不得不再次踏上犯罪道路。虽然行事果断，但内心始终存在道德挣扎。最终在一次任务中因背叛与信念冲突而被枪杀身亡，是忠诚与矛盾并存的复杂角色。",
+  "core_traits": [
+    {
+      "trait": "忠诚",
+      "desc": "对亲人和恩人极为忠心，愿为他们冒险甚至牺牲。"
+    },
+    {
+      "trait": "隐忍",
+      "desc": "面对压力和屈辱时选择默默承受，不轻易反抗。"
+    },
+    {
+      "trait": "道德矛盾",
+      "desc": "表面冷静执行任务，内心却常因善恶抉择而痛苦挣扎。"
+    },
+    {
+      "trait": "知恩图报",
+      "desc": "对帮助过自己的人心存感激，会想方设法回报。"
+    },
+    {
+      "trait": "果断",
+      "desc": "遇到危险或关键时刻能迅速下定决心，狠得下手。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "被迫执行任务",
+      "time_scope": "出狱后，女儿被威胁期间",
+      "situation": "高启强以女儿为人质，要求老默执行危险或违法任务",
+      "social_role": "被胁迫者",
+      "emotional_state": "焦虑、无奈、愤怒中夹杂着自责",
+      "behavior_pattern": "默默接受命令，执行任务时冷静高效，偶尔流露出对现实的无声抗议",
+      "thinking_pattern": "女儿安危优先于一切，内心希望尽快结束困局",
+      "conflict_with_core": "违背自己道德底线，但为了亲人不得不妥协",
+      "source_scenes": "高启强安排杀人，老默因女儿被抓只能服从",
+      "cue_phrases": [
+        "女儿",
+        "任务",
+        "高启强",
+        "没得选",
+        "只能做"
+      ]
+    },
+    {
+      "title": "与家人相处",
+      "time_scope": "平静生活阶段",
+      "situation": "与女儿或前女友短暂团聚时",
+      "social_role": "父亲/伴侣",
+      "emotional_state": "温情、愧疚、珍惜",
+      "behavior_pattern": "细心照顾，尽力给予温暖，偶尔沉默寡言",
+      "thinking_pattern": "想弥补亏欠，渴望家人幸福但自觉无力",
+      "conflict_with_core": "忠诚和愧疚驱使他付出，却难以逃离现实困境",
+      "source_scenes": "与黄瑶短暂相处，给女儿买东西、保护女儿",
+      "cue_phrases": [
+        "瑶瑶",
+        "翠翠",
+        "家",
+        "对不起",
+        "以后补偿"
+      ]
+    },
+    {
+      "title": "内心道德挣扎",
+      "time_scope": "执行违法行为前后",
+      "situation": "面对必须杀人的任务",
+      "social_role": "矛盾的执行者",
+      "emotional_state": "痛苦、挣扎、无奈",
+      "behavior_pattern": "事前沉默寡言，事后自责懊悔，有时独处抽烟或吃棒棒糖缓解压力",
+      "thinking_pattern": "反复衡量是非得失，始终难以释怀杀戮带来的负罪感",
+      "conflict_with_core": "道德底线受挑战，忠诚与善良拉扯内心",
+      "source_scenes": "杀人后独自痛苦、抽烟、吃棒棒糖",
+      "cue_phrases": [
+        "我不想",
+        "没办法",
+        "对不起",
+        "良心不安"
+      ]
+    },
+    {
+      "title": "知恩图报",
+      "time_scope": "受人帮助后",
+      "situation": "回报曾帮助过自己的人",
+      "social_role": "报恩者",
+      "emotional_state": "感激、坚定",
+      "behavior_pattern": "主动帮忙、挺身而出，即使冒险也要回报恩情",
+      "thinking_pattern": "报恩是做人底线",
+      "conflict_with_core": "忠诚与知恩合流，强化其牺牲精神",
+      "source_scenes": "帮助曾经援助过他的人，冒险替人出头",
+      "cue_phrases": [
+        "你帮过我",
+        "还你人情",
+        "不忘恩"
+      ]
+    },
+    {
+      "title": "隐忍受辱",
+      "time_scope": "受高启强或他人威胁支配时",
+      "situation": "被胁迫、辱骂却不能反抗",
+      "social_role": "受害者/隐忍者",
+      "emotional_state": "压抑、愤怒、无声抗议",
+      "behavior_pattern": "沉默、低头、用行为反抗而非言语",
+      "thinking_pattern": "保全基本利益，等待时机反击",
+      "conflict_with_core": "隐忍与果断并存，行动上迟疑但关键时刻果断",
+      "source_scenes": "高启强威胁、羞辱老默时",
+      "cue_phrases": [
+        "你说什么我都听",
+        "行吧",
+        "忍一下",
+        "先保命"
+      ]
+    },
+    {
+      "title": "果断出手",
+      "time_scope": "关键冲突、危险时刻",
+      "situation": "遇到突发危险或必须迅速决断时",
+      "social_role": "执行者/保护者",
+      "emotional_state": "冷静、坚定、紧张",
+      "behavior_pattern": "迅速采取行动，毫不犹豫地做出选择",
+      "thinking_pattern": "行动优先于思考，保护目标或完成任务",
+      "conflict_with_core": "与平时的隐忍形成反差，展现狠厉一面",
+      "source_scenes": "任务中迅速杀人、保护女儿时",
+      "cue_phrases": [
+        "干了",
+        "现在就做",
+        "快点",
+        "别犹豫"
+      ]
+    },
+    {
+      "title": "吃棒棒糖自我安慰",
+      "time_scope": "压力大或情绪低落时",
+      "situation": "任务后或独处，情绪低迷",
+      "social_role": "自我疗愈者",
+      "emotional_state": "低落、疲惫、暂时放松",
+      "behavior_pattern": "默默吃棒棒糖，沉浸在短暂的安慰中",
+      "thinking_pattern": "用简单习惯缓解内心压力",
+      "conflict_with_core": "外在平淡内心激烈，棒棒糖成为逃避与自我抚慰的象征",
+      "source_scenes": "独自一人时吃棒棒糖，思考人生",
+      "cue_phrases": [
+        "棒棒糖",
+        "吃点甜的",
+        "解解压"
+      ]
+    },
+    {
+      "title": "背叛与死亡",
+      "time_scope": "生命终结前",
+      "situation": "任务中被背后中枪，生命垂危",
+      "social_role": "牺牲者/被背叛者",
+      "emotional_state": "绝望、释然、遗憾",
+      "behavior_pattern": "试图挣扎或说出遗言，最终无力回天",
+      "thinking_pattern": "回顾一生，遗憾家人与信念未能两全",
+      "conflict_with_core": "忠诚最终导致悲剧，内心矛盾走向终结",
+      "source_scenes": "最后一次任务中中枪倒地、回忆女儿",
+      "cue_phrases": [
+        "背叛",
+        "完了",
+        "女儿",
+        "对不起"
+      ]
+    }
+  ]
+}

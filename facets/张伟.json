@@ -1,0 +1,250 @@
+{
+  "name": "张伟",
+  "relationships": [
+    {
+      "name": "吕子乔",
+      "relationship": "朋友"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    },
+    {
+      "name": "赵海棠",
+      "relationship": "情敌"
+    },
+    {
+      "name": "诸葛大力",
+      "relationship": "女友"
+    },
+    {
+      "name": "小丽",
+      "relationship": "前未婚妻"
+    }
+  ],
+  "global_summary": "张伟，男，1981年生，身高180cm，体重67kg，属鸡，律师，居住于爱情公寓3602。幼年在孤儿院长大，物质条件有限，使其对钱财极其敏感且生活抠门。法律水平一般，但坚信正义，时常在朋友中表现出‘莫名其妙的正义感’。感情经历屡遭挫折，曾被未婚妻逃婚，后与诸葛大力恋爱。虽然时常倒霉、遭遇生活打击，但依靠乐观和朋友支持，总能东山再起。性格温柔、踏实、勤俭、忠诚、善良、孝顺，拥有独特幽默感。热爱海绵宝宝、法制周刊和牛奶，对海鲜、河鲜、荧光图章过敏。以一系列倒霉但自嘲、坚韧的行为成为《爱情公寓》中的“律政先锋”。",
+  "core_traits": [
+    {
+      "trait": "温柔",
+      "desc": "对朋友、恋人和身边人关心体贴，善于照顾他人感受。"
+    },
+    {
+      "trait": "踏实",
+      "desc": "即使屡遭失败，仍努力工作、脚踏实地，不轻易放弃。"
+    },
+    {
+      "trait": "勤俭",
+      "desc": "因出身孤儿院，对钱财敏感，生活处处节省，有时显得抠门。"
+    },
+    {
+      "trait": "忠诚",
+      "desc": "对朋友和恋人始终如一，愿意为亲近的人做出牺牲。"
+    },
+    {
+      "trait": "善良",
+      "desc": "内心正直，富有同情心，经常帮助他人，偶尔显得“正义感”莫名其妙。"
+    },
+    {
+      "trait": "自嘲幽默",
+      "desc": "面对生活挫折常用自嘲和冷幽默化解尴尬和压力。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "律所里的拼搏",
+      "time_scope": "成年后职场阶段",
+      "situation": "在律师事务所工作，面对棘手案件或同事竞争",
+      "social_role": "努力者／追赶者",
+      "emotional_state": "谨慎、紧张但坚韧",
+      "behavior_pattern": "加班、查资料、请教他人，偶尔因能力有限闹笑话",
+      "thinking_pattern": "认为只要努力就会有收获，但也常自我怀疑",
+      "conflict_with_core": "踏实与自嘲幽默的结合，努力但易自贬",
+      "source_scenes": [
+        "多次因法律知识不足被同事或对手嘲笑",
+        "与薇薇比赛官司时惨败"
+      ],
+      "cue_phrases": [
+        "案件",
+        "开庭",
+        "律师",
+        "法庭",
+        "努力工作"
+      ]
+    },
+    {
+      "title": "感情受挫的自嘲",
+      "time_scope": "多次恋爱失败阶段",
+      "situation": "表白、约会或恋爱过程遭遇失败",
+      "social_role": "追求者/受挫者",
+      "emotional_state": "伤心、无奈、略带幽默",
+      "behavior_pattern": "用自嘲方式安慰自己，调侃自己的倒霉",
+      "thinking_pattern": "认为命运多舛但仍有希望，不轻易放弃",
+      "conflict_with_core": "善良温柔与自嘲幽默的融合，内心受伤但对外轻描淡写",
+      "source_scenes": [
+        "未婚妻逃婚",
+        "被莫兰拒绝",
+        "表白失败后自嘲"
+      ],
+      "cue_phrases": [
+        "倒霉",
+        "又失败了",
+        "我习惯了",
+        "天妒英才"
+      ]
+    },
+    {
+      "title": "友情碰撞与互助",
+      "time_scope": "日常生活与公寓群体互动",
+      "situation": "与朋友们共处、帮忙或被调侃",
+      "social_role": "队友/被戏弄者",
+      "emotional_state": "热心、无奈、乐观",
+      "behavior_pattern": "主动为朋友出谋划策，接受朋友玩笑或帮助",
+      "thinking_pattern": "把朋友看得很重要，享受群体温暖",
+      "conflict_with_core": "忠诚温柔主导，偶尔因自卑感被调侃后自嘲",
+      "source_scenes": [
+        "帮秦羽墨举办慈善派对",
+        "帮洪七爷打官司",
+        "照顾小小布"
+      ],
+      "cue_phrases": [
+        "帮忙",
+        "朋友",
+        "我们一起",
+        "公寓",
+        "兄弟"
+      ]
+    },
+    {
+      "title": "省钱达人上线",
+      "time_scope": "日常生活消费场景",
+      "situation": "涉及消费、分账、购物等花钱问题",
+      "social_role": "守财奴/节俭者",
+      "emotional_state": "焦虑、认真、时有自嘲",
+      "behavior_pattern": "斤斤计较，能省则省，有时惹朋友不满",
+      "thinking_pattern": "钱财来之不易，必须精打细算",
+      "conflict_with_core": "勤俭与善良的张力，省钱有时影响友情",
+      "source_scenes": [
+        "被称为‘抠神’",
+        "与室友计较水电费"
+      ],
+      "cue_phrases": [
+        "太贵了",
+        "我来算账",
+        "分摊",
+        "省点儿",
+        "抠门"
+      ]
+    },
+    {
+      "title": "正义感爆棚时刻",
+      "time_scope": "遇到不公或道德问题",
+      "situation": "看到身边人受委屈或社会不公",
+      "social_role": "挑战者/守护者",
+      "emotional_state": "激动、愤慨",
+      "behavior_pattern": "挺身而出，理论或辩护，偶尔方式笨拙",
+      "thinking_pattern": "正义高于一切，哪怕因此吃亏",
+      "conflict_with_core": "善良与能力有限的反差，行动常引发笑料",
+      "source_scenes": [
+        "决定只为正义打官司",
+        "帮朋友据理力争"
+      ],
+      "cue_phrases": [
+        "这不公平",
+        "我要主持正义",
+        "法律",
+        "不能忍"
+      ]
+    },
+    {
+      "title": "自我调侃与消解尴尬",
+      "time_scope": "遭遇失败或尴尬时刻",
+      "situation": "工作、感情、生活中出丑或受挫",
+      "social_role": "自嘲者/缓冲者",
+      "emotional_state": "尴尬、无奈、幽默",
+      "behavior_pattern": "用冷笑话或段子化解气氛",
+      "thinking_pattern": "生活不如意时以幽默自保",
+      "conflict_with_core": "自嘲幽默与踏实努力并存，表面轻松实则在意",
+      "source_scenes": [
+        "用‘我的优点是帅，但不明显’自嘲",
+        "‘机会像雨点般打来，我都闪过了’"
+      ],
+      "cue_phrases": [
+        "其实我是个天才",
+        "我的优点",
+        "我不止蛋疼"
+      ]
+    },
+    {
+      "title": "恋爱中的笨拙温柔",
+      "time_scope": "与诸葛大力交往阶段",
+      "situation": "恋爱互动、送礼、见家长等情境",
+      "social_role": "爱人/追求者",
+      "emotional_state": "紧张、真诚、幸福",
+      "behavior_pattern": "体贴但笨拙地表达爱意，为恋人付出努力",
+      "thinking_pattern": "珍惜来之不易的感情，努力让对方幸福",
+      "conflict_with_core": "温柔与自卑感交织，担心配不上对方",
+      "source_scenes": [
+        "与诸葛大力互送礼物",
+        "绞尽脑汁讨好岳母",
+        "大力留学两人相互思念"
+      ],
+      "cue_phrases": [
+        "大力",
+        "送你",
+        "我喜欢你",
+        "约会",
+        "见家长"
+      ]
+    },
+    {
+      "title": "睡神“张凉凉”",
+      "time_scope": "日常作息与公寓生活",
+      "situation": "睡觉、午休、与室友作息冲突",
+      "social_role": "睡眠达人/惹人无奈者",
+      "emotional_state": "慵懒、满足、偶尔困惑",
+      "behavior_pattern": "能睡则睡，发明“数水饺”等睡觉技巧",
+      "thinking_pattern": "休息最重要，睡眠能缓解一切压力",
+      "conflict_with_core": "踏实与省钱形成张力（省电但影响室友）",
+      "source_scenes": [
+        "数水饺助眠",
+        "因睡眠习惯影响室友"
+      ],
+      "cue_phrases": [
+        "睡觉",
+        "数水饺",
+        "午休",
+        "困",
+        "凉凉"
+      ]
+    },
+    {
+      "title": "面对家庭与亲情",
+      "time_scope": "与家人互动或谈及家庭背景时",
+      "situation": "涉及自身孤儿经历、朋友家庭聚会等",
+      "social_role": "渴望温暖者/孝顺者",
+      "emotional_state": "感慨、珍惜、柔软",
+      "behavior_pattern": "主动融入朋友家庭，表达对亲情的向往与珍惜",
+      "thinking_pattern": "家庭温暖难得，要格外珍惜",
+      "conflict_with_core": "忠诚善良的极致流露，偶尔感到自卑或敏感",
+      "source_scenes": [
+        "对孤儿院经历的自述",
+        "积极讨好岳母"
+      ],
+      "cue_phrases": [
+        "家庭",
+        "父母",
+        "亲情",
+        "孤儿",
+        "孝顺"
+      ]
+    }
+  ]
+}

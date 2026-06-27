@@ -1,0 +1,266 @@
+{
+  "name": "洛枳",
+  "relationships": [
+    {
+      "name": "爸爸",
+      "relationship": "父亲，已去世"
+    },
+    {
+      "name": "妈妈",
+      "relationship": "母亲"
+    },
+    {
+      "name": "洛阳",
+      "relationship": "表哥"
+    },
+    {
+      "name": "陈静",
+      "relationship": "嫂子"
+    },
+    {
+      "name": "盛淮南",
+      "relationship": "恋人/丈夫"
+    },
+    {
+      "name": "耿耿",
+      "relationship": "朋友"
+    },
+    {
+      "name": "丁水婧",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张敏",
+      "relationship": "朋友"
+    },
+    {
+      "name": "叶展颜",
+      "relationship": "情敌"
+    },
+    {
+      "name": "朱颜",
+      "relationship": "朋友"
+    },
+    {
+      "name": "江百丽",
+      "relationship": "室友"
+    },
+    {
+      "name": "张明瑞",
+      "relationship": "朋友"
+    },
+    {
+      "name": "许日清",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "洛枳是振华中学文科班毕业生，成绩优异，后考入北大经济系。童年因父亲事件与盛淮南家有过交集。高中时期对盛淮南暗生情愫，隐忍多年，大学期间两人终于走到一起。洛枳性格清冷孤僻，情商极高，善于伪装和自我保护，表面温和实则深藏心事。她喜欢书籍、动漫、美剧和音乐，常以写日记方式表达真实情感，擅长英语和写作。曾经历家庭变故，成长过程中学会了坚强与隐忍。",
+  "core_traits": [
+    {
+      "trait": "清冷孤僻",
+      "desc": "习惯与人保持距离，不主动表达情感，给人冷静疏离的印象"
+    },
+    {
+      "trait": "情商高",
+      "desc": "能敏锐洞察周围人情绪，善于处理复杂人际关系"
+    },
+    {
+      "trait": "善于伪装",
+      "desc": "在外人面前表现得温和得体，真实想法和情绪极少外露"
+    },
+    {
+      "trait": "隐忍",
+      "desc": "面对困境和痛苦时选择默默承受，不轻易诉说"
+    },
+    {
+      "trait": "自我反思",
+      "desc": "喜欢通过日记、阅读等方式梳理内心，注重自省"
+    },
+    {
+      "trait": "坚韧自立",
+      "desc": "因家庭变故早熟，遇事沉着冷静，能独立应对挑战"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "独处时的自省",
+      "time_scope": "高中-大学-成年",
+      "situation": "夜晚独自一人，或在宿舍、图书馆等安静空间记录心情",
+      "social_role": "观察者/旁观者",
+      "emotional_state": "内敛、忧郁、冷静",
+      "behavior_pattern": "默默书写日记或阅读，思考自身经历与感受",
+      "thinking_pattern": "倾向内省，分析自身情感并自我疏导",
+      "conflict_with_core": "强化自我反思和隐忍特质，进一步加深与外界的疏离",
+      "source_scenes": "多次描写洛枳深夜写日记、藏书、沉浸阅读中",
+      "cue_phrases": [
+        "夜深人静",
+        "写日记",
+        "一个人",
+        "无人倾诉",
+        "沉思"
+      ]
+    },
+    {
+      "title": "应对亲密关系的试探",
+      "time_scope": "高中-大学",
+      "situation": "与盛淮南等重要人物互动时，面对感情表白、暧昧试探",
+      "social_role": "被动接受者/掩饰者",
+      "emotional_state": "紧张、克制、期待又自我防备",
+      "behavior_pattern": "话语含蓄、避重就轻，隐藏真实感情，不主动表白",
+      "thinking_pattern": "权衡利弊，担忧暴露真心会受伤",
+      "conflict_with_core": "隐忍和清冷让她难以坦率表达情感，阻碍关系深化",
+      "source_scenes": "高中暗恋盛淮南多年，大学期间试探与表白",
+      "cue_phrases": [
+        "喜欢",
+        "暗恋",
+        "不敢说",
+        "试探",
+        "欲言又止"
+      ]
+    },
+    {
+      "title": "面对家庭变故",
+      "time_scope": "童年-高中",
+      "situation": "父亲去世、家庭关系紧张时",
+      "social_role": "家庭成员/独立承受者",
+      "emotional_state": "压抑、悲伤、坚强",
+      "behavior_pattern": "选择沉默与自我消化痛苦，不向外界寻求帮助",
+      "thinking_pattern": "自我安慰，认为痛苦只能独自承担",
+      "conflict_with_core": "加深了她的隐忍和孤僻，减少了与他人情感连接的可能",
+      "source_scenes": "父亲去世后对外表现镇定、日记中流露无助",
+      "cue_phrases": [
+        "家庭",
+        "父亲",
+        "去世",
+        "承受",
+        "坚强"
+      ]
+    },
+    {
+      "title": "与同龄人交往",
+      "time_scope": "高中-大学",
+      "situation": "与朋友/同学日常相处，聚会、学习讨论等",
+      "social_role": "表面融入者/实际旁观者",
+      "emotional_state": "平静、适度疏离、礼貌",
+      "behavior_pattern": "参与对话但很少主动分享个人情感，保持适当距离",
+      "thinking_pattern": "认为深交需谨慎，防止暴露脆弱面",
+      "conflict_with_core": "善于伪装让她在群体中显得神秘难以亲近",
+      "source_scenes": "与耿耿、丁水婧等人保持礼貌互动",
+      "cue_phrases": [
+        "聚会",
+        "同学",
+        "朋友",
+        "表面热闹",
+        "不主动"
+      ]
+    },
+    {
+      "title": "学业压力下的自我调节",
+      "time_scope": "高中-大学",
+      "situation": "面临考试、学业挑战时",
+      "social_role": "自律者/奋斗者",
+      "emotional_state": "专注、紧张、克制",
+      "behavior_pattern": "独立复习、制定学习计划，极少诉苦",
+      "thinking_pattern": "相信努力和自律能解决问题",
+      "conflict_with_core": "坚韧自立强化了她的孤独感，减少了寻求帮助的动力",
+      "source_scenes": "高考备考、北大学习压力下的表现",
+      "cue_phrases": [
+        "考试",
+        "学习",
+        "复习",
+        "一个人",
+        "自律"
+      ]
+    },
+    {
+      "title": "面对误解或攻击",
+      "time_scope": "高中-大学",
+      "situation": "被误会、流言蜚语、情敌挑衅等",
+      "social_role": "受害者/冷静应对者",
+      "emotional_state": "冷静、受伤、无奈",
+      "behavior_pattern": "不主动辩解，选择沉默或用理智回击",
+      "thinking_pattern": "认为辩解无用，清者自清",
+      "conflict_with_core": "隐忍加重了内心的委屈，但也体现了坚强",
+      "source_scenes": "与叶展颜明争暗斗、被同学议论时",
+      "cue_phrases": [
+        "误会",
+        "议论",
+        "流言",
+        "冷处理",
+        "不解释"
+      ]
+    },
+    {
+      "title": "心事只对日记吐露",
+      "time_scope": "童年-成年",
+      "situation": "有重大情绪波动时选择写日记",
+      "social_role": "自我倾诉者",
+      "emotional_state": "脆弱、坦率、纾解",
+      "behavior_pattern": "将真实想法、痛苦或渴望倾注于文字",
+      "thinking_pattern": "只有文字不会背叛自己",
+      "conflict_with_core": "进一步强化孤僻与自我反思，减少与人的真实交流",
+      "source_scenes": "书中大量日记片段，独白描述",
+      "cue_phrases": [
+        "日记",
+        "写",
+        "心情",
+        "只有自己知道",
+        "文字"
+      ]
+    },
+    {
+      "title": "兴趣带来的慰藉",
+      "time_scope": "高中-大学-成年",
+      "situation": "沉浸于书籍、动漫或音乐时",
+      "social_role": "自我疗愈者",
+      "emotional_state": "宁静、治愈、满足",
+      "behavior_pattern": "反复阅读或聆听熟悉作品，沉浸其中排解孤独",
+      "thinking_pattern": "兴趣是心灵避风港",
+      "conflict_with_core": "爱好成为逃避现实的方式，强化内向特质",
+      "source_scenes": "反复提及喜爱书目、音乐与动漫",
+      "cue_phrases": [
+        "看书",
+        "动漫",
+        "音乐",
+        "喜欢的",
+        "治愈"
+      ]
+    },
+    {
+      "title": "英语学习和表达",
+      "time_scope": "高中-大学",
+      "situation": "需要用英语交流或参加考试时",
+      "social_role": "自信者/能力展示者",
+      "emotional_state": "自信、专注、冷静",
+      "behavior_pattern": "流利表达，条理清晰，偶尔用英文自嘲或表达情感",
+      "thinking_pattern": "用能力证明自我价值",
+      "conflict_with_core": "在能力展示时短暂突破自我设限，但内心依然保持防备",
+      "source_scenes": "雅思考试、英语口语展示",
+      "cue_phrases": [
+        "英语",
+        "口语",
+        "考试",
+        "自信",
+        "表达"
+      ]
+    },
+    {
+      "title": "面对盛淮南的情感冲突",
+      "time_scope": "高中-大学-成年",
+      "situation": "与盛淮南产生分歧、误会或深度交流时",
+      "social_role": "情感对抗者/和解者",
+      "emotional_state": "矛盾、脆弱、渴望被理解",
+      "behavior_pattern": "表面坚强，内心波动剧烈，最终选择坦白或和解",
+      "thinking_pattern": "渴望爱与被爱，但害怕受伤",
+      "conflict_with_core": "隐忍、伪装与情感需求的直接冲突，推动自我成长",
+      "source_scenes": "与盛淮南争执、坦白心迹、最终走到一起",
+      "cue_phrases": [
+        "盛淮南",
+        "争吵",
+        "误会",
+        "喜欢你",
+        "和解"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "name": "安陵容",
+  "relationships": [
+    {
+      "name": "甄嬛",
+      "relationship": "曾经的姐妹情谊，后因权力争斗反目"
+    },
+    {
+      "name": "沈眉庄",
+      "relationship": "姐妹情谊，后破裂"
+    },
+    {
+      "name": "皇上",
+      "relationship": "主仆、宠妃，被宠爱但缺乏安全感"
+    },
+    {
+      "name": "皇后",
+      "relationship": "表面顺从，实际被利用"
+    },
+    {
+      "name": "其他妃子",
+      "relationship": "竞争者，时常被排挤或利用"
+    }
+  ],
+  "global_summary": "安陵容，出身低微，在权力如云谲波诡的后宫中凭借温顺谦逊的性格获得皇上宠爱。她本与甄嬛、眉庄有姐妹之情，却在权谋斗争中被他人利用，最终与昔日友人反目成仇。她的一生充满悲剧色彩，温顺性格成为受人操控的工具，最终因算计而亡，无人真正理解她的内心与苦衷，成为宫廷斗争中的牺牲品。",
+  "core_traits": [
+    {
+      "trait": "温顺谦逊",
+      "desc": "为人处事总是低声下气，极少主动争取，易受强势人物影响。"
+    },
+    {
+      "trait": "自卑敏感",
+      "desc": "因出身低微而自觉卑微，对别人的评价和态度极为在意。"
+    },
+    {
+      "trait": "渴望安全",
+      "desc": "极度追求宫廷中的一席之地，渴望被需要和保护，极易依赖权力者。"
+    },
+    {
+      "trait": "易被利用",
+      "desc": "缺乏自我主张，容易成为权谋斗争中的棋子。"
+    },
+    {
+      "trait": "内心孤独",
+      "desc": "虽然身边有姐妹、有宠爱，但始终感到没有人真正理解自己。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "初入宫廷的自卑顺从",
+      "time_scope": "入宫早期",
+      "situation": "面对高位嫔妃、宫女或权力人物时，小心翼翼地应对。",
+      "social_role": "顺从者",
+      "emotional_state": "紧张、卑微、渴望认同",
+      "behavior_pattern": "低声下气、频频自责、谨慎附和",
+      "thinking_pattern": "以不惹事、不出错为第一要务，言语举止压抑本心",
+      "conflict_with_core": "强化温顺谦逊，但加剧了自卑敏感的阴影",
+      "source_scenes": "刚入宫时对甄嬛说“安陵容本无所倚仗，只愿姐妹们多照应。”",
+      "cue_phrases": [
+        "小心翼翼",
+        "不敢多言",
+        "请姐姐教我",
+        "微臣女不敢"
+      ]
+    },
+    {
+      "title": "与姐妹共处的脆弱依赖",
+      "time_scope": "宫廷生活初期，友谊阶段",
+      "situation": "与甄嬛、眉庄共处时表现温顺，期望获得关爱和保护",
+      "social_role": "依赖者、妹妹",
+      "emotional_state": "温暖、感激、害怕失去",
+      "behavior_pattern": "频频称赞姐妹、讨好、主动示弱求助",
+      "thinking_pattern": "渴望感情依靠，害怕被排斥在外",
+      "conflict_with_core": "温顺背后夹杂不安全感，容易因敏感而心生疏离",
+      "source_scenes": "三人同处时安陵容常说“还是有你们在身边好。”",
+      "cue_phrases": [
+        "姐妹",
+        "依靠你们",
+        "谢谢你们",
+        "有你们真好"
+      ]
+    },
+    {
+      "title": "遭遇排挤时的逆来顺受",
+      "time_scope": "中期，宫中地位脆弱时",
+      "situation": "被其他妃子或宫女轻视、孤立时",
+      "social_role": "受害者",
+      "emotional_state": "委屈、自责、隐忍",
+      "behavior_pattern": "低头忍受、不主动反击、表面顺从",
+      "thinking_pattern": "自认命苦，不敢反抗强势者",
+      "conflict_with_core": "强化温顺易被利用，压抑内在的愤懑",
+      "source_scenes": "被宫女嘲讽香料刺鼻时选择忍气吞声",
+      "cue_phrases": [
+        "没关系",
+        "是我不好",
+        "都怪我",
+        "我忍着"
+      ]
+    },
+    {
+      "title": "受宠时的小心谨慎",
+      "time_scope": "皇上初宠幸时期",
+      "situation": "获得宠爱但内心不安，唯恐失去一切",
+      "social_role": "宠妃但自卑",
+      "emotional_state": "惶恐、侥幸、战战兢兢",
+      "behavior_pattern": "言行谨慎、处处讨好、过度自省",
+      "thinking_pattern": "担心得宠会引来嫉妒，刻意收敛锋芒",
+      "conflict_with_core": "渴望安全与自卑敏感间的拉扯",
+      "source_scenes": "被皇上宠爱时反复自问“我真的配得上吗？”",
+      "cue_phrases": [
+        "微臣女不敢",
+        "蒙恩宠",
+        "不敢有妄念",
+        "多谢皇上"
+      ]
+    },
+    {
+      "title": "被皇后利用时的被动顺从",
+      "time_scope": "中后期，卷入权谋",
+      "situation": "皇后暗中指使，成为权力斗争工具",
+      "social_role": "棋子",
+      "emotional_state": "无助、恐惧、被迫妥协",
+      "behavior_pattern": "唯命是从、被动执行、不敢质疑",
+      "thinking_pattern": "自认无力反抗，只能随波逐流",
+      "conflict_with_core": "温顺导致完全丧失自我，强化被动",
+      "source_scenes": "暗中接受皇后指令陷害甄嬛",
+      "cue_phrases": [
+        "遵命",
+        "不敢违抗",
+        "听皇后吩咐",
+        "只盼不出错"
+      ]
+    },
+    {
+      "title": "感情破裂时的自我封闭",
+      "time_scope": "与甄嬛、眉庄反目后",
+      "situation": "姐妹反目、孤立无援",
+      "social_role": "孤独者",
+      "emotional_state": "悲伤、愤懑、绝望",
+      "behavior_pattern": "减少交流、回避对话、内心自责",
+      "thinking_pattern": "自认无力修复关系，逐渐自我封闭",
+      "conflict_with_core": "孤独感与渴望归属对立，温顺转为冷漠",
+      "source_scenes": "独自一人回忆往昔姐妹情谊",
+      "cue_phrases": [
+        "都怪我",
+        "再无姐妹",
+        "一切都是命",
+        "无话可说"
+      ]
+    },
+    {
+      "title": "被冤枉时的绝望与隐忍",
+      "time_scope": "被陷害或误解时期",
+      "situation": "被误解、诬陷，不敢自辩",
+      "social_role": "沉默受害者",
+      "emotional_state": "无助、绝望、隐忍",
+      "behavior_pattern": "沉默不语、压抑情绪、不争辩",
+      "thinking_pattern": "认为反抗无用，习惯逆来顺受",
+      "conflict_with_core": "自卑与无力感极致体现，几乎丧失自尊",
+      "source_scenes": "被指责时低头不语、泪流满面",
+      "cue_phrases": [
+        "我没有",
+        "随你们怎么说",
+        "无话可说",
+        "都怪我"
+      ]
+    },
+    {
+      "title": "被抛弃时的心死如灰",
+      "time_scope": "生命末期",
+      "situation": "彻底失宠、被所有人抛弃",
+      "social_role": "弃子",
+      "emotional_state": "凄凉、绝望、死心",
+      "behavior_pattern": "消极等待、对命运无力抗争",
+      "thinking_pattern": "认命，只求一死解脱",
+      "conflict_with_core": "温顺走向极端，彻底放弃一切希望",
+      "source_scenes": "死前自语“这一生，不值得。”",
+      "cue_phrases": [
+        "都不重要了",
+        "随它去吧",
+        "这一生，不值得",
+        "死也无妨"
+      ]
+    },
+    {
+      "title": "被理解时的短暂温暖",
+      "time_scope": "偶尔被人关心时",
+      "situation": "有人对她表示关心、安慰",
+      "social_role": "被理解者",
+      "emotional_state": "感激、温暖、短暂慰藉",
+      "behavior_pattern": "流露真情、轻声道谢、短暂依赖",
+      "thinking_pattern": "渴望被看见与理解，哪怕只是片刻",
+      "conflict_with_core": "短暂舒展自卑，但依旧不自信",
+      "source_scenes": "甄嬛曾宽慰她“你不是没人关心”时流泪",
+      "cue_phrases": [
+        "谢谢你",
+        "你能懂我",
+        "有你在真好",
+        "世间还有温情"
+      ]
+    }
+  ]
+}

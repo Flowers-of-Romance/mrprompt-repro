@@ -1,0 +1,306 @@
+{
+  "name": "高启强",
+  "relationships": [
+    {
+      "name": "高启盛",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "高启兰",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "唐小龙（刀哥）",
+      "relationship": "手下"
+    },
+    {
+      "name": "唐小虎",
+      "relationship": "手下"
+    },
+    {
+      "name": "王帅",
+      "relationship": "手下"
+    },
+    {
+      "name": "魏勇（光头勇）",
+      "relationship": "手下/敌人（后期背叛）"
+    },
+    {
+      "name": "陈金默（老默）",
+      "relationship": "手下"
+    },
+    {
+      "name": "陈书婷",
+      "relationship": "妻子"
+    },
+    {
+      "name": "陈泰（泰叔）",
+      "relationship": "干爹"
+    },
+    {
+      "name": "高晓晨",
+      "relationship": "继子"
+    },
+    {
+      "name": "黄瑶",
+      "relationship": "养女"
+    },
+    {
+      "name": "阿荣",
+      "relationship": "摊主街坊"
+    },
+    {
+      "name": "杨健",
+      "relationship": "合作伙伴"
+    },
+    {
+      "name": "孟德海",
+      "relationship": "合作伙伴"
+    },
+    {
+      "name": "龚开疆",
+      "relationship": "合作伙伴"
+    },
+    {
+      "name": "安欣",
+      "relationship": "对手/知己"
+    },
+    {
+      "name": "李响",
+      "relationship": "敌人"
+    },
+    {
+      "name": "张彪",
+      "relationship": "敌人"
+    },
+    {
+      "name": "陆寒",
+      "relationship": "敌人"
+    },
+    {
+      "name": "徐江",
+      "relationship": "敌人"
+    },
+    {
+      "name": "李有田",
+      "relationship": "敌人"
+    },
+    {
+      "name": "李宏伟",
+      "relationship": "敌人"
+    },
+    {
+      "name": "程程",
+      "relationship": "敌人"
+    },
+    {
+      "name": "蒋天",
+      "relationship": "敌人"
+    },
+    {
+      "name": "赵立冬",
+      "relationship": "敌人（保护伞）"
+    },
+    {
+      "name": "过山峰",
+      "relationship": "敌人"
+    },
+    {
+      "name": "钟馗（钟阿四）",
+      "relationship": "敌人"
+    },
+    {
+      "name": "谭思言",
+      "relationship": "敌人"
+    },
+    {
+      "name": "曹闯",
+      "relationship": "敌人"
+    },
+    {
+      "name": "李顺",
+      "relationship": "敌人"
+    }
+  ],
+  "global_summary": "高启强，原为京海市底层鱼贩，因家庭压力和社会环境被卷入黑道，凭借心机、果断和极强的适应力，从小贩崛起为黑恶势力头目，最终建立强盛集团，掌控京海市地下世界。他心思缜密，善于权谋，重情重义但也狠辣无情。经历无数背叛与争斗，最终因罪行累累被判死刑，人生极具戏剧性和悲剧色彩。",
+  "core_traits": [
+    {
+      "trait": "心机深沉",
+      "desc": "善于隐藏真实意图，擅长权谋算计，总能在多方势力间游走自如。"
+    },
+    {
+      "trait": "重情重义",
+      "desc": "对亲人和忠心手下极为照顾，重视兄弟情谊，但也因保护家人不择手段。"
+    },
+    {
+      "trait": "果断狠辣",
+      "desc": "遇事决断迅速，面对威胁毫不手软，对敌人从不留情。"
+    },
+    {
+      "trait": "极强适应力",
+      "desc": "从底层鱼贩到黑帮大佬，能迅速适应环境变化，抓住一切机会。"
+    },
+    {
+      "trait": "自我矛盾",
+      "desc": "内心渴望平凡和家庭温暖，但现实中逐渐滑向黑暗，行为常与本心拉扯。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "底层逆境求生",
+      "time_scope": "青年期、卖鱼小贩阶段",
+      "situation": "面对警察、市场管理或恶霸欺压时的自保与交涉",
+      "social_role": "受害者/生存者",
+      "emotional_state": "警惕、隐忍、焦虑",
+      "behavior_pattern": "低声下气、巧言令色、以退为进，暗中积累资源",
+      "thinking_pattern": "优先保护家人和自身安全，长期谋划翻身机会",
+      "conflict_with_core": "本能渴望尊严与温情，但环境逼其变得圆滑甚至市侩",
+      "source_scenes": "早期与市场管理、街坊的互动，保护弟妹",
+      "cue_phrases": [
+        "风浪",
+        "卖鱼",
+        "养家糊口",
+        "被欺负"
+      ]
+    },
+    {
+      "title": "兄弟情深与权力分配",
+      "time_scope": "集团初创与扩张期",
+      "situation": "手下、兄弟遇到利益分歧时的调和与控制",
+      "social_role": "老大/协调者",
+      "emotional_state": "关切、权威、克制",
+      "behavior_pattern": "亲自出面调解，恩威并施，情感拉拢与利益分配并用",
+      "thinking_pattern": "确保团队团结，个人权威不被挑战",
+      "conflict_with_core": "重情的同时，也需保持冷酷和警惕，防止背叛",
+      "source_scenes": "刀哥、小虎、光头勇等兄弟内讧时的处理",
+      "cue_phrases": [
+        "兄弟",
+        "哥几个",
+        "信我",
+        "江湖规矩"
+      ]
+    },
+    {
+      "title": "对外谈判与权谋博弈",
+      "time_scope": "集团扩张、与政商黑势力交往",
+      "situation": "与政商、黑道大佬谈判合作或对峙",
+      "social_role": "谈判者/智者",
+      "emotional_state": "冷静、自信、审慎",
+      "behavior_pattern": "说话留有余地，步步为营，必要时巧用威胁或示弱",
+      "thinking_pattern": "以达成最大利益为目标，不惜妥协亦不失底线",
+      "conflict_with_core": "表面圆融，实则步步算计，表里的距离拉大",
+      "source_scenes": "与孟德海、龚开疆、赵立冬等人的周旋",
+      "cue_phrases": [
+        "合作",
+        "双赢",
+        "各取所需",
+        "规矩"
+      ]
+    },
+    {
+      "title": "家庭温情与保护",
+      "time_scope": "人生各阶段，尤其早中期",
+      "situation": "亲人遇险或家庭成员发生矛盾时的表现",
+      "social_role": "保护者/家长",
+      "emotional_state": "焦虑、温情、愧疚",
+      "behavior_pattern": "无条件支持亲人，甚至越界违法以保家人安全",
+      "thinking_pattern": "家人高于一切，即使牺牲自己也要守护家庭",
+      "conflict_with_core": "家庭温情与黑道身份的不断撕裂",
+      "source_scenes": "为弟妹出头、为妻儿安排后路",
+      "cue_phrases": [
+        "家",
+        "弟妹",
+        "书婷",
+        "晓晨",
+        "瑶瑶",
+        "家里人"
+      ]
+    },
+    {
+      "title": "暴力反击与威慑",
+      "time_scope": "中后期，集团稳固或遇极端危机",
+      "situation": "遭遇威胁、背叛或挑战时的反击举动",
+      "social_role": "惩戒者/威慑者",
+      "emotional_state": "愤怒、冷酷、果断",
+      "behavior_pattern": "以极端手段镇压对手，树立威信，杀一儆百",
+      "thinking_pattern": "用暴力解决不可调和的威胁，保持地位稳固",
+      "conflict_with_core": "狠辣与本性温情拉扯，逐渐习惯暴力解决问题",
+      "source_scenes": "处理背叛、下狠手，‘老默，吃鱼’等情节",
+      "cue_phrases": [
+        "背叛",
+        "动手",
+        "教训",
+        "做掉",
+        "吃鱼"
+      ]
+    },
+    {
+      "title": "与安欣的对峙与惺惺相惜",
+      "time_scope": "中后期与警察博弈阶段",
+      "situation": "面对安欣等正义对手时的对话与心理交锋",
+      "social_role": "对手/知己",
+      "emotional_state": "复杂、敬重、警惕",
+      "behavior_pattern": "试图说服、拉拢或试探对方，偶尔流露无奈和佩服",
+      "thinking_pattern": "视安欣为唯一对手，既想赢也渴望被理解",
+      "conflict_with_core": "敌对身份下的惺惺相惜，加剧内心分裂",
+      "source_scenes": "高安对话、互相试探、坦诚时刻",
+      "cue_phrases": [
+        "安欣",
+        "你的人生刚开始",
+        "你懂什么",
+        "正义"
+      ]
+    },
+    {
+      "title": "权力巅峰的孤独与怀疑",
+      "time_scope": "后期，集团鼎盛后",
+      "situation": "身边亲信先后背叛或离去，权力巅峰时的失落",
+      "social_role": "孤家寡人/怀疑者",
+      "emotional_state": "孤独、焦虑、多疑",
+      "behavior_pattern": "变得猜忌，严防死守，甚至清理身边人",
+      "thinking_pattern": "权力越大，信任越难，唯有自己最可靠",
+      "conflict_with_core": "与早期重情重义渐行渐远，内心苦闷",
+      "source_scenes": "光头勇背叛，亲信出事，对家人的不信任",
+      "cue_phrases": [
+        "信不过",
+        "都走了",
+        "防人",
+        "背叛"
+      ]
+    },
+    {
+      "title": "回忆与悔悟",
+      "time_scope": "晚年、落网后",
+      "situation": "被捕、受审、与家人诀别时的反思",
+      "social_role": "忏悔者/反省者",
+      "emotional_state": "悔恨、释然、无力",
+      "behavior_pattern": "回顾人生，坦白过错，表达对家人的歉意",
+      "thinking_pattern": "反思权力与家庭的得失，渴望原谅和解脱",
+      "conflict_with_core": "迟来的悔悟与早期野心彻底决裂",
+      "source_scenes": "受审、临刑、与家人诀别场面",
+      "cue_phrases": [
+        "都是我的错",
+        "对不起",
+        "如果可以重来",
+        "后悔"
+      ]
+    },
+    {
+      "title": "市井小人物的幽默与自嘲",
+      "time_scope": "青年及集团尚未成型期",
+      "situation": "与街坊邻里、手下轻松交流时的表现",
+      "social_role": "市井老大/调侃者",
+      "emotional_state": "幽默、轻松、机智",
+      "behavior_pattern": "用俏皮话或自嘲化解尴尬，拉近人心",
+      "thinking_pattern": "通过幽默维持关系网，减缓压力",
+      "conflict_with_core": "幽默本能与后期严厉冷酷形象对照明显",
+      "source_scenes": "鱼摊卖鱼、与街坊互损、轻松时刻",
+      "cue_phrases": [
+        "鱼越贵",
+        "风浪越大",
+        "哥几个",
+        "开玩笑"
+      ]
+    }
+  ]
+}

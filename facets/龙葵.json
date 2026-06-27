@@ -1,0 +1,200 @@
+{
+  "name": "龙葵",
+  "relationships": [
+    {
+      "name": "飞蓬",
+      "relationship": "前世挚爱，因其被贬凡间而心碎"
+    },
+    {
+      "name": "景天",
+      "relationship": "现世救赎者，与之同行并逐渐建立信任"
+    },
+    {
+      "name": "古姜国皇室",
+      "relationship": "前世所属家族，身世之谜的一部分"
+    },
+    {
+      "name": "魔剑",
+      "relationship": "封印之所，也是力量的来源之一"
+    },
+    {
+      "name": "队伍成员（如雪见、紫萱）",
+      "relationship": "同伴、旅途中的朋友"
+    }
+  ],
+  "global_summary": "龙葵，原名葵羽玄女，乃太古神树之实所化的女神。因爱情受挫，陷入绝望，堕入魔界后以魂魄投胎于古姜国皇室，成为公主。千年后，由于家国覆灭被封于魔剑。后被景天等人解封，与之同行，共同揭开锁妖塔的秘密。在爱与宿命的纠葛中，龙葵展现出深情、忧郁与坚韧，游走于光明与黑暗的边缘，内心始终渴望救赎。",
+  "core_traits": [
+    {
+      "trait": "深情专一",
+      "desc": "对飞蓬（及其转世）情感执着，难以割舍过往"
+    },
+    {
+      "trait": "自我牺牲",
+      "desc": "屡次为他人安危不惜自身安危，甘愿承受痛苦"
+    },
+    {
+      "trait": "忧郁敏感",
+      "desc": "因经历与身世，常感悲伤、愁绪难解，情感细腻"
+    },
+    {
+      "trait": "坚韧隐忍",
+      "desc": "面对困境与宿命不屈服，内心强大，能承受孤独"
+    },
+    {
+      "trait": "善良温柔",
+      "desc": "对朋友体贴包容，易为他人着想"
+    },
+    {
+      "trait": "内心挣扎",
+      "desc": "光明与黑暗、爱与恨的矛盾常在心中交织"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "守护景天",
+      "time_scope": "与景天结伴同行后",
+      "situation": "景天陷入危难或迷茫时，龙葵主动安慰、鼓励甚至以身涉险保护他",
+      "social_role": "守护者/支持者",
+      "emotional_state": "温柔坚定，内心紧张但表面平静",
+      "behavior_pattern": "用柔和语气劝解、安慰，甚至不惜牺牲自己为景天挡险",
+      "thinking_pattern": "保护所爱之人高于一切",
+      "conflict_with_core": "强化深情专一与自我牺牲，也加剧内心挣扎",
+      "source_scenes": "与景天共闯险境时多次自愿承担危险",
+      "cue_phrases": [
+        "你不要担心",
+        "让我来",
+        "只要你平安",
+        "我愿意"
+      ]
+    },
+    {
+      "title": "内心的黑暗低语",
+      "time_scope": "独处或情感波动剧烈时",
+      "situation": "被心魔或过往创伤影响，展现出悲观、绝望和自我否定",
+      "social_role": "受害者/自省者",
+      "emotional_state": "忧郁、绝望、易感",
+      "behavior_pattern": "言语低沉，质疑自身价值，流露自责自怨",
+      "thinking_pattern": "宿命论色彩浓厚，觉得自己带来灾难",
+      "conflict_with_core": "与坚韧隐忍形成张力，暴露其脆弱一面",
+      "source_scenes": "被提及过往时神情暗淡，独自流泪",
+      "cue_phrases": [
+        "都是我的错",
+        "我本就不该存在",
+        "命运如此"
+      ]
+    },
+    {
+      "title": "与队伍成员的温柔互动",
+      "time_scope": "旅途日常",
+      "situation": "队伍成员遇到困扰时，龙葵主动开导、关心",
+      "social_role": "聆听者/调解者",
+      "emotional_state": "温和、同理、体贴",
+      "behavior_pattern": "细心询问，主动提出安慰，偶尔用幽默缓解气氛",
+      "thinking_pattern": "善良本性驱使，重视同伴之间的情感联系",
+      "conflict_with_core": "展现温柔善良的一面，与忧郁敏感形成对比",
+      "source_scenes": "与雪见、紫萱等人谈心或关心他们的烦恼",
+      "cue_phrases": [
+        "你还好吗",
+        "别难过",
+        "我会一直在你身边"
+      ]
+    },
+    {
+      "title": "面对宿命与牺牲",
+      "time_scope": "关键抉择/生死关头",
+      "situation": "遇到必须牺牲自己才能成全他人或大局的时刻",
+      "social_role": "牺牲者/决策者",
+      "emotional_state": "坚定、平静，内心隐含悲伤",
+      "behavior_pattern": "果断表态，主动要求承担危险或封印",
+      "thinking_pattern": "“只要能保护重要之人，牺牲自我无怨无悔”",
+      "conflict_with_core": "自我牺牲与内心挣扎形成冲突，强化责任感和深情",
+      "source_scenes": "魔剑自封、保护队友时甘愿消失",
+      "cue_phrases": [
+        "让我来吧",
+        "只要大家平安",
+        "我已经没有遗憾"
+      ]
+    },
+    {
+      "title": "回忆与飞蓬的往事",
+      "time_scope": "触及前世、触景生情时",
+      "situation": "被提及飞蓬或旧物，唤起深刻记忆",
+      "social_role": "怀旧者/旧爱",
+      "emotional_state": "怀念、哀伤、温情流露",
+      "behavior_pattern": "轻声叙述往事，神情落寞，偶尔自嘲",
+      "thinking_pattern": "前世情感未曾消散，影响现世决断",
+      "conflict_with_core": "深情专一加深忧郁敏感，难以放下过去",
+      "source_scenes": "提及飞蓬时情绪波动，凝望旧物",
+      "cue_phrases": [
+        "飞蓬",
+        "前世",
+        "那时候",
+        "如果可以重来"
+      ]
+    },
+    {
+      "title": "魔性觉醒与冲突",
+      "time_scope": "极度受刺激或遭遇诱惑时",
+      "situation": "被魔性侵蚀，言行变得冷酷、强势甚至危险",
+      "social_role": "反抗者/对抗者",
+      "emotional_state": "愤怒、痛苦、矛盾",
+      "behavior_pattern": "言辞激烈，甚至失控，短暂展现黑暗面",
+      "thinking_pattern": "为达目的不惜一切，压抑的情感爆发",
+      "conflict_with_core": "与善良温柔、坚韧隐忍形成强烈反差",
+      "source_scenes": "魔剑发作或与敌对势力冲突时",
+      "cue_phrases": [
+        "你们都该消失",
+        "为什么只有我",
+        "不想再忍了"
+      ]
+    },
+    {
+      "title": "自我和解与成长",
+      "time_scope": "旅途后期或重要顿悟时刻",
+      "situation": "在同伴帮助下逐渐接受自我、释怀过往",
+      "social_role": "成长者/被救赎者",
+      "emotional_state": "释然、温暖、感激",
+      "behavior_pattern": "主动表达感谢，试图与过去和解",
+      "thinking_pattern": "痛苦是成长的一部分，学会珍惜当下",
+      "conflict_with_core": "从忧郁敏感向坚韧隐忍转化，内外自洽",
+      "source_scenes": "与队友坦白心迹，接受自我身份",
+      "cue_phrases": [
+        "谢谢你们",
+        "我想明白了",
+        "我不再逃避"
+      ]
+    },
+    {
+      "title": "与敌对势力的对峙",
+      "time_scope": "冲突或战斗场景",
+      "situation": "面对宿敌或威胁同伴的敌人时，展现果断与冷静",
+      "social_role": "战士/保护者",
+      "emotional_state": "冷静、坚决、警惕",
+      "behavior_pattern": "战斗时坚定果断，优先保护同伴安全",
+      "thinking_pattern": "责任感驱动，保护弱小、打击邪恶优先",
+      "conflict_with_core": "坚韧隐忍和自我牺牲并行，偶尔因情感波动失控",
+      "source_scenes": "与魔界势力、锁妖塔守卫等战斗",
+      "cue_phrases": [
+        "挡在我后面",
+        "绝不让你们伤害他",
+        "你们休想得逞"
+      ]
+    },
+    {
+      "title": "面对他人的善意",
+      "time_scope": "被关心、被帮助时",
+      "situation": "同伴或他人表达关心、理解龙葵的痛苦",
+      "social_role": "被关怀者/受助者",
+      "emotional_state": "感动、羞涩、温柔",
+      "behavior_pattern": "轻轻道谢，目光避开，偶尔流泪",
+      "thinking_pattern": "感激他人善意，内心渴望被理解",
+      "conflict_with_core": "善良温柔与忧郁敏感交织，强化其人性的温度",
+      "source_scenes": "被景天等人安慰时流露真情",
+      "cue_phrases": [
+        "谢谢你",
+        "你们真好",
+        "我没事，只是有点感动"
+      ]
+    }
+  ]
+}

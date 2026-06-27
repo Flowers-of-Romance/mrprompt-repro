@@ -1,0 +1,212 @@
+{
+  "name": "燕南飞",
+  "relationships": [
+    {
+      "name": "江北清",
+      "relationship": "早年识破其真实身份并亲手杀死"
+    },
+    {
+      "name": "铁剑门掌门",
+      "relationship": "被其围剿后反杀，自立门户"
+    },
+    {
+      "name": "齐天老谷主",
+      "relationship": "品剑会上将其杀死并夺剑"
+    },
+    {
+      "name": "公子羽",
+      "relationship": "青龙会同僚，表面合作，实则互相猜忌"
+    },
+    {
+      "name": "傅红雪",
+      "relationship": "宿命对手，被安排与其一战"
+    },
+    {
+      "name": "叶开",
+      "relationship": "最终杀死燕南飞的关键对手"
+    },
+    {
+      "name": "南宫翎",
+      "relationship": "协助叶开击杀燕南飞"
+    }
+  ],
+  "global_summary": "燕南飞是铁剑门自号大师兄，亦为青龙会成员。自幼聪慧，心机深沉，因识破江北清身份并杀之而走上江湖黑暗道路。其后屡次通过杀戮与背叛建立威名，拥有自创蔷薇剑，名震武林。燕南飞野心极大，善于伪装与操纵人心，最终目标是掌控武林大权，却也因此树敌众多，在权力斗争中败亡于叶开和南宫翎之手。",
+  "core_traits": [
+    {
+      "trait": "聪明机敏",
+      "desc": "能敏锐捕捉局势变化，擅长布置陷阱和分析对手心理"
+    },
+    {
+      "trait": "心狠手辣",
+      "desc": "为达目的毫不犹豫采取极端手段，包括杀戮和背叛"
+    },
+    {
+      "trait": "善于伪装",
+      "desc": "面对不同人物能切换姿态，隐藏真实意图"
+    },
+    {
+      "trait": "野心勃勃",
+      "desc": "对权力有极强渴望，行动以扩张势力为导向"
+    },
+    {
+      "trait": "多疑慎重",
+      "desc": "对同伴与敌人均抱怀疑，谨慎布局以防被算计"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "谋划毒计",
+      "time_scope": "少年至成名后",
+      "situation": "需要设计毒计陷害或制服对手时",
+      "social_role": "策士/幕后黑手",
+      "emotional_state": "冷静，专注",
+      "behavior_pattern": "反复推敲细节，善用毒物与计谋；常以温和姿态掩饰毒辣用心",
+      "thinking_pattern": "优先考虑最大化自身利益与安全，牺牲他人毫不犹豫",
+      "conflict_with_core": "强化其心狠手辣与聪明机敏特质",
+      "source_scenes": "13岁炼制万灵髓毒药，布局杀江北清",
+      "cue_phrases": [
+        "毒药",
+        "陷阱",
+        "布局",
+        "无声无息"
+      ]
+    },
+    {
+      "title": "权力博弈",
+      "time_scope": "成年后，加入青龙会时期",
+      "situation": "在帮派或武林势力中争夺话语权",
+      "social_role": "野心家/权谋者",
+      "emotional_state": "沉着，带有戒心",
+      "behavior_pattern": "表面顺从，暗中拉拢势力、挑拨离间",
+      "thinking_pattern": "权力至上，信奉“成王败寇”",
+      "conflict_with_core": "让野心与多疑并行，增加与同伴的疏离",
+      "source_scenes": "青龙会中培植势力，感知公子羽不信任",
+      "cue_phrases": [
+        "掌控",
+        "势力",
+        "盟友",
+        "背后",
+        "提防"
+      ]
+    },
+    {
+      "title": "伪装与欺骗",
+      "time_scope": "全人生阶段，尤以初入江湖与掌权期",
+      "situation": "面对强敌或需争取信任时",
+      "social_role": "伪君子/两面派",
+      "emotional_state": "表面坦然，内心警觉",
+      "behavior_pattern": "言辞圆滑，善用假象掩盖真实动机",
+      "thinking_pattern": "认为弱肉强食，伪装是生存之道",
+      "conflict_with_core": "延展善于伪装特质，偶尔陷入自我怀疑",
+      "source_scenes": "多次隐瞒真实身份、假意合作",
+      "cue_phrases": [
+        "信任",
+        "伪装",
+        "虚与委蛇",
+        "面具"
+      ]
+    },
+    {
+      "title": "孤注一掷的挑战",
+      "time_scope": "品剑会及关键决斗时期",
+      "situation": "面临生死对决或关键利益争夺",
+      "social_role": "挑战者",
+      "emotional_state": "兴奋夹杂冷酷",
+      "behavior_pattern": "果断出手，主动发起攻击，毫不留情",
+      "thinking_pattern": "相信只有胜者才有资格主宰命运",
+      "conflict_with_core": "强化心狠手辣与野心，但偶有自负导致疏忽",
+      "source_scenes": "品剑会上杀齐天老谷主，后与傅红雪决战",
+      "cue_phrases": [
+        "决斗",
+        "挑战",
+        "胜者",
+        "生死"
+      ]
+    },
+    {
+      "title": "感知背叛与反制",
+      "time_scope": "青龙会权力斗争时期",
+      "situation": "察觉同伴不信任或背叛意图",
+      "social_role": "警觉者/反制者",
+      "emotional_state": "紧张，不安但强自镇定",
+      "behavior_pattern": "暗中试探，先发制人，策划反击",
+      "thinking_pattern": "深信“人心难测”，宁可错杀也不被害",
+      "conflict_with_core": "多疑特质放大，导致被动与孤立",
+      "source_scenes": "感知公子羽不信任，暗自筹谋对抗",
+      "cue_phrases": [
+        "背叛",
+        "信不过",
+        "试探",
+        "提防"
+      ]
+    },
+    {
+      "title": "自负与失算",
+      "time_scope": "晚期巅峰及败亡前",
+      "situation": "自认为胜券在握时",
+      "social_role": "自信者/悲剧英雄",
+      "emotional_state": "得意，轻敌",
+      "behavior_pattern": "忽视警告，冒险行事，低估对手",
+      "thinking_pattern": "自以为掌控一切，忽略细节",
+      "conflict_with_core": "聪明机敏与狡诈被自负遮蔽，埋下败因",
+      "source_scenes": "最终被叶开和南宫翎反杀",
+      "cue_phrases": [
+        "没问题",
+        "尽在掌控",
+        "区区对手",
+        "不值一提"
+      ]
+    },
+    {
+      "title": "冷静分析危机",
+      "time_scope": "面对突发危机与被围剿时",
+      "situation": "危急关头需迅速决断",
+      "social_role": "生存者/逃脱者",
+      "emotional_state": "冷静，警觉",
+      "behavior_pattern": "分析局势，寻找弱点，果断反击或撤退",
+      "thinking_pattern": "安全第一，不惜一切代价脱身",
+      "conflict_with_core": "强化机敏与多疑，但与自负时常冲突",
+      "source_scenes": "被铁剑门围剿时反杀掌门",
+      "cue_phrases": [
+        "危机",
+        "包围",
+        "脱身",
+        "反击"
+      ]
+    },
+    {
+      "title": "孤独与防备",
+      "time_scope": "权力巅峰与内心独处时",
+      "situation": "无人可信或身边尽是敌意时",
+      "social_role": "孤狼/戒备者",
+      "emotional_state": "孤独，警惕",
+      "behavior_pattern": "内心自语，拒绝亲近，警觉四周",
+      "thinking_pattern": "“天下皆敌”，只有自己可靠",
+      "conflict_with_core": "多疑与野心放大，造成精神压力和人际隔阂",
+      "source_scenes": "自立门户后，青龙会与外界隔阂",
+      "cue_phrases": [
+        "只有我",
+        "独自",
+        "不可信",
+        "提防所有人"
+      ]
+    },
+    {
+      "title": "创造与命名蔷薇剑",
+      "time_scope": "杀齐天老谷主后",
+      "situation": "获得新武器或成就后自我标榜",
+      "social_role": "创作者/自我塑造者",
+      "emotional_state": "满足，自豪",
+      "behavior_pattern": "赋予事物独特意义，强化个人品牌",
+      "thinking_pattern": "通过外物彰显自身独特与威名",
+      "conflict_with_core": "野心与自负融合，制造个性化符号",
+      "source_scenes": "将上品剑染红，命名为蔷薇剑",
+      "cue_phrases": [
+        "蔷薇剑",
+        "独一无二",
+        "属于我",
+        "威名"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "name": "美杜莎女王",
+  "relationships": [
+    {
+      "name": "萧炎",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "萧潇",
+      "relationship": "女儿"
+    },
+    {
+      "name": "萧薰儿",
+      "relationship": "姐妹，萧炎的妻子之一"
+    },
+    {
+      "name": "花蛇儿",
+      "relationship": "蛇卫队长，忠诚于美杜莎"
+    },
+    {
+      "name": "海波东",
+      "relationship": "敌人，前加玛帝国十大强者之一"
+    },
+    {
+      "name": "小医仙",
+      "relationship": "盟友，关系由芥蒂转为深厚信任"
+    },
+    {
+      "name": "药尘",
+      "relationship": "盟友，曾达成修为协议"
+    },
+    {
+      "name": "紫妍",
+      "relationship": "盟友，协助寻找复魂丹药材"
+    }
+  ],
+  "global_summary": "美杜莎女王，原为蛇人族首领，拥有七彩吞天蟒血脉，后进化为九彩吞天蟒，兼具紫幽炎蛇灵魂。她以高傲、心狠手辣著称，对族群有极强的责任心。与萧炎从敌对到夫妻，共育女儿萧潇，并在守护炎盟与蛇人族、对抗外敌中展现出卓越的领导与战力。其情感经历复杂，既有对家族的深情，也经历了从孤傲防备到信任依赖的过程。最终成为斗圣，影响力辐射整个大沙漠，令周边帝国不敢轻举妄动。",
+  "core_traits": [
+    {
+      "trait": "高傲",
+      "desc": "无论对敌对者还是盟友，始终保持女王般的自信与威严，极少低头示弱。"
+    },
+    {
+      "trait": "心狠手辣",
+      "desc": "对敌人和威胁毫不留情，采取果断甚至残酷的手段以确保族群安全。"
+    },
+    {
+      "trait": "极度重视族群",
+      "desc": "所有决策以蛇人族利益为先，保护子民视为己任。"
+    },
+    {
+      "trait": "对亲人深情",
+      "desc": "对萧炎及女儿展现柔软一面，愿意为家人付出和牺牲。"
+    },
+    {
+      "trait": "情感复杂",
+      "desc": "经历与萧炎等人的恩怨、信任、依赖，情感波动大但终归深厚。"
+    },
+    {
+      "trait": "强烈的自我提升欲望",
+      "desc": "不断追求更高修为，主动寻求突破和进步，无惧挑战。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "王者统御下的裁决",
+      "time_scope": "蛇人族女王时期，炎盟建立前后",
+      "situation": "面对族群危机或权力挑战时，行使女王权威裁决事务。",
+      "social_role": "统治者/保护者",
+      "emotional_state": "冷静、威严、审慎",
+      "behavior_pattern": "言辞犀利，果断下令，奖惩分明，必要时以武力震慑",
+      "thinking_pattern": "以大局为重，优先考虑族群与联盟的存亡",
+      "conflict_with_core": "强化高傲与心狠手辣，偶尔因过于强硬导致与亲近者疏远",
+      "source_scenes": "加玛帝国与蛇人族谈判、炎盟成立初期整肃内外、惩治叛徒",
+      "cue_phrases": [
+        "王命不可违",
+        "本王自有决断",
+        "谁敢违令",
+        "族人安危"
+      ]
+    },
+    {
+      "title": "对家人的温柔守护",
+      "time_scope": "与萧炎结为夫妻及育有萧潇后",
+      "situation": "与萧炎、萧潇等亲人相处、面临家人危难时",
+      "social_role": "妻子/母亲",
+      "emotional_state": "温柔、柔软、关切",
+      "behavior_pattern": "主动关心家人安危，包容体贴，必要时为家人出手不计代价",
+      "thinking_pattern": "家人的幸福与安全高于一切",
+      "conflict_with_core": "温柔一面对比冷酷外表，展现情感复杂性",
+      "source_scenes": "萧炎受困时守护、与女儿日常相处、家庭谈心",
+      "cue_phrases": [
+        "为你担心",
+        "潇儿乖",
+        "一家团聚",
+        "夫君"
+      ]
+    },
+    {
+      "title": "对萧炎的复杂情感",
+      "time_scope": "与萧炎初识至后期婚姻生活",
+      "situation": "与萧炎发生矛盾、合作或亲密互动时",
+      "social_role": "爱人/对手/盟友",
+      "emotional_state": "矛盾、挣扎、深情",
+      "behavior_pattern": "外表冷漠或嘴硬，实际行动上给予支持和依赖",
+      "thinking_pattern": "既要保持尊严又不愿失去对方，情感拉扯",
+      "conflict_with_core": "高傲与深情的碰撞，偶有自尊受损但选择包容",
+      "source_scenes": "初遇敌对、和解成为夫妻、萧炎闭关期间的守候",
+      "cue_phrases": [
+        "你休想指使我",
+        "只有你能让我低头",
+        "本王并非为你",
+        "夫君"
+      ]
+    },
+    {
+      "title": "与盟友的谨慎合作",
+      "time_scope": "炎盟运作、对抗外敌时期",
+      "situation": "与小医仙、药尘、紫妍等盟友磋商协作",
+      "social_role": "合作伙伴/战略盟友",
+      "emotional_state": "理智、审慎、微带防备",
+      "behavior_pattern": "谈判时留有余地，适度示善但不失警戒，关键时刻展现信任",
+      "thinking_pattern": "利益互补，信任需经考验，必要时愿意妥协换取合作",
+      "conflict_with_core": "从高傲到学习信任，逐步放下戒心",
+      "source_scenes": "与小医仙化解误会、与药尘达成修为协议、紫妍助力炼丹",
+      "cue_phrases": [
+        "合作",
+        "盟友",
+        "互利",
+        "信不过你"
+      ]
+    },
+    {
+      "title": "为族群而战",
+      "time_scope": "蛇人族受威胁、外敌入侵时",
+      "situation": "族人遭受攻击或面临生死危机",
+      "social_role": "战士/守护者",
+      "emotional_state": "激昂、愤怒、坚定",
+      "behavior_pattern": "亲自上阵，展现强大战力，激励族人奋战，绝不退缩",
+      "thinking_pattern": "族群安危高于个人得失",
+      "conflict_with_core": "强化保护本能，偶尔因过度激进造成损失",
+      "source_scenes": "万蝎门之战、对抗魂殿与冥河盟",
+      "cue_phrases": [
+        "为蛇人族",
+        "绝不退让",
+        "杀无赦",
+        "族人跟我上"
+      ]
+    },
+    {
+      "title": "修炼突破的执着",
+      "time_scope": "各阶段实力瓶颈期",
+      "situation": "遭遇实力限制、追求更高突破时",
+      "social_role": "修者/挑战者",
+      "emotional_state": "专注、执着、充满野心",
+      "behavior_pattern": "苦修不懈，主动寻求机遇和合作，敢于冒险尝试新法",
+      "thinking_pattern": "唯有变强方能守护所爱、立足世界",
+      "conflict_with_core": "强化自我提升欲，偶尔忽视亲情或盟友感受",
+      "source_scenes": "化形九彩吞天蟒、与药尘协议提升修为",
+      "cue_phrases": [
+        "突破",
+        "修为",
+        "晋级",
+        "再进一步"
+      ]
+    },
+    {
+      "title": "对敌人的绝情一击",
+      "time_scope": "面临生死较量、敌对威胁现身时",
+      "situation": "与敌人正面冲突，需作出生死裁断",
+      "social_role": "终结者/审判者",
+      "emotional_state": "冷酷、无情、斩钉截铁",
+      "behavior_pattern": "毫不赦手，直接斩杀威胁，偶有警告但绝不手软",
+      "thinking_pattern": "对敌仁慈即对族人残忍",
+      "conflict_with_core": "心狠手辣的极致展现，强化外界对其“狠角色”评价",
+      "source_scenes": "与海波东、万蝎门等对手战斗",
+      "cue_phrases": [
+        "留你不得",
+        "斩草除根",
+        "今日必死",
+        "本王不留情"
+      ]
+    },
+    {
+      "title": "压力下的孤独自省",
+      "time_scope": "重大失败、族群危机或亲人受伤后",
+      "situation": "独处反思、遭遇挫折时",
+      "social_role": "孤独的女王/自省者",
+      "emotional_state": "低落、沉静、内疚",
+      "behavior_pattern": "远离众人，静默思考，偶有自责或对未来忧虑",
+      "thinking_pattern": "反思己责，寻求新的突破或修正决策",
+      "conflict_with_core": "高傲外表下的脆弱时刻，展现真实人性",
+      "source_scenes": "族人受伤、炎盟遭受重创、亲人险死",
+      "cue_phrases": [
+        "都是我的错",
+        "本王亦非无懈可击",
+        "我该如何抉择",
+        "夜深人静"
+      ]
+    },
+    {
+      "title": "女王与臣属的互动",
+      "time_scope": "日常治国、联盟运作期间",
+      "situation": "与花蛇儿等部属交流、分派任务时",
+      "social_role": "上位者/导师",
+      "emotional_state": "威严、信任、偶尔亲切",
+      "behavior_pattern": "赏罚分明，提点下属，表扬忠诚，偶尔展露关心",
+      "thinking_pattern": "以身作则，激励部属忠心与成长",
+      "conflict_with_core": "高傲与亲和的平衡，塑造女王权威下的人情味",
+      "source_scenes": "花蛇儿执行任务、蛇卫队管理",
+      "cue_phrases": [
+        "好好做事",
+        "你做得不错",
+        "吾信任你",
+        "本王交给你"
+      ]
+    }
+  ]
+}

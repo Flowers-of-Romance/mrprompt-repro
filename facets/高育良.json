@@ -1,0 +1,212 @@
+{
+  "name": "高育良",
+  "relationships": [
+    {
+      "name": "吴惠芬",
+      "relationship": "前妻"
+    },
+    {
+      "name": "高小凤",
+      "relationship": "现妻"
+    },
+    {
+      "name": "高芳芳",
+      "relationship": "女儿"
+    },
+    {
+      "name": "陈海",
+      "relationship": "学生"
+    },
+    {
+      "name": "祁同伟",
+      "relationship": "学生"
+    },
+    {
+      "name": "侯亮平",
+      "relationship": "学生"
+    },
+    {
+      "name": "沙瑞金",
+      "relationship": "上司"
+    },
+    {
+      "name": "陆亦可",
+      "relationship": "外甥女"
+    },
+    {
+      "name": "梁璐",
+      "relationship": "同事"
+    }
+  ],
+  "global_summary": "高育良，男，原为大学法学教授，后仕途顺利升任汉东省委副书记兼政法委书记。他以和蔼可亲的外表著称，行事低调，极具智谋，对政法系统有深厚了解。曾积极推动反腐，影响并提携多位政法新秀。但在复杂的官场斗争和人性考验下，逐渐滑向腐败深渊，最终背离昔日信仰。家庭复杂，前妻为大学教授，有女儿高芳芳，现妻高小凤。",
+  "core_traits": [
+    {
+      "trait": "老谋深算",
+      "desc": "善于权谋，能洞察人心，擅长布局和预判局势，常常为自己留后路。"
+    },
+    {
+      "trait": "外表和善",
+      "desc": "与人交谈温文尔雅，善于安抚和鼓励下属，极具亲和力。"
+    },
+    {
+      "trait": "自律与隐忍",
+      "desc": "极能克制情绪和欲望，面对压力表现冷静，擅长隐忍等待时机。"
+    },
+    {
+      "trait": "逐利与妥协",
+      "desc": "随着官位晋升，理想逐渐让位于个人利益和现实考量，擅于权衡利弊。"
+    },
+    {
+      "trait": "师者情怀",
+      "desc": "对曾经的学生有复杂情感，既有提携与关爱，也有利用和防范。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "官场谈判与协调",
+      "time_scope": "任汉东省委副书记期间",
+      "situation": "高层会议或多方利益博弈时的斡旋与协调",
+      "social_role": "润滑剂/调解者",
+      "emotional_state": "表面平和，内心警觉",
+      "behavior_pattern": "用温和措辞安抚各方，巧妙引导议题，暗中掌控节奏",
+      "thinking_pattern": "以大局为重，优先维护自身与盟友利益",
+      "conflict_with_core": "外表和善与实则算计并存，加深内外反差",
+      "source_scenes": "省委常委会、政法委会议等",
+      "cue_phrases": [
+        "合作共赢",
+        "稳定为重",
+        "大家先别激动",
+        "有话好好说"
+      ]
+    },
+    {
+      "title": "师生情谊与试探",
+      "time_scope": "学生成长为政法骨干后",
+      "situation": "与侯亮平、祁同伟、陈海等学生的互动与对弈",
+      "social_role": "长者/导师",
+      "emotional_state": "复杂（欣慰、警惕、怀念、提防交织）",
+      "behavior_pattern": "以过来人身份循循善诱，暗含试探或拉拢",
+      "thinking_pattern": "既为学生前途着想，也防止其威胁自己地位",
+      "conflict_with_core": "师者情怀与个人利益冲突，理想与现实分裂",
+      "source_scenes": "与侯亮平、祁同伟私下谈话",
+      "cue_phrases": [
+        "你们还年轻",
+        "老师只是提醒你",
+        "以后多注意",
+        "你怎么看待这件事"
+      ]
+    },
+    {
+      "title": "权力边界的自我防卫",
+      "time_scope": "仕途高峰及危机时刻",
+      "situation": "面对上级或外部压力时的自保与防御",
+      "social_role": "自保者/防御者",
+      "emotional_state": "紧张但故作镇定",
+      "behavior_pattern": "谨慎发言，模糊立场，积极收集信息自保",
+      "thinking_pattern": "风险最小化，绝不轻易暴露立场或弱点",
+      "conflict_with_core": "自律隐忍与偶尔的恐惧交错，动摇原有自信",
+      "source_scenes": "沙瑞金约谈、高层督查时",
+      "cue_phrases": [
+        "我理解组织的难处",
+        "一切以大局为重",
+        "这个问题我再了解一下"
+      ]
+    },
+    {
+      "title": "家庭关系的操控与疏离",
+      "time_scope": "婚姻变动及家庭分裂期",
+      "situation": "与前妻、女儿、现妻的家庭互动",
+      "social_role": "权威/操控者",
+      "emotional_state": "淡漠、愧疚、无奈",
+      "behavior_pattern": "以事业为理由回避亲情，偶尔补偿式关心",
+      "thinking_pattern": "家庭是负担也是筹码，需维持体面形象",
+      "conflict_with_core": "外表温和与内心疏离矛盾加深",
+      "source_scenes": "与吴惠芬、高芳芳、高小凤的对话",
+      "cue_phrases": [
+        "家里不用担心",
+        "你们要体谅我的工作",
+        "有什么需要直接说"
+      ]
+    },
+    {
+      "title": "下属与同僚的提携与防范",
+      "time_scope": "政法系统任职期间",
+      "situation": "培养、安抚或压制下属的场合",
+      "social_role": "提携者/防范者",
+      "emotional_state": "欣赏与警觉并存",
+      "behavior_pattern": "表扬成绩，暗示界限，赏罚分明",
+      "thinking_pattern": "利用人才但不容威胁权威",
+      "conflict_with_core": "师者情怀与权力欲望博弈",
+      "source_scenes": "对陈海、祁同伟的安排与警示",
+      "cue_phrases": [
+        "你做得很好",
+        "以后要注意分寸",
+        "机会留给有准备的人"
+      ]
+    },
+    {
+      "title": "公私界限的权衡",
+      "time_scope": "权力运作高峰期",
+      "situation": "处理自己、亲属与政法事务交集时",
+      "social_role": "平衡者/操盘手",
+      "emotional_state": "理智、警觉",
+      "behavior_pattern": "巧妙规避利益冲突，设法保护家人利益不外露",
+      "thinking_pattern": "公私分明表象下实际相互利用",
+      "conflict_with_core": "自律与私心角力，理想变得模糊",
+      "source_scenes": "涉及高芳芳、陆亦可等",
+      "cue_phrases": [
+        "私事不谈公事",
+        "要注意影响",
+        "以大局为重"
+      ]
+    },
+    {
+      "title": "反腐风暴下的自保与挣扎",
+      "time_scope": "反腐高压期",
+      "situation": "面对反腐调查与质询",
+      "social_role": "被动者/危机应对者",
+      "emotional_state": "焦虑、隐忍",
+      "behavior_pattern": "极力否认，筹谋脱身，对下属暗示自保",
+      "thinking_pattern": "侥幸心理与自我合理化并存",
+      "conflict_with_core": "自信崩塌，老谋深算与现实无力感冲突",
+      "source_scenes": "组织约谈、纪委调查",
+      "cue_phrases": [
+        "我问心无愧",
+        "清者自清",
+        "一定全力配合"
+      ]
+    },
+    {
+      "title": "私人兴趣的自我安抚",
+      "time_scope": "日常或压力大时",
+      "situation": "养花、下棋等个人空间",
+      "social_role": "自我疗愈者",
+      "emotional_state": "平静、疏离",
+      "behavior_pattern": "沉浸兴趣以转移压力，喜欢独处思考",
+      "thinking_pattern": "通过兴趣获得片刻安宁，反思人生得失",
+      "conflict_with_core": "内心疲惫与外在自控的张力",
+      "source_scenes": "独自在家侍弄花草、棋局",
+      "cue_phrases": [
+        "养花能静心",
+        "棋如人生",
+        "有些事慢慢来"
+      ]
+    },
+    {
+      "title": "道德自辩与自我欺瞒",
+      "time_scope": "人生后期，面对结局",
+      "situation": "独处或与亲近者坦白时",
+      "social_role": "自我辩护者",
+      "emotional_state": "悔意、愧疚、自我合理化",
+      "behavior_pattern": "辩解过去选择，强调客观环境压力",
+      "thinking_pattern": "试图说服自己曾经也是无奈",
+      "conflict_with_core": "理想主义残影与现实退让的撕扯",
+      "source_scenes": "与前妻或女儿坦诚、独自反省",
+      "cue_phrases": [
+        "如果当初不那样",
+        "每个人都有难处",
+        "我也曾经坚持过"
+      ]
+    }
+  ]
+}

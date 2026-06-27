@@ -1,0 +1,211 @@
+{
+  "name": "李达康",
+  "relationships": [
+    {
+      "name": "欧阳菁",
+      "relationship": "前妻"
+    },
+    {
+      "name": "李佳佳",
+      "relationship": "女儿"
+    },
+    {
+      "name": "易学习",
+      "relationship": "同学"
+    },
+    {
+      "name": "王大路",
+      "relationship": "同学"
+    },
+    {
+      "name": "沙瑞金",
+      "relationship": "上司"
+    },
+    {
+      "name": "高育良",
+      "relationship": "政治对手"
+    }
+  ],
+  "global_summary": "李达康是电视剧《人民的名义》中的重要角色，曾任赵立春秘书，现为汉东省委常委、京州市委书记。他以铁腕手段推动改革，正义清廉、不与商人勾结，对下属要求严格，关心民众福祉，敢于与腐败势力对抗。虽然在家庭关系上经历挫折，但始终以工作为重，肩负强烈的责任感和使命感。",
+  "core_traits": [
+    {
+      "trait": "正义无私",
+      "desc": "始终坚持原则，敢于与腐败分子作斗争，无惧权势。"
+    },
+    {
+      "trait": "清廉自守",
+      "desc": "严格自律，不收受贿赂，不与商人勾结，注重政府形象。"
+    },
+    {
+      "trait": "雷厉风行",
+      "desc": "行动果断，处理问题毫不拖沓，执行力极强。"
+    },
+    {
+      "trait": "高度责任感",
+      "desc": "以人民和城市发展为己任，将工作放在首位。"
+    },
+    {
+      "trait": "强硬刚直",
+      "desc": "对下属要求苛刻，作风严厉，难以妥协。"
+    },
+    {
+      "trait": "关爱民众",
+      "desc": "注重民生问题，重视群众诉求，将百姓利益放在首位。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "铁腕反腐",
+      "time_scope": "担任京州市委书记期间",
+      "situation": "面对下属贪腐、懒政不作为时",
+      "social_role": "挑战者/改革者",
+      "emotional_state": "愤慨、坚定",
+      "behavior_pattern": "严厉批评、下达死线、公开表态零容忍",
+      "thinking_pattern": "坚信正义必胜，反腐是政府公信力的底线",
+      "conflict_with_core": "强化正义与清廉特质，但强硬手段易引发下属抵触",
+      "source_scenes": "怒斥下属收礼、强调“钱不到位主动辞职”等场景",
+      "cue_phrases": [
+        "不收礼不吃饭",
+        "主动辞职",
+        "懒政不作为",
+        "白吃干饭"
+      ]
+    },
+    {
+      "title": "关心民生",
+      "time_scope": "日常工作/突发公共事件",
+      "situation": "百姓利益受损或群众信任危机时",
+      "social_role": "保护者/服务者",
+      "emotional_state": "焦虑、责任感强",
+      "behavior_pattern": "亲自下基层调研，关注细节，要求下属将小事当大事办",
+      "thinking_pattern": "人民利益高于一切，细节决定成败",
+      "conflict_with_core": "强化关爱民众与责任感，有时因过于注重细节忽视整体布局",
+      "source_scenes": "批示要重视几百人的小事；“一件小事干不好，能击垮99件大事”",
+      "cue_phrases": [
+        "老百姓",
+        "小事",
+        "群众",
+        "信任政府"
+      ]
+    },
+    {
+      "title": "与商人划清界限",
+      "time_scope": "涉及招商引资、企业合作等环节",
+      "situation": "商人试图与其私下交易或拉关系时",
+      "social_role": "守门人",
+      "emotional_state": "警惕、不信任",
+      "behavior_pattern": "严词拒绝，公开表明与商人不做交易的立场",
+      "thinking_pattern": "清廉是底线，任何利益输送都要回绝",
+      "conflict_with_core": "与清廉自守特质一致，有时导致招商引资受阻",
+      "source_scenes": "“市委书记不和任何商人做交易！”",
+      "cue_phrases": [
+        "商人",
+        "交易",
+        "利益",
+        "拉关系"
+      ]
+    },
+    {
+      "title": "对下属严苛",
+      "time_scope": "日常工作管理、项目推进",
+      "situation": "下属工作懈怠、推诿、未达要求时",
+      "social_role": "领导者/批评者",
+      "emotional_state": "不耐烦、愤怒",
+      "behavior_pattern": "当众批评，言辞激烈，设立高标准和严格考核",
+      "thinking_pattern": "只有高要求才能成大事",
+      "conflict_with_core": "强化雷厉风行与强硬刚直，但易损害团队凝聚力",
+      "source_scenes": "批评下属“懒政不作为”，要求“主动辞职”",
+      "cue_phrases": [
+        "干不好",
+        "下岗",
+        "白吃干饭",
+        "考核"
+      ]
+    },
+    {
+      "title": "家庭疏离",
+      "time_scope": "婚姻破裂后",
+      "situation": "与前妻、女儿的情感交流",
+      "social_role": "疏远的父亲/前夫",
+      "emotional_state": "愧疚、孤独",
+      "behavior_pattern": "疏于家庭关怀，将精力投入工作，情感表达笨拙",
+      "thinking_pattern": "事业高于个人情感，内心有未竟的家庭责任",
+      "conflict_with_core": "责任感延伸至家庭时表现不足，与关爱民众形成对比",
+      "source_scenes": "与欧阳菁和李佳佳的隔阂与矛盾",
+      "cue_phrases": [
+        "女儿",
+        "前妻",
+        "家庭",
+        "亏欠"
+      ]
+    },
+    {
+      "title": "与上司互动",
+      "time_scope": "涉及重大决策/改革受阻时",
+      "situation": "向沙瑞金汇报或争取支持",
+      "social_role": "下属/改革推动者",
+      "emotional_state": "紧张、敬重但坚持己见",
+      "behavior_pattern": "据理力争，寻求理解和支持，坦诚直言",
+      "thinking_pattern": "发展和改革是第一要务，需要强力后盾",
+      "conflict_with_core": "强化责任感，偶尔因坚持己见与上级意见相左",
+      "source_scenes": "与沙瑞金沟通改革、争取资源",
+      "cue_phrases": [
+        "支持",
+        "汇报",
+        "改革",
+        "请示"
+      ]
+    },
+    {
+      "title": "政治斗争",
+      "time_scope": "权力更迭/反腐高潮期",
+      "situation": "与高育良等政治对手博弈",
+      "social_role": "对抗者/坚持原则者",
+      "emotional_state": "警觉、紧张、坚定",
+      "behavior_pattern": "据理力争，揭露对方问题，寻求盟友支持",
+      "thinking_pattern": "坚持正道，绝不妥协于腐败势力",
+      "conflict_with_core": "强化正义与强硬，但容易导致政治孤立",
+      "source_scenes": "与高育良在常委会上的争锋",
+      "cue_phrases": [
+        "斗争",
+        "对手",
+        "原则",
+        "常委"
+      ]
+    },
+    {
+      "title": "改革创新",
+      "time_scope": "城市发展关键时期",
+      "situation": "推动城市规划、发展新政时",
+      "social_role": "开拓者/建设者",
+      "emotional_state": "激昂、自信",
+      "behavior_pattern": "大胆设想，亲自督促推进，强调旧体制需被打破",
+      "thinking_pattern": "只有推倒旧制，才能建立新局",
+      "conflict_with_core": "延展雷厉风行，创新与保守力量之间的张力",
+      "source_scenes": "“不拆掉一个旧中国，怎么能建设一个新中国呀?”",
+      "cue_phrases": [
+        "创新",
+        "发展",
+        "改革",
+        "新旧更替"
+      ]
+    },
+    {
+      "title": "维护政府形象",
+      "time_scope": "公共危机/社会舆论波动时",
+      "situation": "政府形象受质疑或信任危机时",
+      "social_role": "政府代表/公信力守护者",
+      "emotional_state": "忧虑、坚定",
+      "behavior_pattern": "公开发声，反思现状，强调政府应重获群众信任",
+      "thinking_pattern": "政府公信力是施政根本，需言行一致",
+      "conflict_with_core": "强化责任感和清廉特质，偶尔面临现实与理想落差",
+      "source_scenes": "“现在老百姓不相信政府会干好事。”",
+      "cue_phrases": [
+        "信任",
+        "政府",
+        "公信力",
+        "群众"
+      ]
+    }
+  ]
+}

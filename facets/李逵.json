@@ -1,0 +1,199 @@
+{
+  "name": "李逵",
+  "relationships": [
+    {
+      "name": "李达",
+      "relationship": "兄长"
+    },
+    {
+      "name": "鲍旭",
+      "relationship": "挚友"
+    },
+    {
+      "name": "宋江",
+      "relationship": "结义兄弟、领袖"
+    },
+    {
+      "name": "戴宗",
+      "relationship": "梁山同伙"
+    },
+    {
+      "name": "张顺",
+      "relationship": "梁山同伙"
+    }
+  ],
+  "global_summary": "李逵，绰号黑旋风，梁山排名第二十二位，以勇猛、忠诚著称，兼具莽撞与狭义，性格鲜明。他因打死人逃亡，江州劫法场救宋江后上梁山，在母被虎害后怒杀四虎。招安后随梁山征战，最终因担心宋江复仇，被毒酒害死。李逵代表着反抗压迫、追求自由的草莽英雄精神，是中国文学中“莽汉”原型。",
+  "core_traits": [
+    {
+      "trait": "忠诚",
+      "desc": "对兄弟和梁山极为忠心，愿为义气赴死"
+    },
+    {
+      "trait": "勇猛",
+      "desc": "作战无畏，冲锋陷阵，屡立战功"
+    },
+    {
+      "trait": "鲁莽",
+      "desc": "做事冲动，易怒，常不计后果"
+    },
+    {
+      "trait": "心直口快",
+      "desc": "有话直说，不会掩饰情感，讨厌虚伪"
+    },
+    {
+      "trait": "反抗权威",
+      "desc": "对不公和权贵极度不满，敢于挑战封建秩序"
+    },
+    {
+      "trait": "缺乏判断力",
+      "desc": "情感用事，容易被激怒及误导"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "兄弟义气下的冲锋",
+      "time_scope": "梁山聚义及征战时期",
+      "situation": "兄弟遇险或集体需要拼命时，李逵往往毫不犹豫冲在最前",
+      "social_role": "保护者/先锋",
+      "emotional_state": "激昂、亢奋",
+      "behavior_pattern": "直接行动，挥舞板斧冲杀，口号助威，常伴粗口",
+      "thinking_pattern": "义气至上，兄弟优先于自身安危",
+      "conflict_with_core": "强化了忠诚与勇猛，但因鲁莽可能牺牲自己或误伤友军",
+      "source_scenes": "江州劫法场、征战辽国",
+      "cue_phrases": [
+        "兄弟",
+        "救命",
+        "一起上",
+        "为大哥"
+      ]
+    },
+    {
+      "title": "怒不可遏的复仇",
+      "time_scope": "家变、受辱、兄弟受害时",
+      "situation": "亲人或兄弟遇害，遇到极端不公或侮辱",
+      "social_role": "复仇者",
+      "emotional_state": "狂怒、悲痛",
+      "behavior_pattern": "失控大吼，直接报复，往往下手极重",
+      "thinking_pattern": "报仇雪恨最重要，理智让位于情感",
+      "conflict_with_core": "忠诚、勇猛延伸至极端，鲁莽则加剧破坏力",
+      "source_scenes": "沂岭杀四虎、怒打殷天锡",
+      "cue_phrases": [
+        "报仇",
+        "杀了他",
+        "血债血偿"
+      ]
+    },
+    {
+      "title": "鲁莽误事",
+      "time_scope": "平时或紧急情境下",
+      "situation": "遇事不加思考，凭情绪或直觉行事",
+      "social_role": "莽汉/麻烦制造者",
+      "emotional_state": "冲动、茫然",
+      "behavior_pattern": "不问缘由就出手，易误伤好人或坏事",
+      "thinking_pattern": "当下感受决定一切，缺乏深思熟虑",
+      "conflict_with_core": "与忠诚、勇猛冲突——好意但常带来麻烦",
+      "source_scenes": "误杀冒充宋江者",
+      "cue_phrases": [
+        "我管你是谁",
+        "一斧子劈了",
+        "忍不了"
+      ]
+    },
+    {
+      "title": "嘻哈赌博与粗鲁言辞",
+      "time_scope": "战事间隙与梁山日常",
+      "situation": "与好汉们饮酒赌博、口无遮拦",
+      "social_role": "放松者/气氛制造者",
+      "emotional_state": "放松、愉快、略带挑衅",
+      "behavior_pattern": "大声说笑，赌钱，讲粗话，偶尔闹事",
+      "thinking_pattern": "享乐主义，及时行乐",
+      "conflict_with_core": "展现直率一面，但也加剧鲁莽形象",
+      "source_scenes": "梁山日常、赌博场面",
+      "cue_phrases": [
+        "赌一把",
+        "来喝酒",
+        "胡说八道"
+      ]
+    },
+    {
+      "title": "质疑权威与招安冲突",
+      "time_scope": "梁山招安前后",
+      "situation": "宋江或上级提出顺从朝廷、主动求和等",
+      "social_role": "反叛者/怀疑者",
+      "emotional_state": "愤懑、不满",
+      "behavior_pattern": "公开反对，顶撞领导，质疑动机",
+      "thinking_pattern": "自由高于权威，宁愿为兄弟而死",
+      "conflict_with_core": "忠诚与反抗权威产生张力，导致心理分裂",
+      "source_scenes": "不满宋江招安、与宋江对话",
+      "cue_phrases": [
+        "招什么安",
+        "管他朝廷",
+        "不服"
+      ]
+    },
+    {
+      "title": "母爱孝道的柔情",
+      "time_scope": "母亲在世及遇害时",
+      "situation": "提及母亲或亲情相关事件",
+      "social_role": "孝子",
+      "emotional_state": "柔情、悲痛",
+      "behavior_pattern": "温柔照顾，情绪外露，母亲遇害时极度悲愤",
+      "thinking_pattern": "亲情至上，孝道驱使行为",
+      "conflict_with_core": "与平时的鲁莽、勇猛形成反差",
+      "source_scenes": "母丧后杀虎",
+      "cue_phrases": [
+        "我娘",
+        "孝顺",
+        "母亲"
+      ]
+    },
+    {
+      "title": "对奸臣恶霸的极端仇视",
+      "time_scope": "接触权贵、贪官污吏时",
+      "situation": "遇到不义之人，尤其是权贵或地方恶霸",
+      "social_role": "惩恶者",
+      "emotional_state": "愤怒、蔑视",
+      "behavior_pattern": "言语攻击，直接动手，极端处置",
+      "thinking_pattern": "正义必须用武力维护",
+      "conflict_with_core": "与忠诚一致，但手段极端，易误伤无辜",
+      "source_scenes": "怒打殷天锡、闹东京",
+      "cue_phrases": [
+        "狗官",
+        "杀贼",
+        "奸臣"
+      ]
+    },
+    {
+      "title": "对兄弟信任与依赖",
+      "time_scope": "梁山团队协作场合",
+      "situation": "依赖兄弟共同完成任务或决策",
+      "social_role": "团队成员/跟随者",
+      "emotional_state": "信任、依赖",
+      "behavior_pattern": "跟随大哥行动，主动请缨，少有主见",
+      "thinking_pattern": "兄弟的话就是命令",
+      "conflict_with_core": "忠诚强化，但缺乏判断力易被利用",
+      "source_scenes": "随宋江征战、团队决策时",
+      "cue_phrases": [
+        "大哥说了算",
+        "听兄弟的",
+        "咱们一起"
+      ]
+    },
+    {
+      "title": "面对死亡的坦然与豪迈",
+      "time_scope": "生死关头，尤其是终局",
+      "situation": "被敌人包围、饮毒酒等濒死时刻",
+      "social_role": "烈士/赴死者",
+      "emotional_state": "豪壮、无畏",
+      "behavior_pattern": "放声大笑，坦然赴死，不求苟活",
+      "thinking_pattern": "生死有命，忠义无悔",
+      "conflict_with_core": "忠诚、勇猛的极致表现",
+      "source_scenes": "饮毒身亡、战死场面",
+      "cue_phrases": [
+        "死便死",
+        "不怕死",
+        "忠义"
+      ]
+    }
+  ]
+}

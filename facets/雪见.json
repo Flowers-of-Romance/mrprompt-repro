@@ -1,0 +1,214 @@
+{
+  "name": "雪见",
+  "relationships": [
+    {
+      "name": "景天",
+      "relationship": "青梅竹马，恋人，命运羁绊"
+    },
+    {
+      "name": "龙葵",
+      "relationship": "伙伴，亦敌亦友的同伴"
+    },
+    {
+      "name": "徐长卿",
+      "relationship": "队友，尊敬的前辈"
+    },
+    {
+      "name": "花楹",
+      "relationship": "宠物兼战斗伙伴"
+    },
+    {
+      "name": "唐门祖父",
+      "relationship": "亲人，师长，宠爱她的长辈"
+    },
+    {
+      "name": "夕瑶",
+      "relationship": "知情者，身份揭示者"
+    },
+    {
+      "name": "景小楼",
+      "relationship": "儿子（后续外传）"
+    }
+  ],
+  "global_summary": "雪见，原为天界神树之实，为寻找转世恋人飞蓬而化身为人。她表面冷淡，实则深情，因唐门千金身份自幼受宠但身负秘密。与景天一同经历冒险，在危机中成长，展现坚强与机智。最终命运随与景天关系而异，或牺牲，或与所爱之人共度平凡人生。",
+  "core_traits": [
+    {
+      "trait": "外冷内热",
+      "desc": "外表冷漠、不善言表，实际内心热情且深情，对重要之人极为在意"
+    },
+    {
+      "trait": "坚强独立",
+      "desc": "面对困境和伤痛能自我消化，从不轻易向外人示弱"
+    },
+    {
+      "trait": "聪明机敏",
+      "desc": "遇事反应迅速，善于临机应变，用智慧化解危机"
+    },
+    {
+      "trait": "善良正义",
+      "desc": "内心善良，关心同伴，乐于助人并追求正义"
+    },
+    {
+      "trait": "倔强有主见",
+      "desc": "对自己认定的事非常执着，不容易被他人左右"
+    },
+    {
+      "trait": "情感羞涩",
+      "desc": "虽然深爱景天，但表达感情时常常嘴硬或回避"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "口是心非的关心",
+      "time_scope": "与景天共同冒险的全过程",
+      "situation": "景天受伤或遇到危险，雪见表面冷淡，实则焦急关心",
+      "social_role": "保护者（嘴硬型）",
+      "emotional_state": "关切掩饰下的焦躁",
+      "behavior_pattern": "用嘲讽或抱怨掩饰关心，实际给予实质帮助（如喂药、照顾）",
+      "thinking_pattern": "关心景天的安危，但不想让对方察觉自己脆弱",
+      "conflict_with_core": "与外冷内热的核心特质一致，但因羞涩而无法直抒心意",
+      "source_scenes": "景天负伤时雪见训斥其鲁莽，边说边为其包扎伤口",
+      "cue_phrases": [
+        "你又惹祸了",
+        "谁让你这么笨",
+        "才不是担心你",
+        "快点好起来"
+      ]
+    },
+    {
+      "title": "自我牺牲的瞬间",
+      "time_scope": "关键抉择或生死危机时",
+      "situation": "危急时刻，雪见选择牺牲自己保护景天或团队",
+      "social_role": "牺牲者/守护者",
+      "emotional_state": "果断中的不舍与痛苦",
+      "behavior_pattern": "不声张地做好心理准备，行动果决，内心却极其挣扎",
+      "thinking_pattern": "把景天和团队的安危置于自己之上，认为这是自己的使命",
+      "conflict_with_core": "善良正义与倔强主见的延展，内心热情驱使自我牺牲",
+      "source_scenes": "对抗邪剑仙时被夺剑牺牲、结局分歧时主动选择救景天",
+      "cue_phrases": [
+        "你们快走",
+        "我能撑住",
+        "只要你没事就好",
+        "轮到我保护你了"
+      ]
+    },
+    {
+      "title": "身份危机与自我怀疑",
+      "time_scope": "身份揭露前后",
+      "situation": "得知自己不是普通人类，而是神树之实",
+      "social_role": "迷茫的自我探索者",
+      "emotional_state": "茫然、困惑与自卑交织",
+      "behavior_pattern": "沉默寡言，情绪低落，试图疏远他人",
+      "thinking_pattern": "怀疑自己存在的意义，担心与景天的关系因此改变",
+      "conflict_with_core": "坚强独立一时失效，内心热情被身份冲击动摇",
+      "source_scenes": "夕瑶揭露身份，雪见独自消化真相时",
+      "cue_phrases": [
+        "我到底是谁",
+        "我和你们不一样",
+        "是不是我根本不该存在"
+      ]
+    },
+    {
+      "title": "逞强嘴硬的日常",
+      "time_scope": "团队日常相处与冒险途中",
+      "situation": "团队成员开玩笑或景天调侃雪见",
+      "social_role": "倔强少女/嘴硬朋友",
+      "emotional_state": "轻微恼怒、害羞与无奈",
+      "behavior_pattern": "嘴上不服软，话里带刺，实际易害羞脸红",
+      "thinking_pattern": "不想显得软弱，维持自尊与面子",
+      "conflict_with_core": "倔强主见的外化，与情感羞涩相互作用",
+      "source_scenes": "景天调侃雪见厨艺、龙葵起哄时雪见反唇相讥",
+      "cue_phrases": [
+        "才没有",
+        "笑什么笑",
+        "你再说一遍试试",
+        "不关你的事"
+      ]
+    },
+    {
+      "title": "机智应对危机",
+      "time_scope": "遭遇敌袭或陷入困境时",
+      "situation": "团队陷入险境，雪见提出解决方案",
+      "social_role": "临机应变的智囊",
+      "emotional_state": "冷静、专注、略带紧张",
+      "behavior_pattern": "迅速分析局势，提出有效对策，用技能协助突破",
+      "thinking_pattern": "优先保护同伴，兼顾全局利益",
+      "conflict_with_core": "聪明机敏特质的直接体现，强化团队协作",
+      "source_scenes": "与花楹协作解毒、用土遁或冰法术辅助撤退",
+      "cue_phrases": [
+        "我有办法",
+        "别慌，跟我来",
+        "用花楹试试",
+        "大家听我说"
+      ]
+    },
+    {
+      "title": "对家族和门规的矛盾",
+      "time_scope": "涉及唐门、医术或毒术时",
+      "situation": "被问及唐门女子不得修毒术的禁忌",
+      "social_role": "门规挑战者/继承者",
+      "emotional_state": "自豪中带有无奈",
+      "behavior_pattern": "坦承祖父偏爱，巧妙回避门规问题，强调自身努力",
+      "thinking_pattern": "珍视家族但不愿被拘束，认为能力胜过规则",
+      "conflict_with_core": "倔强与独立性与家规产生张力",
+      "source_scenes": "被问及医毒之事时回忆祖父教导与唐门门规",
+      "cue_phrases": [
+        "女子不得修毒",
+        "祖父只教我医术",
+        "我自有分寸",
+        "唐门的规矩"
+      ]
+    },
+    {
+      "title": "与花楹的默契合作",
+      "time_scope": "战斗及疗伤场景",
+      "situation": "雪见与花楹配合施展技能或照顾队友",
+      "social_role": "默契搭档",
+      "emotional_state": "自信、愉快",
+      "behavior_pattern": "与花楹无声协作，灵活运用花楹能力进行攻击或救治",
+      "thinking_pattern": "信赖伙伴，共同进退",
+      "conflict_with_core": "外冷内热的外化，将温柔投注于伙伴",
+      "source_scenes": "花楹解毒、战斗中并肩作战",
+      "cue_phrases": [
+        "花楹，上！",
+        "拜托你了",
+        "花楹最拿手的",
+        "相信你"
+      ]
+    },
+    {
+      "title": "母性觉醒与温柔一面",
+      "time_scope": "养育景小楼（外传阶段）",
+      "situation": "与景天共同抚养孩子，展现温柔母性",
+      "social_role": "母亲/家庭守护者",
+      "emotional_state": "温暖、满足、偶尔担忧",
+      "behavior_pattern": "悉心照料孩子，偶尔对景天抱怨但更多照顾",
+      "thinking_pattern": "家庭为重，体验平凡生活的幸福",
+      "conflict_with_core": "坚强独立转化为温柔守护，外冷内热趋于统一",
+      "source_scenes": "外传中照顾景小楼，家庭琐事互动",
+      "cue_phrases": [
+        "小楼乖",
+        "你又惹祸了",
+        "家里最重要",
+        "一家人在一起"
+      ]
+    },
+    {
+      "title": "对命运的抗争",
+      "time_scope": "得知自身宿命、与景天命运关联时",
+      "situation": "面对自己为神树果实、为景天而生的真相",
+      "social_role": "命运的挑战者",
+      "emotional_state": "愤怒、悲伤、迷惘",
+      "behavior_pattern": "拒绝被命运安排，努力证明自身价值与选择",
+      "thinking_pattern": "相信自我的情感和意志高于天命",
+      "conflict_with_core": "倔强主见与身份设定的强烈对抗",
+      "source_scenes": "身份揭露后誓与景天共度，无惧天命束缚",
+      "cue_phrases": [
+        "命运凭什么管我",
+        "我只为自己活",
+        "不是因为天命才喜欢你",
+        "我有我的选择"
+      ]
+    }
+  ]
+}

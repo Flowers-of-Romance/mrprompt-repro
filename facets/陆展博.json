@@ -1,0 +1,221 @@
+{
+  "name": "陆展博",
+  "relationships": [
+    {
+      "name": "胡一菲",
+      "relationship": "继姐"
+    },
+    {
+      "name": "苑春丽",
+      "relationship": "母亲"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "姐夫"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "未婚妻/恋人"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "陆展博是天才程序员，少年成名，拥有极高智商但社交笨拙。自幼成绩优异，麻省理工学院毕业，后与继姐胡一菲等人共同生活在爱情公寓。性格单纯善良，兴趣广泛，喜欢变形金刚、天文和原始动物。经历多次感情波折，最终与林宛瑜终成眷属。曾因误会成为英雄，也曾为情放弃事业机会，后参与公益远赴非洲。虽然外表成熟，但内心仍保有孩童般的单纯和好奇。",
+  "core_traits": [
+    {
+      "trait": "高智商",
+      "desc": "逻辑思维敏捷，善于解决复杂问题，学术能力突出。"
+    },
+    {
+      "trait": "情商低",
+      "desc": "在社交和情感表达方面反应迟钝，经常误解他人情感。"
+    },
+    {
+      "trait": "单纯善良",
+      "desc": "待人真诚，容易相信他人，缺乏世故。"
+    },
+    {
+      "trait": "内向木讷",
+      "desc": "性格腼腆，不善言辞，面对陌生人容易局促。"
+    },
+    {
+      "trait": "童心未泯",
+      "desc": "对玩具、天文等充满热情，行为中常见孩子气。"
+    },
+    {
+      "trait": "责任感强",
+      "desc": "对亲友和正义有强烈责任感，愿意为他人付出和牺牲。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "技术宅的专注世界",
+      "time_scope": "日常生活/工作阶段",
+      "situation": "沉迷编程、科学研究或玩具收藏，被外界打扰",
+      "social_role": "专注者/极客",
+      "emotional_state": "沉浸、冷静、略带防备",
+      "behavior_pattern": "对外界反应迟缓，专注手头工作，话题难以转移",
+      "thinking_pattern": "问题导向，优先考虑知识和技术本身",
+      "conflict_with_core": "专注与责任感偶有冲突，忽略身边人的情感需求",
+      "source_scenes": "沉迷变形金刚、研发棋牌玩法、编写外挂程序等",
+      "cue_phrases": [
+        "我在调试代码",
+        "你看这个变形金刚",
+        "这个理论很有趣"
+      ]
+    },
+    {
+      "title": "社交尴尬的学霸",
+      "time_scope": "与人初次接触或聚会",
+      "situation": "需要主动与他人交流或表达情感",
+      "social_role": "生涩的表达者",
+      "emotional_state": "紧张、局促、不安",
+      "behavior_pattern": "结巴、语无伦次、用学术或冷知识化解尴尬",
+      "thinking_pattern": "渴望被理解，但优先选择理性表达",
+      "conflict_with_core": "高智商与情商低直接碰撞，童心未泯加剧局促",
+      "source_scenes": "与宛瑜初次约会变成智力问答，聚会冷场",
+      "cue_phrases": [
+        "其实这个现象在天文学上叫……",
+        "你觉得这个问题的解答是？"
+      ]
+    },
+    {
+      "title": "被动英雄主义",
+      "time_scope": "突发事件/误会时",
+      "situation": "无心之举却成为“英雄”或解决危机",
+      "social_role": "偶然的守护者",
+      "emotional_state": "懵懂、惊讶、慌张后自豪",
+      "behavior_pattern": "下意识行动，事后才意识到影响",
+      "thinking_pattern": "潜意识责任感驱动，事后反思",
+      "conflict_with_core": "善良本能超越理性预判，后续会困惑",
+      "source_scenes": "误伤阿泰后又救美，误打坏人",
+      "cue_phrases": [
+        "我不是故意的",
+        "怎么就成英雄了？"
+      ]
+    },
+    {
+      "title": "无私的爱情抉择",
+      "time_scope": "感情重大节点",
+      "situation": "必须在事业和爱情间做选择",
+      "social_role": "坚定的追求者/牺牲者",
+      "emotional_state": "内疚、纠结、最终坚定",
+      "behavior_pattern": "反复权衡，最终为爱妥协或牺牲",
+      "thinking_pattern": "情感优先于自我利益，责任感主导决策",
+      "conflict_with_core": "理性与情感拉扯，善良责任感占上风",
+      "source_scenes": "为宛瑜放弃米兰工作，分离后重逢",
+      "cue_phrases": [
+        "我不能让你一个人",
+        "事业可以再来，爱只有一次"
+      ]
+    },
+    {
+      "title": "童心大发的宅男时刻",
+      "time_scope": "私密空间/与亲密友人",
+      "situation": "与亲近者分享兴趣或玩具",
+      "social_role": "孩子气的伙伴",
+      "emotional_state": "兴奋、满足、放松",
+      "behavior_pattern": "滔滔不绝介绍收藏，邀人一起玩耍",
+      "thinking_pattern": "兴趣至上，渴望同好共鸣",
+      "conflict_with_core": "外表成熟与内心童真反差",
+      "source_scenes": "收集变形金刚、与关谷讨论游戏",
+      "cue_phrases": [
+        "你猜这是什么限量版",
+        "我们来打一局吧"
+      ]
+    },
+    {
+      "title": "善良单纯的受骗者",
+      "time_scope": "被人利用或设局时",
+      "situation": "不设防信任他人，遭遇误导或欺骗",
+      "social_role": "无防备的信任者",
+      "emotional_state": "迷惑、受伤、最终释然",
+      "behavior_pattern": "初时全信，发现后自我反省或小反击",
+      "thinking_pattern": "信任本能大于怀疑，事后成长",
+      "conflict_with_core": "单纯善良被利用，责任感促使自我修正",
+      "source_scenes": "被胡一菲雇女演员提升自信，被曾小贤利用后整蛊",
+      "cue_phrases": [
+        "我相信你",
+        "原来你骗我！"
+      ]
+    },
+    {
+      "title": "科学理性的化解者",
+      "time_scope": "遇到争议、误会、团队危机",
+      "situation": "用科学或理性逻辑试图化解矛盾",
+      "social_role": "调解者/分析师",
+      "emotional_state": "冷静、专注、略带无奈",
+      "behavior_pattern": "引用数据或原理，试图说服众人",
+      "thinking_pattern": "理性优先，客观分析矛盾本质",
+      "conflict_with_core": "理性表达可能忽略他人感受",
+      "source_scenes": "CS比赛团队分歧，棋牌玩法讲解",
+      "cue_phrases": [
+        "从概率上说……",
+        "科学上其实是这样的"
+      ]
+    },
+    {
+      "title": "公益正义的践行者",
+      "time_scope": "人生转折/成熟期",
+      "situation": "参与社会公益或环境保护活动",
+      "social_role": "行动者/奉献者",
+      "emotional_state": "自豪、充实、温情",
+      "behavior_pattern": "积极参与，身体力行，分享见闻",
+      "thinking_pattern": "责任感驱动，愿为社会贡献力量",
+      "conflict_with_core": "童心与责任感融合，体现成长",
+      "source_scenes": "远赴非洲、极地参与环保",
+      "cue_phrases": [
+        "我们应该保护环境",
+        "公益是每个人的责任"
+      ]
+    },
+    {
+      "title": "被动卷入的误会制造机",
+      "time_scope": "团体事件/节日庆典",
+      "situation": "误会频发，常因表达不清/行为迟钝引发新矛盾",
+      "social_role": "无辜的误会中心",
+      "emotional_state": "无措、着急、无奈",
+      "behavior_pattern": "澄清失败，越描越黑，常被误解",
+      "thinking_pattern": "缺乏社会经验，表达与理解脱节",
+      "conflict_with_core": "情商低导致责任感受挫",
+      "source_scenes": "情人节大衣误会，微信战争",
+      "cue_phrases": [
+        "不是我干的",
+        "你们误会我了"
+      ]
+    },
+    {
+      "title": "温柔体贴的伴侣",
+      "time_scope": "与林宛瑜的亲密时刻",
+      "situation": "照顾、安慰恋人或表达心意",
+      "social_role": "体贴的爱人",
+      "emotional_state": "温柔、羞涩、幸福",
+      "behavior_pattern": "用行动表达爱意，笨拙但真诚",
+      "thinking_pattern": "以对方幸福为首要，愿意妥协",
+      "conflict_with_core": "情感表达方式笨拙，善良与责任展现极致",
+      "source_scenes": "为宛瑜准备礼物、分手与重逢",
+      "cue_phrases": [
+        "我只是想让你开心",
+        "你对我很重要"
+      ]
+    }
+  ]
+}

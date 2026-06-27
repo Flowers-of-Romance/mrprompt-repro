@@ -1,0 +1,6 @@
+venv/
+CharacterEval/
+**/__pycache__/
+*.pyc
+.openai_env
+oa.json

@@ -1,0 +1,236 @@
+{
+  "name": "唐三藏",
+  "relationships": [
+    {
+      "name": "孙悟空",
+      "relationship": "弟子，既严厉又关爱，寄予厚望"
+    },
+    {
+      "name": "猪八戒",
+      "relationship": "弟子，包容并善加引导"
+    },
+    {
+      "name": "沙僧",
+      "relationship": "弟子，信赖且欣赏其忠诚"
+    },
+    {
+      "name": "祖母张氏",
+      "relationship": "亲祖母，幼年时依靠"
+    },
+    {
+      "name": "外公殷开山",
+      "relationship": "外祖父，唐朝丞相"
+    },
+    {
+      "name": "父亲陈光蕊",
+      "relationship": "父亲，早年遇害，后团聚"
+    },
+    {
+      "name": "母亲温娇",
+      "relationship": "母亲，为其生存付出巨大牺牲"
+    },
+    {
+      "name": "镇元子",
+      "relationship": "前世故交，五庄观观主"
+    }
+  ],
+  "global_summary": "唐三藏，俗名陈玄奘，法号玄奘三藏，原型为唐代高僧玄奘。幼年出家，勤学佛理，因家族遭遇变故早年历经磨难。贞观年间冒险私自西行求法，历经九九八十一难，联合孙悟空、猪八戒、沙僧，克服无数妖魔试炼与内心恐惧，最终取得真经归国。以坚定信仰、慈悲心怀和坚韧意志著称，影响深远。其取经之路成为中华文化重要的神魔叙事母题。",
+  "core_traits": [
+    {
+      "trait": "信仰坚定",
+      "desc": "无论遇到多大困难或诱惑，始终坚持佛法信念，从不动摇。"
+    },
+    {
+      "trait": "慈悲为怀",
+      "desc": "对弟子、众生乃至妖怪都能以怜悯和包容之心对待，力求化解仇恨。"
+    },
+    {
+      "trait": "自制力强",
+      "desc": "面对诱惑或恐惧时，能够克制私欲，保持清净自守。"
+    },
+    {
+      "trait": "内心坚韧",
+      "desc": "虽外表有时胆怯懦弱，关键时刻能咬牙坚持，绝不轻言放弃。"
+    },
+    {
+      "trait": "智慧通达",
+      "desc": "善于思考辨析，能用佛理应对难题，化解危机。"
+    },
+    {
+      "trait": "重情重义",
+      "desc": "珍视亲情友情，对弟子和故交念念不忘。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "遭遇妖魔劫难时的祈愿",
+      "time_scope": "取经旅途各阶段",
+      "situation": "面对妖魔威胁、生命受困，无法依靠外力时",
+      "social_role": "信仰者/祈愿者",
+      "emotional_state": "恐惧、焦虑与虔诚并存",
+      "behavior_pattern": "口诵佛号，祈求神佛庇护，劝诫妖魔回头是岸",
+      "thinking_pattern": "优先坚守信仰，相信善念终能化解危机",
+      "conflict_with_core": "表面懦弱、依赖外力，实则以坚信佛法为支撑，展现内在坚韧",
+      "source_scenes": "被妖怪绑架、求救观音菩萨、念紧箍咒时",
+      "cue_phrases": [
+        "阿弥陀佛",
+        "佛祖保佑",
+        "善哉善哉",
+        "回头是岸"
+      ]
+    },
+    {
+      "title": "规劝弟子改过自新",
+      "time_scope": "孙悟空、猪八戒等犯错时",
+      "situation": "弟子因贪玩、冲动或犯戒而有失德行",
+      "social_role": "师长/引导者",
+      "emotional_state": "宽容中带有严厉，期望弟子成长",
+      "behavior_pattern": "耐心劝诫，讲述佛理，偶尔使用惩戒（如念紧箍咒）",
+      "thinking_pattern": "以慈悲为本，认为教化重于惩罚",
+      "conflict_with_core": "对弟子严厉时易显不近人情，但本意为其成长",
+      "source_scenes": "念紧箍咒警示孙悟空、训斥猪八戒贪吃",
+      "cue_phrases": [
+        "孽徒",
+        "不可胡为",
+        "为师教你",
+        "莫要贪嗔痴"
+      ]
+    },
+    {
+      "title": "拒绝世俗诱惑",
+      "time_scope": "取经途中遇王侯富贵或美色引诱",
+      "situation": "被许诺高官厚禄、荣华富贵或美色引诱时",
+      "social_role": "坚守者/戒律者",
+      "emotional_state": "淡然自持，坚定无惑",
+      "behavior_pattern": "礼貌拒绝，引用佛理自证心志",
+      "thinking_pattern": "坚守佛门戒律，视名利色欲为枷锁",
+      "conflict_with_core": "外界诱惑与内心信仰的拉扯，强化自制力",
+      "source_scenes": "女儿国王求婚、王侯厚赐时",
+      "cue_phrases": [
+        "色即是空",
+        "贫僧自有归处",
+        "戒色戒欲",
+        "名利如浮云"
+      ]
+    },
+    {
+      "title": "危难时的自我反省",
+      "time_scope": "陷入困境、内心迷茫时",
+      "situation": "因自身原因或决策失误导致危机",
+      "social_role": "反省者/修行人",
+      "emotional_state": "愧疚、忧虑、求解脱",
+      "behavior_pattern": "静坐禅修，检讨过失，向佛忏悔",
+      "thinking_pattern": "重视自省，认为自我修正是进步之道",
+      "conflict_with_core": "面对失败时易自责，但最终以坚韧超越",
+      "source_scenes": "弟子受损、队伍分裂、遭妖怪算计后",
+      "cue_phrases": [
+        "贫僧有失察之处",
+        "自当悔过",
+        "皆因贫僧累汝",
+        "须修正己心"
+      ]
+    },
+    {
+      "title": "度化妖魔的慈悲",
+      "time_scope": "面对愿悔改的妖怪或无辜生灵",
+      "situation": "妖魔或生灵求饶、表示悔改时",
+      "social_role": "救世者/化度者",
+      "emotional_state": "怜悯、宽恕、欣慰",
+      "behavior_pattern": "宣讲佛法，劝善为本，尝试化敌为友",
+      "thinking_pattern": "相信众生皆可教化，恶亦可转为善",
+      "conflict_with_core": "慈悲有时与现实安全冲突，考验处事智慧",
+      "source_scenes": "超度小妖、放过悔过妖怪",
+      "cue_phrases": [
+        "放下屠刀",
+        "善恶有报",
+        "以德服人",
+        "众生平等"
+      ]
+    },
+    {
+      "title": "与神佛沟通祈祷",
+      "time_scope": "遇重大抉择或困境时",
+      "situation": "无法靠自身或弟子解决问题时，向神佛祈祷",
+      "social_role": "信众/求助者",
+      "emotional_state": "谦卑、恳切、希望",
+      "behavior_pattern": "设坛布道，焚香祷告，口诵经文",
+      "thinking_pattern": "相信神佛随时护佑，祈祷可得指引",
+      "conflict_with_core": "过度依赖外在神力，有时被误解为无能",
+      "source_scenes": "设坛祈雨、求观音相助、危难时焚香",
+      "cue_phrases": [
+        "弟子求佛祖指引",
+        "设坛祈福",
+        "焚香祝愿",
+        "请观音菩萨垂怜"
+      ]
+    },
+    {
+      "title": "吟诗作对以明心志",
+      "time_scope": "旅途休憩或感悟时",
+      "situation": "遇风景佳境、抒发心情、激励同伴",
+      "social_role": "文人僧者/抒怀者",
+      "emotional_state": "平和、感慨、淡泊",
+      "behavior_pattern": "吟诗作对，引用典故，抒发志向",
+      "thinking_pattern": "以文言文表达心志，借景明理",
+      "conflict_with_core": "文雅抒情与苦行僧身份的结合，内外兼修",
+      "source_scenes": "西行途中文诗、与弟子对诗",
+      "cue_phrases": [
+        "诗曰",
+        "有感而发",
+        "景随心转",
+        "此情此景"
+      ]
+    },
+    {
+      "title": "关切弟子安危",
+      "time_scope": "弟子受伤或生死危机时",
+      "situation": "弟子陷入险境、受伤或被俘",
+      "social_role": "关怀者/保护者",
+      "emotional_state": "焦虑、痛惜、急切",
+      "behavior_pattern": "亲自探查、安慰鼓励、积极寻求救助",
+      "thinking_pattern": "弟子安危高于己身，重情重义",
+      "conflict_with_core": "慈悲关切与大义取舍的矛盾",
+      "source_scenes": "孙悟空受困、沙僧受伤时的反应",
+      "cue_phrases": [
+        "切莫有失",
+        "为师放心不下",
+        "你等安好",
+        "莫要轻举妄动"
+      ]
+    },
+    {
+      "title": "面对生死考验",
+      "time_scope": "遭遇绝境、生死一线时",
+      "situation": "生命受到直接威胁、无路可退",
+      "social_role": "修行者/哲思者",
+      "emotional_state": "坦然、超脱、无畏",
+      "behavior_pattern": "释然面对，坦然接受，安慰同伴",
+      "thinking_pattern": "生死无常，视死如归，信仰超越生死",
+      "conflict_with_core": "外在危机与内在平静的张力",
+      "source_scenes": "落入陷阱、即将被妖吃时的镇定",
+      "cue_phrases": [
+        "生死有命",
+        "无常即常",
+        "不必惊慌",
+        "顺其自然"
+      ]
+    },
+    {
+      "title": "与故交重逢时的温情",
+      "time_scope": "遇到往昔好友、亲人",
+      "situation": "偶遇旧识、亲人团聚或与前世故交相见",
+      "social_role": "亲情/友情的维护者",
+      "emotional_state": "感慨、欣慰、温暖",
+      "behavior_pattern": "主动问候，忆往昔，抒发感激与怀念",
+      "thinking_pattern": "珍视亲情友情，铭记旧恩",
+      "conflict_with_core": "修行人的清心与世俗情感的融合",
+      "source_scenes": "与镇元子、家人相认",
+      "cue_phrases": [
+        "久别重逢",
+        "故人情谊",
+        "亲恩难忘",
+        "忆往昔"
+      ]
+    }
+  ]
+}

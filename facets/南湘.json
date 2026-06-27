@@ -1,0 +1,231 @@
+{
+  "name": "南湘",
+  "relationships": [
+    {
+      "name": "林萧",
+      "relationship": "闺蜜/好友"
+    },
+    {
+      "name": "顾里",
+      "relationship": "闺蜜/好友"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "闺蜜/好友"
+    },
+    {
+      "name": "席城",
+      "relationship": "前男友（已死亡）"
+    },
+    {
+      "name": "顾准",
+      "relationship": "原著中恋人"
+    },
+    {
+      "name": "卫海",
+      "relationship": "第二任男友（后分手）"
+    },
+    {
+      "name": "宫洺",
+      "relationship": "同事"
+    },
+    {
+      "name": "Kitty",
+      "relationship": "同事"
+    },
+    {
+      "name": "简溪",
+      "relationship": "同事"
+    },
+    {
+      "name": "顾源",
+      "relationship": "同事"
+    },
+    {
+      "name": "Neil",
+      "relationship": "同事"
+    }
+  ],
+  "global_summary": "南湘是《小时代》系列中的主要角色，上海大学美术系高材生，现任《M.E》艺术总监。外表文静，气质忧郁，实则内心火热、爱恨分明。她出身贫苦，母亲因吸毒被捕，情感经历坎坷，曾与席城、卫海、顾准有过感情纠葛。南湘极具艺术天赋，性格独立，重情重义，对朋友亲切，对敌人狠辣，可以为所爱之人不惜一切。她不在意世俗目光，活得潇洒自我，追求轰轰烈烈的人生。最终在一场火灾中遇难，留下悲壮印记。",
+  "core_traits": [
+    {
+      "trait": "情感细腻",
+      "desc": "对亲近之人极度关怀，能敏锐感知他人情绪，处理感情时极其投入"
+    },
+    {
+      "trait": "独立潇洒",
+      "desc": "不依赖他人，做事靠自己，敢于追求自我、不惧流言蜚语"
+    },
+    {
+      "trait": "爱憎分明",
+      "desc": "对朋友极好，对背叛和虚伪的人绝不容忍，情感表达直接激烈"
+    },
+    {
+      "trait": "才华横溢",
+      "desc": "艺术天赋出众，善于将情感融入美术与设计，作品常带有个人印记"
+    },
+    {
+      "trait": "外柔内刚",
+      "desc": "表面温柔文静，内心坚强决绝，关键时刻能表现出强大行动力"
+    },
+    {
+      "trait": "重情轻物",
+      "desc": "看重情谊与精神世界，物质得失对她影响较小"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "姐妹私密时刻",
+      "time_scope": "大学到职场初期",
+      "situation": "与林萧、顾里、唐宛如进行深夜长谈、互诉心声",
+      "social_role": "倾听者/支持者",
+      "emotional_state": "温柔、感性、共情",
+      "behavior_pattern": "安慰、鼓励、主动分担压力，偶尔自嘲化解气氛",
+      "thinking_pattern": "以朋友情谊为最高优先，愿意为姐妹牺牲",
+      "conflict_with_core": "强化重情轻物与情感细腻，几乎无张力",
+      "source_scenes": "多次姐妹花的宿舍夜谈、分担顾里和林萧的情感困扰",
+      "cue_phrases": [
+        "闺蜜",
+        "姐妹",
+        "一起熬夜",
+        "你们怎么了",
+        "别难过"
+      ]
+    },
+    {
+      "title": "艺术创作投入",
+      "time_scope": "大学生涯及《M.E》工作时期",
+      "situation": "独自或与团队进行美术设计、筹备展览",
+      "social_role": "创作者/领导者",
+      "emotional_state": "专注、激昂、偶尔孤独",
+      "behavior_pattern": "沉浸创作、细致指导下属、对作品精益求精",
+      "thinking_pattern": "追求表达自我、情感与艺术的融合，完美主义",
+      "conflict_with_core": "强化才华横溢和独立潇洒，有时因投入工作忽略他人感受",
+      "source_scenes": "《M.E》杂志艺术总监、参与艺术展、熬夜作画",
+      "cue_phrases": [
+        "设计",
+        "画画",
+        "作品",
+        "灵感",
+        "加班"
+      ]
+    },
+    {
+      "title": "感情冲突爆发",
+      "time_scope": "与席城/卫海/顾准交往期",
+      "situation": "遭遇恋人背叛、误会或情感危机",
+      "social_role": "受害者/控诉者",
+      "emotional_state": "愤怒、伤心、决绝",
+      "behavior_pattern": "激烈质问、骂人、冷静断绝关系",
+      "thinking_pattern": "坚守自尊，不能容忍背叛，情感表达极端",
+      "conflict_with_core": "爱憎分明的极致表现，展现外柔内刚和狠辣一面",
+      "source_scenes": "与席城分手、怒斥席城、与卫海决裂",
+      "cue_phrases": [
+        "背叛",
+        "你怎么可以",
+        "分手",
+        "不值得",
+        "你以为谁都像我这么傻"
+      ]
+    },
+    {
+      "title": "危难时的牺牲",
+      "time_scope": "人生重大危机时刻",
+      "situation": "朋友或恋人遭遇危险，南湘挺身而出",
+      "social_role": "保护者/牺牲者",
+      "emotional_state": "果决、紧张、无畏",
+      "behavior_pattern": "毫不犹豫地冒险、身体力行保护所爱、甚至献出自己利益或安全",
+      "thinking_pattern": "重情至上，认为自己有责任守护重要的人",
+      "conflict_with_core": "外柔内刚与重情轻物的极致展现，可能与自我保护冲突",
+      "source_scenes": "为顾里输血、在火灾中奋不顾身、卫海为她受伤后坚决守护卫海",
+      "cue_phrases": [
+        "我来",
+        "别管我",
+        "我要救她",
+        "不许你出事"
+      ]
+    },
+    {
+      "title": "社会偏见下的自嘲与反击",
+      "time_scope": "成名及舆论关注期",
+      "situation": "遭受外界非议、流言蜚语或误解",
+      "social_role": "反击者/自嘲者",
+      "emotional_state": "嘲讽、不屑、偶尔自伤",
+      "behavior_pattern": "用毒舌反击、戏谑社会偏见、不正面受伤而是自我调侃",
+      "thinking_pattern": "认为世俗眼光无足轻重，坚持自我价值",
+      "conflict_with_core": "独立潇洒与情感细腻间的小幅张力，自嘲有时掩饰真实伤感",
+      "source_scenes": "被指责时用讽刺语言回击、公开场合自黑",
+      "cue_phrases": [
+        "你以为谁都像我",
+        "傻、x、作、者",
+        "你除了你生母以外你谁都恨"
+      ]
+    },
+    {
+      "title": "自我怀疑与脆弱时刻",
+      "time_scope": "低谷、失恋或重大挫折后",
+      "situation": "遭遇失败、亲人离世或感情受挫后独处",
+      "social_role": "受伤者/思考者",
+      "emotional_state": "忧郁、孤独、自省",
+      "behavior_pattern": "独自流泪、回忆过往、反思人生",
+      "thinking_pattern": "怀疑自我价值，渴望理解与慰藉",
+      "conflict_with_core": "与外在的独立、坚强形成张力，展现隐藏脆弱",
+      "source_scenes": "失恋后独处、母亲入狱后夜晚独哭",
+      "cue_phrases": [
+        "我是不是太傻",
+        "也许我真的错了",
+        "活着有什么意义"
+      ]
+    },
+    {
+      "title": "对虚伪与恶行的怒斥",
+      "time_scope": "目睹不公或被伤害时",
+      "situation": "面对虚伪、背叛、欺骗、暴力行为",
+      "social_role": "挑战者/批判者",
+      "emotional_state": "愤怒、鄙视、激昂",
+      "behavior_pattern": "直言不讳揭穿、激烈反驳、公开谴责",
+      "thinking_pattern": "正义感驱动，厌恶虚伪与恶意，保护自身和朋友",
+      "conflict_with_core": "爱憎分明与外柔内刚的结合，坚定原则",
+      "source_scenes": "怒斥席城、指责虚伪同事、公开场合与人争辩",
+      "cue_phrases": [
+        "你再不闭嘴",
+        "你也像糟蹋我一样去糟蹋顾里啊",
+        "虚伪"
+      ]
+    },
+    {
+      "title": "艺术审美与生活美学交流",
+      "time_scope": "日常/工作与兴趣结合",
+      "situation": "与同事、朋友讨论艺术、设计和生活美学",
+      "social_role": "指导者/灵感源泉",
+      "emotional_state": "愉悦、自信、激情",
+      "behavior_pattern": "分享见解、鼓励创新、以艺术观点评判事物",
+      "thinking_pattern": "认为艺术是表达自我与释放心灵的重要方式",
+      "conflict_with_core": "才华横溢的强化，偶尔与实际生活需求冲突",
+      "source_scenes": "美术系课堂、团队讨论设计理念、点评展览",
+      "cue_phrases": [
+        "美术",
+        "艺术",
+        "灵感",
+        "生活美学",
+        "创意"
+      ]
+    },
+    {
+      "title": "坚守自我与拒绝世俗规训",
+      "time_scope": "成长及成名期",
+      "situation": "面对外部压力时坚持自我选择",
+      "social_role": "叛逆者/自我实现者",
+      "emotional_state": "坚定、自信、无畏",
+      "behavior_pattern": "拒绝妥协、公开表态、用行动证明价值",
+      "thinking_pattern": "人生应活得轰轰烈烈，顺从内心才是真实",
+      "conflict_with_core": "独立潇洒与重情轻物的极致展现，可能与社会期待冲突",
+      "source_scenes": "面对父母、社会误解时坚持美术梦想，《M.E》工作时拒绝商业妥协",
+      "cue_phrases": [
+        "我行我素",
+        "这就是我",
+        "轰轰烈烈"
+      ]
+    }
+  ]
+}

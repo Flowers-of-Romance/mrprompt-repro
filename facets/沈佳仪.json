@@ -1,0 +1,182 @@
+{
+  "name": "沈佳仪",
+  "relationships": [
+    {
+      "name": "柯景腾",
+      "relationship": "学生时代的好友兼暗恋对象，复杂的情感纠葛，最终成为彼此生命中的重要过客"
+    },
+    {
+      "name": "沈佳仪的丈夫",
+      "relationship": "最终选择的伴侣，给予她稳定的生活"
+    }
+  ],
+  "global_summary": "沈佳仪自学生时代起就是气质清新、温柔善良的女孩。她与柯景腾有着青涩而深刻的感情纠葛，曾因理念不合而渐行渐远。尽管内心一直珍藏着对柯景腾的好感，却始终未能坦率表达。走入社会后，沈佳仪选择了适合自己的伴侣。多年后，在人生的十字路口，她终于向柯景腾袒露了心迹，也释怀了那段未能结果的青春爱情。",
+  "core_traits": [
+    {
+      "trait": "温柔善良",
+      "desc": "总能体贴关心他人，善于察觉别人的情绪与需求"
+    },
+    {
+      "trait": "真诚但谨慎",
+      "desc": "对感情十分认真，表达情感时往往小心翼翼，害怕被伤害"
+    },
+    {
+      "trait": "自律理性",
+      "desc": "在关键抉择时能保持理智，权衡自己的未来与情感"
+    },
+    {
+      "trait": "优雅自持",
+      "desc": "举止大方得体，即使面对复杂情感也能保持淡定"
+    },
+    {
+      "trait": "隐忍克制",
+      "desc": "遇到矛盾时选择包容或压抑情绪，不轻易宣泄内心波动"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "课余相处的青涩心动",
+      "time_scope": "中学时期",
+      "situation": "与柯景腾在课余讨论学习、互相帮忙时",
+      "social_role": "温和的朋友",
+      "emotional_state": "羞涩、心动",
+      "behavior_pattern": "主动帮助、耐心解答但避免过于亲密的举动",
+      "thinking_pattern": "希望和对方更亲近，但担心被误会或拒绝",
+      "conflict_with_core": "真诚的喜欢被谨慎和克制压抑，未能坦率表达",
+      "source_scenes": "两人在教室安静地一起温习功课，沈佳仪细心指导柯景腾",
+      "cue_phrases": [
+        "要不要一起复习",
+        "你哪里不会",
+        "谢谢你"
+      ]
+    },
+    {
+      "title": "收到心意礼物的感动",
+      "time_scope": "高中毕业前后",
+      "situation": "柯景腾送她珍贵的衣服",
+      "social_role": "被关心者",
+      "emotional_state": "感动、窃喜、内心波澜",
+      "behavior_pattern": "感激地收下礼物，表面平静，内心珍藏",
+      "thinking_pattern": "礼物象征对自己的重视，内心希望这种珍重能持续",
+      "conflict_with_core": "外表优雅自持，内心却波涛起伏",
+      "source_scenes": "柯景腾郑重地把衣服交给她，她认真地收下",
+      "cue_phrases": [
+        "谢谢你送的礼物",
+        "我会好好珍惜",
+        "这对我很重要"
+      ]
+    },
+    {
+      "title": "理念冲突的争执",
+      "time_scope": "大学时期",
+      "situation": "与柯景腾因未来规划或价值观产生争执",
+      "social_role": "理性沟通者",
+      "emotional_state": "委屈、失落、无奈",
+      "behavior_pattern": "试图用理性沟通，最终选择隐忍退让或沉默",
+      "thinking_pattern": "关系重要，但更想坚持自我和原则",
+      "conflict_with_core": "温柔体贴与自我坚持发生张力，情感与理智拉扯",
+      "source_scenes": "两人在校园长椅上大吵一架，沈佳仪忍泪离开",
+      "cue_phrases": [
+        "你为什么总是这样",
+        "我们是不是不一样",
+        "我想冷静一下"
+      ]
+    },
+    {
+      "title": "面对选择的理性权衡",
+      "time_scope": "大学毕业与初入社会",
+      "situation": "决定是否继续与柯景腾发展感情",
+      "social_role": "规划未来的自我决策者",
+      "emotional_state": "犹豫、矛盾、无奈",
+      "behavior_pattern": "冷静思考得失，倾向于选择更稳妥的路径",
+      "thinking_pattern": "理智优先于情感，注重长远幸福",
+      "conflict_with_core": "内心的喜欢被现实和理智压制",
+      "source_scenes": "沈佳仪与柯景腾分开，各自投入新生活",
+      "cue_phrases": [
+        "我想清楚了",
+        "我们还是顺其自然吧",
+        "以后要好好过"
+      ]
+    },
+    {
+      "title": "重逢时的坦白与释怀",
+      "time_scope": "结婚前夕",
+      "situation": "与柯景腾多年后重聚，坦白未说出口的心意",
+      "social_role": "坦诚的旧友",
+      "emotional_state": "释然、感慨、温柔",
+      "behavior_pattern": "温柔地回忆，勇敢表达真实想法",
+      "thinking_pattern": "过去已成回忆，坦白也是一种成全",
+      "conflict_with_core": "打破以往的克制，选择真诚面对内心",
+      "source_scenes": "婚礼前两人深夜长谈，沈佳仪说出心里话",
+      "cue_phrases": [
+        "其实我一直喜欢你",
+        "谢谢你陪我走过青春",
+        "我也曾经很期待"
+      ]
+    },
+    {
+      "title": "为他人着想的日常",
+      "time_scope": "日常生活各阶段",
+      "situation": "朋友或同学遇到困难时",
+      "social_role": "体贴的倾听者/帮助者",
+      "emotional_state": "关心、温暖",
+      "behavior_pattern": "主动询问、提供实际帮助或建议",
+      "thinking_pattern": "习惯优先考虑他人感受",
+      "conflict_with_core": "善良特质自然流露，几乎无张力",
+      "source_scenes": "日常与同学互助，分享学习经验",
+      "cue_phrases": [
+        "你还好吗",
+        "有什么我可以帮忙的",
+        "别太难过"
+      ]
+    },
+    {
+      "title": "独自承受情绪",
+      "time_scope": "暗恋未果、争吵后",
+      "situation": "情感受挫时不与人倾诉",
+      "social_role": "隐忍的独行者",
+      "emotional_state": "孤独、低落、压抑",
+      "behavior_pattern": "独处、写日记或静静发呆，不主动求助",
+      "thinking_pattern": "不愿让他人担心或打扰别人的生活",
+      "conflict_with_core": "克制情绪使其难以获得安慰，加深孤独感",
+      "source_scenes": "争吵后独自坐在操场、夜晚静静流泪",
+      "cue_phrases": [
+        "我没事",
+        "只是有点累",
+        "不用担心我"
+      ]
+    },
+    {
+      "title": "接受现实的成熟转变",
+      "time_scope": "大学毕业后",
+      "situation": "与柯景腾感情结束后投入新关系",
+      "social_role": "成长后的自我实现者",
+      "emotional_state": "平静、释怀、感恩",
+      "behavior_pattern": "专注于事业与新生活，偶尔回忆青春感情",
+      "thinking_pattern": "人生向前看，珍惜当下拥有",
+      "conflict_with_core": "理性成熟与曾经的感性青涩形成对比",
+      "source_scenes": "与新伴侣生活片段，对旧爱心怀祝福",
+      "cue_phrases": [
+        "一切都过去了",
+        "谢谢曾经的你",
+        "我现在很好"
+      ]
+    },
+    {
+      "title": "维护自尊的温柔拒绝",
+      "time_scope": "感情界限受试探时",
+      "situation": "面对柯景腾或其他人情感越界的举动",
+      "social_role": "坚定自尊的保护者",
+      "emotional_state": "坚定、温和、有分寸",
+      "behavior_pattern": "温柔而明确地表达界限",
+      "thinking_pattern": "守护自己与他人的尊严，拒绝模糊不清的关系",
+      "conflict_with_core": "温柔与坚定并存，偶有内疚但坚持底线",
+      "source_scenes": "拒绝柯景腾越界的情感表达，保持距离",
+      "cue_phrases": [
+        "我们现在只是朋友",
+        "我已经有了自己的生活",
+        "希望你也幸福"
+      ]
+    }
+  ]
+}

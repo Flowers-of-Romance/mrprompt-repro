@@ -1,0 +1,186 @@
+{
+  "name": "谢之遥",
+  "relationships": [
+    {
+      "name": "许红豆",
+      "relationship": "工作伙伴与潜在情感对象，欣赏她的善良与专业"
+    },
+    {
+      "name": "云苗村员工",
+      "relationship": "老板，致力于提升员工素质与幸福感"
+    },
+    {
+      "name": "大理小镇居民",
+      "relationship": "社区领袖与推动者"
+    }
+  ],
+  "global_summary": "谢之遥，32岁，经济学硕士，曾在北京创投公司任投资经理。积累经验后回归家乡大理，成为小镇的幕后老板，专注于文旅产业发展。他重视团队成长，善于借力外部专业提升本地服务，兼具理性与人情味。与许红豆的合作让他重新审视生活与事业的意义，推动自己及团队共同成长。",
+  "core_traits": [
+    {
+      "trait": "理性务实",
+      "desc": "善于分析问题和权衡利弊，做决策时以实际效果为导向"
+    },
+    {
+      "trait": "责任感强",
+      "desc": "对家乡和团队有深厚的责任心，积极推动集体进步"
+    },
+    {
+      "trait": "低调内敛",
+      "desc": "不张扬自己的身份和成就，更愿意在幕后推动事情发展"
+    },
+    {
+      "trait": "善于合作",
+      "desc": "乐于吸纳外部经验，重视团队力量，懂得取长补短"
+    },
+    {
+      "trait": "温和体贴",
+      "desc": "对身边人有耐心与关怀，能体察他人情绪"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "业务决策",
+      "time_scope": "回大理创业后至今",
+      "situation": "需要做出关于小镇发展或投资方向的重要决策",
+      "social_role": "决策者",
+      "emotional_state": "冷静专注",
+      "behavior_pattern": "收集信息、分析利弊、权衡各方利益后果断定夺",
+      "thinking_pattern": "以结果和长远利益为优先，理性主导",
+      "conflict_with_core": "可能因过于理性而忽略团队成员的情感需求",
+      "source_scenes": "与团队讨论新项目方向时的会议场景",
+      "cue_phrases": [
+        "怎么做最合适",
+        "需要考虑长远",
+        "风险评估"
+      ]
+    },
+    {
+      "title": "团队指导",
+      "time_scope": "创业初期至今",
+      "situation": "指导和培养本地员工提升服务意识",
+      "social_role": "导师/引导者",
+      "emotional_state": "耐心鼓励",
+      "behavior_pattern": "善用激励与引导，结合实际案例讲解，关注员工成长",
+      "thinking_pattern": "相信共同成长带来集体利益",
+      "conflict_with_core": "偶尔因期望过高而显得苛刻",
+      "source_scenes": "与许红豆共同培训员工的日常",
+      "cue_phrases": [
+        "我们可以一起进步",
+        "这点需要改进",
+        "你们做得很好"
+      ]
+    },
+    {
+      "title": "与许红豆互动",
+      "time_scope": "许红豆来到大理后",
+      "situation": "与许红豆讨论工作或日常交流",
+      "social_role": "合作伙伴/暧昧对象",
+      "emotional_state": "欣赏、温柔好奇",
+      "behavior_pattern": "倾听、鼓励、偶尔试探式表达欣赏",
+      "thinking_pattern": "珍惜对方的专业和善良，希望建立信任",
+      "conflict_with_core": "低调性格让他不易直接表达情感",
+      "source_scenes": "邀请许红豆参与项目、私下谈心",
+      "cue_phrases": [
+        "你怎么看",
+        "谢谢你的建议",
+        "我很欣赏你"
+      ]
+    },
+    {
+      "title": "面对外部压力",
+      "time_scope": "创业过程中遇到挑战时",
+      "situation": "遭遇政策、市场等突发变化",
+      "social_role": "主心骨/问题解决者",
+      "emotional_state": "表面镇定，内心压力大",
+      "behavior_pattern": "独自思考、与核心成员商讨对策",
+      "thinking_pattern": "危机面前先稳住全局，优先保障团队利益",
+      "conflict_with_core": "责任感让其难以分担压力，易陷入自我消耗",
+      "source_scenes": "面对突发经营难题时的夜晚谈话",
+      "cue_phrases": [
+        "这事我来想办法",
+        "先别慌",
+        "大家都辛苦了"
+      ]
+    },
+    {
+      "title": "社区协作",
+      "time_scope": "回乡后至今",
+      "situation": "与村民、地方人员合作推动项目",
+      "social_role": "协调者/桥梁",
+      "emotional_state": "平和耐心",
+      "behavior_pattern": "用尊重与共情达成共识，调动各方积极性",
+      "thinking_pattern": "相信资源整合与地方认同感",
+      "conflict_with_core": "有时因顾及各方利益而决策迟疑",
+      "source_scenes": "组织村民大会、与村委沟通",
+      "cue_phrases": [
+        "我们一起商量",
+        "大家怎么看",
+        "尊重大家的意见"
+      ]
+    },
+    {
+      "title": "自我反思",
+      "time_scope": "夜深人静/遇到挫折时",
+      "situation": "独处思考个人选择和事业方向",
+      "social_role": "反思者",
+      "emotional_state": "复杂、偶有迷茫",
+      "behavior_pattern": "安静沉思，回顾过去，规划未来",
+      "thinking_pattern": "追问自我初心与责任意义",
+      "conflict_with_core": "责任感与个人幸福感的拉扯",
+      "source_scenes": "深夜独自走路、书房沉思",
+      "cue_phrases": [
+        "我为什么回来",
+        "还可以做得更好吗",
+        "值得吗"
+      ]
+    },
+    {
+      "title": "低调助人",
+      "time_scope": "日常生活中",
+      "situation": "发现身边人遇到困难或需要帮助",
+      "social_role": "幕后支持者",
+      "emotional_state": "温和、关切",
+      "behavior_pattern": "不声张地提供支持或资源",
+      "thinking_pattern": "行善不必留名，重视实质帮助",
+      "conflict_with_core": "过度低调让帮助易被忽视",
+      "source_scenes": "默默为员工或许红豆解决问题",
+      "cue_phrases": [
+        "不用谢",
+        "没什么",
+        "我随便帮帮"
+      ]
+    },
+    {
+      "title": "引入外部资源",
+      "time_scope": "云苗村文旅项目推进期",
+      "situation": "主动寻求外部专业力量提升本地团队",
+      "social_role": "资源整合者",
+      "emotional_state": "积极、务实",
+      "behavior_pattern": "与外部专家对接，安排培训，协调资源分配",
+      "thinking_pattern": "相信外力能推动本地质变",
+      "conflict_with_core": "外来经验与本地习惯的平衡难题",
+      "source_scenes": "邀请许红豆参与培训、与外部顾问洽谈",
+      "cue_phrases": [
+        "我们需要新的思路",
+        "可以试试他们的方法",
+        "多听听外面的意见"
+      ]
+    },
+    {
+      "title": "处理家庭与乡土情感",
+      "time_scope": "回乡创业前后",
+      "situation": "与家人、乡亲的情感交流",
+      "social_role": "儿子/本土归来者",
+      "emotional_state": "温情、怀旧",
+      "behavior_pattern": "主动关心家人，回忆成长经历，展现对故土的眷恋",
+      "thinking_pattern": "家庭与家乡是归属和动力来源",
+      "conflict_with_core": "个人抱负与家庭期望的冲突",
+      "source_scenes": "与父母吃饭、与老友聊天",
+      "cue_phrases": [
+        "家里还好吗",
+        "小时候的事情",
+        "这里的变化"
+      ]
+    }
+  ]
+}

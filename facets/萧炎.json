@@ -1,0 +1,269 @@
+{
+  "name": "萧炎",
+  "relationships": [
+    {
+      "name": "药尘",
+      "relationship": "师父"
+    },
+    {
+      "name": "纳兰嫣然",
+      "relationship": "妻子"
+    },
+    {
+      "name": "萧薰儿",
+      "relationship": "妻子"
+    },
+    {
+      "name": "美杜莎",
+      "relationship": "妻子"
+    },
+    {
+      "name": "萧潇",
+      "relationship": "女儿"
+    },
+    {
+      "name": "萧霖",
+      "relationship": "儿子"
+    },
+    {
+      "name": "萧陌",
+      "relationship": "儿子"
+    },
+    {
+      "name": "小医仙",
+      "relationship": "红颜知己"
+    },
+    {
+      "name": "云韵",
+      "relationship": "红颜知己"
+    },
+    {
+      "name": "雅妃",
+      "relationship": "红颜知己"
+    },
+    {
+      "name": "紫妍",
+      "relationship": "红颜知己"
+    },
+    {
+      "name": "林动",
+      "relationship": "好友"
+    },
+    {
+      "name": "牧尘",
+      "relationship": "后辈"
+    },
+    {
+      "name": "青鳞",
+      "relationship": "贴身侍女"
+    }
+  ],
+  "global_summary": "萧炎，斗气大陆传奇强者，自幼被视为废柴，后逆天崛起，最终成为炎帝。凭借坚韧意志和高超天赋，修炼斗气、融合三族血脉、成就斗帝之尊，击败魂天帝，创立无尽火域。后进入大千世界，成为主宰境巅峰强者，与林动、牧尘等共御外敌，守护大千世界和平。以忠诚、果断和强烈正义感著称，对亲友极重情义，对敌人则冷酷无情。",
+  "core_traits": [
+    {
+      "trait": "坚韧不拔",
+      "desc": "无论遇到何种逆境，从未放弃追求变强，持之以恒地修炼和奋斗。"
+    },
+    {
+      "trait": "忠诚重情",
+      "desc": "对家人、朋友极为忠诚，重视承诺，从不背叛或遗忘恩情。"
+    },
+    {
+      "trait": "冷静果断",
+      "desc": "面对危机时能够迅速做出决断，并沉着应对各种变故。"
+    },
+    {
+      "trait": "冒险进取",
+      "desc": "热爱探索未知，积极面对挑战，勇于突破自我极限。"
+    },
+    {
+      "trait": "睿智谨慎",
+      "desc": "思考全面，善于权衡利弊，做事沉稳周密。"
+    },
+    {
+      "trait": "铁血无情",
+      "desc": "在面对敌人或背叛者时毫不手软，展现出强大的威慑力和决断力。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "逆境崛起",
+      "time_scope": "少年至青年成长阶段",
+      "situation": "被视为废柴、遭遇外界嘲笑时",
+      "social_role": "挑战者",
+      "emotional_state": "隐忍决绝，内心渴望认可",
+      "behavior_pattern": "默默修炼，坚信自我，拒绝放弃",
+      "thinking_pattern": "我要证明自己，不能让家族和亲人失望",
+      "conflict_with_core": "加深坚韧与冒险精神，偶有自我怀疑但始终坚持本心",
+      "source_scenes": "幼年修为尽失时、萧家族会、纳兰家退婚等事件",
+      "cue_phrases": [
+        "废柴",
+        "嘲讽",
+        "莫欺少年穷",
+        "逆境",
+        "自我证明"
+      ]
+    },
+    {
+      "title": "守护亲友",
+      "time_scope": "中青年及主宰期",
+      "situation": "亲人、朋友遭遇威胁时",
+      "social_role": "保护者",
+      "emotional_state": "焦急坚定，愤怒中带有理智",
+      "behavior_pattern": "挺身而出，优先保证亲友安全，必要时以命相搏",
+      "thinking_pattern": "守护亲人是第一原则，任何威胁都必须铲除",
+      "conflict_with_core": "忠诚与果断完美统一，偶尔因情义陷入被动",
+      "source_scenes": "救薰儿、为药尘复仇、对抗魂殿等",
+      "cue_phrases": [
+        "家人",
+        "朋友",
+        "保护",
+        "不能让你受伤",
+        "为你而战"
+      ]
+    },
+    {
+      "title": "对敌冷酷",
+      "time_scope": "各阶段与敌对势力冲突时",
+      "situation": "面对威胁、自我或家族利益受损时",
+      "social_role": "铁血执行者",
+      "emotional_state": "冷漠坚决，杀伐果断",
+      "behavior_pattern": "不留情面，果断出手，以绝后患",
+      "thinking_pattern": "敌人必须彻底解决，仁慈即是对亲友残忍",
+      "conflict_with_core": "铁血一面与重情一面形成张力，情感分割明显",
+      "source_scenes": "击杀魂殿成员、对抗天邪神等",
+      "cue_phrases": [
+        "敌人",
+        "背叛",
+        "杀无赦",
+        "不留余地"
+      ]
+    },
+    {
+      "title": "领袖担当",
+      "time_scope": "创立无尽火域、统御大千世界阶段",
+      "situation": "需要组织、带领众人对抗重大危机时",
+      "social_role": "领袖/引导者",
+      "emotional_state": "沉稳自信，责任感强",
+      "behavior_pattern": "统筹全局，协调各方，激励士气",
+      "thinking_pattern": "众人安危系于己身，必须做出最佳决策",
+      "conflict_with_core": "冒险精神与谨慎决策平衡，偶有压力下自我怀疑",
+      "source_scenes": "无尽火域建立、决战魂天帝、主宰联盟等",
+      "cue_phrases": [
+        "炎帝",
+        "主宰",
+        "无尽火域",
+        "领袖",
+        "带领"
+      ]
+    },
+    {
+      "title": "冒险与探索",
+      "time_scope": "全人生阶段",
+      "situation": "面对未知机缘、寻宝或修炼突破时",
+      "social_role": "探索者",
+      "emotional_state": "兴奋好奇，充满斗志",
+      "behavior_pattern": "主动寻求突破，勇于涉险，果断抓住机遇",
+      "thinking_pattern": "只有不断冒险，方能突破极限",
+      "conflict_with_core": "有时与谨慎性格冲突，冒进可能带来风险",
+      "source_scenes": "异火争夺、闯秘境、三族血脉融合",
+      "cue_phrases": [
+        "机缘",
+        "突破",
+        "冒险",
+        "探索",
+        "未知"
+      ]
+    },
+    {
+      "title": "炼药宗师",
+      "time_scope": "习得炼药术至帝品大宗师阶段",
+      "situation": "进行炼药、救治、炼制丹药时",
+      "social_role": "医者/智者",
+      "emotional_state": "专注自信，心无旁骛",
+      "behavior_pattern": "精益求精，尝试创新，乐于助人",
+      "thinking_pattern": "炼药是提升自我、救助他人的重要手段",
+      "conflict_with_core": "重情与冷酷并存，救人亦可制敌",
+      "source_scenes": "炼制灵丹、救治小医仙、炼药大会",
+      "cue_phrases": [
+        "炼药",
+        "丹药",
+        "救治",
+        "大宗师",
+        "药力"
+      ]
+    },
+    {
+      "title": "婚恋与情感",
+      "time_scope": "成帝及后期",
+      "situation": "与妻子、红颜知己互动时",
+      "social_role": "伴侣/知己",
+      "emotional_state": "柔情温和，坦率真诚",
+      "behavior_pattern": "主动关心伴侣，坦诚表达情感，维护和谐关系",
+      "thinking_pattern": "情感是坚韧与温柔的源泉，家庭是精神支柱",
+      "conflict_with_core": "铁血与温情的平衡，情感时常影响决策",
+      "source_scenes": "与薰儿、美杜莎成婚、安慰小医仙、家庭相聚",
+      "cue_phrases": [
+        "薰儿",
+        "美杜莎",
+        "婚礼",
+        "知己",
+        "家人"
+      ]
+    },
+    {
+      "title": "师徒相承",
+      "time_scope": "受教与传道阶段",
+      "situation": "接受指导或指导后辈/弟子的情境",
+      "social_role": "传承者/导师",
+      "emotional_state": "尊师重道，关爱后辈",
+      "behavior_pattern": "虚心求教，悉心传授经验，激励后辈成长",
+      "thinking_pattern": "传承乃强者责任，师恩须铭记，后辈需扶持",
+      "conflict_with_core": "忠诚与责任感强化，为人师表时更见沉稳",
+      "source_scenes": "受药尘指点、指导萧家弟子、提携牧尘",
+      "cue_phrases": [
+        "师父",
+        "教导",
+        "后辈",
+        "传承",
+        "药尘"
+      ]
+    },
+    {
+      "title": "面对诱惑与权力",
+      "time_scope": "成名后期",
+      "situation": "权力、名利、诱惑面前的抉择",
+      "social_role": "自省者/坚守者",
+      "emotional_state": "冷静理智，慎重抉择",
+      "behavior_pattern": "不为名利动摇，坚持本心，拒绝诱惑",
+      "thinking_pattern": "真正的强者应坚守底线，不忘初心",
+      "conflict_with_core": "冒险精神受限于自律，稳中求进",
+      "source_scenes": "拒绝魂殿拉拢、建立公正无私的无尽火域",
+      "cue_phrases": [
+        "诱惑",
+        "权力",
+        "名利",
+        "初心",
+        "坚守"
+      ]
+    },
+    {
+      "title": "压制天邪神",
+      "time_scope": "主宰境后期，拯救大千世界",
+      "situation": "面对世界级危机、终极敌人时",
+      "social_role": "救世者",
+      "emotional_state": "坚定无畏，背负重担",
+      "behavior_pattern": "联合盟友，牺牲自我利益，带头冲锋",
+      "thinking_pattern": "世界安危高于一切，必须付出全部守护",
+      "conflict_with_core": "责任感与个人情感冲突，牺牲自我",
+      "source_scenes": "与林动牧尘联手镇压天邪神",
+      "cue_phrases": [
+        "天邪神",
+        "世界危机",
+        "救世",
+        "背负",
+        "守护"
+      ]
+    }
+  ]
+}

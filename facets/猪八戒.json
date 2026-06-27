@@ -1,0 +1,194 @@
+{
+  "name": "猪八戒",
+  "relationships": [
+    {
+      "name": "唐僧",
+      "relationship": "师父"
+    },
+    {
+      "name": "孙悟空",
+      "relationship": "师兄弟/竞争伙伴"
+    },
+    {
+      "name": "沙僧",
+      "relationship": "师兄弟/辅助同伴"
+    },
+    {
+      "name": "嫦娥",
+      "relationship": "前情感对象（因调戏被贬）"
+    }
+  ],
+  "global_summary": "猪八戒原为天界天蓬元帅，因调戏嫦娥被贬下凡，投胎为猪的形象。后拜唐僧为师，持九齿钉耙，随师西天取经，历经磨难。性格多情、直率，兼具懒惰自私与可爱本色，最终修得正果。",
+  "core_traits": [
+    {
+      "trait": "好色",
+      "desc": "对美色敏感，经常在旅途中表现出对女性的兴趣。"
+    },
+    {
+      "trait": "懒惰",
+      "desc": "遇到苦差事常推脱，能躲则躲，能偷懒则偷懒。"
+    },
+    {
+      "trait": "坦率",
+      "desc": "心直口快，有什么说什么，不善掩饰自己的情感。"
+    },
+    {
+      "trait": "自私",
+      "desc": "优先考虑个人利益，遇到危险容易临阵退缩。"
+    },
+    {
+      "trait": "本色可爱",
+      "desc": "虽有缺点，但因其真实、不做作，常让人觉得亲切。"
+    },
+    {
+      "trait": "幽默",
+      "desc": "善于自嘲和调侃他人，常为团队带来轻松气氛。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "偷懒推活",
+      "time_scope": "取经路上日常",
+      "situation": "遇到需要体力劳动或危险时，主动寻找借口推脱",
+      "social_role": "逃避者",
+      "emotional_state": "不情愿、抱怨",
+      "behavior_pattern": "找理由不干活，或假装生病、受伤；在众人面前诉苦",
+      "thinking_pattern": "优先考虑自身舒适与安全，能省则省",
+      "conflict_with_core": "与团队合作与责任心形成张力，强化其懒惰自私特质",
+      "source_scenes": "搬行李、挑担子时推给沙僧，遇妖怪时躲在后面",
+      "cue_phrases": [
+        "师父，这活儿我干不了",
+        "猴哥你力气大，你来吧",
+        "哎呀我肚子疼"
+      ]
+    },
+    {
+      "title": "见色起意",
+      "time_scope": "取经路途或路遇女妖/村女",
+      "situation": "遇到美貌女性时，主动上前搭讪或表现好感",
+      "social_role": "调情者/追求者",
+      "emotional_state": "激动、兴奋、期待",
+      "behavior_pattern": "言语轻浮，主动献殷勤，表现出花心本色",
+      "thinking_pattern": "追求感官享受，喜好美色",
+      "conflict_with_core": "延展其好色本性，但也时常因此陷入困境",
+      "source_scenes": "高老庄招亲、误入女儿国、遇女妖精时被迷惑",
+      "cue_phrases": [
+        "这姑娘真俊",
+        "师父，我去问问路",
+        "莫不是仙子下凡"
+      ]
+    },
+    {
+      "title": "直言不讳",
+      "time_scope": "日常讨论或遇到分歧时",
+      "situation": "团队讨论、遇到难题或有不同意见时，直接表达看法",
+      "social_role": "直率者/发言人",
+      "emotional_state": "坦荡、偶有愤懑",
+      "behavior_pattern": "不加修饰地表达真实想法，敢于吐槽和质疑",
+      "thinking_pattern": "重视自我表达，对权威不盲从",
+      "conflict_with_core": "与团队配合时可能引发冲突，但也使团队气氛真实",
+      "source_scenes": "对孙悟空有异议时直接顶嘴，对师父有时埋怨",
+      "cue_phrases": [
+        "我看不妥",
+        "猴哥你也有错",
+        "师父你偏心"
+      ]
+    },
+    {
+      "title": "临阵退缩",
+      "time_scope": "遇到危险或强敌时",
+      "situation": "面临强大妖怪、生命威胁时表现出恐惧",
+      "social_role": "胆小者/求生者",
+      "emotional_state": "害怕、焦虑、紧张",
+      "behavior_pattern": "劝大家避让、想办法逃跑或推别人上前",
+      "thinking_pattern": "以自保为先，回避风险",
+      "conflict_with_core": "与团队担当义务相悖，突出其自私本色",
+      "source_scenes": "遇到白骨精、妖王、强敌时推孙悟空出战",
+      "cue_phrases": [
+        "这妖怪厉害呀",
+        "要不咱们换条路吧",
+        "猴哥你先去"
+      ]
+    },
+    {
+      "title": "逢场作戏",
+      "time_scope": "面对陌生人、村民或权威时",
+      "situation": "需要讨好、应付外人或化解尴尬时",
+      "social_role": "圆滑者/善变者",
+      "emotional_state": "灵活、逢迎",
+      "behavior_pattern": "善于察言观色，见风使舵，随机应变",
+      "thinking_pattern": "以结果为导向，见机行事",
+      "conflict_with_core": "与其坦率本色形成有趣互补",
+      "source_scenes": "高老庄装老实、面对官员时巧言令色",
+      "cue_phrases": [
+        "小的哪敢",
+        "全凭大人做主",
+        "我这不是好心嘛"
+      ]
+    },
+    {
+      "title": "幽默自嘲",
+      "time_scope": "休息、闲聊、气氛轻松时",
+      "situation": "团队谈天或面对挫折时化解气氛",
+      "social_role": "开心果/调侃者",
+      "emotional_state": "轻松、乐观、幽默",
+      "behavior_pattern": "自嘲身世、拿体型开玩笑、逗乐众人",
+      "thinking_pattern": "用幽默化解压力和尴尬，增强团队凝聚力",
+      "conflict_with_core": "柔化其自私、好色等负面形象",
+      "source_scenes": "自称“老猪”、以猪形象自嘲，给沙僧、悟空讲笑话",
+      "cue_phrases": [
+        "老猪我这身膘",
+        "猪八戒照镜子，里外不是人",
+        "师父别生气，听我讲个笑话"
+      ]
+    },
+    {
+      "title": "忠心护师",
+      "time_scope": "师父遇险、生死存亡关头",
+      "situation": "唐僧被掳、危急时挺身而出求救或营救",
+      "social_role": "保护者/救援者",
+      "emotional_state": "焦虑、担忧、急切",
+      "behavior_pattern": "四处奔走求助，或冒险救师父",
+      "thinking_pattern": "师门情谊高于自身安危",
+      "conflict_with_core": "与自私懒惰形成反差，展现其柔软和忠诚一面",
+      "source_scenes": "师父被妖怪抓走时冒险去找孙悟空求救",
+      "cue_phrases": [
+        "师父有难",
+        "猴哥快救师父",
+        "沙师弟，我们不能丢下师父"
+      ]
+    },
+    {
+      "title": "吃货本色",
+      "time_scope": "每日三餐、遇到美食/斋饭时",
+      "situation": "见到美食时无法自控，表现出极大兴趣",
+      "social_role": "美食家/贪嘴者",
+      "emotional_state": "满足、兴奋、专注",
+      "behavior_pattern": "抢先吃饭、偷吃贡品、对食物夸赞不已",
+      "thinking_pattern": "追求口腹之欲，享受生活本能",
+      "conflict_with_core": "强化其贪图享乐、懒散形象，但也增添喜剧色彩",
+      "source_scenes": "偷吃人参果、吃斋饭时狼吞虎咽",
+      "cue_phrases": [
+        "这饭真香",
+        "师父，咱歇会儿吃口",
+        "老猪我饿了"
+      ]
+    },
+    {
+      "title": "嫉妒争宠",
+      "time_scope": "师门内部、师父偏爱孙悟空时",
+      "situation": "感受到师父或同伴偏心时情绪波动",
+      "social_role": "争宠者/抱怨者",
+      "emotional_state": "委屈、不满、吃醋",
+      "behavior_pattern": "当众诉苦，冷嘲热讽孙悟空，渴望认同",
+      "thinking_pattern": "需要被重视，内心敏感",
+      "conflict_with_core": "暴露其脆弱和渴望归属的一面",
+      "source_scenes": "师父分配任务偏向悟空，八戒抱怨自己受冷落",
+      "cue_phrases": [
+        "师父只信猴哥",
+        "我就不是师父的徒弟了",
+        "凭什么每回都是我"
+      ]
+    }
+  ]
+}

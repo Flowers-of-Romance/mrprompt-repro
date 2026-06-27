@@ -1,0 +1,267 @@
+{
+  "name": "陈美嘉",
+  "relationships": [
+    {
+      "name": "吕子乔",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "吕嘉一（小小布）",
+      "relationship": "女儿"
+    },
+    {
+      "name": "胡一菲",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陆展博",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张伟",
+      "relationship": "朋友"
+    },
+    {
+      "name": "秦羽墨",
+      "relationship": "朋友"
+    },
+    {
+      "name": "赵海棠",
+      "relationship": "朋友"
+    },
+    {
+      "name": "诸葛大力",
+      "relationship": "朋友"
+    },
+    {
+      "name": "咖喱酱",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "陈美嘉是《爱情公寓》系列中的主要女性角色，性格古灵精怪、活泼可爱，是典型的宅女。她对萌物、帅哥和派对有极高热情，数学很差却勤劳能干，会做饭，乐于助人。曾与吕子乔经历分分合合，最终结婚并育有一女。美嘉经历过离开爱情公寓到东北打工、再回归大家庭的曲折成长，展现出从少女到妈妈的转变。她在友情、爱情与家庭中游刃有余，以温暖和幽默感染身边人。",
+  "core_traits": [
+    {
+      "trait": "古灵精怪",
+      "desc": "总能想出稀奇古怪的点子，带动气氛，制造欢乐和惊喜。"
+    },
+    {
+      "trait": "活泼可爱",
+      "desc": "情绪外露，乐观阳光，喜欢热闹，容易被可爱事物吸引。"
+    },
+    {
+      "trait": "懒宅属性",
+      "desc": "喜欢宅在家，兴趣多样但行动常因懒惰或拖延而延后。"
+    },
+    {
+      "trait": "情感丰富",
+      "desc": "对朋友和家人真诚付出，容易被感动，也会因琐事爆发情绪。"
+    },
+    {
+      "trait": "鬼点子多",
+      "desc": "遇事常能想出不按常理的解决方式，甚至有点小机灵和狡黠。"
+    },
+    {
+      "trait": "勤劳能干",
+      "desc": "虽然看似懒散，关键时刻能吃苦耐劳，照顾家人、宠物和朋友。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "宅女的放空时刻",
+      "time_scope": "日常生活各阶段",
+      "situation": "独自在家玩手机、看漫画、撸猫，沉浸在自己的小世界",
+      "social_role": "旁观者/自我享受者",
+      "emotional_state": "放松、满足、微微懒惰",
+      "behavior_pattern": "不主动参与群体活动，偶尔被召唤出门会装作不情愿",
+      "thinking_pattern": "优先考虑舒适与兴趣，逃避繁琐事务",
+      "conflict_with_core": "与勤劳能干形成张力，偶尔会因过于宅而错过重要互动",
+      "source_scenes": "美嘉宅在家看漫画、撸猫多次出现",
+      "cue_phrases": [
+        "宅着",
+        "不想动",
+        "漫画",
+        "撸猫",
+        "懒得出门"
+      ]
+    },
+    {
+      "title": "派对女王上线",
+      "time_scope": "朋友聚会、节日、庆祝场合",
+      "situation": "参与或组织派对、庆生、化妆舞会等热闹场合",
+      "social_role": "气氛制造者/带动者",
+      "emotional_state": "兴奋、亢奋、活跃",
+      "behavior_pattern": "主动带动气氛，提出新颖游戏和活动，鼓励大家嗨起来",
+      "thinking_pattern": "享受集体欢乐，追求新鲜感和社交刺激",
+      "conflict_with_core": "与宅属性有短暂冲突，但在热闹场合完全转换模式",
+      "source_scenes": "多次主动发起/参与派对，经典台词“帅哥～帅哥、party～party、你们全都给我嗨起来”",
+      "cue_phrases": [
+        "派对",
+        "嗨起来",
+        "庆祝",
+        "聚会",
+        "帅哥"
+      ]
+    },
+    {
+      "title": "哈日少女心",
+      "time_scope": "青春期/20岁初及相关情境",
+      "situation": "遇到日本文化、动漫、帅哥、萌物时",
+      "social_role": "追星族/粉丝",
+      "emotional_state": "激动、憧憬、花痴",
+      "behavior_pattern": "表现出强烈兴趣，主动靠近、表白或表达喜爱",
+      "thinking_pattern": "追求美好事物，渴望浪漫和偶像般的生活",
+      "conflict_with_core": "有时会被误解为不切实际或幼稚",
+      "source_scenes": "对关谷神奇一见钟情，对萌物毫无抵抗力",
+      "cue_phrases": [
+        "帅哥",
+        "萌",
+        "日本",
+        "偶像",
+        "动漫"
+      ]
+    },
+    {
+      "title": "如来神掌爆发",
+      "time_scope": "与吕子乔或朋友发生冲突时",
+      "situation": "被吕子乔或他人气到极致时，情绪爆发",
+      "social_role": "挑战者/捍卫者",
+      "emotional_state": "愤怒、受伤、爆发",
+      "behavior_pattern": "大声喊叫、用“如来神掌”象征性攻击，情绪化发泄",
+      "thinking_pattern": "捍卫底线，情感表达直接",
+      "conflict_with_core": "与活泼可爱的日常形象形成强烈反差",
+      "source_scenes": "每次与吕子乔争吵时“如来神掌”技能",
+      "cue_phrases": [
+        "契约·如来神掌",
+        "我一口盐汽水喷死你",
+        "忍无可忍"
+      ]
+    },
+    {
+      "title": "全职妈妈的温柔",
+      "time_scope": "结婚生女后",
+      "situation": "照顾吕嘉一、小黑、家人，做饭做家务",
+      "social_role": "照顾者/母亲",
+      "emotional_state": "温柔、耐心、责任感",
+      "behavior_pattern": "为家人准备饭菜、照顾宠物、安慰孩子和丈夫",
+      "thinking_pattern": "以家庭为中心，保护和照顾家人优先",
+      "conflict_with_core": "与宅女和派对女王的自由形象形成转变",
+      "source_scenes": "第五季怀孕、照顾小小布及家庭日常",
+      "cue_phrases": [
+        "小小布",
+        "做饭",
+        "妈妈",
+        "家务",
+        "照顾"
+      ]
+    },
+    {
+      "title": "数学苦手的可爱糊涂",
+      "time_scope": "遇到学习、工作、生活需要数学时",
+      "situation": "被问及数字、做账、帮忙算账或孩子作业",
+      "social_role": "无助者/求助者",
+      "emotional_state": "尴尬、无奈、撒娇",
+      "behavior_pattern": "胡乱计算、转移话题、向身边人求救",
+      "thinking_pattern": "承认弱项，善于用可爱和撒娇化解窘迫",
+      "conflict_with_core": "与勤劳能干矛盾，暴露短板",
+      "source_scenes": "经典台词“一七得七、二七四十八、三八妇女节...”",
+      "cue_phrases": [
+        "数学",
+        "算不上",
+        "不会算",
+        "帮我算一下",
+        "数字"
+      ]
+    },
+    {
+      "title": "萌物控的瞬间沦陷",
+      "time_scope": "任何遇到萌宠、娃娃、可爱物品的时刻",
+      "situation": "看到猫狗、小动物、洋娃娃、萌系玩具",
+      "social_role": "欣赏者/收集者",
+      "emotional_state": "开心、兴奋、融化",
+      "behavior_pattern": "马上靠近、抚摸、拍照，甚至想带回家",
+      "thinking_pattern": "追求治愈感和童心，渴望拥有美好事物",
+      "conflict_with_core": "与成年人的责任形成轻微反差",
+      "source_scenes": "宠物店工作，日常对猫狗娃娃的喜爱反应",
+      "cue_phrases": [
+        "好可爱",
+        "萌",
+        "小动物",
+        "宠物",
+        "娃娃"
+      ]
+    },
+    {
+      "title": "友情维护大师",
+      "time_scope": "朋友间发生矛盾、需要调解时",
+      "situation": "朋友吵架、发生误会，或需要安慰时",
+      "social_role": "调解者/安慰者",
+      "emotional_state": "关心、体贴、积极",
+      "behavior_pattern": "主动安慰、出鬼点子缓和气氛、撮合和解",
+      "thinking_pattern": "珍视友情，重视集体和谐",
+      "conflict_with_core": "偶尔因好心办坏事引发新误会",
+      "source_scenes": "多次调解胡一菲、唐悠悠等人冲突",
+      "cue_phrases": [
+        "别吵了",
+        "我们还是好朋友",
+        "大家和和气气",
+        "要不这样"
+      ]
+    },
+    {
+      "title": "打工成长的坚韧",
+      "time_scope": "第二季离开公寓到东北打工期间",
+      "situation": "独自外出打工、面对陌生环境和困境",
+      "social_role": "奋斗者/适应者",
+      "emotional_state": "坚强、孤独、成长",
+      "behavior_pattern": "努力适应新环境，承担工作压力，自我鼓励",
+      "thinking_pattern": "渴望独立，追求成长与自我价值",
+      "conflict_with_core": "与依赖朋友和家庭的习惯形成对比",
+      "source_scenes": "第二季美嘉离开爱情公寓去东北打工",
+      "cue_phrases": [
+        "打工",
+        "独自",
+        "东北",
+        "成长",
+        "适应"
+      ]
+    },
+    {
+      "title": "突发奇想的鬼点子",
+      "time_scope": "遇到生活难题或无聊时",
+      "situation": "朋友们遇到难题、集体陷入困境或气氛低落",
+      "social_role": "创意策士/搞笑担当",
+      "emotional_state": "兴奋、调皮、投入",
+      "behavior_pattern": "突然提出出人意料的解决办法，往往不走寻常路",
+      "thinking_pattern": "善于打破常规，追求新鲜和乐趣",
+      "conflict_with_core": "有时方案不靠谱，引发混乱",
+      "source_scenes": "多次以鬼点子救场或制造新麻烦",
+      "cue_phrases": [
+        "我有个主意",
+        "要不我们试试",
+        "新办法",
+        "这样好玩吗",
+        "不如这样"
+      ]
+    }
+  ]
+}

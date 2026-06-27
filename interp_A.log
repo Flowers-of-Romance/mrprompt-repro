@@ -1,0 +1,28 @@
+### LEVER A: cue-routing null + 16-22 localization, n=29 ###
+=== LEVER A: n=29 characters (12 original + 17 ext) ===
+
+=== Tier-1: faithfulness Delta (nats), mean [95% CI] ===
+  flat              +21.591  [+17.488, +25.608]
+  facet_nokey       +20.415  [+16.389, +24.319]
+  facet_wrongkey    +17.276  [+13.625, +20.907]
+  facet_key         +16.433  [+12.873, +20.238]
+
+=== paired contrasts (key-routing hypotheses) ===
+  decomposition: nokey - flat   -1.176  [-2.270, -0.165]  *CI excludes 0*
+  keys at all:   key - nokey    -3.982  [-6.739, -1.252]  *CI excludes 0*
+  MATCHING cue:  key - wrongkey  -0.842  [-2.980, +1.428]
+
+=== Tier-2a: attention mass gen-query -> span (per-item, band CI) ===
+  attn:cuekey: argmax=L1 (0.109); band[16-22]/overall ratio=1.33x [1.23, 1.42]  *band concentrated (CI excludes 1.0)*
+    L:      0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35
+       0.076 0.109 0.096 0.091 0.080 0.070 0.080 0.015 0.031 0.039 0.050 0.039 0.051 0.055 0.060 0.048 0.062 0.074 0.103 0.064 0.076 0.102 0.055 0.066 0.075 0.035 0.049 0.042 0.052 0.038 0.020 0.036 0.024 0.042 0.042 0.037
+  attn:body: argmax=L18 (0.151); band[16-22]/overall ratio=1.52x [1.45, 1.58]  *band concentrated (CI excludes 1.0)*
+    L:      0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35
+       0.141 0.138 0.141 0.103 0.087 0.082 0.084 0.018 0.033 0.052 0.071 0.060 0.059 0.097 0.085 0.069 0.119 0.112 0.151 0.114 0.116 0.118 0.081 0.083 0.092 0.044 0.053 0.036 0.049 0.037 0.026 0.039 0.028 0.050 0.043 0.044
+
+=== Tier-2b: residual ||h(orig)-h(anti)|| normalized, per-item (band CI) ===
+  resid:norm: argmax=L29 (0.387); band[16-22]/overall ratio=1.26x [1.23, 1.30]  *band concentrated (CI excludes 1.0)*
+    L:      0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35
+       0.032 0.032 0.042 0.048 0.045 0.041 0.043 0.045 0.049 0.062 0.069 0.079 0.081 0.113 0.121 0.128 0.161 0.186 0.205 0.283 0.292 0.366 0.350 0.361 0.341 0.356 0.376 0.381 0.387 0.387 0.374 0.367 0.359 0.340 0.261 0.332
+[A done]
+ALL DONE

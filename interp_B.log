@@ -1,0 +1,29 @@
+### LEVER B: per-character bridge, n=17 ###
+=== LEVER B: per-character bridge, n=17 characters ===
+computing per-character facet residual deltas (mode=key, gen pos) ...
+building per-character diff-in-means steering from paraphrases ...
+
+=== per-character bridge: cosine(facet delta, own-disposition steering) ===
+  peak cos=L27 (+0.088); band[16-22] mean=+0.050 [+0.020, +0.079]  *CI excludes 0 -> same axis*
+    L:      0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35
+       +0.03 +0.03 +0.04 +0.04 +0.02 +0.01 -0.00 -0.00 -0.00 +0.01 +0.02 +0.02 +0.03 +0.03 +0.04 +0.02 +0.05 +0.04 +0.04 +0.06 +0.05 +0.06 +0.06 +0.07 +0.06 +0.07 +0.08 +0.09 +0.08 +0.09 +0.08 +0.07 +0.07 +0.07 +0.08 +0.05
+
+=== per-character band[16-22] cosine (which characters align) ===
+  +0.149  Alone, paralyzed by doubt over whe
+  +0.129  Learning Catherine has died; consu
+  +0.118  In the Nautilus, declaring his bre
+  +0.117  Restless at home, dreaming of roma
+  +0.101  Wandering New York alone, scorning
+  +0.094  By his pool at night, still certai
+  +0.078  Admiring his own beauty, wishing t
+  +0.073  Goading Macbeth to murder the king
+  +0.028  Making his first, proud proposal -
+  +0.026  At the bishop's, after being spare
+  +0.021  Holding Valjean again, certain the
+  +0.021  On Gandalf's doorstep summons, fus
+  +0.020  Alone, plotting to poison Othello'
+  +0.014  Deciding whether to turn in Jim or
+  -0.003  Confronting Victor, demanding symp
+  -0.057  Confronting Rochester after the we
+  -0.080  Outside the jailhouse, facing a mo
+[B done]

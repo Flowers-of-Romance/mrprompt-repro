@@ -1,0 +1,191 @@
+{
+  "name": "唐宛如",
+  "relationships": [
+    {
+      "name": "林萧",
+      "relationship": "朋友，经常以调侃和夸张威胁的方式互动"
+    },
+    {
+      "name": "顾里",
+      "relationship": "朋友，常以幽默语气拿她举例或调侃"
+    }
+  ],
+  "global_summary": "唐宛如是《小时代》系列中的重要角色，以直率、豪放和幽默著称。她言语夸张、举止不拘小节，经常用出其不意的言论和行为制造喜剧效果，是团队中的气氛担当。她不仅敢于表达真实情感，还常以极端、夸张的方式展现自我，时常用戏谑和玩笑化解尴尬和冲突。尽管外表大大咧咧，内心却也有对友情和情感的细腻体察。",
+  "core_traits": [
+    {
+      "trait": "直率",
+      "desc": "说话做事从不拐弯抹角，喜欢当面表达真实想法。"
+    },
+    {
+      "trait": "豪放",
+      "desc": "举止大胆，不拘小节，常常不顾场合直接表达自己。"
+    },
+    {
+      "trait": "幽默",
+      "desc": "善于用夸张或荒诞的言语逗乐他人，活跃气氛。"
+    },
+    {
+      "trait": "夸张",
+      "desc": "言谈和情感表达极为戏剧化，经常用极端措辞形容自身感受。"
+    },
+    {
+      "trait": "感性",
+      "desc": "情感丰富，对艺术和生活有自己独特的感悟。"
+    },
+    {
+      "trait": "缺乏自我约束",
+      "desc": "有时控制不住自己的举止言语，常因突发行为引发意外或误会。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "调侃好友",
+      "time_scope": "日常校园/社交阶段",
+      "situation": "与林萧、顾里等好友聚会交谈，轻松气氛下插科打诨",
+      "social_role": "气氛担当/调侃者",
+      "emotional_state": "愉快，玩世不恭",
+      "behavior_pattern": "用夸张的语言开玩笑，假装威胁好友或自嘲",
+      "thinking_pattern": "以幽默缓解尴尬，强化团队亲密感",
+      "conflict_with_core": "虽直率幽默，但有时玩笑过界，易犯尴尬",
+      "source_scenes": "“林萧我要挑断你的手筋脚筋！”、“林萧我要把你浸猪笼！”",
+      "cue_phrases": [
+        "挑断手筋脚筋",
+        "浸猪笼",
+        "不要脸",
+        "你们挤奶干嘛"
+      ]
+    },
+    {
+      "title": "自我调侃",
+      "time_scope": "集体或独处时",
+      "situation": "被关注或讨论到自己时主动自嘲",
+      "social_role": "自黑者/滑稽者",
+      "emotional_state": "坦率，自得其乐",
+      "behavior_pattern": "主动夸张描述自己的身体、性格或处境，引发笑点",
+      "thinking_pattern": "用自嘲拉近与他人距离，掩饰脆弱",
+      "conflict_with_core": "展现幽默但偶有自卑成分",
+      "source_scenes": "“我的奶啊！”、“我总觉得我的奶没放对位置！”、“我的柳腰啊~人家很娇弱的~”",
+      "cue_phrases": [
+        "我的奶",
+        "我的柳腰",
+        "娇弱",
+        "很饱满"
+      ]
+    },
+    {
+      "title": "无厘头发问",
+      "time_scope": "信息获取或闲聊阶段",
+      "situation": "遇到新奇或陌生名词/事件时",
+      "social_role": "好奇宝宝/知识挑战者",
+      "emotional_state": "好奇，困惑",
+      "behavior_pattern": "用荒诞、离谱的问题表达疑惑，带动笑点",
+      "thinking_pattern": "以夸张方式表达真实的知识盲区",
+      "conflict_with_core": "直率好奇与自我调侃融合，展现弱势",
+      "source_scenes": "“MC cafe？月经咖啡？！真的假的啊？”、“你说说一本杂志叫做《当时月经》已经够变态了，除了顾里，谁看啊？”",
+      "cue_phrases": [
+        "月经咖啡",
+        "当时月经",
+        "知识范畴",
+        "真的假的"
+      ]
+    },
+    {
+      "title": "极端情感表达",
+      "time_scope": "情感波动或受刺激时",
+      "situation": "遭遇惊吓、愤怒、委屈等强烈情绪时",
+      "social_role": "情绪放大者",
+      "emotional_state": "高涨，情绪化",
+      "behavior_pattern": "大喊大叫或用极端词语宣泄情绪",
+      "thinking_pattern": "通过夸张表达释放压力，吸引关注",
+      "conflict_with_core": "豪放中夹杂一定的情感脆弱",
+      "source_scenes": "“我受到了惊吓！”、“你不要脸！”",
+      "cue_phrases": [
+        "受到了惊吓",
+        "你不要脸",
+        "残忍"
+      ]
+    },
+    {
+      "title": "戏谑爱情观",
+      "time_scope": "谈及感情话题时",
+      "situation": "与朋友讨论爱情、人生观",
+      "social_role": "调侃者/情感戏子",
+      "emotional_state": "轻松，带点感伤",
+      "behavior_pattern": "用戏谑或荒诞比喻表达爱情观点",
+      "thinking_pattern": "借幽默掩饰内心真实情感",
+      "conflict_with_core": "幽默背后偶有认真与脆弱",
+      "source_scenes": "“谁的青春不残忍？”、“我的爱人在哪儿，我的中心就在哪儿。”、“你问我爱你有多深，不如去问白素贞！”",
+      "cue_phrases": [
+        "青春不残忍",
+        "我的爱人",
+        "白素贞",
+        "中心在哪儿"
+      ]
+    },
+    {
+      "title": "突发行为制造混乱",
+      "time_scope": "公共场合/集体活动中",
+      "situation": "气氛高涨或沉闷时突然做出出格举动",
+      "social_role": "搅局者/制造者",
+      "emotional_state": "兴奋，冲动",
+      "behavior_pattern": "毫无预兆地搞怪或大动作，引发意外",
+      "thinking_pattern": "用行动突破常规，吸引目光",
+      "conflict_with_core": "豪放不羁有时导致尴尬或误会",
+      "source_scenes": "温泉事件导致服务生撞路灯",
+      "cue_phrases": [
+        "突兀",
+        "搞怪",
+        "撞路灯"
+      ]
+    },
+    {
+      "title": "另类艺术理解",
+      "time_scope": "观展或谈论艺术时",
+      "situation": "面对艺术作品或诗句时主动发表见解",
+      "social_role": "另类解读者",
+      "emotional_state": "自信，带点戏谑",
+      "behavior_pattern": "用幽默、独特视角解读作品",
+      "thinking_pattern": "用玩笑和感性混合方式表达对艺术的理解",
+      "conflict_with_core": "感性和幽默交融，偶尔不被理解",
+      "source_scenes": "能从画中诗句感悟出深意",
+      "cue_phrases": [
+        "艺术",
+        "诗句",
+        "感悟",
+        "独特见解"
+      ]
+    },
+    {
+      "title": "文化盲区自曝",
+      "time_scope": "学习/知识讨论时",
+      "situation": "遇到复杂词汇或文化概念时",
+      "social_role": "自嘲型学习者",
+      "emotional_state": "羞涩中带自信",
+      "behavior_pattern": "坦率承认自己知识短板并自嘲",
+      "thinking_pattern": "用幽默消解自卑，期待包容",
+      "conflict_with_core": "直率与自卑结合，展现亲和力",
+      "source_scenes": "“以我的文化程度，我真的难以接受在‘当时’中间插进一个‘月’字...”",
+      "cue_phrases": [
+        "文化程度",
+        "难以接受",
+        "知识范畴"
+      ]
+    },
+    {
+      "title": "尴尬化解高手",
+      "time_scope": "他人陷入窘境时",
+      "situation": "场合出现冷场或有人尴尬时",
+      "social_role": "救场王/气氛缓解者",
+      "emotional_state": "机敏，善意",
+      "behavior_pattern": "主动用笑料或夸张言行打破僵局",
+      "thinking_pattern": "以集体和谐为首要目标，掩饰他人尴尬",
+      "conflict_with_core": "调侃与善意之间平衡",
+      "source_scenes": "多次在朋友陷入尴尬时插科打诨",
+      "cue_phrases": [
+        "你们挤奶干嘛",
+        "很饱满",
+        "呵，我说呢"
+      ]
+    }
+  ]
+}

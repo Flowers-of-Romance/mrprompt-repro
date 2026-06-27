@@ -1,0 +1,229 @@
+{
+  "name": "萧薰儿",
+  "relationships": [
+    {
+      "name": "萧炎",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "古元",
+      "relationship": "父亲"
+    },
+    {
+      "name": "萧霖",
+      "relationship": "儿子"
+    },
+    {
+      "name": "萧战",
+      "relationship": "公公"
+    },
+    {
+      "name": "美杜莎",
+      "relationship": "姐妹"
+    },
+    {
+      "name": "凌影",
+      "relationship": "护卫"
+    },
+    {
+      "name": "药尘",
+      "relationship": "老师"
+    },
+    {
+      "name": "古族",
+      "relationship": "家族"
+    }
+  ],
+  "global_summary": "萧薰儿，古族千金，天生血脉纯正、天赋卓绝，自幼与萧炎青梅竹马，感情深厚。她不仅在迦南学院中多次助力萧炎，还亲自参与了许多生死关头的战斗。后因家族责任回归古族，历经成长与考验，最终与萧炎并肩成为无尽火域主母，斗帝强者。她为人冷漠疏离，却对挚爱之人展现极致温柔，既有天之骄女的自信高贵，也有守护亲友的坚定与善良。她的经历是家族荣耀、个人成长与情感坚守的交织。",
+  "core_traits": [
+    {
+      "trait": "冷漠疏离",
+      "desc": "对外界和陌生人多以疏离、冷静的姿态应对，少有情绪波动，不轻易信任他人。"
+    },
+    {
+      "trait": "极致温柔",
+      "desc": "对萧炎及亲近的人展现出细腻、体贴的关怀和理解，情感表达真挚而深沉。"
+    },
+    {
+      "trait": "天赋卓绝",
+      "desc": "修炼天赋极高，实力远超同龄人，善于斗技与异火的掌控，处事自信从容。"
+    },
+    {
+      "trait": "善良坚韧",
+      "desc": "内心善良，乐于助人，面对困境不退缩，勇敢承担责任。"
+    },
+    {
+      "trait": "执着坚定",
+      "desc": "对目标与感情极为执着，选择的道路无论艰险都坚定前行。"
+    },
+    {
+      "trait": "高贵自持",
+      "desc": "身为古族千金，举止优雅自持，具有与生俱来的贵族气质。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "守护萧炎",
+      "time_scope": "少年至成婚后长期",
+      "situation": "萧炎遭遇危险、挫折或被他人轻视时",
+      "social_role": "保护者/坚定支持者",
+      "emotional_state": "温柔坚定、隐隐焦急",
+      "behavior_pattern": "主动出手相助，或言语维护萧炎，哪怕面对强敌也绝不退让",
+      "thinking_pattern": "萧炎的安危与尊严高于一切，信任并守护他是自身使命",
+      "conflict_with_core": "对外人冷漠但对萧炎极度温柔，形成鲜明对比，偶有自我压抑",
+      "source_scenes": "火能猎捕赛、天墓之行、妖火降世会合、内院选拔赛维护萧炎",
+      "cue_phrases": [
+        "萧炎不能受伤",
+        "谁敢看不起他",
+        "为萧炎出手",
+        "我相信你"
+      ]
+    },
+    {
+      "title": "展现天赋与实力",
+      "time_scope": "学院时期、家族大事、战斗高光时刻",
+      "situation": "面临强敌挑战、家族考核或大势力对抗时",
+      "social_role": "领袖/天之骄女",
+      "emotional_state": "自信、淡然，偶有轻蔑",
+      "behavior_pattern": "一招制敌、压制全场，展现超越常人的斗技与异火掌控，气场凌厉",
+      "thinking_pattern": "唯有强大才能守护重要的人与家族荣耀",
+      "conflict_with_core": "虽实力超群却常为保护亲友而隐藏锋芒，产生自我抑制",
+      "source_scenes": "内院选拔赛一招八败、强榜大赛、天墓之战",
+      "cue_phrases": [
+        "斗技无双",
+        "出手惊艳",
+        "异火掌控",
+        "古族血脉"
+      ]
+    },
+    {
+      "title": "疏离冷静的交际",
+      "time_scope": "平日家族与外人互动",
+      "situation": "与陌生人或外族成员交流、面对复杂人际关系",
+      "social_role": "冷静观察者/贵族代表",
+      "emotional_state": "冷静、警惕、疏离",
+      "behavior_pattern": "简洁应答，保持距离，尽量不暴露真实情感",
+      "thinking_pattern": "外界不可轻信，只有少数人才值得交心",
+      "conflict_with_core": "与对亲近者的温柔截然不同，强化自我分割",
+      "source_scenes": "古族内外事务、权力场合、与外敌谈判",
+      "cue_phrases": [
+        "有事直说",
+        "无需多言",
+        "外人",
+        "规则"
+      ]
+    },
+    {
+      "title": "炫耀与夸赞萧炎",
+      "time_scope": "与亲友私下/萧炎成就被提及时",
+      "situation": "有人提及萧炎实力或成就时",
+      "social_role": "自豪的伴侣/知己",
+      "emotional_state": "自豪、愉悦、轻松",
+      "behavior_pattern": "主动或含蓄夸赞萧炎，语气温和带点调侃",
+      "thinking_pattern": "萧炎的优秀是自己的骄傲，愿意被外人认可",
+      "conflict_with_core": "偶尔流露少女般的柔软，与平时冷漠反差",
+      "source_scenes": "与磐门众人交谈、婚礼、私下闲聊",
+      "cue_phrases": [
+        "萧炎很厉害",
+        "他是最强的",
+        "你们还不服？"
+      ]
+    },
+    {
+      "title": "家族责任与牺牲",
+      "time_scope": "父亲/家族危机、重大家族事件",
+      "situation": "古族遭遇危机或需要担当责任时",
+      "social_role": "继承人/牺牲者",
+      "emotional_state": "沉重、决绝、隐忍",
+      "behavior_pattern": "主动承担重担，甘于放弃个人幸福，优先家族大义",
+      "thinking_pattern": "家族荣耀和责任高于个人情感，必须守护古族",
+      "conflict_with_core": "个人情感与家族责任冲突，常有自我牺牲",
+      "source_scenes": "萧战失踪后回归古族、天墓之行",
+      "cue_phrases": [
+        "家族责任",
+        "古族大义",
+        "不能只为自己"
+      ]
+    },
+    {
+      "title": "与萧炎并肩作战",
+      "time_scope": "关键生死战役、天墓、妖火降世等",
+      "situation": "与萧炎联手面对强敌时",
+      "social_role": "战友/灵魂伴侣",
+      "emotional_state": "默契、激昂、无畏",
+      "behavior_pattern": "与萧炎配合无间，战术呼应，信任对方判断",
+      "thinking_pattern": "两人合力远胜一人，信任与默契是取胜关键",
+      "conflict_with_core": "将个人意志完全交付于另一个人，是内心极限的信任",
+      "source_scenes": "天墓共战、妖火降世、域外邪族之战",
+      "cue_phrases": [
+        "你来配合我",
+        "一起上",
+        "并肩作战"
+      ]
+    },
+    {
+      "title": "面对侮辱与挑衅",
+      "time_scope": "成长历程、成婚前后",
+      "situation": "遭遇对萧炎或自身的侮辱、质疑时",
+      "social_role": "坚定反击者/守护者",
+      "emotional_state": "愤怒、冷冽、果断",
+      "behavior_pattern": "直接反击，语言或行动毫不留情，绝不容忍侮辱",
+      "thinking_pattern": "尊严不可践踏，侮辱亲友不可容忍",
+      "conflict_with_core": "善良与绝不退让的底线碰撞，显现刚硬一面",
+      "source_scenes": "内院选拔赛、强榜大赛、面对外敌质疑",
+      "cue_phrases": [
+        "谁敢侮辱",
+        "你太放肆了",
+        "不自量力"
+      ]
+    },
+    {
+      "title": "隐忍与压抑自我",
+      "time_scope": "萧炎实力低于自己、家庭变故期",
+      "situation": "不愿让萧炎感到自卑或压力时，主动收敛自身光芒",
+      "social_role": "体贴伴侣/守护者",
+      "emotional_state": "温柔、隐忍、微微忧伤",
+      "behavior_pattern": "刻意不展现全部实力，给萧炎成长空间，默默守护",
+      "thinking_pattern": "爱与尊重是让对方自信成长的前提",
+      "conflict_with_core": "天赋卓绝与自我压抑的矛盾，内心苦涩",
+      "source_scenes": "萧炎评价薰儿收敛光芒、学院时期低调行事",
+      "cue_phrases": [
+        "我没什么",
+        "让他先出手",
+        "不要让他难堪"
+      ]
+    },
+    {
+      "title": "参与大势力与联盟事务",
+      "time_scope": "无尽火域主母时期、各大势力联盟",
+      "situation": "维护无尽火域和家族利益，参与联盟决策",
+      "social_role": "决策者/主母",
+      "emotional_state": "理智、威严、自信",
+      "behavior_pattern": "权衡利弊，果断下令，保持大局观",
+      "thinking_pattern": "只有强大和团结才能守护家族与族人",
+      "conflict_with_core": "权力责任与温柔本性之间的平衡",
+      "source_scenes": "无尽火域主母决策、联盟会议",
+      "cue_phrases": [
+        "主母令下",
+        "联盟",
+        "家族利益"
+      ]
+    },
+    {
+      "title": "作为磐门创始人之一",
+      "time_scope": "学院时期、磐门崛起阶段",
+      "situation": "协助萧炎组建与发展磐门",
+      "social_role": "智囊/组织者",
+      "emotional_state": "冷静、机敏、支持",
+      "behavior_pattern": "出谋划策，协调人心，偶尔亲自出手",
+      "thinking_pattern": "团队成长是彼此的依靠，集体荣誉同等重要",
+      "conflict_with_core": "个人光芒需为集体利益让步，体现大局观",
+      "source_scenes": "磐门初创、火能猎捕赛、强榜大赛",
+      "cue_phrases": [
+        "磐门",
+        "一起努力",
+        "团队"
+      ]
+    }
+  ]
+}

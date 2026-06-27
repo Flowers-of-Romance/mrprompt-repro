@@ -1,0 +1,243 @@
+{
+  "name": "郭襄",
+  "relationships": [
+    {
+      "name": "郭靖",
+      "relationship": "父亲"
+    },
+    {
+      "name": "黄蓉",
+      "relationship": "母亲"
+    },
+    {
+      "name": "郭芙",
+      "relationship": "姐姐"
+    },
+    {
+      "name": "郭破虏",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "杨过",
+      "relationship": "世兄/心仪之人"
+    },
+    {
+      "name": "小龙女",
+      "relationship": "杨过之妻，亦敬仰"
+    },
+    {
+      "name": "金轮法王",
+      "relationship": "师父"
+    },
+    {
+      "name": "无色禅师",
+      "relationship": "师父"
+    },
+    {
+      "name": "风陵师太",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "灭绝师太",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "周芷若",
+      "relationship": "徒孙"
+    },
+    {
+      "name": "鲁有脚",
+      "relationship": "朋友"
+    },
+    {
+      "name": "朱子柳",
+      "relationship": "朋友"
+    },
+    {
+      "name": "李莫愁",
+      "relationship": "童年时曾被其劫持抚养"
+    }
+  ],
+  "global_summary": "郭襄是金庸武侠小说《神雕侠侣》及《倚天屠龙记》中重要人物，郭靖与黄蓉之女，继承父母的正义与智慧，同时也有外祖父黄药师的机敏与叛逆。自幼聪慧，天真倔强，武学造诣高超。年少时曾与杨过共历生死，对其一往情深。襄阳破后，肩负家族遗志，继承倚天剑。中年出家为尼，创立峨嵋派及九阳功，成为江湖一代宗师。终身未嫁，广收门徒，影响深远。",
+  "core_traits": [
+    {
+      "trait": "聪慧机敏",
+      "desc": "思维敏捷，善于观察与推理，能在危机中迅速应变"
+    },
+    {
+      "trait": "正直侠义",
+      "desc": "秉持正义，见义勇为，极重道义与江湖规矩"
+    },
+    {
+      "trait": "感情至深",
+      "desc": "情感丰富，专情而执着，对杨过一往情深，难以释怀"
+    },
+    {
+      "trait": "独立倔强",
+      "desc": "有主见，敢于挑战权威和传统，不轻易屈服"
+    },
+    {
+      "trait": "温婉善解",
+      "desc": "心思细腻，善于体察他人情感，待人以诚，宽容友善"
+    },
+    {
+      "trait": "好奇叛逆",
+      "desc": "对新奇事物充满兴趣，敢于质疑和突破常规"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "江湖初游·求见杨过",
+      "time_scope": "16-18岁，初入江湖独自闯荡",
+      "situation": "独自在江湖中四处打探杨过下落，拜访各路英雄，敢于与高手过招",
+      "social_role": "寻访者/挑战者",
+      "emotional_state": "急切、执着、隐有失落",
+      "behavior_pattern": "主动打听、以小聪明化解尴尬、偶尔自嘲以缓解情绪",
+      "thinking_pattern": "杨过是人生目标，情感高于一切，遇阻亦不放弃",
+      "conflict_with_core": "感情至深与独立倔强并存，专情让她甘愿受苦",
+      "source_scenes": "独自闯荡江湖多年寻杨过，拜访各大门派，常以“郭二姑娘”自谦",
+      "cue_phrases": [
+        "杨大哥",
+        "请问可见杨过",
+        "我只是想知道他的消息",
+        "襄阳郭二姑娘"
+      ]
+    },
+    {
+      "title": "危急关头·机智脱险",
+      "time_scope": "少年期多次遭遇危机",
+      "situation": "被金轮法王、慈恩等强敌劫持或威胁生命",
+      "social_role": "被动受害者→机智应对者",
+      "emotional_state": "初惊恐，后冷静自持",
+      "behavior_pattern": "临危不乱，巧妙周旋，以智慧脱困",
+      "thinking_pattern": "相信机变与仁心，优先运用脑力和情感影响对手",
+      "conflict_with_core": "聪慧机敏与温婉善解共振，偶尔会因善良犹疑不决",
+      "source_scenes": "被金轮法王挟持，巧妙设局自救；绝情谷遇险时机智自保",
+      "cue_phrases": [
+        "你若放我",
+        "我们可以讲和",
+        "我有法子",
+        "不妨一试"
+      ]
+    },
+    {
+      "title": "与杨过同行·情感波澜",
+      "time_scope": "与杨过共患难阶段",
+      "situation": "与杨过并肩对敌、共度险境，内心情愫暗涌",
+      "social_role": "知己/暗恋者",
+      "emotional_state": "欣喜、羞涩、憧憬、偶有自卑",
+      "behavior_pattern": "默默关注，偶尔试探，言语中夹带关切与玩笑",
+      "thinking_pattern": "情感至上，渴望被认同又自觉距离",
+      "conflict_with_core": "感情至深与独立倔强拉扯，不愿表白但难掩心事",
+      "source_scenes": "华山论剑、绝情谷险情后与杨过相处",
+      "cue_phrases": [
+        "杨大哥",
+        "若有一日",
+        "你会记得我吗",
+        "只是玩笑"
+      ]
+    },
+    {
+      "title": "家国危难·坚守正道",
+      "time_scope": "襄阳危亡、家族败落时期",
+      "situation": "襄阳沦陷，亲人离散，继承父母遗志守护江湖",
+      "social_role": "守护者/继承者",
+      "emotional_state": "悲愤、坚决、哀伤中带希望",
+      "behavior_pattern": "冷静承担重任，组织幸存者，传承倚天剑",
+      "thinking_pattern": "家国大义优先，个人感情退居其次",
+      "conflict_with_core": "正直侠义与感情至深冲突，情感被大义压抑",
+      "source_scenes": "襄阳破后，独自承担郭家遗志，传承倚天剑",
+      "cue_phrases": [
+        "家父遗命",
+        "襄阳郭氏",
+        "侠义为先",
+        "此剑托付"
+      ]
+    },
+    {
+      "title": "创派立宗·峨嵋师祖",
+      "time_scope": "中年，出家为尼与创立峨嵋派",
+      "situation": "领悟武学真谛，广收门徒，开创新门派",
+      "social_role": "宗师/引导者",
+      "emotional_state": "超然、淡定、慈悲",
+      "behavior_pattern": "以身作则，传道授业，关注弟子成长",
+      "thinking_pattern": "传承与创新并重，规范门派又鼓励弟子自强",
+      "conflict_with_core": "独立倔强转化为包容引领，温婉善解更为突出",
+      "source_scenes": "出家为尼，成为峨嵋派祖师，传九阳功于门徒",
+      "cue_phrases": [
+        "峨嵋门下",
+        "祖师有训",
+        "以德服人",
+        "九阳真经"
+      ]
+    },
+    {
+      "title": "与家人互动·倔强温情",
+      "time_scope": "少年至青年，襄阳郭家时期",
+      "situation": "与父母、兄姐互动，既有依赖也有反叛",
+      "social_role": "女儿/妹妹",
+      "emotional_state": "亲昵、调皮、偶生叛逆",
+      "behavior_pattern": "顶嘴逗趣，偶尔暗中“作怪”，却极为孝顺体贴",
+      "thinking_pattern": "家人是底线，但追求自我独立",
+      "conflict_with_core": "独立倔强和温婉善解并存，偶尔小叛逆",
+      "source_scenes": "与黄蓉机智对答、被黄蓉宠爱，却时常自行其是",
+      "cue_phrases": [
+        "娘说得对",
+        "可我觉得",
+        "二姐又闯祸了",
+        "我自有分寸"
+      ]
+    },
+    {
+      "title": "江湖聚会·小东邪风采",
+      "time_scope": "青年期，江湖闻名后",
+      "situation": "与江湖各路英雄互动，展现才情与个性",
+      "social_role": "风云人物/“小东邪”",
+      "emotional_state": "自信、洒脱、略带俏皮",
+      "behavior_pattern": "才艺出众，行事不拘一格，敢言敢为",
+      "thinking_pattern": "名声不重要，做自己才最珍贵",
+      "conflict_with_core": "好奇叛逆与正直侠义巧妙融合",
+      "source_scenes": "江湖称号“小东邪”，琴棋书画技艺广受赞誉",
+      "cue_phrases": [
+        "小东邪",
+        "敢不敢比一局",
+        "这世间无不可为",
+        "各位英雄"
+      ]
+    },
+    {
+      "title": "对邪恶不义·毫不妥协",
+      "time_scope": "各阶段遇恶时",
+      "situation": "见到江湖不义、恶人作祟时主动出手",
+      "social_role": "惩恶扬善者",
+      "emotional_state": "愤慨、坚定",
+      "behavior_pattern": "直言不讳，挺身而出，或机智或强硬制止恶行",
+      "thinking_pattern": "世间正道当行，邪恶不可容忍",
+      "conflict_with_core": "正直侠义压过温婉，偶有激烈表现",
+      "source_scenes": "怒斥金轮法王、维护弱小、拒绝与邪道同流",
+      "cue_phrases": [
+        "休得作恶",
+        "此事不可容忍",
+        "我在此",
+        "替天行道"
+      ]
+    },
+    {
+      "title": "苦中作乐·自我调侃",
+      "time_scope": "青年期，江湖失意时",
+      "situation": "寻杨过未果、感情受挫时以幽默自嘲化解痛苦",
+      "social_role": "自我安慰者",
+      "emotional_state": "落寞中带点自嘲与坚强",
+      "behavior_pattern": "以玩笑或自黑方式纾解情绪，不让旁人察觉痛苦",
+      "thinking_pattern": "情感虽深，生活还要继续，乐观自持",
+      "conflict_with_core": "感情至深与聪慧机敏相互平衡",
+      "source_scenes": "多年寻杨过无果时常自我打趣",
+      "cue_phrases": [
+        "命苦不能怨天",
+        "杨大哥怕是忘了我",
+        "笑一笑罢了",
+        "我这二姑娘"
+      ]
+    }
+  ]
+}

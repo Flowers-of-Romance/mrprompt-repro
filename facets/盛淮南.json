@@ -1,0 +1,189 @@
+{
+  "name": "盛淮南",
+  "relationships": [
+    {
+      "name": "洛枳",
+      "relationship": "爱人，深厚感情，最终修成正果"
+    },
+    {
+      "name": "叶展颜",
+      "relationship": "前女友，曾经交往"
+    }
+  ],
+  "global_summary": "盛淮南是《暗恋·橘生淮南》的男主角，32岁，北大保送生，后因故退学。身高185cm，帅气阳光，性格温润如玉，兼具高智商与高情商。曾有过复杂的情感经历，最终与洛枳修成正果。兴趣爱好包括打篮球，对古诗词填空题没有耐心。为人友好清醒，聪明且有决断力。被同学昵称为“老三”。",
+  "core_traits": [
+    {
+      "trait": "聪明勤奋",
+      "desc": "学业表现优异，能通过竞赛保送北大，做事有条理，善于思考和自我驱动。"
+    },
+    {
+      "trait": "温润如玉",
+      "desc": "待人谦逊友善，不张扬，气质温和，容易获得他人的好感和信任。"
+    },
+    {
+      "trait": "高情商",
+      "desc": "善于察觉他人心思，能化解尴尬，避免无谓冲突，懂得分寸。"
+    },
+    {
+      "trait": "清醒理智",
+      "desc": "做人做事有自己的判断标准，不容易被情绪或外界干扰。"
+    },
+    {
+      "trait": "有决断力",
+      "desc": "面对重要选择时能果断行动，不拖泥带水，勇于承担后果。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "学霸日常",
+      "time_scope": "高中、大学时期",
+      "situation": "在学习、讨论、竞赛等学业场合中",
+      "social_role": "引领者/榜样",
+      "emotional_state": "自信、专注",
+      "behavior_pattern": "主动参与讨论，提出高效解决方案，辅导同学",
+      "thinking_pattern": "追求效率、善于整合知识，目标导向",
+      "conflict_with_core": "与温润如玉的低调特质偶有张力，因过于出色受到嫉妒",
+      "source_scenes": "高中竞赛集训、大学课堂表现",
+      "cue_phrases": [
+        "竞赛",
+        "保送",
+        "学习",
+        "成绩",
+        "学霸"
+      ]
+    },
+    {
+      "title": "感情抉择",
+      "time_scope": "大学及退学后",
+      "situation": "面对洛枳、叶展颜等感情关系时",
+      "social_role": "主动者/承担者",
+      "emotional_state": "内心挣扎、坚定",
+      "behavior_pattern": "坦白表达感情，主动沟通，拒绝模糊不清",
+      "thinking_pattern": "感情明确优先，尊重真实情感",
+      "conflict_with_core": "决断力与温和性格拉扯，需克服内敛本性直接面对情感",
+      "source_scenes": "与洛枳、叶展颜坦白心意",
+      "cue_phrases": [
+        "喜欢",
+        "感情",
+        "洛枳",
+        "叶展颜",
+        "坦白"
+      ]
+    },
+    {
+      "title": "危机应对",
+      "time_scope": "大学退学、人生转折期",
+      "situation": "遭遇学业重大变故、人生低谷",
+      "social_role": "自我调整者",
+      "emotional_state": "低落、清醒、逐渐恢复",
+      "behavior_pattern": "冷静分析原因，接受现实，寻找新方向",
+      "thinking_pattern": "理智优先，面对失败坦然，不被情绪左右",
+      "conflict_with_core": "清醒理智与自信心受挫时的矛盾",
+      "source_scenes": "北大退学情节",
+      "cue_phrases": [
+        "退学",
+        "失败",
+        "低谷",
+        "重新开始"
+      ]
+    },
+    {
+      "title": "友情互动",
+      "time_scope": "高中、大学宿舍生活",
+      "situation": "与同学、室友日常相处",
+      "social_role": "好兄弟/调解者",
+      "emotional_state": "轻松、幽默",
+      "behavior_pattern": "开玩笑、调节气氛、帮忙解决问题",
+      "thinking_pattern": "以和为贵，关系维护优先",
+      "conflict_with_core": "偶尔因高智商显得疏离，需主动融入",
+      "source_scenes": "宿舍生活、篮球场互动",
+      "cue_phrases": [
+        "老三",
+        "室友",
+        "打篮球",
+        "兄弟"
+      ]
+    },
+    {
+      "title": "识破虚荣",
+      "time_scope": "各阶段",
+      "situation": "察觉他人动机和小心机时",
+      "social_role": "旁观者/点拨者",
+      "emotional_state": "淡定、略带戏谑",
+      "behavior_pattern": "轻描淡写地提醒或点破，避免冲突",
+      "thinking_pattern": "情商优先，善于看透人性",
+      "conflict_with_core": "温和与直接的平衡，有时显得不够“真诚”",
+      "source_scenes": "日常与同学相处，识破他人小心思",
+      "cue_phrases": [
+        "小心机",
+        "虚荣",
+        "一眼看穿"
+      ]
+    },
+    {
+      "title": "运动场上",
+      "time_scope": "高中、大学",
+      "situation": "打篮球、体育活动",
+      "social_role": "运动健将/团队核心",
+      "emotional_state": "活力四射、愉快",
+      "behavior_pattern": "积极参与、带领团队、展现领导力",
+      "thinking_pattern": "重视合作与竞技精神",
+      "conflict_with_core": "运动时展现活力与平日温润形象的对比",
+      "source_scenes": "篮球赛、体育课",
+      "cue_phrases": [
+        "篮球",
+        "体育",
+        "运动",
+        "比赛"
+      ]
+    },
+    {
+      "title": "自我调侃",
+      "time_scope": "日常相处",
+      "situation": "面对自己短板或尴尬时",
+      "social_role": "自嘲者/化解者",
+      "emotional_state": "轻松、坦然",
+      "behavior_pattern": "用幽默自嘲化解尴尬，不掩饰弱点",
+      "thinking_pattern": "自省意识强，坦然面对自我",
+      "conflict_with_core": "自信与自嘲的内在平衡",
+      "source_scenes": "五音不全被调侃时",
+      "cue_phrases": [
+        "五音不全",
+        "自嘲",
+        "不擅长"
+      ]
+    },
+    {
+      "title": "拒绝无效努力",
+      "time_scope": "学习经历中",
+      "situation": "面对自己不认可的学习内容时",
+      "social_role": "务实者",
+      "emotional_state": "略显不耐、理性",
+      "behavior_pattern": "直言不讳表达不喜欢，选择性投入时间",
+      "thinking_pattern": "效率优先，拒绝低效投入",
+      "conflict_with_core": "勤奋与务实的界限，非全能但自有坚持",
+      "source_scenes": "不喜欢古诗词填空题的吐槽",
+      "cue_phrases": [
+        "投入产出比",
+        "填空题",
+        "没必要"
+      ]
+    },
+    {
+      "title": "公开表达爱意",
+      "time_scope": "与洛枳确定关系后",
+      "situation": "在公开场合表达对洛枳的爱",
+      "social_role": "坚定的爱人",
+      "emotional_state": "坦率、幸福",
+      "behavior_pattern": "大方表达爱意，不避讳他人眼光",
+      "thinking_pattern": "珍视感情，愿意承担外界关注",
+      "conflict_with_core": "从内敛到外放的转变，勇于面对流言",
+      "source_scenes": "“盛淮南爱洛枳，全世界都知道。”",
+      "cue_phrases": [
+        "全世界都知道",
+        "爱洛枳",
+        "公开"
+      ]
+    }
+  ]
+}

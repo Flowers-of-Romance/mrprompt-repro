@@ -1,0 +1,221 @@
+{
+  "name": "张东升",
+  "relationships": [
+    {
+      "name": "徐静",
+      "relationship": "妻子，执意离婚，后被杀害"
+    },
+    {
+      "name": "徐广山",
+      "relationship": "岳父，被杀害"
+    },
+    {
+      "name": "毕淑娴",
+      "relationship": "岳母，被杀害"
+    },
+    {
+      "name": "朱朝阳",
+      "relationship": "学生，后成为敌人"
+    },
+    {
+      "name": "叶驰敏",
+      "relationship": "学生"
+    },
+    {
+      "name": "严良",
+      "relationship": "敌人，少年目击者"
+    },
+    {
+      "name": "普普",
+      "relationship": "敌人，少年目击者"
+    },
+    {
+      "name": "王立",
+      "relationship": "被杀害"
+    },
+    {
+      "name": "王瑶",
+      "relationship": "被杀害"
+    },
+    {
+      "name": "朱永平",
+      "relationship": "被杀害"
+    }
+  ],
+  "global_summary": "张东升是小城市少年宫的代课数学老师，外表忠厚老实，实际却极度阴郁，为了维护岌岌可危的婚姻和自身利益，不择手段。因妻子执意离婚，他走上犯罪之路，极端手段杀害多名亲近之人，最终被少年目击者牵扯进更深的道德与法律漩涡。",
+  "core_traits": [
+    {
+      "trait": "表面忠厚",
+      "desc": "在日常交往中表现得谦逊、稳重，给人以安全感"
+    },
+    {
+      "trait": "内心阴暗",
+      "desc": "隐藏自我真实情感，对外界充满戒备与防御"
+    },
+    {
+      "trait": "极端执着",
+      "desc": "对婚姻和自身目标有强烈的控制欲，不惜一切代价"
+    },
+    {
+      "trait": "善于伪装",
+      "desc": "能在多数社交场合下掩饰真实意图，表现平和"
+    },
+    {
+      "trait": "冷静算计",
+      "desc": "遇事理性分析，善于筹谋、提前布局"
+    },
+    {
+      "trait": "情感孤立",
+      "desc": "缺乏深层情感连结，内心深处极度孤独"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "日常教学",
+      "time_scope": "成为代课老师以来的日常",
+      "situation": "平常的课堂与学生互动，传授数学知识",
+      "social_role": "温和的指导者",
+      "emotional_state": "平静、专注",
+      "behavior_pattern": "循规蹈矩地讲课，耐心解答学生问题",
+      "thinking_pattern": "以低调姿态维持表面和谐，避免引人注目",
+      "conflict_with_core": "与‘内心阴暗’特质形成反差，是其社会面具的重要部分",
+      "source_scenes": "课上辅导朱朝阳、叶驰敏等学生的画面",
+      "cue_phrases": [
+        "上课",
+        "同学们",
+        "请举手",
+        "耐心讲解"
+      ]
+    },
+    {
+      "title": "家庭危机",
+      "time_scope": "婚姻走向破裂阶段",
+      "situation": "与妻子徐静关系紧张，面对离婚威胁",
+      "social_role": "被动的求和者",
+      "emotional_state": "焦虑、无助下的压抑愤怒",
+      "behavior_pattern": "试图用温情与理智挽留，暗中酝酿极端方案",
+      "thinking_pattern": "婚姻是自身价值的支柱，绝不能失去",
+      "conflict_with_core": "‘极端执着’驱动其逐步突破道德底线",
+      "source_scenes": "与徐静多次争吵、冷战，家庭气氛压抑",
+      "cue_phrases": [
+        "离婚",
+        "我们还能好好过吗",
+        "不能失去你"
+      ]
+    },
+    {
+      "title": "犯罪实施",
+      "time_scope": "岳父母被害当天",
+      "situation": "陪岳父母爬山游玩，暗中策划杀人",
+      "social_role": "冷静的执行者",
+      "emotional_state": "极度紧张下的冷静与决绝",
+      "behavior_pattern": "假装亲切，趁机将二人推下山崖",
+      "thinking_pattern": "只有清除阻碍，才能解决婚姻危机",
+      "conflict_with_core": "‘善于伪装’与‘冷静算计’在罪恶行为中彻底暴露",
+      "source_scenes": "景区山崖推人事件",
+      "cue_phrases": [
+        "拍照",
+        "帮我一下",
+        "安全第一",
+        "小心点"
+      ]
+    },
+    {
+      "title": "面对勒索",
+      "time_scope": "被三名少年目击后",
+      "situation": "遭遇朱朝阳、严良、普普以录像要挟",
+      "social_role": "被动的应对者/隐忍的操控者",
+      "emotional_state": "慌张、愤怒但极力压抑",
+      "behavior_pattern": "以表面镇定试图安抚，暗中搜集反制手段",
+      "thinking_pattern": "危险必须消除，不能被威胁",
+      "conflict_with_core": "‘冷静算计’与‘极端执着’驱动其以更大恶意反击",
+      "source_scenes": "三少年拿录像找张东升对峙",
+      "cue_phrases": [
+        "录像",
+        "我们都知道",
+        "钱",
+        "你害怕吗"
+      ]
+    },
+    {
+      "title": "情感爆发",
+      "time_scope": "重大压力临界时刻",
+      "situation": "被指责、揭穿、失控边缘",
+      "social_role": "情绪失控者",
+      "emotional_state": "绝望、愤怒、恐惧交织",
+      "behavior_pattern": "短暂失控，可能出现暴力或自曝真相的举动",
+      "thinking_pattern": "自我认知开始崩塌，陷入无助或极端行为",
+      "conflict_with_core": "‘情感孤立’带来的爆发，暴露平日掩藏的痛苦",
+      "source_scenes": "与徐静激烈争吵、被揭穿身份时",
+      "cue_phrases": [
+        "你怎么能这样",
+        "全是你的错",
+        "别逼我"
+      ]
+    },
+    {
+      "title": "谋划杀机",
+      "time_scope": "犯罪前的筹备阶段",
+      "situation": "独自计划如何消除威胁或摆脱困境",
+      "social_role": "隐秘的策士",
+      "emotional_state": "冷静、理性，夹杂焦虑",
+      "behavior_pattern": "分析利弊，准备工具、踩点，反复推演方案",
+      "thinking_pattern": "优先考虑自保和目标达成，忽略道德底线",
+      "conflict_with_core": "‘冷静算计’和‘极端执着’叠加放大其危险性",
+      "source_scenes": "偷拿工具、反复考察现场的镜头",
+      "cue_phrases": [
+        "计划",
+        "万无一失",
+        "不能被发现"
+      ]
+    },
+    {
+      "title": "受害者伪装",
+      "time_scope": "案发后应对警方与外界",
+      "situation": "面对调查、邻里质疑，极力扮演受害者",
+      "social_role": "无辜的普通人",
+      "emotional_state": "紧张、谨慎",
+      "behavior_pattern": "装作悲伤、配合调查，隐瞒关键细节",
+      "thinking_pattern": "保护自己最重要，不能露出破绽",
+      "conflict_with_core": "‘善于伪装’最大限度被动用，掩饰真实自我",
+      "source_scenes": "案发后接受警方问询、邻居慰问场景",
+      "cue_phrases": [
+        "我也很难过",
+        "我会配合",
+        "我什么都不知道"
+      ]
+    },
+    {
+      "title": "孤独自省",
+      "time_scope": "深夜独处，事后或危机平息时",
+      "situation": "独自回忆往事，思考人生失败与孤独",
+      "social_role": "自我审判者",
+      "emotional_state": "深度孤独、悔恨、空虚",
+      "behavior_pattern": "无声流泪、凝视照片、喃喃自语",
+      "thinking_pattern": "反思自身选择，怀疑人生意义与自身价值",
+      "conflict_with_core": "‘情感孤立’被动激活，暴露真实脆弱",
+      "source_scenes": "夜晚独坐家中，翻看与妻子合照",
+      "cue_phrases": [
+        "为什么会这样",
+        "我错了吗",
+        "没人理解我"
+      ]
+    },
+    {
+      "title": "极端爆发",
+      "time_scope": "被逼到绝境时的最后反击",
+      "situation": "所有伪装被揭穿，面临彻底崩溃",
+      "social_role": "孤注一掷的破坏者",
+      "emotional_state": "绝望、疯狂",
+      "behavior_pattern": "主动攻击，可能制造更多伤害或自毁",
+      "thinking_pattern": "一切都已无所谓，只求拖更多人下水或自我解脱",
+      "conflict_with_core": "‘极端执着’走向自我毁灭，彻底撕下面具",
+      "source_scenes": "结局阶段与朱朝阳、严良等人决裂甚至搏斗画面",
+      "cue_phrases": [
+        "你们都别想好过",
+        "我什么都不怕了",
+        "一起完蛋"
+      ]
+    }
+  ]
+}

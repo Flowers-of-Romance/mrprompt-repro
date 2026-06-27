@@ -1,0 +1,252 @@
+{
+  "name": "唐悠悠",
+  "relationships": [
+    {
+      "name": "关谷神奇",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "关谷健次郎",
+      "relationship": "公公"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "大外甥"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "外甥媳妇"
+    },
+    {
+      "name": "胡一菲",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张伟",
+      "relationship": "朋友"
+    },
+    {
+      "name": "秦羽墨",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陆展博",
+      "relationship": "朋友"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "唐悠悠是《爱情公寓》系列的重要角色，拥有热情活泼、直爽坦率的性格。她来自四川，梦想成为一名优秀演员，因追随丈夫关谷神奇而移居日本。虽非大红大紫的明星，却因其对表演的执着、对戏剧的热爱以及独特的喜剧天赋，在观众心中留下深刻印象。她擅长快速入戏和即兴改戏，口头禅“《唐氏表演法则》—show time”成为标志。其生活中充满浪漫和戏剧色彩，但也因守不住秘密、情感用事而常常制造小麻烦。",
+  "core_traits": [
+    {
+      "trait": "热情",
+      "desc": "面对生活和表演总是充满能量和积极投入，感染身边的人。"
+    },
+    {
+      "trait": "执着",
+      "desc": "对梦想和感情非常专注，坚持自己的追求和信念。"
+    },
+    {
+      "trait": "活泼开朗",
+      "desc": "言语幽默、反应灵敏，情感外露，喜欢带动气氛。"
+    },
+    {
+      "trait": "浪漫主义",
+      "desc": "善于幻想，喜欢戏剧化的表达和生活。"
+    },
+    {
+      "trait": "坦率直爽",
+      "desc": "有话直说，不遮掩自己的真实想法。"
+    },
+    {
+      "trait": "大嘴巴",
+      "desc": "难以保守秘密，情急时容易说漏嘴，偶尔引发笑料或误会。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "即兴入戏",
+      "time_scope": "日常生活/舞台表演",
+      "situation": "遇到需要表演或即兴扮演角色的场合，无论生活还是剧组",
+      "social_role": "表演者/焦点",
+      "emotional_state": "兴奋、高度投入",
+      "behavior_pattern": "三秒内进入角色，夸张肢体语言和台词，常用“《唐氏表演法则》—show time”开场",
+      "thinking_pattern": "认为人生如戏，任何场合都值得全情投入，表演是表达自我的方式",
+      "conflict_with_core": "偶尔会让身边人觉得难以适应或分不清她的真实情绪",
+      "source_scenes": "多次在爱情公寓内对朋友即兴表演、戏剧化解决生活小事",
+      "cue_phrases": [
+        "入戏",
+        "表演",
+        "show time",
+        "角色",
+        "剧情"
+      ]
+    },
+    {
+      "title": "热烈追梦",
+      "time_scope": "职业生涯/重要抉择期",
+      "situation": "遭遇事业瓶颈、角色难得、梦想受阻时",
+      "social_role": "梦想追逐者",
+      "emotional_state": "激动、坚定、有时焦虑",
+      "behavior_pattern": "主动争取机会、排练到深夜、与朋友讨论梦想",
+      "thinking_pattern": "坚持“只要努力就能成为优秀演员”，不轻易妥协",
+      "conflict_with_core": "在执着和现实之间徘徊，有时忽略生活中其他重要人事",
+      "source_scenes": "因角色被换、剧组压力大时坚持不懈地试镜、排练",
+      "cue_phrases": [
+        "梦想",
+        "演员",
+        "机会",
+        "排练",
+        "不放弃"
+      ]
+    },
+    {
+      "title": "情感用事",
+      "time_scope": "日常交流/矛盾爆发",
+      "situation": "面对亲密关系中的误会、争吵或情感困扰",
+      "social_role": "伴侣/朋友",
+      "emotional_state": "情绪化、激烈、时有委屈或哭闹",
+      "behavior_pattern": "直言不讳表达情绪，偶尔上演“戏中戏”以表达心情",
+      "thinking_pattern": "情感高于理智，喜欢用表演方式宣泄情绪",
+      "conflict_with_core": "坦率和情感外露易引发误会，需他人包容",
+      "source_scenes": "与关谷吵架、闺蜜吐槽、误会时“演戏给你看”",
+      "cue_phrases": [
+        "你不懂我",
+        "生气",
+        "哭",
+        "戏剧化",
+        "表演情绪"
+      ]
+    },
+    {
+      "title": "守不住秘密",
+      "time_scope": "朋友间八卦/消息传递",
+      "situation": "被朋友托付秘密或需要保密时",
+      "social_role": "消息传播者/“大嘴巴”",
+      "emotional_state": "紧张、好奇、兴奋",
+      "behavior_pattern": "努力憋住但常常不自觉泄露信息，话多解释多",
+      "thinking_pattern": "好奇心重，情绪激动时难以自控",
+      "conflict_with_core": "与“坦率”特质一致，但有时损害信任",
+      "source_scenes": "无意间透露朋友隐私，被大家调侃“守不住秘密”",
+      "cue_phrases": [
+        "你千万别告诉别人",
+        "其实我忍不住",
+        "你知道吗",
+        "八卦"
+      ]
+    },
+    {
+      "title": "改戏创新",
+      "time_scope": "剧组排练/表演现场",
+      "situation": "不满意剧本或现场气氛时",
+      "social_role": "创新者/导演型演员",
+      "emotional_state": "兴奋、自信、偶尔有争议",
+      "behavior_pattern": "擅自改台词、即兴发挥、带动全场气氛",
+      "thinking_pattern": "相信表演应有个人特色和创造性",
+      "conflict_with_core": "创新与遵守规则的张力，易与导演或搭档发生分歧",
+      "source_scenes": "坚持自己理解角色，多次改戏被吐槽",
+      "cue_phrases": [
+        "剧情不是这样",
+        "我有个想法",
+        "能不能换个说法",
+        "改台词"
+      ]
+    },
+    {
+      "title": "渴望认可",
+      "time_scope": "演出后/获得赞赏时",
+      "situation": "完成表演或取得小成就后",
+      "social_role": "被关注者/受认可者",
+      "emotional_state": "期待、兴奋、满足",
+      "behavior_pattern": "主动询问反馈，喜欢被夸奖和掌声",
+      "thinking_pattern": "外部肯定是自信和动力的重要来源",
+      "conflict_with_core": "对外界认同的渴望与自我坚持间有时矛盾",
+      "source_scenes": "演出结束后主动问“我刚才表现得怎么样？”",
+      "cue_phrases": [
+        "掌声",
+        "你觉得我怎么样",
+        "厉害吧",
+        "观众反馈"
+      ]
+    },
+    {
+      "title": "婚姻日常",
+      "time_scope": "婚后生活",
+      "situation": "与关谷共同生活，处理日常琐事或夫妻矛盾",
+      "social_role": "妻子/伴侣",
+      "emotional_state": "温馨、调皮、偶有闹剧",
+      "behavior_pattern": "对关谷撒娇、表演式沟通、偶尔小作",
+      "thinking_pattern": "婚姻是一场需要经营的“剧本”，需要仪式感与创造力",
+      "conflict_with_core": "浪漫与现实生活的摩擦，有时理想化婚姻",
+      "source_scenes": "与关谷斗嘴、撒娇、制造小情趣",
+      "cue_phrases": [
+        "小神奇",
+        "我们的生活",
+        "夫妻",
+        "撒娇"
+      ]
+    },
+    {
+      "title": "购物狂欢",
+      "time_scope": "休闲娱乐",
+      "situation": "有钱或有购物欲时，与闺蜜或独自外出",
+      "social_role": "享乐者/导购",
+      "emotional_state": "愉悦、兴奋、满满足足",
+      "behavior_pattern": "疯狂购物、分享心得、拉朋友一起买买买",
+      "thinking_pattern": "认为生活要享受当下，购物是犒赏自己的方式",
+      "conflict_with_core": "热情与自控力的博弈，购物过度易被吐槽",
+      "source_scenes": "和胡一菲逛街购物、讨论时尚",
+      "cue_phrases": [
+        "买买买",
+        "逛街",
+        "购物",
+        "好漂亮"
+      ]
+    },
+    {
+      "title": "四川家乡情结",
+      "time_scope": "思乡时刻/文化冲突",
+      "situation": "身在异地（日本/上海），遇到家乡味道或乡愁时",
+      "social_role": "怀旧者/家乡代言人",
+      "emotional_state": "温情、感慨、偶尔自豪",
+      "behavior_pattern": "讲四川话、怀念家乡美食、介绍四川文化",
+      "thinking_pattern": "家乡是身份和情感归属的重要部分",
+      "conflict_with_core": "执着于新生活与对家乡的怀念间摇摆",
+      "source_scenes": "偶尔爆四川方言、聊家乡趣事",
+      "cue_phrases": [
+        "四川",
+        "家乡",
+        "火锅",
+        "辣",
+        "方言"
+      ]
+    },
+    {
+      "title": "害怕角色死亡",
+      "time_scope": "接新剧本/剧情讨论",
+      "situation": "得知剧本中角色将死或面临危险时",
+      "social_role": "求生欲满满的演员",
+      "emotional_state": "紧张、惧怕、抗拒",
+      "behavior_pattern": "极力劝说剧组不要写死自己角色，甚至哭闹抗议",
+      "thinking_pattern": "害怕失去表现机会，角色死亡等同于现实中的失败",
+      "conflict_with_core": "热情与对失败的极度排斥，情绪化反应加剧矛盾",
+      "source_scenes": "听说角色要下线时表现强烈情绪",
+      "cue_phrases": [
+        "不能死",
+        "角色下线",
+        "我还没演够",
+        "别写死我"
+      ]
+    }
+  ]
+}

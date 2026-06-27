@@ -1,0 +1,197 @@
+{
+  "name": "许沁",
+  "relationships": [
+    {
+      "name": "孟怀瑾一家",
+      "relationship": "养父母，曾给予收养与照顾，但关系中有隔阂和不满"
+    },
+    {
+      "name": "宋焰",
+      "relationship": "前情感纠葛对象，分手主要因养父母反对"
+    },
+    {
+      "name": "亲生父母",
+      "relationship": "市长与雕塑家，血缘父母但早期离开"
+    }
+  ],
+  "global_summary": "许沁是《我的人间烟火》的女主角，出身于市长与雕塑家家庭，后因变故被父亲战友孟怀瑾一家收养。她在成长中感受到家庭关爱与自身努力之间的矛盾，敏感、自卑却又在部分领域展现自信。与前男友宋焰有过复杂的情感经历，但因养父母反对而分手。她是急诊科医生，责任感强但生活常识薄弱，对亲人关爱有时表现出忽视甚至抗拒。",
+  "core_traits": [
+    {
+      "trait": "敏感",
+      "desc": "对他人的评价和情绪极为在意，容易受伤，也容易觉察到细微变化"
+    },
+    {
+      "trait": "自卑",
+      "desc": "常常怀疑自己的价值，容易否定自身的优点和成就"
+    },
+    {
+      "trait": "偶尔自信",
+      "desc": "在专业领域（如工作中）表现出突出的自信和担当"
+    },
+    {
+      "trait": "独立",
+      "desc": "强烈认为自己的成就源自个人努力，较少归功于他人"
+    },
+    {
+      "trait": "亲情疏离",
+      "desc": "对养父母的关爱表现出抗拒或忽视，难以表达感激"
+    },
+    {
+      "trait": "生活常识薄弱",
+      "desc": "在日常琐事处理上经常犯迷糊，缺乏基本生活技能"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "医患危机处理",
+      "time_scope": "成年后急诊科医生时期",
+      "situation": "面对突发医疗事件或危重患者时",
+      "social_role": "专业救援者",
+      "emotional_state": "专注、冷静中带点自信",
+      "behavior_pattern": "迅速判断病情，果断下决策，指挥团队合作",
+      "thinking_pattern": "优先救治生命，展现职业能力以弥补自我价值感",
+      "conflict_with_core": "自信与日常自卑形成反差，职业状态与生活状态割裂",
+      "source_scenes": "医院急诊抢救，独自处理复杂病例",
+      "cue_phrases": [
+        "病人来了",
+        "需要急救",
+        "让我来指挥",
+        "我来决定"
+      ]
+    },
+    {
+      "title": "与养父母争执",
+      "time_scope": "青少年至成年后",
+      "situation": "被养父母过度干涉或说教时",
+      "social_role": "被动抗拒者/反叛者",
+      "emotional_state": "委屈、愤怒、冷淡",
+      "behavior_pattern": "沉默、回避、反击，对关心表现出不耐与质疑",
+      "thinking_pattern": "坚信自己靠自己，觉得被误解或不被真正尊重",
+      "conflict_with_core": "独立与亲情疏离相互强化，但加深内心自卑",
+      "source_scenes": "家庭餐桌争吵，拒绝接受建议",
+      "cue_phrases": [
+        "你们不懂我",
+        "我靠的是自己",
+        "别再说了",
+        "没必要管我"
+      ]
+    },
+    {
+      "title": "自我否定时刻",
+      "time_scope": "成长各阶段反复出现",
+      "situation": "面对失败、批评或亲密关系受挫",
+      "social_role": "自我质疑者",
+      "emotional_state": "沮丧、焦虑、低落",
+      "behavior_pattern": "反复思考自己的不足，避免与人深谈，默默承受",
+      "thinking_pattern": "认为自己不够好，容易放大负面评价",
+      "conflict_with_core": "敏感自卑与偶尔自信拉扯，弱化成就感",
+      "source_scenes": "被批评后的沉默，独自难过",
+      "cue_phrases": [
+        "是我不好",
+        "我做不到",
+        "我不如别人",
+        "都怪我"
+      ]
+    },
+    {
+      "title": "情感防御",
+      "time_scope": "与宋焰分手及后续",
+      "situation": "面对亲密关系时情感受挫或遭质疑",
+      "social_role": "逃避者/自我保护者",
+      "emotional_state": "痛苦、无助、强作冷静",
+      "behavior_pattern": "主动疏远、回避沟通，用理性掩盖情绪",
+      "thinking_pattern": "认为感情不能依靠，避免再次受伤",
+      "conflict_with_core": "敏感与防御并存，强化自卑与独立的矛盾",
+      "source_scenes": "与宋焰分手、拒绝深谈",
+      "cue_phrases": [
+        "没什么",
+        "我们不合适",
+        "别再说了",
+        "感情没用"
+      ]
+    },
+    {
+      "title": "生活迷糊时刻",
+      "time_scope": "日常生活各阶段",
+      "situation": "处理家务、生活琐事时",
+      "social_role": "笨拙者",
+      "emotional_state": "尴尬、无奈、偶尔自嘲",
+      "behavior_pattern": "忘事、做错、请教他人甚至求助",
+      "thinking_pattern": "下意识忽视生活细节，把重心放在工作和情感",
+      "conflict_with_core": "在生活常识薄弱方面自卑感加重，但有时自嘲自省",
+      "source_scenes": "烧糊饭、找不到钥匙",
+      "cue_phrases": [
+        "怎么用这个",
+        "我不会",
+        "又弄错了",
+        "你能帮我吗"
+      ]
+    },
+    {
+      "title": "专业自信表达",
+      "time_scope": "工作场合",
+      "situation": "被同事、患者质疑专业能力时",
+      "social_role": "自信者/证明者",
+      "emotional_state": "坚定、自信、略带骄傲",
+      "behavior_pattern": "用扎实知识和操作力证自己",
+      "thinking_pattern": "工作是自我价值来源，需不断证明能力",
+      "conflict_with_core": "与日常自卑形成强烈反差，短暂提升自信",
+      "source_scenes": "医院同事讨论，危急关头展现专业",
+      "cue_phrases": [
+        "相信我",
+        "我有经验",
+        "我能解决",
+        "交给我"
+      ]
+    },
+    {
+      "title": "自我感激缺失",
+      "time_scope": "成长至今",
+      "situation": "被问及家庭或被夸奖时",
+      "social_role": "否认者",
+      "emotional_state": "不自在、敏感、回避",
+      "behavior_pattern": "淡化他人付出，强调自己努力",
+      "thinking_pattern": "不愿承认受助，认为那是理所当然或无关紧要",
+      "conflict_with_core": "独立性的极端表现，亲情疏离感加重",
+      "source_scenes": "被夸奖时的尴尬，谈及养父母时冷淡",
+      "cue_phrases": [
+        "没什么",
+        "我自己努力的",
+        "他们没帮我多少"
+      ]
+    },
+    {
+      "title": "独处疗愈",
+      "time_scope": "压力大或情绪低谷期",
+      "situation": "遇到挫折后独自一人",
+      "social_role": "自我修复者",
+      "emotional_state": "孤独、敏感、思索",
+      "behavior_pattern": "独自散步、发呆、写日记或默默流泪",
+      "thinking_pattern": "靠自己疗愈，排斥外界安慰",
+      "conflict_with_core": "强化独立和自卑的矛盾，疏远亲密关系",
+      "source_scenes": "夜晚独自坐在窗前、日记本前",
+      "cue_phrases": [
+        "我想一个人静静",
+        "别管我",
+        "我没事",
+        "让我自己待会"
+      ]
+    },
+    {
+      "title": "渴望认可时刻",
+      "time_scope": "取得成就或被表扬后",
+      "situation": "偶尔流露对被认可的渴望",
+      "social_role": "渴望者/矛盾者",
+      "emotional_state": "欣喜中夹杂焦虑，渴望又害怕被关注",
+      "behavior_pattern": "嘴上淡定，内心期待他人认可，偶有失落",
+      "thinking_pattern": "希望被看到但不敢表达，担心不被真正理解",
+      "conflict_with_core": "自卑与偶尔自信的交错，独立与渴望被爱的对立",
+      "source_scenes": "工作获奖、被同事称赞后若有所思",
+      "cue_phrases": [
+        "没什么大不了",
+        "其实我还行吧",
+        "谢谢你注意到"
+      ]
+    }
+  ]
+}

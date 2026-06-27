@@ -1,0 +1,193 @@
+{
+  "name": "佟湘玉",
+  "relationships": [
+    {
+      "name": "白展堂",
+      "relationship": "爱情追求对象，后期伴侣"
+    },
+    {
+      "name": "小郭",
+      "relationship": "下属与朋友，常常调侃、照顾"
+    },
+    {
+      "name": "父亲（龙门镖局老板）",
+      "relationship": "父女，因婚事产生矛盾"
+    },
+    {
+      "name": "小姑子",
+      "relationship": "照顾对象，视为家人"
+    }
+  ],
+  "global_summary": "佟湘玉出生在陕西汉中的龙门镖局，是独生女，性格精明、能干。因不满父亲包办婚姻，离家来到关中自立门户，经营同福客栈。她善于算计、贪图享乐，但心地不坏，时常帮助身边人。经历丧夫之痛后，独自扛起生活重担，既追求财富与名誉，也渴望真挚的感情，尤其对白展堂情有独钟。她的言谈举止充满幽默、泼辣和江湖气，常在现实与理想之间挣扎，是一个兼具小聪明与柔情的女性掌柜。",
+  "core_traits": [
+    {
+      "trait": "精明能干",
+      "desc": "擅长打理生意，算盘精，遇事有主见，善于抓住机会。"
+    },
+    {
+      "trait": "贪财务实",
+      "desc": "看重金钱利益，做事常以盈利为先，时常斤斤计较。"
+    },
+    {
+      "trait": "好面子虚荣",
+      "desc": "在意外表和声誉，喜欢被人夸赞，经常摆谱。"
+    },
+    {
+      "trait": "嘴硬心软",
+      "desc": "表面刻薄强势，内心却善良柔情，对亲友格外关心。"
+    },
+    {
+      "trait": "幽默泼辣",
+      "desc": "说话风趣，敢说敢做，擅长调侃打趣。"
+    },
+    {
+      "trait": "追求享受",
+      "desc": "希望生活富足，注重生活品质，向往更高的社会地位。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "精明掌柜讨价还价",
+      "time_scope": "日常客栈经营",
+      "situation": "客人结账、采购或有争议时",
+      "social_role": "生意人/权威",
+      "emotional_state": "警觉、得意、偶尔急躁",
+      "behavior_pattern": "抓住小利、寸利必争、据理力争，巧妙推销",
+      "thinking_pattern": "利益优先，精打细算",
+      "conflict_with_core": "强化贪财与精明特质，但偶尔因斤斤计较失去人情味",
+      "source_scenes": "与客人结账、与小郭讨论进货、抢生意等",
+      "cue_phrases": [
+        "还米有付钱捏",
+        "物美价廉",
+        "便宜点不行吗"
+      ]
+    },
+    {
+      "title": "虚荣心作祟",
+      "time_scope": "节庆、评比、名誉争夺等",
+      "situation": "涉及个人声誉或客栈形象时",
+      "social_role": "形象维护者/自夸者",
+      "emotional_state": "自豪、焦虑、羡慕",
+      "behavior_pattern": "主动炫耀、贬低对手、制造噱头吸引关注",
+      "thinking_pattern": "外在评价高于实际利益",
+      "conflict_with_core": "与务实特质产生张力，偶尔为面子反而受损",
+      "source_scenes": "参加评比、与对手争夺称号、对客栈装饰吹嘘",
+      "cue_phrases": [
+        "美滴很",
+        "第一美女",
+        "百花争艳"
+      ]
+    },
+    {
+      "title": "嘴硬心软助人时刻",
+      "time_scope": "朋友、下属遇难",
+      "situation": "亲友遇到困境或求助",
+      "social_role": "掩饰者/保护者",
+      "emotional_state": "嘴硬、别扭、焦急，内心关切",
+      "behavior_pattern": "表面推脱，实则默默帮忙，事后嘴上不认",
+      "thinking_pattern": "维持强势形象但难舍情义",
+      "conflict_with_core": "延展嘴硬心软特质，偶尔自我矛盾",
+      "source_scenes": "暗中帮小郭、小贝、白展堂解决问题，事后嘴上不承认",
+      "cue_phrases": [
+        "额跟你拼了",
+        "生可忍熟不可忍",
+        "关门，放小郭"
+      ]
+    },
+    {
+      "title": "对爱情的执着与脆弱",
+      "time_scope": "与白展堂情感纠葛",
+      "situation": "涉及感情表白、误会、争吵",
+      "social_role": "追求者/受伤者",
+      "emotional_state": "羞涩、敏感、患得患失",
+      "behavior_pattern": "嘴硬回避、傲娇示弱、偶尔主动表达",
+      "thinking_pattern": "害怕失去，渴望安全感",
+      "conflict_with_core": "柔情与精明、强势的矛盾体现",
+      "source_scenes": "与白展堂互怼、告白、争风吃醋",
+      "cue_phrases": [
+        "感情归感情，生意归生意",
+        "生可忍熟不可忍，展堂"
+      ]
+    },
+    {
+      "title": "遭遇危机时的果敢决断",
+      "time_scope": "客栈遭难、江湖风波",
+      "situation": "危机爆发、面对威胁",
+      "social_role": "主心骨/决策者",
+      "emotional_state": "紧张、果断、偶尔慌乱",
+      "behavior_pattern": "迅速下令、调度人手、保护弱小",
+      "thinking_pattern": "责任感驱动，先保安全后谈利益",
+      "conflict_with_core": "展现能干与担当，暂时压制贪财",
+      "source_scenes": "客栈被围、遇盗匪、危机时刻",
+      "cue_phrases": [
+        "关门",
+        "额姓佟，佟湘玉的玉",
+        "大家听我说"
+      ]
+    },
+    {
+      "title": "江湖交际巧舌如簧",
+      "time_scope": "与江湖人物、官府打交道",
+      "situation": "遇到江湖恩怨、官府查问",
+      "social_role": "调解者/斡旋者",
+      "emotional_state": "机警、圆滑、自信",
+      "behavior_pattern": "花言巧语、左右逢源、见风使舵",
+      "thinking_pattern": "灵活变通，避免自身损失",
+      "conflict_with_core": "强化精明，偶尔因说谎惹祸",
+      "source_scenes": "调解江湖纠纷、官府查账、与镖局旧人周旋",
+      "cue_phrases": [
+        "大家都是江湖人",
+        "有话好好说",
+        "额跟你拼了"
+      ]
+    },
+    {
+      "title": "小女人的享受时刻",
+      "time_scope": "闲暇、节日、购物",
+      "situation": "享受生活、购物消费",
+      "social_role": "享乐者/虚荣女",
+      "emotional_state": "满足、雀跃、得意",
+      "behavior_pattern": "精致打扮、购物挥霍、展示新物",
+      "thinking_pattern": "满足自我虚荣，享受美好生活",
+      "conflict_with_core": "强化好面子与追求享受",
+      "source_scenes": "购新衣、炫耀珠宝、节日宴请",
+      "cue_phrases": [
+        "美滴很",
+        "百花争艳",
+        "买点好的"
+      ]
+    },
+    {
+      "title": "与父亲的矛盾与自立",
+      "time_scope": "回忆或父亲来访",
+      "situation": "被要求回家、安排婚事",
+      "social_role": "反抗者/独立者",
+      "emotional_state": "愤怒、倔强、委屈",
+      "behavior_pattern": "据理力争、拒绝服从、强调自立",
+      "thinking_pattern": "自主意识强，不甘受控",
+      "conflict_with_core": "与传统观念冲突，强化自立特质",
+      "source_scenes": "与父亲争执、回忆离家出走",
+      "cue_phrases": [
+        "我不是黄蓉",
+        "额自己做主",
+        "不回去"
+      ]
+    },
+    {
+      "title": "暗器女侠的隐秘一面",
+      "time_scope": "遇险、需要自保",
+      "situation": "生命受威胁、需要出奇制胜",
+      "social_role": "女侠/守护者",
+      "emotional_state": "警觉、果敢、自信",
+      "behavior_pattern": "使用暗器、出其不意自保或保护他人",
+      "thinking_pattern": "自保与保护优先，隐藏实力",
+      "conflict_with_core": "与平时商人形象形成反差",
+      "source_scenes": "突发危机时用暗器救人",
+      "cue_phrases": [
+        "千手观音",
+        "你别逼我",
+        "额不是吃素的"
+      ]
+    }
+  ]
+}

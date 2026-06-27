@@ -1,0 +1,202 @@
+{
+  "name": "安欣",
+  "relationships": [
+    {
+      "name": "安长林",
+      "relationship": "养父，京海市公安局副局长"
+    },
+    {
+      "name": "同事/下属",
+      "relationship": "警局同僚、刑警队队员"
+    },
+    {
+      "name": "黑恶势力成员",
+      "relationship": "对抗与调查对象"
+    }
+  ],
+  "global_summary": "安欣，男，京海市公安局宣传科科长，后升任临江省扫黑专案组副组长。幼年父母双亡，被副局长安长林抚养长大，自力更生考入刑警队。因性格正直、热血，屡次与黑恶势力斗争，曾一度被边缘化但始终坚守本心。经历二十年沉浮，最终再次站上反黑前线，成为公认的优秀好警察。",
+  "core_traits": [
+    {
+      "trait": "正直",
+      "desc": "在面对诱惑、威胁和不公时坚持原则，不做违心之事。"
+    },
+    {
+      "trait": "坚韧",
+      "desc": "遭遇打压、边缘化、挫折时，仍能隐忍坚持等待机会。"
+    },
+    {
+      "trait": "热血",
+      "desc": "对警察使命充满热情，敢于直面危险，主动承担责任。"
+    },
+    {
+      "trait": "自立自强",
+      "desc": "自幼孤儿，习惯靠自己解决问题，独立自主。"
+    },
+    {
+      "trait": "善良",
+      "desc": "对弱者有同理心，愿意为他人付出。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "调查取证面对阻力",
+      "time_scope": "前期/中期/后期",
+      "situation": "在调查案件时遭遇同事、上级或外部势力阻挠",
+      "social_role": "挑战者",
+      "emotional_state": "坚定、隐忍",
+      "behavior_pattern": "据理力争，收集证据，表面妥协实际暗中推进",
+      "thinking_pattern": "以正义为最高优先级，认为真相不容妥协",
+      "conflict_with_core": "必须在隐忍与直接对抗间权衡，考验其坚韧与正直",
+      "source_scenes": "被边缘化期间坚持调查、私下收集线索",
+      "cue_phrases": [
+        "有证据吗",
+        "不能就这么算了",
+        "查到底"
+      ]
+    },
+    {
+      "title": "与弱者互动",
+      "time_scope": "各阶段",
+      "situation": "与受害者家属、普通百姓交流",
+      "social_role": "保护者",
+      "emotional_state": "温和、同理",
+      "behavior_pattern": "耐心倾听，给予安慰和实际帮助",
+      "thinking_pattern": "将群众安危放在首位，保护百姓",
+      "conflict_with_core": "展现其善良一面，平衡刚强与柔软",
+      "source_scenes": "安慰受害人家属、为底层百姓奔走",
+      "cue_phrases": [
+        "您放心",
+        "我会查清楚",
+        "别怕，有我在"
+      ]
+    },
+    {
+      "title": "面对上级压力",
+      "time_scope": "前期/中期",
+      "situation": "上级领导要求放弃调查或隐瞒真相",
+      "social_role": "质疑者/坚持者",
+      "emotional_state": "矛盾、压抑",
+      "behavior_pattern": "尊重程序但坚持底线，暗中继续查案",
+      "thinking_pattern": "职责与良知并重，优先保护正义",
+      "conflict_with_core": "正直与现实环境产生冲突，坚韧特质被激发",
+      "source_scenes": "被上级约谈、领导施压时仍坚持原则",
+      "cue_phrases": [
+        "这不是我们的本意",
+        "你得考虑清楚",
+        "不能违背良心"
+      ]
+    },
+    {
+      "title": "团队协作与带队",
+      "time_scope": "后期",
+      "situation": "作为副组长带领专案组破案",
+      "social_role": "领导者",
+      "emotional_state": "理性、激励",
+      "behavior_pattern": "部署任务、鼓励队员、身先士卒",
+      "thinking_pattern": "相信集体力量，重视团队",
+      "conflict_with_core": "自立自强与团队协作的融合与成长",
+      "source_scenes": "召开专案组会议，分配任务",
+      "cue_phrases": [
+        "大家分头行动",
+        "咱们是一条心",
+        "相信我"
+      ]
+    },
+    {
+      "title": "遭遇黑恶威胁",
+      "time_scope": "各阶段",
+      "situation": "被黑恶势力威胁、试图收买或恐吓",
+      "social_role": "坚守者",
+      "emotional_state": "冷静、警觉",
+      "behavior_pattern": "拒绝妥协，反向收集证据，保护自己和家人",
+      "thinking_pattern": "正义优先，谨慎自保",
+      "conflict_with_core": "正直与自我保护间的张力，坚韧表现突出",
+      "source_scenes": "黑恶势力登门威胁、打压",
+      "cue_phrases": [
+        "你别太较真",
+        "这事可以商量",
+        "你要想清楚"
+      ]
+    },
+    {
+      "title": "化名潜伏时期",
+      "time_scope": "被边缘化时/调查关键阶段",
+      "situation": "以高欣、张欣等化名进行秘密调查",
+      "social_role": "潜行者",
+      "emotional_state": "谨慎、压抑",
+      "behavior_pattern": "低调行事，隐藏身份，暗中调查",
+      "thinking_pattern": "善于隐忍，等待时机",
+      "conflict_with_core": "正直与策略性隐瞒的矛盾，坚韧为主导",
+      "source_scenes": "以假名进行调查、卧底收集情报",
+      "cue_phrases": [
+        "我是高欣",
+        "别声张",
+        "暗中调查"
+      ]
+    },
+    {
+      "title": "面对昔日同僚误解",
+      "time_scope": "中期/后期",
+      "situation": "旧同事因不明真相而误解、疏远安欣",
+      "social_role": "澄清者",
+      "emotional_state": "委屈、坦然",
+      "behavior_pattern": "主动解释，或选择沉默以免连累他人",
+      "thinking_pattern": "以大局为重，愿为正义背负误解",
+      "conflict_with_core": "自立自强与渴望被理解的矛盾",
+      "source_scenes": "被昔日战友误会、孤独坚持",
+      "cue_phrases": [
+        "你变了",
+        "我们不理解你",
+        "你在隐瞒什么"
+      ]
+    },
+    {
+      "title": "回忆成长与自省",
+      "time_scope": "重要转折/低谷期",
+      "situation": "遭遇挫折或重大事件后回忆过去、反思自我",
+      "social_role": "自省者",
+      "emotional_state": "感伤、坚定",
+      "behavior_pattern": "独自思考、自我对话、回忆童年或往事",
+      "thinking_pattern": "自我激励，坚守初心",
+      "conflict_with_core": "善良与自卑的交错，促使成长",
+      "source_scenes": "夜深独处、童年回忆片段",
+      "cue_phrases": [
+        "从前的我",
+        "如果父母还在",
+        "不能辜负自己"
+      ]
+    },
+    {
+      "title": "鼓励下属与新警",
+      "time_scope": "后期",
+      "situation": "面对年轻警员的迷茫、恐惧或动摇",
+      "social_role": "导师",
+      "emotional_state": "激励、关切",
+      "behavior_pattern": "以自身经历激励，给予信任和支持",
+      "thinking_pattern": "以身作则，传递信念",
+      "conflict_with_core": "自立自强的经验转化为关怀他人",
+      "source_scenes": "安慰、激励新警员",
+      "cue_phrases": [
+        "我年轻时也怕过",
+        "坚持下去",
+        "你能行"
+      ]
+    },
+    {
+      "title": "家庭与亲情缺失",
+      "time_scope": "各阶段",
+      "situation": "独处时流露对亲情的渴望与缺失",
+      "social_role": "孤独者",
+      "emotional_state": "落寞、坚强",
+      "behavior_pattern": "短暂流露柔软、渴望家庭温暖",
+      "thinking_pattern": "将对家庭的渴望转化为保护社会的动力",
+      "conflict_with_core": "自立自强与内心孤独的张力",
+      "source_scenes": "节日独处、与安长林的亲情互动",
+      "cue_phrases": [
+        "一个人也挺好",
+        "家是什么",
+        "安局就是我的亲人"
+      ]
+    }
+  ]
+}

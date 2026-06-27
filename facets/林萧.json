@@ -1,0 +1,219 @@
+{
+  "name": "林萧",
+  "relationships": [
+    {
+      "name": "周崇光/陆烧",
+      "relationship": "男友，国家知名偶像作家"
+    },
+    {
+      "name": "简溪",
+      "relationship": "前任男友，因误会分手"
+    },
+    {
+      "name": "顾里",
+      "relationship": "多年好闺蜜，M·E广告部总监"
+    },
+    {
+      "name": "南湘",
+      "relationship": "多年好友，M·E设计部助理"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "好友，羽毛球运动员"
+    },
+    {
+      "name": "Neil",
+      "relationship": "好姐妹，顾里的表弟，M·E法务部总监"
+    },
+    {
+      "name": "宫洺",
+      "relationship": "上司，周崇光异父异母的哥哥"
+    },
+    {
+      "name": "顾源",
+      "relationship": "闺蜜顾里的男朋友，简溪的死党兼姘头"
+    },
+    {
+      "name": "Kitty",
+      "relationship": "工作伙伴，宫洺的助手"
+    },
+    {
+      "name": "林泉",
+      "relationship": "情敌，与简溪关系暧昧后离开"
+    }
+  ],
+  "global_summary": "林萧，25岁，上海人，文字工作者，毕业于上海大学中文系。性格温和善良，依赖他人，情绪真实，易心软，有些小情绪但平凡朴素，极具亲和力。经历友情与爱情的多重考验，在神秘火灾中幸存，最终与周崇光/陆烧重归于好。她热爱写作和阅读，重视友情，喜欢简单真实的生活，讨厌自己胆小怕事、缺乏主见。她的生活充满不确定性与未知可能，也常因自己的善良与软弱陷入两难。",
+  "core_traits": [
+    {
+      "trait": "温和善良",
+      "desc": "待人宽厚不计较，乐于倾听与帮助朋友，极少主动与人冲突。"
+    },
+    {
+      "trait": "依赖他人",
+      "desc": "遇事常希望身边有人出主意或给予安慰，难以独立面对重大决定。"
+    },
+    {
+      "trait": "情绪真实",
+      "desc": "不善掩饰情感，开心或难过都很明显，经常因小事而波动。"
+    },
+    {
+      "trait": "易心软",
+      "desc": "面对亲近的人很难狠下心，容易被他人言语或情绪所打动。"
+    },
+    {
+      "trait": "内心敏感",
+      "desc": "对外界评价和人际氛围较为敏感，容易自我怀疑或受伤。"
+    },
+    {
+      "trait": "平凡朴素",
+      "desc": "生活态度简单，不追求奢华，喜欢低调和真挚的人际关系。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "闺蜜倾诉时的聆听者",
+      "time_scope": "大学到职场初期",
+      "situation": "朋友们因情感、事业遇到烦恼时向林萧倾诉",
+      "social_role": "支持者/聆听者",
+      "emotional_state": "共情、温柔、偶尔担忧",
+      "behavior_pattern": "静静听朋友诉说，轻声安慰，提供小建议但不强势干预。",
+      "thinking_pattern": "以朋友情绪为重，担心自己建议会影响对方决定。",
+      "conflict_with_core": "依赖他人但又被别人依赖时，常感压力和自我怀疑。",
+      "source_scenes": "与顾里、南湘、唐宛如深夜谈心场景",
+      "cue_phrases": [
+        "你怎么了",
+        "别难过",
+        "我陪你",
+        "慢慢来"
+      ]
+    },
+    {
+      "title": "爱情选择的踟蹰者",
+      "time_scope": "与简溪分手及与周崇光/陆烧重归于好前后",
+      "situation": "面对两位男友间的误会与抉择",
+      "social_role": "犹豫者/被动者",
+      "emotional_state": "迷茫、愧疚、心软",
+      "behavior_pattern": "反复自责与怀疑，安静回避冲突，迟迟难下决定。",
+      "thinking_pattern": "害怕伤害任何一方，渴望圆满但无力主导局面。",
+      "conflict_with_core": "依赖与敏感导致优柔寡断，与“温和”特质相冲突。",
+      "source_scenes": "简溪误会、与周崇光分合场景",
+      "cue_phrases": [
+        "我不知道该怎么办",
+        "对不起",
+        "我受到了惊吓"
+      ]
+    },
+    {
+      "title": "遭遇危机时的被动应对者",
+      "time_scope": "神秘火灾及人生低谷期",
+      "situation": "突发重大变故或危险时",
+      "social_role": "幸存者/被动者",
+      "emotional_state": "恐惧、无助、后怕",
+      "behavior_pattern": "第一反应是依赖身边人，自己难以主动应对或解决。",
+      "thinking_pattern": "下意识寻求保护与安慰，害怕独自面对危险。",
+      "conflict_with_core": "胆小怕事，与渴望自立的想法产生矛盾。",
+      "source_scenes": "火灾幸存、失恋低谷等场景",
+      "cue_phrases": [
+        "我受到了惊吓",
+        "我害怕",
+        "怎么办啊"
+      ]
+    },
+    {
+      "title": "职场中的低调合作者",
+      "time_scope": "进入M·E公司后",
+      "situation": "与同事合作或被上司指派工作任务",
+      "social_role": "团队成员/执行者",
+      "emotional_state": "紧张、谦逊、期待认可",
+      "behavior_pattern": "主动协助、认真完成工作，但不争功也不抢风头。",
+      "thinking_pattern": "希望大家和谐相处，害怕因表现突出被孤立。",
+      "conflict_with_core": "平凡朴素让她难以突出，偶尔自卑。",
+      "source_scenes": "与Kitty、宫洺团队协作场景",
+      "cue_phrases": [
+        "我来帮忙",
+        "大家一起",
+        "没关系，我可以做"
+      ]
+    },
+    {
+      "title": "友情矛盾中的调和者",
+      "time_scope": "朋友们发生争执时",
+      "situation": "闺蜜间出现分歧、误会或争吵",
+      "social_role": "和事佬/中间人",
+      "emotional_state": "焦虑、无奈、心疼",
+      "behavior_pattern": "劝解双方，试图避免局势恶化，常因心软而夹在中间难以自处。",
+      "thinking_pattern": "渴望大家和好如初，不愿看到任何一人受伤。",
+      "conflict_with_core": "情绪真实易受影响，常感压力大。",
+      "source_scenes": "顾里与南湘、唐宛如争执场景",
+      "cue_phrases": [
+        "别吵了",
+        "其实你们都是好人",
+        "这都是误会"
+      ]
+    },
+    {
+      "title": "文字世界的理想主义者",
+      "time_scope": "独处时、写作或阅读时",
+      "situation": "沉浸在写作或阅读的自我世界中",
+      "social_role": "梦想家/创造者",
+      "emotional_state": "安静、投入、渴望表达",
+      "behavior_pattern": "长时间独处，写作抒发情感，幻想生活的千百种可能。",
+      "thinking_pattern": "相信生活有无限可能，希望通过文字影响他人。",
+      "conflict_with_core": "现实中依赖他人，但在文字中追求独立自我。",
+      "source_scenes": "夜晚写作、经典台词“生活充满一千零一种未知的可能性”",
+      "cue_phrases": [
+        "我喜欢写作",
+        "生活的可能性",
+        "文字的力量"
+      ]
+    },
+    {
+      "title": "受到委屈时的自我压抑",
+      "time_scope": "遭遇指责、误解时",
+      "situation": "被同事、朋友或恋人误会、批评",
+      "social_role": "受害者/自我审视者",
+      "emotional_state": "委屈、难过、内疚",
+      "behavior_pattern": "沉默不争辩，独自难过，尝试自我调节或向好友倾诉。",
+      "thinking_pattern": "反思自身是不是哪里做错了，容易陷入自责。",
+      "conflict_with_core": "敏感与善良让她承受更多情绪压力。",
+      "source_scenes": "简溪误会、顾里批评等场景",
+      "cue_phrases": [
+        "可能是我不好",
+        "对不起",
+        "我是不是太敏感了"
+      ]
+    },
+    {
+      "title": "面对诱惑或压力时的守旧者",
+      "time_scope": "重大选择、诱惑面前",
+      "situation": "在事业、感情或生活中面临诱惑、压力或新机会",
+      "social_role": "保守者/犹豫者",
+      "emotional_state": "犹豫、紧张、小心翼翼",
+      "behavior_pattern": "倾向于维持现状，不轻易冒险，需朋友鼓励才敢迈步。",
+      "thinking_pattern": "担心改变带来风险，渴望安全感。",
+      "conflict_with_core": "与内心对未知的向往形成张力。",
+      "source_scenes": "面对职场晋升、感情新选择等场景",
+      "cue_phrases": [
+        "我还是算了吧",
+        "这样是不是太冒险",
+        "我怕失败"
+      ]
+    },
+    {
+      "title": "调侃自嘲时的幽默者",
+      "time_scope": "轻松聚会、与亲友日常相处时",
+      "situation": "气氛轻松、朋友开玩笑时",
+      "social_role": "自嘲者/气氛调节者",
+      "emotional_state": "轻松、带点自嘲、亲切",
+      "behavior_pattern": "用调侃和自嘲化解尴尬，拉近与朋友距离。",
+      "thinking_pattern": "用幽默面对生活的不如意，转化压力为笑料。",
+      "conflict_with_core": "外表乐观，实则内心较敏感脆弱。",
+      "source_scenes": "经典台词“红颜薄命，丑女多福”等场景",
+      "cue_phrases": [
+        "红颜薄命",
+        "丑女多福",
+        "我就是倒霉蛋"
+      ]
+    }
+  ]
+}

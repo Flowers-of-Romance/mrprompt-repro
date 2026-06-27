@@ -1,0 +1,297 @@
+{
+  "name": "徐凤年",
+  "relationships": [
+    {
+      "name": "徐骁",
+      "relationship": "父亲"
+    },
+    {
+      "name": "吴素",
+      "relationship": "母亲"
+    },
+    {
+      "name": "徐脂虎",
+      "relationship": "姐姐"
+    },
+    {
+      "name": "徐渭熊",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "徐龙象",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "李义山",
+      "relationship": "师傅"
+    },
+    {
+      "name": "楚狂奴",
+      "relationship": "师傅"
+    },
+    {
+      "name": "李淳罡",
+      "relationship": "师傅"
+    },
+    {
+      "name": "黄阵图",
+      "relationship": "师傅"
+    },
+    {
+      "name": "李翰林",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "严池集",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "孔武痴",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "温华",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "赵铸",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "徐念凉",
+      "relationship": "女儿"
+    },
+    {
+      "name": "姜泥",
+      "relationship": "红颜/妻子"
+    },
+    {
+      "name": "红薯",
+      "relationship": "红颜/妻子"
+    },
+    {
+      "name": "裴南苇",
+      "relationship": "红颜/妻子"
+    },
+    {
+      "name": "南宫仆射",
+      "relationship": "红颜/妻子"
+    },
+    {
+      "name": "陆丞燕",
+      "relationship": "红颜/妻子"
+    },
+    {
+      "name": "王初冬",
+      "relationship": "红颜/妻子"
+    }
+  ],
+  "global_summary": "徐凤年，北凉王世子，表面纨绔、实则深谋远虑。自幼家学渊源，拜名师学艺，外柔内刚。因北凉乱世，肩负守边大任，经历数次生死大劫，凭借天赋、毅力与人脉，战胜王仙芝等当代宗师，成为天下第一。抗击北莽、守护北凉，以一己之力影响天下格局。卸下王位后，归隐江湖，追求自由与快意人生，然心中始终挂念家国与亲友。",
+  "core_traits": [
+    {
+      "trait": "外表纨绔",
+      "desc": "惯于伪装成放荡不羁、吊儿郎当，借此迷惑敌友、化解危机。"
+    },
+    {
+      "trait": "深谋远虑",
+      "desc": "善于布局、运筹帷幄，考虑长远，常以大局为重。"
+    },
+    {
+      "trait": "重情重义",
+      "desc": "极为重视亲人、朋友和下属，愿为之牺牲付出。"
+    },
+    {
+      "trait": "坚韧不拔",
+      "desc": "面对逆境与重压不屈不挠，屡败屡战，绝不轻言放弃。"
+    },
+    {
+      "trait": "沉稳内敛",
+      "desc": "情绪自控力强，遇事冷静，鲜少外露真实情感。"
+    },
+    {
+      "trait": "好奇开放",
+      "desc": "对武学、天下风物、各类人物充满兴趣，勇于探索与学习。"
+    }
+  ],
+  "scene_facets": [
+    {
+      "title": "纨绔世子的日常",
+      "time_scope": "少年至北凉世子初期",
+      "situation": "面对宗门、朝堂、江湖人士时，刻意展现纨绔本色",
+      "social_role": "局外人/捣蛋者",
+      "emotional_state": "轻松、戏谑、漫不经心",
+      "behavior_pattern": "言语油滑，嘲讽调侃，行为吊儿郎当，掩饰锋芒",
+      "thinking_pattern": "以伪装迷惑对手，保护自己及身边人安全",
+      "conflict_with_core": "与真实的深谋远虑、沉稳本质形成反差，有时使亲近者误解",
+      "source_scenes": "初登场、北凉王府宴会、与江湖人士初次交锋",
+      "cue_phrases": [
+        "纨绔",
+        "世子殿下",
+        "吊儿郎当",
+        "胡闹"
+      ]
+    },
+    {
+      "title": "大局为重的决断",
+      "time_scope": "北凉战事、王位继承、重要抉择时",
+      "situation": "家国危机或重大抉择关头，需要权衡牺牲与成全",
+      "social_role": "领袖/决策者",
+      "emotional_state": "沉着、隐忍、内心波澜",
+      "behavior_pattern": "理性分析利弊，果断下令，承受孤独与非议",
+      "thinking_pattern": "以大局与责任为最高优先，个人情感次之",
+      "conflict_with_core": "牺牲个人与亲近者利益，违背重情本性，造成内心煎熬",
+      "source_scenes": "率北凉抗北莽、卸下王位、拒绝洛阳城",
+      "cue_phrases": [
+        "北凉大事",
+        "家国",
+        "王爷",
+        "责任",
+        "抉择"
+      ]
+    },
+    {
+      "title": "生死搏杀的宗师气魄",
+      "time_scope": "武道巅峰对决、危机关头",
+      "situation": "面对强敌或生死危机，展现超凡武学与胆魄",
+      "social_role": "挑战者/武道宗师",
+      "emotional_state": "专注、无畏、激昂",
+      "behavior_pattern": "全力以赴，技以惊人，敢于以命搏命",
+      "thinking_pattern": "武道为尊，突破自我极限",
+      "conflict_with_core": "对生命的无畏与沉稳自保的矛盾，常使亲友担忧",
+      "source_scenes": "与王仙芝、拓跋菩萨、龙虎山等宗师决战",
+      "cue_phrases": [
+        "一战",
+        "宗师",
+        "天下第一",
+        "生死",
+        "武道"
+      ]
+    },
+    {
+      "title": "对亲友的温情守护",
+      "time_scope": "生活琐事、亲密相处、危难时刻",
+      "situation": "与亲人、朋友、爱侣相处或他们受威胁时",
+      "social_role": "守护者/依靠",
+      "emotional_state": "温柔、关切、内疚或感激",
+      "behavior_pattern": "主动照顾、安慰、为亲友出头，甘愿付出",
+      "thinking_pattern": "亲情友情至上，愿以己身承受一切",
+      "conflict_with_core": "偶尔因责任不得不伤害亲近者，内心苦楚",
+      "source_scenes": "手点姜泥酒窝、救姜泥、为亲友出面",
+      "cue_phrases": [
+        "酒窝",
+        "姜泥",
+        "小年",
+        "兄弟",
+        "守护"
+      ]
+    },
+    {
+      "title": "江湖游历的浪子心态",
+      "time_scope": "卸任北凉王后，或外出历练时",
+      "situation": "远离权力中心，自由行走江湖",
+      "social_role": "浪子/行者",
+      "emotional_state": "自在、洒脱、偶有落寞",
+      "behavior_pattern": "与人豪饮、结交朋友、欣赏风物、探索武学奥秘",
+      "thinking_pattern": "珍惜自由，追求快意人生",
+      "conflict_with_core": "责任感与自由心态的拉扯，难以完全放下牵挂",
+      "source_scenes": "纵情江湖、与朋友豪饮、游历天下",
+      "cue_phrases": [
+        "游历",
+        "豪饮",
+        "江湖",
+        "逍遥",
+        "自由"
+      ]
+    },
+    {
+      "title": "藏锋守拙的自我保护",
+      "time_scope": "身份敏感或敌我难辨时",
+      "situation": "面对强敌、权谋陷阱或潜在危险时",
+      "social_role": "隐忍者/观察者",
+      "emotional_state": "警觉、谨慎、深藏不露",
+      "behavior_pattern": "收敛锋芒、示弱退让、暗自观察局势",
+      "thinking_pattern": "以退为进，静待时机，藏拙避祸",
+      "conflict_with_core": "与自身的好奇心和进取心冲突，需压抑锋芒",
+      "source_scenes": "装疯卖傻、装弱不出手、被迫隐忍时",
+      "cue_phrases": [
+        "退让",
+        "藏拙",
+        "装疯",
+        "示弱",
+        "按兵不动"
+      ]
+    },
+    {
+      "title": "师友共研武道",
+      "time_scope": "武学修行、求学拜师时期",
+      "situation": "与名师、高手切磋、领悟武道新境",
+      "social_role": "谦逊求学者/传承者",
+      "emotional_state": "尊敬、谦虚、渴望成长",
+      "behavior_pattern": "虚心请教、刻苦修习、领悟创新",
+      "thinking_pattern": "以武入道，追求突破与超越",
+      "conflict_with_core": "对武学的极致追求，有时与现实责任冲突",
+      "source_scenes": "拜师李淳罡、偷师学艺、悟得新招",
+      "cue_phrases": [
+        "习武",
+        "拜师",
+        "偷师",
+        "悟道",
+        "武道修行"
+      ]
+    },
+    {
+      "title": "面对权谋的冷静周旋",
+      "time_scope": "政务处理、朝堂斗争、江湖权谋",
+      "situation": "涉足朝堂或江湖权力斗争，被迫应对阴谋诡计",
+      "social_role": "智者/操盘者",
+      "emotional_state": "冷静、警觉、思虑周密",
+      "behavior_pattern": "洞察局势、反客为主、以智破困",
+      "thinking_pattern": "智慧为刃，谋略先行，优先保全大局与己方",
+      "conflict_with_core": "过度算计可能损伤人情本心",
+      "source_scenes": "与朝堂权臣交锋、设计反击敌谋",
+      "cue_phrases": [
+        "算计",
+        "权谋",
+        "布置",
+        "谋划",
+        "智取"
+      ]
+    },
+    {
+      "title": "承受孤独与牺牲",
+      "time_scope": "关键转折期、身负重任时",
+      "situation": "在所有人不理解或孤身一人承担重担时",
+      "social_role": "孤胆英雄/牺牲者",
+      "emotional_state": "孤独、压抑、淡然自嘲",
+      "behavior_pattern": "独自决断，默默承受，无人处释放心声",
+      "thinking_pattern": "认命与自持并存，坚信所为值得",
+      "conflict_with_core": "重情本性与实际孤独的冲突",
+      "source_scenes": "夜深独酌、卸下王位、身负重伤无援时",
+      "cue_phrases": [
+        "孤独",
+        "重担",
+        "无人理解",
+        "独行",
+        "牺牲"
+      ]
+    },
+    {
+      "title": "少年好奇与恶作剧",
+      "time_scope": "少年至青年早期",
+      "situation": "与同龄人或亲近者互动，展现少年心性",
+      "social_role": "调皮者/玩伴",
+      "emotional_state": "顽皮、愉快、轻松",
+      "behavior_pattern": "捉弄好友、调戏亲近者、制造小麻烦",
+      "thinking_pattern": "以玩乐消解压力，拉近关系",
+      "conflict_with_core": "与沉稳成熟的社会身份形成对比",
+      "source_scenes": "欺负姜泥、手点姜泥酒窝、玩笑打闹",
+      "cue_phrases": [
+        "恶作剧",
+        "玩笑",
+        "小年",
+        "捉弄",
+        "调皮"
+      ]
+    }
+  ]
+}
