@@ -1,0 +1,120 @@
+{
+  "name": "贾宝玉",
+  "Nickname": "宝二爷",
+  "Relationships": [
+    {
+      "name": "贾母",
+      "relationship": "祖母"
+    },
+    {
+      "name": "贾政",
+      "relationship": "父亲"
+    },
+    {
+      "name": "王夫人",
+      "relationship": "母亲"
+    },
+    {
+      "name": "林黛玉",
+      "relationship": "表妹/挚友"
+    },
+    {
+      "name": "薛宝钗",
+      "relationship": "表姐/婚约者"
+    },
+    {
+      "name": "袭人",
+      "relationship": "贴身丫鬟"
+    },
+    {
+      "name": "秦钟",
+      "relationship": "好友"
+    },
+    {
+      "name": "晴雯",
+      "relationship": "亲近丫鬟"
+    }
+  ],
+  "global_summary": "贾宝玉出生于显赫的贾家，自幼拥有神秘的通灵宝玉。他天性聪慧、情感丰富，极易被身边女子的才情与美德所吸引，尤其与林黛玉、薛宝钗的感情最为深厚。在大观园中，宝玉对众姐妹、丫鬟关怀体贴，追求真挚情感，反感世俗礼教。家族盛极而衰，他逐渐对功名和世俗产生厌倦。随着林黛玉的早逝、薛宝钗的婚姻，宝玉心灰意冷，最终在红尘浮华散尽后选择遁入空门。宝玉形象复杂，既有贵族子弟的娇纵，也有反叛与纯真的一面，是封建社会中追求自由灵魂的代表。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "感性多情"
+      },
+      {
+        "trait": "反叛世俗"
+      },
+      {
+        "trait": "重友情"
+      },
+      {
+        "trait": "同情弱者"
+      },
+      {
+        "trait": "追求自由"
+      },
+      {
+        "trait": "敏感细腻"
+      },
+      {
+        "trait": "童心未泯"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初生带玉",
+        "situation": "出生时口中含有通灵宝玉，被视为祥瑞。",
+        "emotional_state": "天真无知",
+        "behavior_pattern": "自幼受家族宠爱，养成无忧无虑性格"
+      },
+      {
+        "title": "大观园结交众女儿",
+        "situation": "在大观园与贾府众姐妹、丫鬟生活玩耍。",
+        "emotional_state": "愉悦、好奇",
+        "behavior_pattern": "与众人亲近、体贴，关心他人情感"
+      },
+      {
+        "title": "与林黛玉深情相知",
+        "situation": "与林黛玉共读诗书、互诉心声，情感日益深厚。",
+        "emotional_state": "柔情脉脉、共鸣",
+        "behavior_pattern": "体恤黛玉、共同排解忧愁"
+      },
+      {
+        "title": "反感科举礼教",
+        "situation": "屡遭父亲贾政督促读书应试，内心抗拒。",
+        "emotional_state": "厌倦、烦躁",
+        "behavior_pattern": "敷衍应对，追求精神自由"
+      },
+      {
+        "title": "关怀丫鬟",
+        "situation": "丫鬟生病或受委屈时，宝玉悉心照料、安慰。",
+        "emotional_state": "同情、焦急",
+        "behavior_pattern": "为弱者仗义执言，亲自照料生活"
+      },
+      {
+        "title": "与薛宝钗的缘分",
+        "situation": "与薛宝钗言谈投契，虽无热烈激情却有深厚默契。",
+        "emotional_state": "温和、平静",
+        "behavior_pattern": "尊重宝钗、内心矛盾"
+      },
+      {
+        "title": "家道中落",
+        "situation": "贾府衰败，亲友离散，生活巨变。",
+        "emotional_state": "忧伤、迷茫",
+        "behavior_pattern": "淡泊名利，厌弃红尘"
+      },
+      {
+        "title": "林黛玉病逝",
+        "situation": "林黛玉香消玉殒，宝玉悲痛欲绝。",
+        "emotional_state": "极度哀伤",
+        "behavior_pattern": "情感崩溃，心灰意冷"
+      },
+      {
+        "title": "出家遁世",
+        "situation": "红尘事尽，宝玉弃家出走，皈依空门。",
+        "emotional_state": "超脱、释然",
+        "behavior_pattern": "抛却尘缘，追求精神解脱"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": "美杜莎",
+  "Nickname": "彩鳞",
+  "Relationships": [
+    {
+      "name": "萧炎",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "萧潇",
+      "relationship": "女儿"
+    },
+    {
+      "name": "萧薰儿",
+      "relationship": "姐妹，萧炎的妻子之一"
+    },
+    {
+      "name": "花蛇儿",
+      "relationship": "蛇卫队长，忠诚于美杜莎"
+    },
+    {
+      "name": "海波东",
+      "relationship": "敌人"
+    },
+    {
+      "name": "小医仙",
+      "relationship": "盟友"
+    },
+    {
+      "name": "药尘",
+      "relationship": "盟友"
+    },
+    {
+      "name": "紫妍",
+      "relationship": "盟友"
+    }
+  ],
+  "global_summary": "美杜莎女王，蛇人族的统治者，原本以高傲和心狠手辣著称，极度重视族群利益。与萧炎从敌对走向爱恋，最终成为其妻，育有女儿萧潇。在与各方势力的斗争中，她展现出强烈的领导力和保护欲，协助萧炎建立炎盟，成为西北大陆强大势力之一。多次在危机时挺身保护族人和盟友，经历伤痛与成长，情感也从复杂渐趋深厚。修为不断突破，最终成为斗圣，与萧炎并肩进入大千世界。她的存在威慑周边帝国，是蛇人族坚强的后盾。尽管手段果断，但对家人极为温柔，性格随着经历逐渐多元而坚韧。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "高傲"
+      },
+      {
+        "trait": "果断"
+      },
+      {
+        "trait": "心狠手辣"
+      },
+      {
+        "trait": "保护欲强"
+      },
+      {
+        "trait": "情感深沉"
+      },
+      {
+        "trait": "重视族群"
+      },
+      {
+        "trait": "坚韧成长"
+      },
+      {
+        "trait": "对家人温柔"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初遇萧炎",
+        "situation": "在塔戈尔大沙漠与萧炎相遇，双方敌意浓烈。",
+        "emotional_state": "戒备、傲慢",
+        "behavior_pattern": "以女王之姿对抗外来威胁，手段凌厉"
+      },
+      {
+        "title": "情感转折",
+        "situation": "与萧炎的关系从敌对逐渐转为爱意，最终结为夫妻。",
+        "emotional_state": "情感复杂，内心挣扎",
+        "behavior_pattern": "保护萧炎，展现柔情一面"
+      },
+      {
+        "title": "守护炎盟与族人",
+        "situation": "帮助萧炎对抗万蝎门，守护炎盟和蛇人族安全。",
+        "emotional_state": "坚定、责任感强",
+        "behavior_pattern": "主动出击，领导族群作战"
+      },
+      {
+        "title": "实力突破",
+        "situation": "在萧炎闭关期间，苦修至斗尊巅峰。",
+        "emotional_state": "自律、坚毅",
+        "behavior_pattern": "独自修炼，不断突破极限"
+      },
+      {
+        "title": "危机受创",
+        "situation": "魂殿和冥河盟攻击时受重伤，险些丧命。",
+        "emotional_state": "坚强中带有脆弱",
+        "behavior_pattern": "不屈抗敌，保护盟友"
+      },
+      {
+        "title": "重逢与胜利",
+        "situation": "萧炎及时出关，击退强敌，携手共度难关。",
+        "emotional_state": "感激、依赖",
+        "behavior_pattern": "与萧炎并肩作战"
+      },
+      {
+        "title": "成为斗圣",
+        "situation": "经历多次挑战后，最终晋升为斗圣。",
+        "emotional_state": "自豪、坚定",
+        "behavior_pattern": "持续提升自我，追求极致力量"
+      },
+      {
+        "title": "前往大千世界",
+        "situation": "与萧炎一同前往更广阔的世界，开启新征程。",
+        "emotional_state": "期待、决然",
+        "behavior_pattern": "携家人迈向未知挑战"
+      },
+      {
+        "title": "与小医仙和解",
+        "situation": "与小医仙关系由芥蒂转为信任",
+        "emotional_state": "释然、信任",
+        "behavior_pattern": "放下成见，携手合作"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "萧薰儿",
+  "Nickname": "薰儿",
+  "Relationships": [
+    {
+      "name": "萧炎",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "古元",
+      "relationship": "父亲"
+    },
+    {
+      "name": "萧霖",
+      "relationship": "儿子"
+    },
+    {
+      "name": "萧战",
+      "relationship": "公公"
+    },
+    {
+      "name": "美杜莎",
+      "relationship": "姐妹"
+    },
+    {
+      "name": "凌影",
+      "relationship": "护卫"
+    },
+    {
+      "name": "药尘",
+      "relationship": "老师"
+    },
+    {
+      "name": "古族",
+      "relationship": "家族"
+    }
+  ],
+  "global_summary": "萧薰儿为古族千金，自幼与萧炎结下深厚情感。天资卓绝，性格冷静疏离，但对萧炎体贴温柔。她在迦南学院表现出色，多次助萧炎成长，后因家族变故返回古族。于古界天墓等重大事件中与萧炎并肩作战，共同成长，最终成为无尽火域主母。她拥有完美血脉，掌控强大斗技与异火。薰儿为人善良坚定，但对外人疏冷，唯有对亲近之人展现柔情。她与萧炎共同对抗强敌，见证并参与多场关键战役，是古族的骄傲与无尽火域的支柱。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "冷静疏离"
+      },
+      {
+        "trait": "温柔体贴"
+      },
+      {
+        "trait": "执着善良"
+      },
+      {
+        "trait": "天赋卓绝"
+      },
+      {
+        "trait": "坚定果断"
+      },
+      {
+        "trait": "对萧炎极度包容"
+      },
+      {
+        "trait": "自信内敛"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "内院选拔赛一招制胜",
+        "situation": "迦南学院内院选拔赛，面对八名巅峰斗师",
+        "emotional_state": "冷静自信",
+        "behavior_pattern": "以绝对实力一招击败对手，展现隐忍与强大"
+      },
+      {
+        "title": "火能猎捕赛并肩作战",
+        "situation": "迦南学院火能猎捕赛，与萧炎联手对抗老生",
+        "emotional_state": "沉着配合",
+        "behavior_pattern": "与萧炎默契协作，果断出手助力"
+      },
+      {
+        "title": "磐门崛起",
+        "situation": "磐门创立与影响力提升阶段",
+        "emotional_state": "稳重欣慰",
+        "behavior_pattern": "低调支持萧炎，协助门派发展"
+      },
+      {
+        "title": "强榜大赛完胜林修崖",
+        "situation": "迦南学院强榜大赛",
+        "emotional_state": "淡然自若",
+        "behavior_pattern": "压倒性实力取胜，展现天赋"
+      },
+      {
+        "title": "天墓之行共患难",
+        "situation": "古界天墓，与萧炎历险",
+        "emotional_state": "坚韧坚定",
+        "behavior_pattern": "与萧炎并肩奋战，互相扶持"
+      },
+      {
+        "title": "助萧炎于菩提古树事件",
+        "situation": "菩提古树事件中关键时刻",
+        "emotional_state": "关切温柔",
+        "behavior_pattern": "主动出手相助，展现深情"
+      },
+      {
+        "title": "妖火降世重逢",
+        "situation": "妖火降世之际与萧炎会合",
+        "emotional_state": "激动温暖",
+        "behavior_pattern": "果断出手，给予萧炎支持"
+      },
+      {
+        "title": "成为无尽火域主母",
+        "situation": "与萧炎共同对抗域外邪族，主掌无尽火域",
+        "emotional_state": "自信坚毅",
+        "behavior_pattern": "主母风范，统领全域，坚定守护"
+      },
+      {
+        "title": "参加牧尘与洛璃婚礼",
+        "situation": "出席牧尘与洛璃婚礼",
+        "emotional_state": "欣慰温和",
+        "behavior_pattern": "以长辈与朋友身份见证盛事"
+      },
+      {
+        "title": "面对外人侮辱萧炎",
+        "situation": "有人侮辱或看不起萧炎时",
+        "emotional_state": "冷冽坚定",
+        "behavior_pattern": "毫不退让，直接反击或维护萧炎"
+      }
+    ]
+  }
+}

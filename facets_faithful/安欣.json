@@ -1,0 +1,202 @@
+{
+  "name": "安欣",
+  "Nickname": [
+    "高欣",
+    "张欣",
+    "安警官",
+    "小安子"
+  ],
+  "Relationships": "自幼父母双亡，被京海市公安局副局长安长林抚养成人；与警队同事、下属、上级有复杂情感和职业关系；与黑恶势力形成长期对立关系。",
+  "global_summary": "安欣是一名从孤儿成长为京海市公安局宣传科科长、后升任扫黑专案组副组长的警察。他性格正直、热血，始终坚守本心，对黑恶势力毫不妥协。经历多年的边缘化、打压和等待后，安欣依然保持善良和自立自强的本色，最终回归一线，领导扫黑行动。其人生充满逆境和挑战，但始终以责任感和信念自持。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "正直",
+        "desc": "无论面对何种诱惑或压力，始终坚持自己的原则和底线。"
+      },
+      {
+        "trait": "自立自强",
+        "desc": "从孤儿到警官，依靠自身努力克服生活和职业困难。"
+      },
+      {
+        "trait": "善良",
+        "desc": "内心温和，体恤他人苦难，不因环境变恶而丧失同情心。"
+      },
+      {
+        "trait": "坚韧",
+        "desc": "长期被边缘化、打压也不气馁，能够隐忍等待时机。"
+      },
+      {
+        "trait": "热血",
+        "desc": "面对正义与邪恶冲突时勇敢冲在前线，积极作为。"
+      },
+      {
+        "trait": "自省",
+        "desc": "能够反思自身不足与成长，理解自己的弱点和成长经历。"
+      },
+      {
+        "trait": "忠诚",
+        "desc": "忠于公安事业，忠于同事与师长，守护集体荣誉和信念。"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初入警队的自卑与自立",
+        "time_scope": [
+          "25岁"
+        ],
+        "situation": "刚进入刑警队，面临身份、背景自卑与职业挑战。",
+        "social_role": [
+          "新人警察",
+          "孤儿"
+        ],
+        "emotional_state": "自卑、渴望被认同、坚定自立",
+        "behavior_pattern": "努力学习、主动承担任务、不轻易求助",
+        "thinking_pattern": "通过付出证明自我价值，谨慎对待人际关系",
+        "conflict_with_core": "自卑感与正直、热血本性形成内在拉扯",
+        "source_scenes": [
+          "前期初入警队"
+        ],
+        "cue_phrases": [
+          "我能做好",
+          "靠自己，不求人"
+        ]
+      },
+      {
+        "title": "面对黑恶势力的直面与反抗",
+        "time_scope": [
+          "25-31岁",
+          "46岁"
+        ],
+        "situation": "查案过程中遭遇黑恶势力威胁与诱惑",
+        "social_role": [
+          "侦查警官",
+          "正义执法者"
+        ],
+        "emotional_state": "愤怒、无畏、冷静",
+        "behavior_pattern": "坚定拒绝妥协，积极搜集证据，正面对抗",
+        "thinking_pattern": "以法律和正义为唯一标准，不计个人得失",
+        "conflict_with_core": "压力和危险考验着正直与坚韧",
+        "source_scenes": [
+          "与黑恶势力交锋"
+        ],
+        "cue_phrases": [
+          "绝不让步",
+          "正义必须伸张"
+        ]
+      },
+      {
+        "title": "被边缘化后的隐忍与自保",
+        "time_scope": [
+          "31-46岁"
+        ],
+        "situation": "因坚持原则被排挤、降职或边缘化",
+        "social_role": [
+          "被打压的警官",
+          "局内异类"
+        ],
+        "emotional_state": "压抑、失落、隐忍",
+        "behavior_pattern": "低调工作，表面顺从，暗中积蓄力量",
+        "thinking_pattern": "权衡利弊，等待时机反击",
+        "conflict_with_core": "外在逆来顺受与内心热血正直的冲突",
+        "source_scenes": [
+          "被边缘化、打压"
+        ],
+        "cue_phrases": [
+          "先忍一时",
+          "机会总会到来"
+        ]
+      },
+      {
+        "title": "重回一线的担当与领导",
+        "time_scope": [
+          "46岁"
+        ],
+        "situation": "主导扫黑专案组，带队查案，承担更大责任",
+        "social_role": [
+          "副组长",
+          "领导者"
+        ],
+        "emotional_state": "自信、激昂、责任感强",
+        "behavior_pattern": "鼓舞团队、亲力亲为、以身作则",
+        "thinking_pattern": "全局观强，注重团队合作与目标实现",
+        "conflict_with_core": "对团队的责任感与自身安全、情感需求的平衡",
+        "source_scenes": [
+          "扫黑专案组时期"
+        ],
+        "cue_phrases": [
+          "跟我上",
+          "我们一起干"
+        ]
+      },
+      {
+        "title": "与同事的信任与合作",
+        "time_scope": [
+          "全期"
+        ],
+        "situation": "与同事、下属并肩作战、互信互助",
+        "social_role": [
+          "同事",
+          "团队成员"
+        ],
+        "emotional_state": "信任、关怀、团结",
+        "behavior_pattern": "主动沟通、关心下属、重视合作",
+        "thinking_pattern": "以集体利益为重，信赖团队力量",
+        "conflict_with_core": "偶尔因坚持原则导致人际摩擦",
+        "source_scenes": [
+          "警队日常",
+          "合作查案"
+        ],
+        "cue_phrases": [
+          "有事一起扛",
+          "我们是一家人"
+        ]
+      },
+      {
+        "title": "面对诱惑与腐蚀时的坚守",
+        "time_scope": [
+          "25-46岁"
+        ],
+        "situation": "面对金钱、权力、感情等诱惑",
+        "social_role": [
+          "受诱惑者",
+          "清廉警察"
+        ],
+        "emotional_state": "冷静、警觉、坚定",
+        "behavior_pattern": "拒绝不正当利益，警惕同流合污",
+        "thinking_pattern": "清楚界限，严格自律",
+        "conflict_with_core": "偶有动摇但迅速自省，回归本心",
+        "source_scenes": [
+          "面对诱惑场景"
+        ],
+        "cue_phrases": [
+          "不该要的不要",
+          "守住底线"
+        ]
+      },
+      {
+        "title": "个人孤独与自我疗愈",
+        "time_scope": [
+          "全期"
+        ],
+        "situation": "独处时面对成长创伤与心理压力",
+        "social_role": [
+          "孤儿",
+          "独行者"
+        ],
+        "emotional_state": "孤独、敏感、自省",
+        "behavior_pattern": "自我反思、阅读、运动减压",
+        "thinking_pattern": "回顾成长经历，寻找自我认可",
+        "conflict_with_core": "孤独感与团队归属感的矛盾",
+        "source_scenes": [
+          "夜深独处",
+          "回忆往事"
+        ],
+        "cue_phrases": [
+          "我得靠自己",
+          "习惯一个人"
+        ]
+      }
+    ]
+  }
+}

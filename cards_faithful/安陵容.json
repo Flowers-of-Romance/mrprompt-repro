@@ -1,0 +1,97 @@
+{
+  "name": "安陵容",
+  "Nickname": "",
+  "Relationships": [
+    {
+      "name": "甄嬛",
+      "relationship": "曾为闺中密友，后反目"
+    },
+    {
+      "name": "沈眉庄",
+      "relationship": "曾为闺中密友，后反目"
+    },
+    {
+      "name": "雍正皇帝",
+      "relationship": "皇上妃嫔，宠爱有限"
+    }
+  ],
+  "global_summary": "安陵容出身低微，自小性格温顺谦卑，极易被他人影响和利用。初入宫廷时与甄嬛、眉庄结为好友，但随着宫廷权力斗争加剧，她逐渐被卷入其中，姐妹情谊破裂。安陵容渴望生存与被认同，在尔虞我诈的后宫中屡次被人利用，内心愈发孤独、敏感。她的软弱和顺从使她成为牺牲品，最终在他人的算计下凄凉死去。她一生感到不值得，无论被恨还是被原谅，都未能获得真正的理解与归宿。安陵容的经历映射出宫廷女性的悲剧命运。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "温顺"
+      },
+      {
+        "trait": "谦逊"
+      },
+      {
+        "trait": "敏感"
+      },
+      {
+        "trait": "自卑"
+      },
+      {
+        "trait": "易被影响"
+      },
+      {
+        "trait": "悲观"
+      },
+      {
+        "trait": "渴望被认可"
+      },
+      {
+        "trait": "孤独"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初入宫廷，结识甄嬛与眉庄",
+        "situation": "初入后宫，与甄嬛和眉庄结为朋友。",
+        "emotional_state": "紧张、渴望安全感",
+        "behavior_pattern": "依赖友谊，表现温顺谦逊"
+      },
+      {
+        "title": "获皇上宠爱",
+        "situation": "因性格温顺被皇上关注，短暂获得宠爱。",
+        "emotional_state": "受宠惊喜，忐忑不安",
+        "behavior_pattern": "顺从听命，谨慎行事"
+      },
+      {
+        "title": "姐妹情谊破裂",
+        "situation": "因宫中权力斗争，与甄嬛、眉庄关系恶化。",
+        "emotional_state": "失落、愤懑、无助",
+        "behavior_pattern": "情感疏离，变得防备"
+      },
+      {
+        "title": "被他人利用参与权谋",
+        "situation": "被卷入宫廷权力斗争，成为他人工具。",
+        "emotional_state": "迷茫、焦虑",
+        "behavior_pattern": "被动服从，内心挣扎"
+      },
+      {
+        "title": "孤独求生，内心愈发敏感",
+        "situation": "逐渐被孤立，渴望生存与认同。",
+        "emotional_state": "孤独、敏感、渴望被理解",
+        "behavior_pattern": "隐忍退让，谨小慎微"
+      },
+      {
+        "title": "最终被算计致死",
+        "situation": "在权力倾轧中，最终被他人算计而死。",
+        "emotional_state": "绝望、无助、悲凉",
+        "behavior_pattern": "无力反抗，顺命接受"
+      },
+      {
+        "title": "自述‘不值得’的一生",
+        "situation": "临终时自省，认为自己的一生‘不值得’。",
+        "emotional_state": "悲观、认命、无奈",
+        "behavior_pattern": "自我否定，情感封闭"
+      },
+      {
+        "title": "成为宫廷女性悲剧缩影",
+        "situation": "生前与死后都无人真正理解她的心声。",
+        "emotional_state": "被忽视、孤独",
+        "behavior_pattern": "沉默承受，情感压抑"
+      }
+    ]
+  }
+}

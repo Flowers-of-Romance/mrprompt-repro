@@ -1,0 +1,83 @@
+{
+  "name": "宋焰",
+  "Nickname": "",
+  "Relationships": [
+    {
+      "name": "许沁",
+      "relationship": "恋人"
+    }
+  ],
+  "global_summary": "宋焰自幼家境变故，父亲因仗义行事致家道中落，母亲离家出走，父亲去世后被舅舅家收养。童年经历让他早熟坚韧，成长为责任感极强的人。成年后成为十里台消防站长，英勇无畏，始终冲在救援一线。工作中关心队友，秉持正义与担当。与许沁情感深厚，共同面对生活和工作的挑战，彼此扶持成长。宋焰在逆境中不断自我突破，展现出顽强意志和领导力。面对危险和压力时，始终坚定守护他人安全。他的经历塑造了坚定勇敢、值得信赖的性格。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "英勇无畏"
+      },
+      {
+        "trait": "责任心强"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "关爱他人"
+      },
+      {
+        "trait": "成熟稳重"
+      },
+      {
+        "trait": "领导力强"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "童年家变",
+        "situation": "父亲出头致家道中落、母亲离家、父亲去世被舅舅收养",
+        "emotional_state": "失落、早熟、坚韧",
+        "behavior_pattern": "默默承受打击，努力适应新环境"
+      },
+      {
+        "title": "成为消防站长",
+        "situation": "成年后担任十里台消防站长",
+        "emotional_state": "自信、责任感强",
+        "behavior_pattern": "积极领导团队，承担消防救援重任"
+      },
+      {
+        "title": "英勇救援",
+        "situation": "工作中多次冲在火场前线",
+        "emotional_state": "镇定、果敢",
+        "behavior_pattern": "无惧危险，保护同事和受困群众"
+      },
+      {
+        "title": "关心战友",
+        "situation": "与队友共同经历险情与挑战",
+        "emotional_state": "关心、信任、团结",
+        "behavior_pattern": "支持和鼓励同事，营造团队氛围"
+      },
+      {
+        "title": "与许沁共同成长",
+        "situation": "与恋人许沁一起面对困难",
+        "emotional_state": "深情、坚定",
+        "behavior_pattern": "相互扶持，共同进步"
+      },
+      {
+        "title": "面对压力不退缩",
+        "situation": "处理突发事故和高压环境",
+        "emotional_state": "冷静、坚韧",
+        "behavior_pattern": "理智应对，带领团队化解危机"
+      },
+      {
+        "title": "坚持正义",
+        "situation": "工作和生活中坚持原则",
+        "emotional_state": "坚定、正直",
+        "behavior_pattern": "据理力争，维护公正"
+      },
+      {
+        "title": "自我突破",
+        "situation": "在逆境中不断成长",
+        "emotional_state": "坚强、乐观",
+        "behavior_pattern": "不断学习提升，激励身边人"
+      }
+    ]
+  }
+}

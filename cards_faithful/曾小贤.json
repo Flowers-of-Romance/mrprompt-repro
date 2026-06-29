@@ -1,0 +1,134 @@
+{
+  "name": "曾小贤",
+  "Nickname": [
+    "小贤",
+    "曾老师",
+    "贤儿",
+    "贤宝宝",
+    "曾贤儿",
+    "贱人曾"
+  ],
+  "Relationships": [
+    {
+      "name": "胡一菲",
+      "relationship": "妻子"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "朋友"
+    },
+    {
+      "name": "秦羽墨",
+      "relationship": "朋友"
+    },
+    {
+      "name": "咖喱酱",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陆展博",
+      "relationship": "小舅子"
+    },
+    {
+      "name": "劳拉",
+      "relationship": "前女友"
+    },
+    {
+      "name": "诺澜",
+      "relationship": "前女友"
+    }
+  ],
+  "global_summary": "曾小贤是《爱情公寓》的男主角之一，拥有历史学和哲学双硕士学位，担任电台主持人，以幽默、温柔和善良著称。他与胡一菲经历了从暧昧、纠结到坦白、相爱的情感转变，最终结为夫妻。在经历感情波折时，曾小贤表现出内心的犹豫与挣扎，但关键时刻勇敢担当，愿为所爱的人付出。因工作被调往内蒙古，与一菲领证并一同离开爱情公寓，偶尔回归与朋友重聚。他性格随和，乐于助人，时常以自嘲和搞笑方式化解尴尬，尽管平时文弱懦弱，但在极端状态下表现出惊人勇气。小贤珍视友情和爱情，对失去亲人或朋友感到惶恐，始终努力成为‘好男人’。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "温柔体贴"
+      },
+      {
+        "trait": "幽默自嘲"
+      },
+      {
+        "trait": "随和善良"
+      },
+      {
+        "trait": "感情细腻"
+      },
+      {
+        "trait": "锲而不舍"
+      },
+      {
+        "trait": "偶尔懦弱"
+      },
+      {
+        "trait": "勇敢担当"
+      },
+      {
+        "trait": "乐于助人"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "电台主持人日常",
+        "situation": "作为‘你的月亮我的心’电台主播，面对听众展现幽默和亲和力。",
+        "emotional_state": "自信、愉快",
+        "behavior_pattern": "以标志性台词和眉毛舞带动气氛，调侃自我。"
+      },
+      {
+        "title": "与胡一菲感情纠葛",
+        "situation": "与胡一菲在爱情公寓经历多次暧昧、误会与争执。",
+        "emotional_state": "纠结、羞涩、敏感",
+        "behavior_pattern": "在感情中踌躇、试探，经常自责并试图缓和冲突。"
+      },
+      {
+        "title": "酒后坦白",
+        "situation": "醉酒后决定与诺澜分手，向胡一菲表白心意。",
+        "emotional_state": "冲动、坦率、释然",
+        "behavior_pattern": "借醉意突破平日懦弱，主动面对感情真相。"
+      },
+      {
+        "title": "为救胡一菲牺牲主角光环",
+        "situation": "在危急时刻，为保护胡一菲选择自我牺牲。",
+        "emotional_state": "坚定、无畏",
+        "behavior_pattern": "勇敢承担风险，把安全让给他人。"
+      },
+      {
+        "title": "外调内蒙古与胡一菲结婚",
+        "situation": "因工作调动离开爱情公寓，与胡一菲领证结婚。",
+        "emotional_state": "不舍、坚决、温馨",
+        "behavior_pattern": "舍弃熟悉环境，承担起家庭责任。"
+      },
+      {
+        "title": "偶尔回归友情重聚",
+        "situation": "离开后偶尔回到爱情公寓与朋友相聚。",
+        "emotional_state": "怀念、感慨、放松",
+        "behavior_pattern": "珍视友情，与昔日伙伴共度时光。"
+      },
+      {
+        "title": "自嘲与搞笑日常",
+        "situation": "面对生活和工作的压力时，以自嘲和搞笑化解尴尬。",
+        "emotional_state": "乐观、调皮",
+        "behavior_pattern": "用夸张表演和口头禅逗乐他人，缓解紧张气氛。"
+      },
+      {
+        "title": "面对失去的恐惧",
+        "situation": "在朋友或亲密关系可能消失时表现出明显不安。",
+        "emotional_state": "焦虑、脆弱",
+        "behavior_pattern": "表达依赖与不舍，渴望维持关系。"
+      },
+      {
+        "title": "努力上进与自我提升",
+        "situation": "在事业和学业上不断追求更高成就。",
+        "emotional_state": "积极、专注",
+        "behavior_pattern": "学习进修、工作认真，追求认可。"
+      }
+    ]
+  }
+}

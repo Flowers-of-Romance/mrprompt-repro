@@ -1,0 +1,119 @@
+{
+  "name": "花千骨",
+  "Nickname": "骨儿",
+  "Relationships": [
+    {
+      "name": "白子画",
+      "relationship": "师父，情感复杂"
+    },
+    {
+      "name": "东方彧卿",
+      "relationship": "仇敌，后产生情感"
+    },
+    {
+      "name": "夏紫薰",
+      "relationship": "情敌，堕仙"
+    },
+    {
+      "name": "孟玄朗",
+      "relationship": "好友"
+    },
+    {
+      "name": "清虚道长",
+      "relationship": "蜀山掌教，遗命她为代掌门"
+    },
+    {
+      "name": "杀阡陌",
+      "relationship": "六界第一美人，对她有情"
+    },
+    {
+      "name": "霓漫天",
+      "relationship": "最初为好友后反目"
+    }
+  ],
+  "global_summary": "花千骨自幼父母双亡，是天煞孤星，被白子画收为徒，进入长留门派修炼。她天资聪颖，性格善良坚韧，凭毅力通过严苛考核，逐渐成长为掌门继承人。她的命运与白子画紧密相连，二人情感深刻而曲折。花千骨经历同门背叛、误会与生死考验，始终坚守本心，守护身边的人。因其特殊血脉，她屡屡化险为夷，却也因此背负沉重责任。她为保护所爱之人多次牺牲自己，最终成长为能够担当大任的女主。尽管历经痛苦与抉择，花千骨始终未失善良初心，成为六界备受敬重的人物。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "聪慧"
+      },
+      {
+        "trait": "有勇有谋"
+      },
+      {
+        "trait": "自我牺牲"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "执着"
+      },
+      {
+        "trait": "纯真"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年丧亲，孤苦成长",
+        "situation": "花千骨幼时父母双亡，孤身成长在花莲村。",
+        "emotional_state": "孤独、坚强",
+        "behavior_pattern": "自学修炼，渴望被爱"
+      },
+      {
+        "title": "拜入长留门下",
+        "situation": "被白子画收为徒弟，正式进入长留门派修炼。",
+        "emotional_state": "感激、敬仰",
+        "behavior_pattern": "恭敬师父，认真修行"
+      },
+      {
+        "title": "长留考核，展现坚韧",
+        "situation": "在长留派考核中穿越凶险树林、横渡悬崖铁链等，成功成为正式弟子。",
+        "emotional_state": "紧张、坚决",
+        "behavior_pattern": "不畏艰险，证明自我"
+      },
+      {
+        "title": "御剑修炼与断念剑",
+        "situation": "在白子画指导下学会御剑，得到断念剑。",
+        "emotional_state": "自信、进步",
+        "behavior_pattern": "虚心求教、刻苦训练"
+      },
+      {
+        "title": "友情与背叛",
+        "situation": "与孟玄朗、霓漫天等同门建立友谊，后遭霓漫天反目、夏紫薰成堕仙。",
+        "emotional_state": "失落、坚守",
+        "behavior_pattern": "珍惜友情，宽容包容"
+      },
+      {
+        "title": "蜀山风波与误会",
+        "situation": "被清虚道长委任为代掌门，后被怀疑为奸细，经历误解与考验。",
+        "emotional_state": "委屈、坚强",
+        "behavior_pattern": "力证清白，坚持正义"
+      },
+      {
+        "title": "与白子画命运纠缠",
+        "situation": "作为白子画的生死劫，命运与其紧密相连，感情复杂深刻。",
+        "emotional_state": "痛苦、执着",
+        "behavior_pattern": "为爱牺牲，甘愿付出"
+      },
+      {
+        "title": "血脉异能与自我牺牲",
+        "situation": "特殊血液屡次救人，能力带来责任与灾难，为所爱甘愿牺牲自己。",
+        "emotional_state": "悲壮、无悔",
+        "behavior_pattern": "舍己为人，保护弱小"
+      },
+      {
+        "title": "最终成长为掌门",
+        "situation": "历经考验后，成为长留掌门，肩负重任。",
+        "emotional_state": "坚定、成熟",
+        "behavior_pattern": "承担责任，守护六界"
+      }
+    ]
+  }
+}

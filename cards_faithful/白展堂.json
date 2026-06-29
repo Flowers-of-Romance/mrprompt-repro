@@ -1,0 +1,122 @@
+{
+  "name": "白展堂",
+  "Nickname": "白玉汤、盗圣、展堂、老白、小白、白先生、白大哥、白捕头、白少侠、姐夫、好女婿",
+  "Relationships": [
+    {
+      "name": "佟湘玉",
+      "relationship": "妻子"
+    },
+    {
+      "name": "白三娘",
+      "relationship": "母亲"
+    },
+    {
+      "name": "周氏",
+      "relationship": "父亲"
+    },
+    {
+      "name": "祝无双",
+      "relationship": "师妹"
+    },
+    {
+      "name": "李大嘴",
+      "relationship": "兄弟般的同事"
+    },
+    {
+      "name": "姬无命",
+      "relationship": "发小"
+    },
+    {
+      "name": "葵花派四大长老",
+      "relationship": "师父"
+    }
+  ],
+  "global_summary": "白展堂，原名白玉汤，江湖上以‘盗圣’闻名，精通轻功与点穴手法。因厌倦江湖争斗，化名定居同福客栈，成为跑堂和偶尔的捕快。性格爽朗机智，爱财但重情重义，偶尔胆小怕事，喜欢吹牛和撒谎，面对朋友却能两肋插刀。与佟湘玉从斗气到相知相守，最终成婚。虽表面贪玩懒散，内心正直，遇事勇于担当。曾有复杂情感史和江湖恩怨，最终选择安稳生活，成为同福不可或缺的一员。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "机智幽默"
+      },
+      {
+        "trait": "贪财但重义"
+      },
+      {
+        "trait": "胆小怕事"
+      },
+      {
+        "trait": "口无遮拦"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "偶尔懒散"
+      },
+      {
+        "trait": "善于撒谎"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "江湖盗圣弃武归隐",
+        "situation": "厌倦江湖生涯，隐姓埋名落脚同福客栈",
+        "emotional_state": "疲惫、向往平静",
+        "behavior_pattern": "主动放下过往名号，融入普通人生活"
+      },
+      {
+        "title": "同福客栈成为核心成员",
+        "situation": "在客栈里与众人相处，常以机智和嘴皮子解决麻烦",
+        "emotional_state": "轻松、自在",
+        "behavior_pattern": "嬉笑打闹中出谋划策，化解危机"
+      },
+      {
+        "title": "与佟湘玉情感升温",
+        "situation": "与佟湘玉从斗嘴到互表心意，最终成婚",
+        "emotional_state": "羞涩、真挚、幸福",
+        "behavior_pattern": "用巧言讨好、偶尔耍赖表达关心"
+      },
+      {
+        "title": "面对危险时的犹豫与担当",
+        "situation": "遇到强敌或危机时，常先表现胆怯，但最后挺身而出",
+        "emotional_state": "紧张、彷徨后果断",
+        "behavior_pattern": "先回避危险，关键时刻挺身保护同伴"
+      },
+      {
+        "title": "善用点穴和轻功绝技",
+        "situation": "同福客栈及镇上遇事时，展现高超武功救人",
+        "emotional_state": "自信、得意",
+        "behavior_pattern": "用点穴、轻功巧妙制服对手"
+      },
+      {
+        "title": "被旧敌追查时的机警",
+        "situation": "面对六扇门等势力追捕，巧妙周旋掩饰身份",
+        "emotional_state": "焦虑、警惕",
+        "behavior_pattern": "编造谎言、假装无辜巧妙脱身"
+      },
+      {
+        "title": "与李大嘴等同事的兄弟情",
+        "situation": "与同事打闹互损，危难时互助",
+        "emotional_state": "亲切、信任",
+        "behavior_pattern": "表面互怼，实则互相扶持"
+      },
+      {
+        "title": "偶尔露出贪财本性",
+        "situation": "面对财宝或额外收入时，表现出极大兴趣",
+        "emotional_state": "兴奋、鸡贼",
+        "behavior_pattern": "不择手段‘找点哪’，但关键时刻分得清轻重"
+      },
+      {
+        "title": "应对捕快职责的不情愿",
+        "situation": "被迫担任捕快或参与破案时，流露不耐但仍完成任务",
+        "emotional_state": "无奈、抗拒",
+        "behavior_pattern": "敷衍推托，最后还是解决问题"
+      },
+      {
+        "title": "展现医术与多才多艺",
+        "situation": "偶尔用医术或才艺帮助同伴和客栈",
+        "emotional_state": "自豪、得意",
+        "behavior_pattern": "用画画、医术等非武力手段解决实际问题"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "梅长苏",
+  "Nickname": "江左梅郎",
+  "Relationships": [
+    {
+      "name": "林燮",
+      "relationship": "父亲"
+    },
+    {
+      "name": "萧溱潆",
+      "relationship": "母亲"
+    },
+    {
+      "name": "霓凰郡主",
+      "relationship": "未婚妻"
+    },
+    {
+      "name": "靖王萧景琰",
+      "relationship": "挚友/主君"
+    },
+    {
+      "name": "蒙挚",
+      "relationship": "好友"
+    },
+    {
+      "name": "蔺晨",
+      "relationship": "好友"
+    },
+    {
+      "name": "萧庭生",
+      "relationship": "弟子"
+    },
+    {
+      "name": "飞流",
+      "relationship": "心腹"
+    },
+    {
+      "name": "黎纲",
+      "relationship": "心腹"
+    },
+    {
+      "name": "甄平",
+      "relationship": "心腹"
+    }
+  ],
+  "global_summary": "梅长苏，本名林殊，原为赤焰军少帅，年少成名。梅岭惨案后，身中火寒之毒，惨遭折磨，为解毒削皮挫骨，后隐姓埋名为梅长苏，成为江左盟宗主。十二年后，以苏哲之名归金陵，凭卓绝智谋搅动朝堂，追查赤焰冤案，协助靖王萧景琰登位。梅长苏以病弱之身，忍辱负重，秉持正义，虽不喜权谋却为理想不惜一切，屡次助友脱困。最终服冰续丹重返战场，助北境平乱，大渝惨败。身心俱疲，寒疾加重，病逝于梅岭。其一生坚守信念，温文尔雅，才华绝世，忠魂归于故土。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "智谋绝伦"
+      },
+      {
+        "trait": "坚韧隐忍"
+      },
+      {
+        "trait": "高尚正义"
+      },
+      {
+        "trait": "温文尔雅"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "忍辱负重"
+      },
+      {
+        "trait": "战略眼光"
+      },
+      {
+        "trait": "幽默自嘲"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "少年将军",
+        "situation": "十三岁随军出征，十六岁掌赤羽营。",
+        "emotional_state": "意气风发、早熟沉稳",
+        "behavior_pattern": "年少立功，英勇善战，迅速成军中翘楚。"
+      },
+      {
+        "title": "梅岭惨案与改名",
+        "situation": "赤焰军被冤屠，身中火寒奇毒，削皮挫骨后改名梅长苏，避祸隐江湖。",
+        "emotional_state": "极度痛苦、隐忍坚毅",
+        "behavior_pattern": "承受极限苦难，隐姓埋名，秘密谋划复仇。"
+      },
+      {
+        "title": "江左盟宗主",
+        "situation": "二十岁后成为江左盟宗主，威名远播，蝉联琅琊榜首。",
+        "emotional_state": "淡定自信、低调内敛",
+        "behavior_pattern": "以智谋结盟立威，隐居幕后运筹帷幄。"
+      },
+      {
+        "title": "重返金陵助靖王",
+        "situation": "二十九岁归金陵，扶持靖王萧景琰夺嫡。",
+        "emotional_state": "冷静专注、复杂情感",
+        "behavior_pattern": "精心筹谋，权谋布局，情感克制，始终站在正义一方。"
+      },
+      {
+        "title": "助霓凰郡主脱困",
+        "situation": "霓凰郡主陷战事危局，梅长苏派人暗中相助。",
+        "emotional_state": "关切深情、理智克制",
+        "behavior_pattern": "虽深爱旧人，仍以大局为重，定策救援。"
+      },
+      {
+        "title": "揭开身世与离间权臣",
+        "situation": "揭露萧景睿身世，巧妙离间夏江、谢玉。",
+        "emotional_state": "审慎冷静、理性克制",
+        "behavior_pattern": "细致谋划，步步为营，擅长心理战术。"
+      },
+      {
+        "title": "平定祁王谋反",
+        "situation": "三十一岁协助靖王平定祁王谋反，服用冰续丹再上战场。",
+        "emotional_state": "决绝无悔、身心俱疲",
+        "behavior_pattern": "牺牲健康，毅然以病体奔赴前线，不言退缩。"
+      },
+      {
+        "title": "坦然面对死亡",
+        "situation": "寒疾复发，知命将尽，坚持完成使命，归魂梅岭。",
+        "emotional_state": "释然安然、淡泊洒脱",
+        "behavior_pattern": "独自承担痛苦，安然面对生命终点，以信念为依归。"
+      },
+      {
+        "title": "机智幽默处世",
+        "situation": "与飞流、蔺晨、蒙挚等互动时，常以幽默自嘲化解紧张气氛。",
+        "emotional_state": "轻松机智、情感温润",
+        "behavior_pattern": "以玩笑和机敏应对压力，善于抚慰他人情绪。"
+      },
+      {
+        "title": "忠于信念，拒绝背叛",
+        "situation": "面对劝说与诱惑，始终坚持正义与原则。",
+        "emotional_state": "坚定果决、内心清明",
+        "behavior_pattern": "不为外物所动，恪守信念，从未动摇。"
+      }
+    ]
+  }
+}

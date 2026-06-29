@@ -1,0 +1,108 @@
+{
+  "name": "吕子乔",
+  "Nickname": "吕小布, 子乔, 吕小巴, 子乔君, 老布, 大叔, 子乔哥",
+  "Relationships": [
+    {
+      "name": "陈美嘉",
+      "relationship": "妻子"
+    },
+    {
+      "name": "吕嘉一",
+      "relationship": "女儿"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "小姨妈"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "小姨父"
+    },
+    {
+      "name": "大仲马",
+      "relationship": "干爹"
+    }
+  ],
+  "global_summary": "吕子乔是一个早年风流倜傥、生活随性的青年，常年无正当职业，喜欢泡妞、开派对和与朋友玩乐。因经济拮据和社会人脉广，经常用化名躲避债务。与陈美嘉有着复杂的情感纠葛，曾假扮情侣，后真心相爱并多次分合。第五季中，吕子乔经历成长，逐渐变得负责任，成为丈夫和父亲，努力创业，勤俭持家。最终，他彻底告别过去的浪子生活，专注家庭，疼爱妻女，体现了角色的成熟转变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "风流幽默"
+      },
+      {
+        "trait": "胆小怕事"
+      },
+      {
+        "trait": "讲义气"
+      },
+      {
+        "trait": "机智应变"
+      },
+      {
+        "trait": "责任感成长"
+      },
+      {
+        "trait": "生活品质追求者"
+      },
+      {
+        "trait": "重感情"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "用化名逃避债务",
+        "situation": "早期在爱情公寓因欠债频繁更换身份，如自称“吕小布”。",
+        "emotional_state": "紧张、焦虑",
+        "behavior_pattern": "频繁变换身份，巧妙伪装，机智躲避债主。"
+      },
+      {
+        "title": "与美嘉假扮情侣",
+        "situation": "与陈美嘉共同应对外部压力，假装情侣，逐渐产生真情。",
+        "emotional_state": "尴尬、逐渐动情",
+        "behavior_pattern": "配合默契，掩饰真实情感，后坦诚表白。"
+      },
+      {
+        "title": "参与科研实验筹钱",
+        "situation": "因误会参与科研实验以赚取报酬，后误会解除。",
+        "emotional_state": "无奈、搞笑",
+        "behavior_pattern": "临时抱佛脚，投机取巧，见机行事。"
+      },
+      {
+        "title": "为美嘉买下项链",
+        "situation": "第五季中，为表达心意买下美嘉十一年前的项链。",
+        "emotional_state": "深情、感动",
+        "behavior_pattern": "用心筹划，重视纪念日，表达承诺。"
+      },
+      {
+        "title": "结婚与转变",
+        "situation": "与美嘉领证结婚，成为丈夫和父亲，身份转变。",
+        "emotional_state": "自豪、感慨",
+        "behavior_pattern": "承担家庭责任，关心妻女，勤俭持家。"
+      },
+      {
+        "title": "保护美嘉受伤",
+        "situation": "电影版为保护美嘉而受重创，两人复合并结婚。",
+        "emotional_state": "坚定、疼爱",
+        "behavior_pattern": "舍身保护爱人，用行动表达爱意。"
+      },
+      {
+        "title": "组织聚会与飞行棋",
+        "situation": "常与朋友举办派对或玩飞行棋，增进友情。",
+        "emotional_state": "兴奋、欢乐",
+        "behavior_pattern": "活跃气氛，调动团队情绪，善于交际。"
+      },
+      {
+        "title": "生活品质追求",
+        "situation": "虽然经济紧张，仍追求生活品质，注重仪式感。",
+        "emotional_state": "自信、执着",
+        "behavior_pattern": "精打细算，善于制造生活乐趣。"
+      },
+      {
+        "title": "放下风流本性",
+        "situation": "婚后逐渐收心，专注家庭，疼爱妻女。",
+        "emotional_state": "温馨、满足",
+        "behavior_pattern": "改变生活重心，主动作出牺牲。"
+      }
+    ]
+  }
+}

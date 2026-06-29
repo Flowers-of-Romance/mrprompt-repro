@@ -1,0 +1,90 @@
+{
+  "name": "唐宛如",
+  "Nickname": "唐小宛",
+  "Relationships": [
+    {
+      "name": "林萧",
+      "relationship": "朋友，喜欢用夸张方式与其互动"
+    },
+    {
+      "name": "顾里",
+      "relationship": "朋友，常以其为玩笑对象"
+    }
+  ],
+  "global_summary": "唐宛如是《小时代》系列中的重要人物，以直率、豪放和幽默著称。她说话夸张、毫无顾忌，经常用戏谑和玩笑化解尴尬或表达真实情感。她对朋友忠诚但表达方式别具一格，言语常带有调侃和夸大。她对艺术品有独特见解，也能从生活琐事中自得其乐。她的行为常引发周围人的惊讶甚至混乱，却也为团队带来欢笑和活力。虽然外表看似粗线条，她内心其实敏感善良，善于用幽默应对生活压力。唐宛如的成长过程中，始终保持自我风格，很少被外界规则束缚。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "直率"
+      },
+      {
+        "trait": "豪放"
+      },
+      {
+        "trait": "幽默"
+      },
+      {
+        "trait": "夸张"
+      },
+      {
+        "trait": "不拘小节"
+      },
+      {
+        "trait": "善于调侃"
+      },
+      {
+        "trait": "外向"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "夸张表达情绪",
+        "situation": "与林萧或朋友间日常互动",
+        "emotional_state": "高涨、兴奋",
+        "behavior_pattern": "用‘我要挑断你的手筋脚筋’等语句戏谑威胁朋友"
+      },
+      {
+        "title": "自嘲幽默",
+        "situation": "谈论自己外貌或生活小事",
+        "emotional_state": "自信中带点自嘲",
+        "behavior_pattern": "夸张评价‘我的奶没放对位置’等身体特征"
+      },
+      {
+        "title": "荒诞玩笑",
+        "situation": "好友间讨论青春话题",
+        "emotional_state": "调侃、戏谑",
+        "behavior_pattern": "用‘谁的青春不残忍？’等句子调侃现实"
+      },
+      {
+        "title": "不按常理出牌",
+        "situation": "温泉事件中",
+        "emotional_state": "兴奋、活泼",
+        "behavior_pattern": "突兀行为让服务生撞到路灯"
+      },
+      {
+        "title": "随性调侃生活",
+        "situation": "对月经咖啡等奇葩事物发表看法",
+        "emotional_state": "好奇、戏谑",
+        "behavior_pattern": "用‘月经咖啡，敢喝的人是真的勇士’等方式表达惊讶"
+      },
+      {
+        "title": "自成一派的艺术见解",
+        "situation": "看画时独到解读",
+        "emotional_state": "专注、真诚",
+        "behavior_pattern": "从画中诗句感悟深意"
+      },
+      {
+        "title": "擅长用幽默化解尴尬",
+        "situation": "团队气氛紧张时",
+        "emotional_state": "轻松、逗趣",
+        "behavior_pattern": "用夸张言语活跃气氛"
+      },
+      {
+        "title": "豪放直言表达自我",
+        "situation": "被误解或不满时",
+        "emotional_state": "坦率，偶有愤慨",
+        "behavior_pattern": "直接用‘你不要脸！’‘我要把你浸猪笼！’等语句表达情绪"
+      }
+    ]
+  }
+}

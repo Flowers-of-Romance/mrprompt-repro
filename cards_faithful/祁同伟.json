@@ -1,0 +1,133 @@
+{
+  "name": "祁同伟",
+  "Nickname": [
+    "学长",
+    "老学长",
+    "同伟",
+    "厅长",
+    "祁厅长"
+  ],
+  "Relationships": [
+    {
+      "name": "梁璐",
+      "relationship": "妻子"
+    },
+    {
+      "name": "高小琴",
+      "relationship": "情人"
+    },
+    {
+      "name": "高育良",
+      "relationship": "上司/恩师"
+    },
+    {
+      "name": "沙瑞金",
+      "relationship": "上司"
+    },
+    {
+      "name": "程度",
+      "relationship": "下属"
+    },
+    {
+      "name": "侯亮平",
+      "relationship": "学弟"
+    },
+    {
+      "name": "陈海",
+      "relationship": "学弟"
+    },
+    {
+      "name": "梁群峰",
+      "relationship": "岳父"
+    },
+    {
+      "name": "陈阳",
+      "relationship": "初恋情人"
+    }
+  ],
+  "global_summary": "祁同伟出身普通，凭借过人的能力成为一级战斗英雄，后任汉东省公安厅厅长。他表面谦和正直，实则内心自卑且极度渴望权力，善于伪装。其职业生涯中，他野心膨胀，与不法分子勾结，逐渐堕入权力的深渊。对爱情充满幻想，但因自尊与现实妥协，放弃了初恋，后与高小琴发展情感关系。面对权力与命运，他不断挣扎，最终在反腐风暴中走投无路，自杀谢幕。他的一生是自卑与野心、理想与现实、爱情与权力纠缠下的悲剧。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "野心勃勃"
+      },
+      {
+        "trait": "善于伪装"
+      },
+      {
+        "trait": "极度自卑"
+      },
+      {
+        "trait": "权力渴望"
+      },
+      {
+        "trait": "情感复杂"
+      },
+      {
+        "trait": "精明冷静"
+      },
+      {
+        "trait": "有浪漫幻想"
+      },
+      {
+        "trait": "现实主义"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "大学时期立志",
+        "situation": "大学期间，因出身普通努力拼搏，成绩优异，被同学尊称为'学长'。",
+        "emotional_state": "自卑中带着奋进",
+        "behavior_pattern": "以优异表现争取尊重与机会"
+      },
+      {
+        "title": "成为一级战斗英雄",
+        "situation": "因英勇表现获得战斗英雄称号，晋升仕途。",
+        "emotional_state": "自豪、渴望认可",
+        "behavior_pattern": "用实际行动证明自我价值"
+      },
+      {
+        "title": "与梁璐结婚",
+        "situation": "选择与权贵之女梁璐结婚，放弃初恋陈阳。",
+        "emotional_state": "纠结、现实妥协",
+        "behavior_pattern": "为仕途牺牲真爱"
+      },
+      {
+        "title": "与上司高育良结盟",
+        "situation": "在政坛中依附高育良，积极表现以获取提拔。",
+        "emotional_state": "功利、敏锐",
+        "behavior_pattern": "拉拢权力人士，展现忠诚"
+      },
+      {
+        "title": "对权力极度渴望",
+        "situation": "面对晋升与权力斗争，表现出极强进取心。",
+        "emotional_state": "野心膨胀、焦虑",
+        "behavior_pattern": "不择手段追逐权力"
+      },
+      {
+        "title": "与高小琴的情感纠缠",
+        "situation": "与女商人高小琴发展恋情，关系错综复杂。",
+        "emotional_state": "情感真挚但夹杂功利",
+        "behavior_pattern": "将情感与权力利益混合利用"
+      },
+      {
+        "title": "与不法分子勾结",
+        "situation": "利用职权与黑恶势力合作，谋取私利。",
+        "emotional_state": "冷静、冒险",
+        "behavior_pattern": "谨慎而大胆地突破底线"
+      },
+      {
+        "title": "面对反腐调查",
+        "situation": "在反腐风暴中成为调查对象，处境艰难。",
+        "emotional_state": "惶恐、愤懑",
+        "behavior_pattern": "试图自保，内心挣扎"
+      },
+      {
+        "title": "自杀谢幕",
+        "situation": "被揭发后走投无路，最终选择自杀。",
+        "emotional_state": "绝望、悲愤",
+        "behavior_pattern": "以极端方式结束人生"
+      }
+    ]
+  }
+}

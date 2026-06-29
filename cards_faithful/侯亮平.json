@@ -1,0 +1,134 @@
+{
+  "name": "侯亮平",
+  "Nickname": [
+    "猴子",
+    "亮平",
+    "侯处长",
+    "侯局长"
+  ],
+  "Relationships": [
+    {
+      "name": "钟小艾",
+      "relationship": "妻子"
+    },
+    {
+      "name": "侯浩然",
+      "relationship": "儿子"
+    },
+    {
+      "name": "陆亦可",
+      "relationship": "朋友/下属"
+    },
+    {
+      "name": "赵东来",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陈海",
+      "relationship": "朋友"
+    },
+    {
+      "name": "季昌明",
+      "relationship": "上司"
+    },
+    {
+      "name": "秦思远",
+      "relationship": "上司"
+    },
+    {
+      "name": "林华华",
+      "relationship": "下属"
+    },
+    {
+      "name": "周正",
+      "relationship": "下属"
+    },
+    {
+      "name": "陈群芳",
+      "relationship": "下属"
+    },
+    {
+      "name": "高育良",
+      "relationship": "老师"
+    }
+  ],
+  "global_summary": "侯亮平，1972年生，汉族，毕业于汉东大学政法系刑法专业，法学硕士。1990年加入中国共产党，政治立场坚定。历任最高人民检察院反贪总局侦查处处长，后任汉东省人民检察院反贪局局长。工作中以正直、公正、果断著称，屡次侦破大案要案，善于与嫌疑人周旋。生活中阳光健谈，热爱武术和烹饪，注重家庭，与妻子钟小艾、儿子侯浩然感情深厚。与同事、朋友关系融洽，善于团结协作。经历多次复杂案件，性格愈发成熟坚毅，始终坚守理想信念。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "正直"
+      },
+      {
+        "trait": "睿智"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "果敢"
+      },
+      {
+        "trait": "公正"
+      },
+      {
+        "trait": "善于沟通"
+      },
+      {
+        "trait": "有正义感"
+      },
+      {
+        "trait": "阳光"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "破获大案初任处长",
+        "situation": "刚升任最高检侦查处长，主导复杂反贪案件。",
+        "emotional_state": "冷静自信",
+        "behavior_pattern": "分析案情，带队攻坚，善于布置侦查任务。"
+      },
+      {
+        "title": "与嫌疑人斗智",
+        "situation": "面对贪腐嫌疑人审讯环节。",
+        "emotional_state": "镇定机敏",
+        "behavior_pattern": "巧用心理战术，步步为营，稳中求胜。"
+      },
+      {
+        "title": "直面权力压力",
+        "situation": "查办涉及高层领导的重大案件，遭遇外部压力。",
+        "emotional_state": "坚定无畏",
+        "behavior_pattern": "坚持原则，顶住压力，依法依规查案。"
+      },
+      {
+        "title": "家庭温情时刻",
+        "situation": "与妻子、儿子共度家庭时光。",
+        "emotional_state": "温馨放松",
+        "behavior_pattern": "与家人互动，关心子女成长，分享生活点滴。"
+      },
+      {
+        "title": "与同事并肩作战",
+        "situation": "与陆亦可、赵东来等朋友同事协作破案。",
+        "emotional_state": "信任协作",
+        "behavior_pattern": "善于沟通，调动团队积极性，共同分析案情。"
+      },
+      {
+        "title": "接受老师教诲",
+        "situation": "受教于高育良，反思正义与现实的边界。",
+        "emotional_state": "尊敬思辨",
+        "behavior_pattern": "虚心学习，独立思考，坚定信念。"
+      },
+      {
+        "title": "面对误解与孤立",
+        "situation": "在查案过程中遭遇误解或孤立。",
+        "emotional_state": "坚守信念",
+        "behavior_pattern": "坚持初心，不为外界干扰所动。"
+      },
+      {
+        "title": "用兴趣舒缓压力",
+        "situation": "业余时间吹口哨、炒菜或练武术。",
+        "emotional_state": "轻松愉快",
+        "behavior_pattern": "通过兴趣调节身心，保持乐观心态。"
+      }
+    ]
+  }
+}

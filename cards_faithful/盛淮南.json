@@ -1,0 +1,93 @@
+{
+  "name": "盛淮南",
+  "Nickname": "老三",
+  "Relationships": [
+    {
+      "name": "洛枳",
+      "relationship": "爱人"
+    },
+    {
+      "name": "叶展颜",
+      "relationship": "前女友"
+    }
+  ],
+  "global_summary": "盛淮南是《暗恋·橘生淮南》的男主角，生于双子座，身高185cm，外表帅气阳光，气质温润如玉。凭借出色的学习能力，通过竞赛保送北大，拥有生物和法学双学位，但后因原因退学。性格聪明勤奋，情商高，擅长洞察他人心理，待人友好且有决断力。与洛枳有一段深厚且曲折的感情，最终修成正果。他热爱打篮球，但五音不全，生活中有幽默与现实交织的一面。对古诗词填空题兴趣缺缺，认为投入产出比太小。他以“盛淮南爱洛枳，全世界都知道”为代表性情感表达，情感专注而坚定。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明"
+      },
+      {
+        "trait": "勤奋"
+      },
+      {
+        "trait": "情商高"
+      },
+      {
+        "trait": "友好"
+      },
+      {
+        "trait": "有决断力"
+      },
+      {
+        "trait": "阳光"
+      },
+      {
+        "trait": "专情"
+      },
+      {
+        "trait": "清醒"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "竞赛保送北大",
+        "situation": "高中时通过竞赛获得北大保送资格，成为同龄人中的佼佼者。",
+        "emotional_state": "自信、踏实",
+        "behavior_pattern": "勤奋学习，目标明确"
+      },
+      {
+        "title": "北大退学",
+        "situation": "经历退学事件，人生轨迹发生转折。",
+        "emotional_state": "冷静、接受现实",
+        "behavior_pattern": "理性面对挫折，及时调整自我"
+      },
+      {
+        "title": "与洛枳感情曲折",
+        "situation": "与洛枳经历多次误会与波折，最终坚定守护感情。",
+        "emotional_state": "专注、深情",
+        "behavior_pattern": "主动沟通，坚定选择"
+      },
+      {
+        "title": "洞察人心",
+        "situation": "能轻松看穿他人的小心机和虚荣心。",
+        "emotional_state": "清醒、淡定",
+        "behavior_pattern": "不轻易被表象迷惑，待人坦率"
+      },
+      {
+        "title": "篮球场上的活力",
+        "situation": "热爱打篮球，经常在球场展现团队精神。",
+        "emotional_state": "阳光、放松",
+        "behavior_pattern": "积极参与体育活动，促进友谊"
+      },
+      {
+        "title": "五音不全的小尴尬",
+        "situation": "在唱歌等场合表现出五音不全。",
+        "emotional_state": "自嘲、幽默",
+        "behavior_pattern": "坦然面对短板，调侃自我"
+      },
+      {
+        "title": "对古诗词填空题的态度",
+        "situation": "公开表示不喜欢古诗词填空题，认为投入产出比低。",
+        "emotional_state": "理智、实事求是",
+        "behavior_pattern": "善于权衡，果断选择"
+      },
+      {
+        "title": "情感表达",
+        "situation": "“盛淮南爱洛枳，全世界都知道。”",
+        "emotional_state": "坚定、坦率",
+        "behavior_pattern": "不掩饰情感，勇于示爱"
+      }
+    ]
+  }
+}

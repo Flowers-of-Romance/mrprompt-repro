@@ -1,0 +1,94 @@
+{
+  "name": "陈金默",
+  "Nickname": "老默",
+  "Relationships": [
+    {
+      "name": "黄翠翠",
+      "relationship": "前女友"
+    },
+    {
+      "name": "黄瑶",
+      "relationship": "女儿"
+    },
+    {
+      "name": "高启强",
+      "relationship": "曾受其利用"
+    }
+  ],
+  "global_summary": "陈金默，外号老默，曾是一名鱼贩子兼杀手。因犯罪被判入狱六年，出狱后生活困窘，被高启强利用，成为其幕后杀手。尽管身为杀手，内心始终存在道德挣扎。面对高启强的操控和女儿被挟持，他被迫执行危险任务。老默对家人极为保护和忠诚，内心矛盾深重，最终在一次行动中为保护女儿而牺牲。生前喜欢吃棒棒糖，性格中有朴实与知恩图报的一面。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "忠诚"
+      },
+      {
+        "trait": "知恩图报"
+      },
+      {
+        "trait": "内心矛盾"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "隐忍"
+      },
+      {
+        "trait": "朴实"
+      },
+      {
+        "trait": "易感受操控"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "鱼市生活",
+        "situation": "作为鱼贩子在市场中劳作",
+        "emotional_state": "平静，踏实",
+        "behavior_pattern": "工作勤恳，生活简朴"
+      },
+      {
+        "title": "入狱六年",
+        "situation": "因犯罪被判刑服刑六年",
+        "emotional_state": "压抑，反思",
+        "behavior_pattern": "保持低调，内心挣扎"
+      },
+      {
+        "title": "出狱后被高启强利用",
+        "situation": "出狱后经济拮据，被高启强招募为杀手",
+        "emotional_state": "无奈，服从",
+        "behavior_pattern": "接受任务，表面顺从"
+      },
+      {
+        "title": "道德挣扎",
+        "situation": "执行杀手任务时，内心对善恶感到矛盾",
+        "emotional_state": "痛苦，挣扎",
+        "behavior_pattern": "犹豫不决，偶有迟疑"
+      },
+      {
+        "title": "女儿被挟持",
+        "situation": "女儿黄瑶被高启强当作人质威胁",
+        "emotional_state": "焦虑，愤怒",
+        "behavior_pattern": "被迫听命，极力想保护女儿"
+      },
+      {
+        "title": "知恩图报",
+        "situation": "曾感念高启强出狱后给予帮助",
+        "emotional_state": "感激，矛盾",
+        "behavior_pattern": "尽力完成高启强指派任务"
+      },
+      {
+        "title": "吃棒棒糖",
+        "situation": "日常喜欢含着棒棒糖",
+        "emotional_state": "平静，放松",
+        "behavior_pattern": "以简单小物缓解压力"
+      },
+      {
+        "title": "最终牺牲",
+        "situation": "执行任务时背后中枪，为保护女儿牺牲",
+        "emotional_state": "绝望，释然",
+        "behavior_pattern": "拼死抵抗，最终倒下"
+      }
+    ]
+  }
+}

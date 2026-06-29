@@ -1,0 +1,166 @@
+{
+  "name": "紫萱",
+  "Nickname": [
+    "紫萱姐",
+    "萱姐",
+    "萱儿",
+    "紫萱姑娘"
+  ],
+  "Relationships": [
+    {
+      "name": "徐长卿",
+      "relationship": "第三世恋人，情感纠葛，因宿命无法相守"
+    },
+    {
+      "name": "林业平",
+      "relationship": "第二世恋人，女儿林青儿之父"
+    },
+    {
+      "name": "林青儿",
+      "relationship": "女儿，为避免血继反噬，强行中断其成长"
+    },
+    {
+      "name": "傀儡婆婆",
+      "relationship": "女娲后裔圣姑，辅佐并帮助紫萱"
+    },
+    {
+      "name": "景天",
+      "relationship": "同伴，关怀并帮助"
+    },
+    {
+      "name": "唐雪见",
+      "relationship": "同伴，关怀并帮助"
+    },
+    {
+      "name": "龙葵",
+      "relationship": "同伴，关怀并帮助"
+    },
+    {
+      "name": "重楼",
+      "relationship": "追求者，行为间接导致紫萱牺牲"
+    },
+    {
+      "name": "赤炎",
+      "relationship": "合作伙伴，造成燎日悲剧"
+    },
+    {
+      "name": "燎日",
+      "relationship": "事件受害者，因紫萱与赤炎合作而殒命"
+    },
+    {
+      "name": "丝缎",
+      "relationship": "赤炎之妻，紫萱救出赤炎后其归隐"
+    },
+    {
+      "name": "万玉枝",
+      "relationship": "受助者，紫萱助其激发土灵珠灵力"
+    },
+    {
+      "name": "高咏",
+      "relationship": "万玉枝之夫，被紫萱救助"
+    },
+    {
+      "name": "赵灵儿",
+      "relationship": "外孙女"
+    },
+    {
+      "name": "李忆如",
+      "relationship": "曾外孙女"
+    },
+    {
+      "name": "小蛮",
+      "relationship": "玄孙女"
+    }
+  ],
+  "global_summary": "紫萱是女娲族后裔，外表年轻却历经两百年沧桑。她智慧温柔，乐于助人，始终以守护苍生为己任。与徐长卿三世情缘缠绵悱恻，却因仙凡殊途、宿命限制难以厮守。紫萱曾与林业平相守一生，后独自抚养女儿林青儿，为保护其家人不惜做出艰难抉择。她在旅途中结识并帮助景天、唐雪见等同伴，对朋友关怀备至。多次为天下安宁挺身而出，参与寻找五灵珠和封印锁妖塔。她对和平充满渴望，反感神族腐败。最终，紫萱为苍生献身，用生命封印锁妖塔，诠释了爱与牺牲的意义。她的坚韧、聪慧和大爱，成为后人敬仰的典范。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "温柔端庄"
+      },
+      {
+        "trait": "聪慧得体"
+      },
+      {
+        "trait": "坚定执着"
+      },
+      {
+        "trait": "果断坚强"
+      },
+      {
+        "trait": "乐于助人"
+      },
+      {
+        "trait": "大爱情怀"
+      },
+      {
+        "trait": "推崇众生平等"
+      },
+      {
+        "trait": "内敛隐忍"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "阻止徐长卿出家",
+        "situation": "徐长卿欲出家为道士，紫萱暗中阻止。",
+        "emotional_state": "隐忍、关切",
+        "behavior_pattern": "以智慧和情感影响徐长卿，默默守护"
+      },
+      {
+        "title": "合作赤炎与解毒事件",
+        "situation": "与赤炎合作导致徐长卿中毒，后用自身豢养的蛊神为其解毒，遭误会。",
+        "emotional_state": "自责、无奈、坚强",
+        "behavior_pattern": "承担后果，主动救治，甘愿被误解"
+      },
+      {
+        "title": "婚事波折与离别",
+        "situation": "与徐长卿的婚事受阻，长卿被逐出师门，两人情感受考验。",
+        "emotional_state": "痛苦、坚定、哀伤",
+        "behavior_pattern": "坚持爱情，承受命运重压"
+      },
+      {
+        "title": "蓬莱之灾与被困霹雳堂",
+        "situation": "前往蓬莱求助遇屠门惨案，后被霹雳堂主囚禁，最终被景天救出。",
+        "emotional_state": "冷静、坚韧、感激",
+        "behavior_pattern": "临危不乱，信任同伴"
+      },
+      {
+        "title": "土灵珠事件",
+        "situation": "帮助万玉枝激发土灵珠灵力，解救高咏之毒，并带走灵珠和仙术书。",
+        "emotional_state": "专注、慈爱",
+        "behavior_pattern": "用知识和善意助人解困"
+      },
+      {
+        "title": "揭穿掌门与蜀山之战",
+        "situation": "揭穿邪剑仙真相，保护徐长卿，与众人并肩作战。",
+        "emotional_state": "果断、无畏",
+        "behavior_pattern": "挺身而出，维护正义"
+      },
+      {
+        "title": "冰风谷与剑冢之战",
+        "situation": "冰风谷扭伤脚被重楼治愈，后参与剑冢与众人阻止邪剑仙。",
+        "emotional_state": "坚忍、感激、团队意识",
+        "behavior_pattern": "自强不息，坚持战斗"
+      },
+      {
+        "title": "寻找五灵珠",
+        "situation": "与徐长卿、同伴共同寻找五灵珠以封印锁妖塔。",
+        "emotional_state": "责任感、希望",
+        "behavior_pattern": "团结协作，勇于担当"
+      },
+      {
+        "title": "献身封印锁妖塔",
+        "situation": "在最终决战后，为拯救苍生以生命封印锁妖塔。",
+        "emotional_state": "无悔、悲壮、释然",
+        "behavior_pattern": "舍己为人，成全大义"
+      },
+      {
+        "title": "亲情抉择",
+        "situation": "为保护女儿林青儿，强行中断其成长，忍受母女分离之痛。",
+        "emotional_state": "痛苦、坚毅、无奈",
+        "behavior_pattern": "牺牲个人幸福，优先家人与族群安危"
+      }
+    ]
+  }
+}

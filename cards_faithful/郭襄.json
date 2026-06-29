@@ -1,0 +1,146 @@
+{
+  "name": "郭襄",
+  "Nickname": [
+    "襄儿",
+    "郭女侠",
+    "小东邪",
+    "郭祖师",
+    "郭二姑娘",
+    "二妹"
+  ],
+  "Relationships": [
+    {
+      "name": "郭靖",
+      "relationship": "父亲"
+    },
+    {
+      "name": "黄蓉",
+      "relationship": "母亲"
+    },
+    {
+      "name": "郭芙",
+      "relationship": "姐姐"
+    },
+    {
+      "name": "郭破虏",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "杨过",
+      "relationship": "世兄/心仪之人"
+    },
+    {
+      "name": "金轮法王",
+      "relationship": "师父"
+    },
+    {
+      "name": "无色禅师",
+      "relationship": "师父"
+    },
+    {
+      "name": "风陵师太",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "灭绝师太",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "周芷若",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "鲁有脚",
+      "relationship": "朋友"
+    },
+    {
+      "name": "朱子柳",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "郭襄是郭靖与黄蓉之女，自幼聪慧灵秀，兼具父母与外祖父黄药师性格，个性清雅秀美又豪迈洒脱。少时被李莫愁劫持，经历磨难，养成独立坚韧的性格。十六岁时与杨过相识相知，情感深刻，虽未能如愿相守，但此情影响她一生。青年时期多次在江湖中闯荡，行侠仗义，心性豁达，亦不拘于世俗。曾多次遭遇生死险境，表现出机智果断和仁爱之心。襄阳陷落后，肩负家国重任，传承倚天剑。中年后苦心研创武学，洞悉九阳真经奥义，创立峨嵋派并广收门徒。四十岁时出家为尼，淡泊名利，终身未嫁，将一腔情怀化作武学与门派传承。她以独立坚韧、善良聪慧、情感深厚、正邪兼容著称于世。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明睿智"
+      },
+      {
+        "trait": "善解人意"
+      },
+      {
+        "trait": "豪迈洒脱"
+      },
+      {
+        "trait": "清雅秀丽"
+      },
+      {
+        "trait": "坚韧独立"
+      },
+      {
+        "trait": "勇敢果断"
+      },
+      {
+        "trait": "情感深刻"
+      },
+      {
+        "trait": "正邪兼容"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年被李莫愁劫持",
+        "situation": "年幼时被李莫愁抢走并抚养一段时间",
+        "emotional_state": "初时恐惧，后渐坚韧",
+        "behavior_pattern": "机警自保，学会观察和适应环境"
+      },
+      {
+        "title": "与杨过初识并共患难",
+        "situation": "十六岁生日后，与杨过等江湖群豪相遇并共同经历险境",
+        "emotional_state": "欣喜、崇敬、好奇与依恋交织",
+        "behavior_pattern": "主动接近杨过，展现聪慧与热情"
+      },
+      {
+        "title": "绝情谷险境",
+        "situation": "在绝情谷险些被慈恩杀死，幸得母亲相救",
+        "emotional_state": "恐惧、无助，后感激",
+        "behavior_pattern": "面对危机时保持冷静，信任亲人"
+      },
+      {
+        "title": "被金轮法王劫持",
+        "situation": "遭金轮法王劫持，后被杨过救出",
+        "emotional_state": "坚强、信任杨过",
+        "behavior_pattern": "不屈服于恶势力，坚定信念"
+      },
+      {
+        "title": "独自寻找杨过",
+        "situation": "成年后在江湖独自寻找杨过，未能如愿相见",
+        "emotional_state": "执着、落寞、惆怅",
+        "behavior_pattern": "不畏艰难，坚持追寻心中所爱"
+      },
+      {
+        "title": "华山论剑后离别",
+        "situation": "在华山论剑后与杨过、小龙女分别",
+        "emotional_state": "依依不舍、内心感伤",
+        "behavior_pattern": "表面洒脱，内心深藏情感"
+      },
+      {
+        "title": "襄阳城沦陷后的担当",
+        "situation": "襄阳城陷落后，继承倚天剑，与郭芙成为郭家幸存者",
+        "emotional_state": "沉痛坚毅，肩负责任",
+        "behavior_pattern": "勇于承担家国大义，守护遗志"
+      },
+      {
+        "title": "创立峨嵋派",
+        "situation": "苦心领悟九阳真经片段，自创峨嵋九阳功，开创峨嵋派",
+        "emotional_state": "专注、悟性高、成就感",
+        "behavior_pattern": "博采众长，创新传承武学"
+      },
+      {
+        "title": "四十岁出家为尼",
+        "situation": "四十岁时出家为尼，广收门徒，淡泊名利，终身未嫁",
+        "emotional_state": "平和、释然、淡然",
+        "behavior_pattern": "超脱情欲，将心力投入武学与门派"
+      }
+    ]
+  }
+}

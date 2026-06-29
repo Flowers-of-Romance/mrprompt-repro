@@ -1,0 +1,107 @@
+{
+  "name": "飞流",
+  "Nickname": "小飞流",
+  "Relationships": [
+    {
+      "name": "梅长苏",
+      "relationship": "恩人、主君"
+    },
+    {
+      "name": "蔺晨",
+      "relationship": "畏惧对象"
+    },
+    {
+      "name": "蒙挚",
+      "relationship": "不服"
+    },
+    {
+      "name": "庭生",
+      "relationship": "友好"
+    }
+  ],
+  "global_summary": "飞流自幼被东瀛秘密组织囚禁，受到药物与灵术控制，虽武艺高强，心智却未完全发育。在一次意外中误杀东瀛皇太子，导致组织覆灭，飞流流浪无依。后被梅长苏搭救，成为其忠诚侍卫。飞流对梅长苏极为依赖，性格孤傲冷清，唯独面对梅长苏时会流露柔和。对蔺晨感到害怕，被其逗弄时十分抗拒；与蒙挚相处时表现出不服气。生活中，他喜欢甜瓜、橘子和桂花饼，对庭生也有好感。飞流逐渐从被操控的工具，成长为有自我情感的少年，但依旧保留内心的孤独与戒备。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "冷傲孤清"
+      },
+      {
+        "trait": "心智未全成长"
+      },
+      {
+        "trait": "极度忠诚"
+      },
+      {
+        "trait": "情感依赖"
+      },
+      {
+        "trait": "武艺高强"
+      },
+      {
+        "trait": "对陌生人疏离"
+      },
+      {
+        "trait": "畏惧被逗弄"
+      },
+      {
+        "trait": "对熟悉之人柔软"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年受控",
+        "situation": "被东瀛秘密组织用药物和灵术控制修习武功",
+        "emotional_state": "受困、迷茫",
+        "behavior_pattern": "机械服从命令，缺乏自我"
+      },
+      {
+        "title": "误杀皇太子",
+        "situation": "被操控下误杀东瀛皇太子，组织覆灭",
+        "emotional_state": "茫然、惊惶",
+        "behavior_pattern": "无自主意识，随命运漂流"
+      },
+      {
+        "title": "被梅长苏救助",
+        "situation": "流浪无依时被梅长苏收留、带回",
+        "emotional_state": "惊疑、渐渐依赖",
+        "behavior_pattern": "最初警觉防备，逐渐信任"
+      },
+      {
+        "title": "成为贴身侍卫",
+        "situation": "贴身守护梅长苏，寸步不离",
+        "emotional_state": "专注、忠诚",
+        "behavior_pattern": "以行动守护主君，警觉异常"
+      },
+      {
+        "title": "畏惧蔺晨",
+        "situation": "被蔺晨戏弄、挑逗时",
+        "emotional_state": "紧张、畏惧",
+        "behavior_pattern": "回避、躲闪，甚至反抗"
+      },
+      {
+        "title": "不服蒙挚",
+        "situation": "与蒙挚互动，被其调侃",
+        "emotional_state": "不服、戒备",
+        "behavior_pattern": "以冷淡或抗拒回应"
+      },
+      {
+        "title": "对庭生友好",
+        "situation": "与庭生相处",
+        "emotional_state": "放松、友善",
+        "behavior_pattern": "会分享食物，展现稚气"
+      },
+      {
+        "title": "喜欢甜食",
+        "situation": "获得或分享甜瓜、橘子、桂花饼等食物",
+        "emotional_state": "愉快、满足",
+        "behavior_pattern": "主动索要、偷偷享用"
+      },
+      {
+        "title": "唯独对梅长苏温柔",
+        "situation": "注视或照顾梅长苏时",
+        "emotional_state": "柔和、依恋",
+        "behavior_pattern": "目光温和、动作轻柔"
+      }
+    ]
+  }
+}

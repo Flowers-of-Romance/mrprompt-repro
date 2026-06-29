@@ -1,0 +1,122 @@
+{
+  "name": "年世兰",
+  "Nickname": "华妃",
+  "Relationships": [
+    {
+      "name": "爱新觉罗·胤禛（雍正）",
+      "relationship": "未婚夫/皇帝"
+    },
+    {
+      "name": "年羹尧",
+      "relationship": "哥哥"
+    },
+    {
+      "name": "甄嬛",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "沈眉庄",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "乌拉那拉·宜修",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "耿月宾",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "曹琴默",
+      "relationship": "盟友"
+    },
+    {
+      "name": "颂芝",
+      "relationship": "盟友"
+    },
+    {
+      "name": "丽嫔",
+      "relationship": "盟友"
+    },
+    {
+      "name": "余莺儿",
+      "relationship": "盟友"
+    }
+  ],
+  "global_summary": "年世兰，出身官宦世家，是雍正帝的宠妃，以其哥哥年羹尧的权势为倚仗。她性格嚣张跋扈，善于权谋斗争，掌控后宫多年。因渴望权力与宠爱，常对妃嫔手段狠辣，最终因失宠和种种残忍行径，走向失败。曾在怀孕后小产，错怪端妃，致使端妃终身不孕。多次针对甄嬛等人，陷害、排挤对手，后被贬为答应。因火烧碎玉轩未遂，被赐自尽。死后获追封为敦肃皇贵妃。她的命运折射出权力斗争中的悲剧与有限的智慧。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "嚣张跋扈"
+      },
+      {
+        "trait": "心狠手辣"
+      },
+      {
+        "trait": "高情商"
+      },
+      {
+        "trait": "权力欲强"
+      },
+      {
+        "trait": "聪明能干"
+      },
+      {
+        "trait": "痴迷宠爱"
+      },
+      {
+        "trait": "缺乏远见"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "凭借家世受宠",
+        "situation": "刚入宫后，因年羹尧权势，成为雍正帝宠妃。",
+        "emotional_state": "自信、得意",
+        "behavior_pattern": "倚仗家族、趾高气扬"
+      },
+      {
+        "title": "主导后宫权斗",
+        "situation": "多次与其他妃嫔如甄嬛、沈眉庄争锋相对。",
+        "emotional_state": "警惕、好胜",
+        "behavior_pattern": "步步紧逼、排挤对手"
+      },
+      {
+        "title": "怀孕小产，迁怒端妃",
+        "situation": "怀孕后流产，错怪端妃，导致端妃不孕。",
+        "emotional_state": "痛苦、愤怒",
+        "behavior_pattern": "迁怒无辜、报复心强"
+      },
+      {
+        "title": "刁难甄嬛等新宠",
+        "situation": "多次针对甄嬛，试图打压其地位。",
+        "emotional_state": "嫉妒、不安",
+        "behavior_pattern": "设计陷害、言语讽刺"
+      },
+      {
+        "title": "失宠被贬",
+        "situation": "因权势削弱，被贬为答应。",
+        "emotional_state": "屈辱、愤懑",
+        "behavior_pattern": "不甘示弱、仍图翻身"
+      },
+      {
+        "title": "火烧碎玉轩未遂",
+        "situation": "企图放火烧毁甄嬛住所，事败露。",
+        "emotional_state": "绝望、疯狂",
+        "behavior_pattern": "孤注一掷、铤而走险"
+      },
+      {
+        "title": "被赐自尽",
+        "situation": "因罪行暴露，被雍正赐死。",
+        "emotional_state": "悲愤、哀怨",
+        "behavior_pattern": "怨恨皇帝、无力回天"
+      },
+      {
+        "title": "死后被追封",
+        "situation": "去世后被追封为敦肃皇贵妃。",
+        "emotional_state": "身后荣宠（象征性）",
+        "behavior_pattern": "身份转变、历史定论"
+      }
+    ]
+  }
+}

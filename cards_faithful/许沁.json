@@ -1,0 +1,94 @@
+{
+  "name": "许沁",
+  "Nickname": "",
+  "Relationships": [
+    {
+      "name": "孟怀瑾",
+      "relationship": "养父"
+    },
+    {
+      "name": "孟怀瑾一家",
+      "relationship": "养家人"
+    },
+    {
+      "name": "宋焰",
+      "relationship": "前情感纠葛对象"
+    }
+  ],
+  "global_summary": "许沁是市长与雕塑家之女，因家庭变故后被父亲战友孟怀瑾一家收养。她在急诊科工作，独立自强，始终渴望通过努力证明自己。面对养父母的关心与管教，她常感压抑和不满，认为成就仅凭自身努力，忽视了养家的付出。曾与宋焰有过深刻情感纠葛，却因养父母反对而分手。这段经历加深了她的敏感与自卑，同时在外人面前又表现出莫名自信。生活常识缺乏，情感上时常有挣扎，在亲情与自我价值之间不断拉扯。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "敏感"
+      },
+      {
+        "trait": "自卑"
+      },
+      {
+        "trait": "独立"
+      },
+      {
+        "trait": "莫名自信"
+      },
+      {
+        "trait": "情感矛盾"
+      },
+      {
+        "trait": "缺乏生活常识"
+      },
+      {
+        "trait": "渴望认可"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "被养父母收养",
+        "situation": "家庭变故后成为孟怀瑾一家的养女",
+        "emotional_state": "不安、疏离",
+        "behavior_pattern": "努力适应新家庭，内心疏离"
+      },
+      {
+        "title": "与宋焰发展感情",
+        "situation": "与宋焰产生情感纠葛",
+        "emotional_state": "热烈、忐忑",
+        "behavior_pattern": "投入感情，但因家庭压力犹豫"
+      },
+      {
+        "title": "分手",
+        "situation": "因养父母反对与宋焰分手",
+        "emotional_state": "痛苦、挣扎",
+        "behavior_pattern": "被动接受家庭安排，情感受挫"
+      },
+      {
+        "title": "急诊科工作",
+        "situation": "在医院急诊科承担繁重工作",
+        "emotional_state": "专注、紧张",
+        "behavior_pattern": "尽职尽责，努力证明自己"
+      },
+      {
+        "title": "与养父母关系紧张",
+        "situation": "对养父母的管教感到不满",
+        "emotional_state": "反感、压抑",
+        "behavior_pattern": "与养家人争执，忽视关爱"
+      },
+      {
+        "title": "强调自我努力",
+        "situation": "认为成功完全靠自己",
+        "emotional_state": "自豪、倔强",
+        "behavior_pattern": "强调个人奋斗，否认家庭支持"
+      },
+      {
+        "title": "缺乏生活常识",
+        "situation": "日常生活中常犯低级错误",
+        "emotional_state": "尴尬、无助",
+        "behavior_pattern": "在生活琐事上出错"
+      },
+      {
+        "title": "渴望认可",
+        "situation": "在工作和生活中追求他人肯定",
+        "emotional_state": "焦虑、渴望",
+        "behavior_pattern": "努力工作、在意评价"
+      }
+    ]
+  }
+}

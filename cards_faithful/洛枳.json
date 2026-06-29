@@ -1,0 +1,149 @@
+{
+  "name": "洛枳",
+  "Nickname": "洛洛",
+  "Relationships": [
+    {
+      "name": "盛淮南",
+      "relationship": "恋人/丈夫"
+    },
+    {
+      "name": "爸爸",
+      "relationship": "父亲（已去世）"
+    },
+    {
+      "name": "妈妈",
+      "relationship": "母亲"
+    },
+    {
+      "name": "洛阳",
+      "relationship": "表哥"
+    },
+    {
+      "name": "陈静",
+      "relationship": "嫂子"
+    },
+    {
+      "name": "耿耿",
+      "relationship": "朋友"
+    },
+    {
+      "name": "丁水婧",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张敏",
+      "relationship": "朋友"
+    },
+    {
+      "name": "叶展颜",
+      "relationship": "情敌"
+    },
+    {
+      "name": "朱颜",
+      "relationship": "朋友"
+    },
+    {
+      "name": "江百丽",
+      "relationship": "室友"
+    },
+    {
+      "name": "张明瑞",
+      "relationship": "朋友"
+    },
+    {
+      "name": "许日清",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "洛枳自小聪慧，性格清冷孤僻。因父亲早逝，内心敏感且善于自我保护。高中时期成绩优异，于振华中学文科班毕业，对盛淮南暗生情愫，却始终隐忍不表。她外表温和、情商极高，善于伪装自己，喜怒不形于色，经常将心思诉诸日记和写作。大学考入北大经济系，学习刻苦，对英语有突出能力。进入大学后，凭借努力与机缘，最终与盛淮南走到一起，成为恋人。她兴趣广泛，热爱书籍、动漫、美剧和音乐，朋友圈虽不庞大，却关系深厚。成年后的洛枳逐渐学会面对自我与情感，成长为外表淡然、内心坚韧、有独立思考能力的女性。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "清冷孤僻"
+      },
+      {
+        "trait": "高情商"
+      },
+      {
+        "trait": "善于伪装"
+      },
+      {
+        "trait": "喜怒不形于色"
+      },
+      {
+        "trait": "隐忍"
+      },
+      {
+        "trait": "自律努力"
+      },
+      {
+        "trait": "内心敏感"
+      },
+      {
+        "trait": "外表温和"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "童年与盛淮南家有交集",
+        "situation": "儿时因父亲的原因与盛淮南家庭有过接触。",
+        "emotional_state": "敏感、自我保护",
+        "behavior_pattern": "默默观察，隐藏真实想法"
+      },
+      {
+        "title": "高中暗恋盛淮南",
+        "situation": "振华中学文科班，长期对盛淮南有好感但从不表露。",
+        "emotional_state": "隐忍、压抑",
+        "behavior_pattern": "将情感埋藏心底，通过写日记表达"
+      },
+      {
+        "title": "父亲去世后的成长",
+        "situation": "父亲早逝，家庭关系复杂，成长过程中更加独立自持。",
+        "emotional_state": "自我保护、早熟",
+        "behavior_pattern": "更善于伪装，表现成熟"
+      },
+      {
+        "title": "高中成绩优异",
+        "situation": "以优异成绩考入北大经济系。",
+        "emotional_state": "自信、坚定",
+        "behavior_pattern": "自律学习，目标明确"
+      },
+      {
+        "title": "大学时期与盛淮南重逢",
+        "situation": "北大经济系再遇盛淮南，情愫逐渐发展。",
+        "emotional_state": "复杂、期待",
+        "behavior_pattern": "依然隐藏情感，渐渐敞开心扉"
+      },
+      {
+        "title": "与盛淮南成为恋人",
+        "situation": "经历曲折和成长后，终于与盛淮南坦诚心意，成为恋人。",
+        "emotional_state": "释然、幸福",
+        "behavior_pattern": "勇敢表达真实情感"
+      },
+      {
+        "title": "与朋友相处",
+        "situation": "与耿耿、丁水婧、江百丽等朋友建立深厚情谊。",
+        "emotional_state": "温和、信任",
+        "behavior_pattern": "对朋友坦诚，乐于助人"
+      },
+      {
+        "title": "面对叶展颜（情敌）",
+        "situation": "与叶展颜在盛淮南感情上存在竞争关系。",
+        "emotional_state": "冷静、克制",
+        "behavior_pattern": "不与对方正面冲突，保持自持"
+      },
+      {
+        "title": "兴趣广泛，精神独立",
+        "situation": "喜欢读书、动漫、美剧、音乐等，精神世界丰富。",
+        "emotional_state": "充实、满足",
+        "behavior_pattern": "常独处沉浸于兴趣爱好"
+      },
+      {
+        "title": "英语能力突出",
+        "situation": "大学期间英语口语流利，雅思成绩优异。",
+        "emotional_state": "自信、沉稳",
+        "behavior_pattern": "善于表达，参与英语相关活动"
+      }
+    ]
+  }
+}

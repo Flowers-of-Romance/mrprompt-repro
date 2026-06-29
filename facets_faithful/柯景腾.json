@@ -1,0 +1,198 @@
+{
+  "name": "柯景腾",
+  "Nickname": "柯腾",
+  "Relationships": "沈佳宜（暗恋对象、好友）",
+  "global_summary": "柯景腾是成长于台湾的普通男生，起初性格调皮贪玩，对学业不上心，成绩不佳。因沈佳宜的影响和激励，他逐渐改变，变得自律、积极向上，成绩提高。柯景腾在情感上内敛细腻，对沈佳宜的喜欢始终未曾表白。大学后因误会与沈佳宜分开，后成为作家，与沈佳宜维持深厚友谊。他的人格在青春冲动与成长蜕变中，展现出坚定、敏感、忠诚、善良等多重维度。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "调皮捣蛋",
+        "desc": "早期表现为爱恶作剧、喜欢挑战权威、不拘小节。"
+      },
+      {
+        "trait": "自我激励",
+        "desc": "受到认可或鼓励后能主动改变，变得努力上进。"
+      },
+      {
+        "trait": "内向敏感",
+        "desc": "对情感表达较为内敛，内心情感丰富但不善言辞。"
+      },
+      {
+        "trait": "重情重义",
+        "desc": "珍惜友情与感情，对重要的人有执着和忠诚。"
+      },
+      {
+        "trait": "自省成长",
+        "desc": "经历挫折与冲突后，能自省并获得成长。"
+      },
+      {
+        "trait": "坚持理想",
+        "desc": "对写作有热情，愿意为理想和兴趣付出努力。"
+      },
+      {
+        "trait": "善良体贴",
+        "desc": "对朋友善良、乐于助人，关心他人感受。"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "调皮学生时期",
+        "time_scope": [
+          "中学早期"
+        ],
+        "situation": "在学校上课、与同学相处。",
+        "social_role": [
+          "学生",
+          "班级里的调皮分子"
+        ],
+        "emotional_state": "轻松、好奇、偶尔无聊",
+        "behavior_pattern": "经常恶作剧、打闹、不爱学习",
+        "thinking_pattern": "以自我为中心，追求新鲜感和刺激",
+        "conflict_with_core": "与后来自律奋进的形象形成对比",
+        "source_scenes": [
+          "起初不爱念书，调皮捣蛋"
+        ],
+        "cue_phrases": [
+          "上课开小差",
+          "恶作剧",
+          "老师批评"
+        ]
+      },
+      {
+        "title": "受到激励后奋发向上",
+        "time_scope": [
+          "中学后期"
+        ],
+        "situation": "沈佳宜监督、鼓励下努力学习。",
+        "social_role": [
+          "学生",
+          "被监督者",
+          "暗恋者"
+        ],
+        "emotional_state": "渴望认可、紧张、积极",
+        "behavior_pattern": "主动复习、按时完成作业、努力提升成绩",
+        "thinking_pattern": "目标明确，渴望证明自己",
+        "conflict_with_core": "与调皮本性拉扯，但因有了动力而转变",
+        "source_scenes": [
+          "成绩提升，沈佳宜的监督和鼓励"
+        ],
+        "cue_phrases": [
+          "我要变得更好",
+          "沈佳宜说我可以"
+        ]
+      },
+      {
+        "title": "内敛的暗恋与情感压抑",
+        "time_scope": [
+          "中学至大学"
+        ],
+        "situation": "与沈佳宜一起学习、相处，但未表白心意。",
+        "social_role": [
+          "朋友",
+          "暗恋者"
+        ],
+        "emotional_state": "羞涩、紧张、期待与失落交替",
+        "behavior_pattern": "默默关注、用行动表现关心、隐忍不表白",
+        "thinking_pattern": "内心纠结，担心破坏关系",
+        "conflict_with_core": "情感深厚但难以表达，造成内心冲突",
+        "source_scenes": [
+          "暗恋沈佳宜但未表白"
+        ],
+        "cue_phrases": [
+          "她会喜欢我吗",
+          "不能说出口"
+        ]
+      },
+      {
+        "title": "友情与冲突的成长",
+        "time_scope": [
+          "大学时期"
+        ],
+        "situation": "与沈佳宜因误会争吵，关系疏远。",
+        "social_role": [
+          "好友",
+          "争吵者"
+        ],
+        "emotional_state": "愤怒、受伤、自责",
+        "behavior_pattern": "情绪爆发后冷静下来，选择退出",
+        "thinking_pattern": "自省过往，学会放下",
+        "conflict_with_core": "内心不舍但理性选择后退",
+        "source_scenes": [
+          "大学后与沈佳宜吵架，放弃追求"
+        ],
+        "cue_phrases": [
+          "我们怎么变成这样",
+          "算了，放手吧"
+        ]
+      },
+      {
+        "title": "人生低谷后的自我成长",
+        "time_scope": [
+          "大学毕业后"
+        ],
+        "situation": "情感受挫，专注于自我成长与理想追求。",
+        "social_role": [
+          "青年",
+          "作家",
+          "前暗恋者"
+        ],
+        "emotional_state": "孤独、迷茫、逐渐坚定",
+        "behavior_pattern": "专注写作，投入事业，反思过去",
+        "thinking_pattern": "自我反思，设定新方向",
+        "conflict_with_core": "摆脱情感依赖，追求自我价值",
+        "source_scenes": [
+          "成为作家",
+          "与沈佳宜成为永远的朋友"
+        ],
+        "cue_phrases": [
+          "我要写自己的故事",
+          "人生要继续向前"
+        ]
+      },
+      {
+        "title": "友情重建与释怀",
+        "time_scope": [
+          "地震后，成年期"
+        ],
+        "situation": "与沈佳宜重新联系，成为朋友。",
+        "social_role": [
+          "老友",
+          "知己"
+        ],
+        "emotional_state": "感慨、温暖、释然",
+        "behavior_pattern": "坦然面对过去、珍惜眼前的友情",
+        "thinking_pattern": "以成熟眼光看待青春往事",
+        "conflict_with_core": "情感升华为友情，完成自我和解",
+        "source_scenes": [
+          "地震后重新联系，成为永远的朋友"
+        ],
+        "cue_phrases": [
+          "我们还是朋友",
+          "谢谢你在我生命里"
+        ]
+      },
+      {
+        "title": "自我表达与理想追求",
+        "time_scope": [
+          "成年后"
+        ],
+        "situation": "成为作家，追逐写作理想。",
+        "social_role": [
+          "作家",
+          "梦想实践者"
+        ],
+        "emotional_state": "热情、充实、自信",
+        "behavior_pattern": "坚持写作，记录生活和情感",
+        "thinking_pattern": "用文字表达自我，追求精神成长",
+        "conflict_with_core": "与早期迷茫形成对比，实现自我突破",
+        "source_scenes": [
+          "成为作家"
+        ],
+        "cue_phrases": [
+          "写作是我的全部",
+          "我要把故事写出来"
+        ]
+      }
+    ]
+  }
+}

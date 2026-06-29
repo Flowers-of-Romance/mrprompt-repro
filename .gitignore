@@ -1,6 +1,8 @@
-venv/
-CharacterEval/
 **/__pycache__/
+*.log
 *.pyc
 .openai_env
+/tmp/
+CharacterEval/
 oa.json
+venv/

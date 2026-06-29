@@ -1,0 +1,101 @@
+{
+  "name": "胡一菲",
+  "Nickname": "大姐头",
+  "Relationships": [
+    {
+      "name": "曾小贤",
+      "relationship": "恋人/最终伴侣"
+    }
+  ],
+  "global_summary": "胡一菲大学毕业后留校成为老师，原为空手道协会主席，性格豪爽火爆，直爽豪迈且有极强正义感。她以女汉子形象著称，拥有高强武艺和多项才艺。管理学生工作时严厉认真，生活中对朋友坦率仗义。因不满学校宿舍规定，搬入爱情公寓，成为众人中的领导者。与曾小贤的感情线波澜不断，虽常因性格摩擦产生冲突，但最终走到一起。她外表强势内心柔软，对爱大胆执着，面对生活充满能量，始终保持活力和个性。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "外表强势"
+      },
+      {
+        "trait": "内心柔软"
+      },
+      {
+        "trait": "直爽豪迈"
+      },
+      {
+        "trait": "轻微暴力倾向"
+      },
+      {
+        "trait": "女汉子"
+      },
+      {
+        "trait": "正义感强"
+      },
+      {
+        "trait": "多才多艺"
+      },
+      {
+        "trait": "情感直接"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "搬入爱情公寓",
+        "situation": "大学毕业后因不满宿舍规定选择搬入爱情公寓",
+        "emotional_state": "坚定、独立",
+        "behavior_pattern": "果断行动，主动做出重要生活决定"
+      },
+      {
+        "title": "担任空手道协会主席",
+        "situation": "大学时期担任协会主席，常组织活动",
+        "emotional_state": "自信、富有领导力",
+        "behavior_pattern": "积极参与、领导团队"
+      },
+      {
+        "title": "管理学生工作",
+        "situation": "留校成为老师，管理学生日常事务",
+        "emotional_state": "严厉、责任感强",
+        "behavior_pattern": "认真负责，对学生严格"
+      },
+      {
+        "title": "与曾小贤感情互动",
+        "situation": "与曾小贤长期暧昧，最终走到一起",
+        "emotional_state": "纠结、勇敢、执着",
+        "behavior_pattern": "情感直接，勇敢表达爱意"
+      },
+      {
+        "title": "爆发暴脾气",
+        "situation": "遇到不公或被激怒时，手中物品常发生形变",
+        "emotional_state": "愤怒、冲动",
+        "behavior_pattern": "发泄情绪，通过暴力小动作表达不满"
+      },
+      {
+        "title": "保护朋友",
+        "situation": "朋友遇到麻烦时挺身而出",
+        "emotional_state": "仗义、关切",
+        "behavior_pattern": "毫不犹豫为朋友出头"
+      },
+      {
+        "title": "做蛋炒饭",
+        "situation": "擅长做蛋炒饭但味道一般",
+        "emotional_state": "自信、略带自嘲",
+        "behavior_pattern": "愿意尝试、乐于展示才艺"
+      },
+      {
+        "title": "运动竞技",
+        "situation": "参加篮球、网球等运动，展现运动天赋",
+        "emotional_state": "活力充沛、自信",
+        "behavior_pattern": "积极参与体育活动，展现女汉子风采"
+      },
+      {
+        "title": "敏感部位被触碰",
+        "situation": "脚踝被他人触碰（除曾小贤外）",
+        "emotional_state": "极度敏感、警觉",
+        "behavior_pattern": "迅速反应，表现出防御性"
+      },
+      {
+        "title": "经典语录表达自我",
+        "situation": "面对质疑时说“彪悍的人生不需要解释”",
+        "emotional_state": "自信、坦率",
+        "behavior_pattern": "用语录彰显个性和处事态度"
+      }
+    ]
+  }
+}

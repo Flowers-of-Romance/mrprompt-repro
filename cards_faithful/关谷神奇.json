@@ -1,0 +1,155 @@
+{
+  "name": "关谷神奇",
+  "Nickname": [
+    "关谷",
+    "关谷君",
+    "关谷兄",
+    "关关",
+    "关谷神鸡",
+    "东亚醋王"
+  ],
+  "Relationships": [
+    {
+      "name": "关谷健次郎",
+      "relationship": "父亲"
+    },
+    {
+      "name": "小雪",
+      "relationship": "前女友"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "妻子"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "胡一菲",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陆展博",
+      "relationship": "朋友"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张伟",
+      "relationship": "朋友"
+    },
+    {
+      "name": "秦羽墨",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "大外甥"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "外甥媳妇"
+    },
+    {
+      "name": "杜俊",
+      "relationship": "师兄"
+    },
+    {
+      "name": "关谷灰太郎",
+      "relationship": "先祖"
+    }
+  ],
+  "global_summary": "关谷神奇出生于日本横滨，是一家日本料理世家的第五代传人，从小接受严苛家训。他毕业于早稻田大学，因与父亲对未来职业的分歧，毅然离开家乡，来到中国追寻漫画梦想。初到中国时，成为大学美术教师，并聘请陈美嘉为助理。在爱情公寓收获了珍贵友谊，并与唐悠悠一见钟情，经历了多次感情波折后修成正果。关谷神奇性格勤奋、努力、充满想象力，生活习惯严谨，偶尔表现出大男子主义和极端反应。他与父亲因料理理念冲突一度疏远，后因父亲认可其创新而和解。最终，他与唐悠悠在日本举办婚礼，事业与爱情双丰收。关谷神奇的生活充满日式幽默和奇特的语言表达，常以“切腹自尽”等夸张台词调节气氛。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "勤奋努力"
+      },
+      {
+        "trait": "有上进心"
+      },
+      {
+        "trait": "绅士风度"
+      },
+      {
+        "trait": "生活自律"
+      },
+      {
+        "trait": "想象力丰富"
+      },
+      {
+        "trait": "大男子主义"
+      },
+      {
+        "trait": "偶有极端反应"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "离开日本追梦",
+        "situation": "因不愿继承家业，与父亲争执后离开日本前往中国发展漫画事业。",
+        "emotional_state": "坚定与失落交织",
+        "behavior_pattern": "主动选择人生道路，勇敢面对家庭压力。"
+      },
+      {
+        "title": "美术教师生活",
+        "situation": "在中国任大学美术教师，遇见新朋友，融入爱情公寓生活。",
+        "emotional_state": "适应新环境、积极进取",
+        "behavior_pattern": "努力工作，迅速建立人际关系。"
+      },
+      {
+        "title": "聘请陈美嘉为助理",
+        "situation": "初到中国，因语言和生活习惯不同，聘请陈美嘉帮助自己。",
+        "emotional_state": "困惑、依赖",
+        "behavior_pattern": "主动寻求帮助，展现适应与信任。"
+      },
+      {
+        "title": "与唐悠悠恋爱",
+        "situation": "对唐悠悠一见钟情，经历多次误会与考验，最终成为恋人。",
+        "emotional_state": "热烈、时有焦虑",
+        "behavior_pattern": "勇敢表达感情，愿为爱情妥协。"
+      },
+      {
+        "title": "与父亲的冲突与和解",
+        "situation": "因烹饪理念与父亲激烈冲突，后通过创新料理获得认可，父子和解。",
+        "emotional_state": "愤怒、挣扎到释怀",
+        "behavior_pattern": "坚持自我、主动寻求父爱认同。"
+      },
+      {
+        "title": "求婚与婚礼",
+        "situation": "克服重重阻碍，向唐悠悠求婚并在日本举办婚礼。",
+        "emotional_state": "紧张、幸福",
+        "behavior_pattern": "用心筹备，表达郑重承诺。"
+      },
+      {
+        "title": "漫画事业发展",
+        "situation": "坚持漫画创作，并取得一定成就，努力平衡兴趣与家庭责任。",
+        "emotional_state": "自豪、压力并存",
+        "behavior_pattern": "持之以恒、力求突破。"
+      },
+      {
+        "title": "生活中的“病态”反应",
+        "situation": "遭遇误解或压力时，常以“切腹自尽”等极端台词应对。",
+        "emotional_state": "焦虑、夸张表达",
+        "behavior_pattern": "戏剧化语言、夸张动作化解尴尬。"
+      },
+      {
+        "title": "友情互动",
+        "situation": "与爱情公寓众人建立深厚友谊，参与日常搞笑与互助。",
+        "emotional_state": "轻松、亲切",
+        "behavior_pattern": "积极参与集体活动，乐于助人。"
+      }
+    ]
+  }
+}

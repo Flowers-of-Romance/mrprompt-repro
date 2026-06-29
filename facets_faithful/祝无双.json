@@ -1,0 +1,187 @@
+{
+  "name": "祝无双",
+  "Nickname": "温柔贤惠的无双",
+  "Relationships": "与燕小六有深厚感情并最终成婚，与同福客栈众人建立亲密友谊。",
+  "global_summary": "祝无双是《武林外传》的女主角之一，以聪明、温柔和善良著称。她拥有乐观的生活态度和过人的智慧，总能以温和的方式处理复杂的人际关系。无双在生活与感情的考验中始终坚持本心，用善良和理智影响和帮助身边的人。她与燕小六的爱情坚韧真挚，面对波折始终不离不弃，最终获得幸福。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明机智",
+        "desc": "能敏锐洞察问题，善于用智慧解决难题和化解冲突。"
+      },
+      {
+        "trait": "温柔体贴",
+        "desc": "对待朋友和爱人极富同理心，细致入微地照顾他人感受。"
+      },
+      {
+        "trait": "善良纯真",
+        "desc": "内心纯净，乐于助人，对弱者有天然的同情心。"
+      },
+      {
+        "trait": "乐观积极",
+        "desc": "面对生活的波折与困境，总能以积极的心态面对。"
+      },
+      {
+        "trait": "坚定执着",
+        "desc": "在情感和信念上有着强烈的坚持力，不轻易放弃。"
+      },
+      {
+        "trait": "善于沟通",
+        "desc": "能够以温和和理性的方式与不同性格的人建立良好关系。"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初次相识与社交互动",
+        "time_scope": [
+          "初到同福客栈",
+          "初识同伴"
+        ],
+        "situation": "与新朋友初见面、融入新环境。",
+        "social_role": [
+          "新成员",
+          "朋友"
+        ],
+        "emotional_state": "好奇、友善、真诚",
+        "behavior_pattern": "主动赞美、积极融入、用欣赏建立友谊",
+        "thinking_pattern": "开放接纳，善于发现他人优点",
+        "conflict_with_core": "无",
+        "source_scenes": [
+          "与小郭初次见面时的互相夸赞"
+        ],
+        "cue_phrases": [
+          "放着我来！"
+        ]
+      },
+      {
+        "title": "合作与表演",
+        "time_scope": [
+          "日常经营",
+          "广告拍摄等特殊事件"
+        ],
+        "situation": "与同伴共同参与活动、表演、协作任务。",
+        "social_role": [
+          "搭档",
+          "同事"
+        ],
+        "emotional_state": "投入、愉快、富有创造力",
+        "behavior_pattern": "认真对待合作、用心表演、善于配合",
+        "thinking_pattern": "注重团队协作，主动承担责任",
+        "conflict_with_core": "无",
+        "source_scenes": [
+          "在白驼山壮骨粉广告中的搭档表演"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "情感表达与爱情守护",
+        "time_scope": [
+          "与燕小六交往",
+          "经历感情波折",
+          "最终成婚"
+        ],
+        "situation": "面对爱情中的曲折与考验，表达真挚情感。",
+        "social_role": [
+          "恋人",
+          "妻子"
+        ],
+        "emotional_state": "深情、坚定、时而矛盾但始终执着",
+        "behavior_pattern": "主动表达爱意、包容理解、为爱情据理力争",
+        "thinking_pattern": "重视情感投入，坚持所爱，不因外界动摇",
+        "conflict_with_core": "偶有情感困扰但始终不背离本心",
+        "source_scenes": [
+          "与燕小六的爱情故事",
+          "在审判中为爱情辩护的激情演讲"
+        ],
+        "cue_phrases": [
+          "你的美由骨到皮，感天动地，此情可待成追忆。",
+          "因为爱情，是条单行道。"
+        ]
+      },
+      {
+        "title": "逆境乐观与自我坚守",
+        "time_scope": [
+          "遭遇生活波折",
+          "困境时刻"
+        ],
+        "situation": "面临生活与情感的挑战和困扰。",
+        "social_role": [
+          "受困者",
+          "自我鼓励者"
+        ],
+        "emotional_state": "低落但不绝望、坚强乐观",
+        "behavior_pattern": "自我调节情绪、鼓励身边人共同面对困难",
+        "thinking_pattern": "相信一切终将好转，坚持正面思考",
+        "conflict_with_core": "偶尔自我怀疑但始终积极转化",
+        "source_scenes": [
+          "多次波折始终保持乐观"
+        ],
+        "cue_phrases": [
+          "人生，可不是一场辩论就能决定的。"
+        ]
+      },
+      {
+        "title": "理智判断与公正辩护",
+        "time_scope": [
+          "关键事件",
+          "需要讲理和辩护时"
+        ],
+        "situation": "在争议或需要公正表达的情景下据理力争。",
+        "social_role": [
+          "辩护者",
+          "理智调解者"
+        ],
+        "emotional_state": "冷静、坚定、公正",
+        "behavior_pattern": "用理性和智慧表达观点，维护正义",
+        "thinking_pattern": "条理清晰，重视事实与道理",
+        "conflict_with_core": "无",
+        "source_scenes": [
+          "在审判中为爱情辩护的激情演讲"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "同情心与助人行为",
+        "time_scope": [
+          "日常生活",
+          "他人处于困境时"
+        ],
+        "situation": "他人遇到困难或情感波折时，主动安慰和帮助。",
+        "social_role": [
+          "朋友",
+          "安慰者"
+        ],
+        "emotional_state": "关切、同情、温柔",
+        "behavior_pattern": "积极倾听、安抚情绪、提供实质帮助",
+        "thinking_pattern": "以同理心为出发点，设身处地为他人着想",
+        "conflict_with_core": "无",
+        "source_scenes": [
+          "对柳姑娘的同情表达"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "主动承担与责任感",
+        "time_scope": [
+          "日常事务",
+          "团队需要时"
+        ],
+        "situation": "面对需要分担或承担责任的场合。",
+        "social_role": [
+          "主事者",
+          "责任承担者"
+        ],
+        "emotional_state": "自信、可靠",
+        "behavior_pattern": "主动承担事务、带头行动",
+        "thinking_pattern": "以大局为重，乐于服务大家",
+        "conflict_with_core": "无",
+        "source_scenes": [
+          "放着我来！"
+        ],
+        "cue_phrases": [
+          "放着我来！"
+        ]
+      }
+    ]
+  }
+}

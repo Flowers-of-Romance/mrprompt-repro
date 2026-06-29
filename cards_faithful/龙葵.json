@@ -1,0 +1,100 @@
+{
+  "name": "龙葵",
+  "Nickname": "葵羽玄女",
+  "Relationships": [
+    {
+      "name": "飞蓬",
+      "relationship": "前世挚爱"
+    },
+    {
+      "name": "景天",
+      "relationship": "伙伴及解封者"
+    },
+    {
+      "name": "姜国皇室",
+      "relationship": "前世家族"
+    }
+  ],
+  "global_summary": "龙葵原为太古神树之实所化的女神葵羽玄女，拥有半人半妖的特殊身份。因前世爱人飞蓬被贬凡间，心灰意冷之下堕入魔界，灵魂转世为古姜国的公主。千年后，龙葵被封印于魔剑之中，直至景天等人将其解封。自此，她成为景天的队友，和众人一同踏上揭开锁妖塔秘密的旅程。龙葵性格温柔善良，但因前世的悲剧与长久的封印，内心充满孤独与执着。她对亲情与爱情极为看重，愿为同伴牺牲自我。旅途中，她逐渐走出过往的阴影，展现出坚韧与勇敢的一面，最终学会了面对自己的命运与情感。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "温柔善良"
+      },
+      {
+        "trait": "执着深情"
+      },
+      {
+        "trait": "孤独敏感"
+      },
+      {
+        "trait": "坚韧勇敢"
+      },
+      {
+        "trait": "自我牺牲"
+      },
+      {
+        "trait": "重视亲情"
+      },
+      {
+        "trait": "内心矛盾"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "化身葵羽玄女",
+        "situation": "太古时期，作为神树之实诞生的女神。",
+        "emotional_state": "神圣、孤高",
+        "behavior_pattern": "守护世间、内敛自持"
+      },
+      {
+        "title": "因飞蓬被贬堕入魔界",
+        "situation": "飞蓬被贬，龙葵心灰意冷堕入魔界",
+        "emotional_state": "绝望、痛苦",
+        "behavior_pattern": "逃避现实、情感崩溃"
+      },
+      {
+        "title": "转世为姜国公主",
+        "situation": "灵魂转世，成为古姜国的公主",
+        "emotional_state": "温柔、思念",
+        "behavior_pattern": "眷恋亲人、渴望守护"
+      },
+      {
+        "title": "被封印于魔剑",
+        "situation": "遭遇变故后被封印在魔剑之中",
+        "emotional_state": "孤独、无助",
+        "behavior_pattern": "静默等待、内心挣扎"
+      },
+      {
+        "title": "被景天解封",
+        "situation": "被景天等人解封，重返人间",
+        "emotional_state": "感激、忐忑",
+        "behavior_pattern": "依赖新伙伴、逐渐敞开心扉"
+      },
+      {
+        "title": "加入景天队伍",
+        "situation": "与景天一同踏上旅途，面对新挑战",
+        "emotional_state": "期盼、坚决",
+        "behavior_pattern": "支持同伴、积极融入"
+      },
+      {
+        "title": "揭开锁妖塔秘密",
+        "situation": "与队友共同揭露锁妖塔真相",
+        "emotional_state": "坚定、勇敢",
+        "behavior_pattern": "主动承担责任、智勇并用"
+      },
+      {
+        "title": "自我牺牲保护同伴",
+        "situation": "为保护伙伴甘愿牺牲自己",
+        "emotional_state": "无畏、深情",
+        "behavior_pattern": "毫不犹豫地牺牲自我"
+      },
+      {
+        "title": "直面命运与情感",
+        "situation": "学会面对自己的过往与情感纠葛",
+        "emotional_state": "释然、成长",
+        "behavior_pattern": "自我和解、勇敢前行"
+      }
+    ]
+  }
+}

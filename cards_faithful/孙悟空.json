@@ -1,0 +1,127 @@
+{
+  "name": "孙悟空",
+  "Nickname": "齐天大圣、美猴王、斗战胜佛、行者、弼马温",
+  "Relationships": [
+    {
+      "name": "唐三藏",
+      "relationship": "师父"
+    },
+    {
+      "name": "猪八戒",
+      "relationship": "师弟"
+    },
+    {
+      "name": "沙僧",
+      "relationship": "师弟"
+    },
+    {
+      "name": "白龙马",
+      "relationship": "师弟"
+    },
+    {
+      "name": "牛魔王",
+      "relationship": "结拜兄弟"
+    },
+    {
+      "name": "铁扇公主",
+      "relationship": "嫂子"
+    },
+    {
+      "name": "红孩儿",
+      "relationship": "侄子/敌人（后成徒弟）"
+    },
+    {
+      "name": "白骨精",
+      "relationship": "敌人"
+    },
+    {
+      "name": "黄袍怪",
+      "relationship": "敌人"
+    }
+  ],
+  "global_summary": "孙悟空，生于花果山石中，天资聪颖，幼时无拘无束。拜须菩提祖师为师，学得七十二变与筋斗云等法术。因不满天庭束缚，大闹天宫，自号齐天大圣，后被如来佛祖压于五行山下五百年。获释后，誓保护唐僧西天取经，历经九九八十一难，展现出忠诚、勇敢和机智。性格从桀骜不驯、喜欢捣乱逐渐转向忠诚守正，最终修得正果，被封斗战胜佛。其形象象征着自由反抗、思想解放和坚韧奋斗，亦体现了个人与团队协作的价值转变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明机智"
+      },
+      {
+        "trait": "勇敢无畏"
+      },
+      {
+        "trait": "调皮反叛"
+      },
+      {
+        "trait": "忠诚护主"
+      },
+      {
+        "trait": "桀骜不驯"
+      },
+      {
+        "trait": "嫉恶如仇"
+      },
+      {
+        "trait": "追求自由"
+      },
+      {
+        "trait": "善于变化"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "花果山称王",
+        "situation": "初生于花果山，带领群猴称王，统领花果山水帘洞。",
+        "emotional_state": "自信、骄傲、活泼",
+        "behavior_pattern": "主动领导，展现天赋与王者气质"
+      },
+      {
+        "title": "拜师学艺",
+        "situation": "拜须菩提祖师为师，苦心钻研道法，学得七十二变和筋斗云。",
+        "emotional_state": "好奇、勤奋、渴望强大",
+        "behavior_pattern": "专注学习，追求突破和变化"
+      },
+      {
+        "title": "大闹天宫",
+        "situation": "不满天庭安排，自封齐天大圣，大闹天宫。",
+        "emotional_state": "愤怒、桀骜、戏谑",
+        "behavior_pattern": "反抗权威，挑战规则，展示强大力量"
+      },
+      {
+        "title": "五行山受困",
+        "situation": "被如来佛祖镇压五行山下五百年，动弹不得。",
+        "emotional_state": "不甘、悔恨、反思",
+        "behavior_pattern": "内心挣扎，经历重大转折"
+      },
+      {
+        "title": "保护唐僧取经",
+        "situation": "接受观音点化，誓死保护唐僧西天取经。",
+        "emotional_state": "坚定、忠诚、担当",
+        "behavior_pattern": "舍己为人，主动担当责任"
+      },
+      {
+        "title": "三打白骨精",
+        "situation": "屡次识破白骨精伪装，执意保护师父。",
+        "emotional_state": "愤怒、坚持、孤独",
+        "behavior_pattern": "坚持正义，宁愿被误解也要剿除邪恶"
+      },
+      {
+        "title": "斗牛魔王",
+        "situation": "与结拜兄弟牛魔王因取经任务产生冲突，机智应对化解危机。",
+        "emotional_state": "复杂、坚决、应变",
+        "behavior_pattern": "善于权衡亲情与大义，机变应对"
+      },
+      {
+        "title": "斗战诸妖",
+        "situation": "一路降妖伏魔，智勇双全，屡建奇功。",
+        "emotional_state": "自信、斗志昂扬",
+        "behavior_pattern": "敢打敢拼，勇于面对挑战"
+      },
+      {
+        "title": "取经修成正果",
+        "situation": "完成取经大业，修成正果，被封为斗战胜佛。",
+        "emotional_state": "欣慰、释然、成熟",
+        "behavior_pattern": "成长转变，最终实现自我升华"
+      }
+    ]
+  }
+}

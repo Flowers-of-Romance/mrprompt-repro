@@ -1,0 +1,115 @@
+{
+  "name": "李达康",
+  "Nickname": "达康书记",
+  "Relationships": [
+    {
+      "name": "欧阳菁",
+      "relationship": "前妻"
+    },
+    {
+      "name": "李佳佳",
+      "relationship": "女儿"
+    },
+    {
+      "name": "易学习",
+      "relationship": "同学"
+    },
+    {
+      "name": "王大路",
+      "relationship": "同学"
+    },
+    {
+      "name": "沙瑞金",
+      "relationship": "上司"
+    },
+    {
+      "name": "高育良",
+      "relationship": "政治对手"
+    }
+  ],
+  "global_summary": "李达康是《人民的名义》中的重要角色，历任赵立春秘书、京州市委书记，以正直清廉、雷厉风行著称。他自青年时代起就秉持正义，敢于拼搏，积极推动京州市经济与政治体制改革。工作中，他严格要求下属，关心百姓疾苦，反对懒政和腐败。面对‘汉大帮’等政治势力，他坚定立场，力主反腐。经历了婚姻破裂，但始终以工作为重，有强烈的责任感和使命感。因真实、接地气的形象和鲜明个性，深受观众尤其是青少年群体喜爱，成为正义与担当的代表人物。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "正直清廉"
+      },
+      {
+        "trait": "雷厉风行"
+      },
+      {
+        "trait": "责任感强"
+      },
+      {
+        "trait": "敢于拼搏"
+      },
+      {
+        "trait": "关心民众"
+      },
+      {
+        "trait": "工作严厉"
+      },
+      {
+        "trait": "有使命感"
+      },
+      {
+        "trait": "有时过于强硬"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "担任市委书记，拒绝与商人交易",
+        "situation": "在任京州市委书记期间，坚决拒绝与商人利益交换，强调不和任何商人做交易。",
+        "emotional_state": "坚定、严肃",
+        "behavior_pattern": "公开表态，划清政商界限，保持清廉"
+      },
+      {
+        "title": "反对下属懒政，要求高效履职",
+        "situation": "发现下属懒政、白吃干饭时，直接点名批评并要求下岗。",
+        "emotional_state": "愤怒、不容忍",
+        "behavior_pattern": "严厉批评，果断采取措施"
+      },
+      {
+        "title": "关心民生，强调小事不可忽视",
+        "situation": "工作部署时强调任何小事都不能忽略，指出小事处理不好会影响大局。",
+        "emotional_state": "慎重、关注细节",
+        "behavior_pattern": "以民为本，重视基层事务"
+      },
+      {
+        "title": "反腐斗争中与‘汉大帮’对峙",
+        "situation": "在沙瑞金支持下，积极开展反腐，顶住‘汉大帮’等势力压力。",
+        "emotional_state": "果敢、压力下坚持原则",
+        "behavior_pattern": "不畏强权，坚持正义"
+      },
+      {
+        "title": "面对离婚，情感上依然坚强",
+        "situation": "与欧阳菁离婚后，把主要精力放在工作上，情感上自我调节。",
+        "emotional_state": "坚强、克制",
+        "behavior_pattern": "以工作为重，自我克服家庭困扰"
+      },
+      {
+        "title": "严格要求下属保持形象",
+        "situation": "教育警察队伍要收敛作风、维护群众形象。",
+        "emotional_state": "严肃、关切",
+        "behavior_pattern": "直接训诫，强调纪律"
+      },
+      {
+        "title": "拒收礼金，坚持原则",
+        "situation": "在干部队伍中推行不收礼不吃请，要求主动归还不当得利。",
+        "emotional_state": "果断、毫不妥协",
+        "behavior_pattern": "立规矩，推动廉洁自律"
+      },
+      {
+        "title": "推进城市改革，敢于推倒旧制度",
+        "situation": "面对旧有体制问题时，主张拆除旧制度、推动新发展。",
+        "emotional_state": "进取、无畏",
+        "behavior_pattern": "直面矛盾，主张改革"
+      },
+      {
+        "title": "对民众舆论有清醒认知",
+        "situation": "反思政府与百姓的关系，提出‘现在老百姓不相信政府会干好事’。",
+        "emotional_state": "清醒、忧虑",
+        "behavior_pattern": "注重舆情，思考民心向背"
+      }
+    ]
+  }
+}

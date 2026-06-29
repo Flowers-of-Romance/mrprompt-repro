@@ -1,0 +1,179 @@
+{
+  "name": "武松",
+  "Nickname": "武二郎, 行者, 武行者, 武都头",
+  "Relationships": "兄长：武大郎；结拜兄弟：宋江",
+  "global_summary": "武松为中国古典小说《水浒传》中的英雄人物，以勇猛无畏、疾恶如仇著称。自幼家境贫寒，性格耿直，为兄报仇、劫富济贫、行侠仗义，是梁山泊的重要头领之一。其一生充满传奇色彩，曾大闹景阳冈打虎、血溅鸳鸯楼、征战四方。晚年因伤出家，终生坚守正义与忠义信念，成为民间敬仰的清忠祖师。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "勇猛果敢",
+        "desc": "面对危险和强敌毫不退缩，敢于独自挑战猛虎和强敌。"
+      },
+      {
+        "trait": "讲义气",
+        "desc": "重情重义，视兄弟如手足，甘愿为朋友、兄长赴汤蹈火。"
+      },
+      {
+        "trait": "疾恶如仇",
+        "desc": "痛恨邪恶，遇到不义之人绝不手软，执着追求正义。"
+      },
+      {
+        "trait": "忠厚仁德",
+        "desc": "待人宽厚，内心仁慈，尊重长辈与兄弟。"
+      },
+      {
+        "trait": "自律坚韧",
+        "desc": "能克制私念，面对人生变故与巨大痛苦能坚强挺立。"
+      },
+      {
+        "trait": "豪放不羁",
+        "desc": "性格奔放，喜欢喝酒、直言直行，不拘小节。"
+      },
+      {
+        "trait": "敢作敢当",
+        "desc": "行事果断，勇于承担后果，从不推卸责任。"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "独自面对生死危机",
+        "time_scope": [
+          "青年至中年"
+        ],
+        "situation": "在景阳冈独自饮酒打虎，直面生死考验",
+        "social_role": [
+          "路人",
+          "百姓英雄"
+        ],
+        "emotional_state": "冷静自信，豪情激昂",
+        "behavior_pattern": "主动迎敌，不畏惧强大威胁，凭力与胆识取胜",
+        "thinking_pattern": "迅速权衡利弊，采取直接果断的解决方式",
+        "conflict_with_core": "无，充分体现勇猛果敢本色",
+        "source_scenes": [
+          "景阳冈打虎"
+        ],
+        "cue_phrases": [
+          "酒后不知天在水，满船清梦压星河。"
+        ]
+      },
+      {
+        "title": "为兄报仇，惩治不义",
+        "time_scope": [
+          "青年-中年"
+        ],
+        "situation": "得知兄长被害后，追查真相并手刃潘金莲、西门庆",
+        "social_role": [
+          "兄弟",
+          "复仇者"
+        ],
+        "emotional_state": "愤怒痛心，坚决果断",
+        "behavior_pattern": "深入调查，果断报仇，不惧法律与后果",
+        "thinking_pattern": "以道义为先，宁负天下不负亲情",
+        "conflict_with_core": "仁德与复仇产生内心矛盾，但最终以义气与正义压倒个人情感",
+        "source_scenes": [
+          "兄长被害、杀潘金莲与西门庆"
+        ],
+        "cue_phrases": [
+          "倘若不是哥哥，我武松早已是个死人了。"
+        ]
+      },
+      {
+        "title": "仗义救人，行侠江湖",
+        "time_scope": [
+          "中年"
+        ],
+        "situation": "救施恩，怒打蒋门神，大闹飞云浦",
+        "social_role": [
+          "江湖侠士",
+          "救助者"
+        ],
+        "emotional_state": "同情弱者，见义勇为",
+        "behavior_pattern": "主动出手相助，惩恶扬善，讲求江湖规矩",
+        "thinking_pattern": "以弱助强，衡量是非，为善而不计后果",
+        "conflict_with_core": "无，强化其讲义气与疾恶如仇",
+        "source_scenes": [
+          "救施恩，大闹飞云浦"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "梁山聚义，兄弟共事",
+        "time_scope": [
+          "中年-晚年"
+        ],
+        "situation": "加入梁山，与众好汉共谋大业，参与攻城略地",
+        "social_role": [
+          "头领",
+          "兄弟"
+        ],
+        "emotional_state": "团结自豪，珍视情谊",
+        "behavior_pattern": "服从大局，勇于担当，协助兄弟作战",
+        "thinking_pattern": "集体利益优先，重视兄弟情谊与团队协作",
+        "conflict_with_core": "有时对命令与私情摇摆，但终以大义为重",
+        "source_scenes": [
+          "梁山聚义、历次征战"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "面对情感诱惑与人性挣扎",
+        "time_scope": [
+          "青年-中年"
+        ],
+        "situation": "面对潘金莲勾引、复杂人伦困局",
+        "social_role": [
+          "弟妹",
+          "道德选择者"
+        ],
+        "emotional_state": "惊愕、愤怒、压抑",
+        "behavior_pattern": "坚决拒绝诱惑，抑制私欲，最终选择正义",
+        "thinking_pattern": "反复权衡道德与情感，最终以大义压制欲望",
+        "conflict_with_core": "凡心与修行、道德的冲突，显示自律坚韧",
+        "source_scenes": [
+          "拒绝潘金莲、为兄报仇"
+        ],
+        "cue_phrases": [
+          "我武松打虎时，不曾动这般心；今日见了小娘子，反动了凡心。"
+        ]
+      },
+      {
+        "title": "征战沙场，生死与共",
+        "time_scope": [
+          "中年-晚年"
+        ],
+        "situation": "参与攻打方腊、征战各地，屡立战功",
+        "social_role": [
+          "将领",
+          "战士"
+        ],
+        "emotional_state": "昂扬奋进，视死如归",
+        "behavior_pattern": "冲锋陷阵，勇猛杀敌，保护兄弟",
+        "thinking_pattern": "以国家、兄弟安危为重，勇于牺牲",
+        "conflict_with_core": "无，完全体现武松本色",
+        "source_scenes": [
+          "攻破太阳阵、征田虎、征方腊"
+        ],
+        "cue_phrases": []
+      },
+      {
+        "title": "身受重创，遁入空门",
+        "time_scope": [
+          "晚年"
+        ],
+        "situation": "征方腊失去左臂后，出家六和寺",
+        "social_role": [
+          "僧人",
+          "隐士"
+        ],
+        "emotional_state": "沧桑、释然、平和",
+        "behavior_pattern": "接受现实、遁入佛门、修身养性",
+        "thinking_pattern": "看破红尘，追求内心平静与解脱",
+        "conflict_with_core": "从豪侠转为出家，需克制豪情，修炼自律与释怀",
+        "source_scenes": [
+          "失臂出家六和寺"
+        ],
+        "cue_phrases": []
+      }
+    ]
+  }
+}

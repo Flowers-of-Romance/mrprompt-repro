@@ -1,0 +1,132 @@
+{
+  "name": "徐长卿",
+  "Nickname": [
+    "长卿",
+    "徐大哥",
+    "姓徐的",
+    "徐掌门"
+  ],
+  "Relationships": [
+    {
+      "name": "清微",
+      "relationship": "师父"
+    },
+    {
+      "name": "紫萱",
+      "relationship": "恋人"
+    },
+    {
+      "name": "林业平",
+      "relationship": "前世之一"
+    },
+    {
+      "name": "重楼",
+      "relationship": "情敌"
+    },
+    {
+      "name": "林青儿",
+      "relationship": "前世与紫萱之女，未曾相认"
+    },
+    {
+      "name": "景天",
+      "relationship": "战友"
+    },
+    {
+      "name": "唐雪见",
+      "relationship": "战友"
+    },
+    {
+      "name": "龙葵",
+      "relationship": "战友"
+    },
+    {
+      "name": "南宫煌",
+      "relationship": "后辈"
+    }
+  ],
+  "global_summary": "徐长卿，蜀山仙剑派第二十三代掌门，自幼入蜀山修行，少年时刻苦习剑，后以坚毅与责任感获得门中认可。与紫萱有三世情缘，情感深刻却命运多舛。成为掌门后，肩负蜀山安危，斩妖除魔，主持蜀山盛世。与景天、唐雪见等人共同对抗邪剑仙，展现出领导力和牺牲精神。紫萱为修复锁妖塔牺牲，深刻改变了长卿的人生态度。后自省自身行为对天下格局的影响，选择辞去掌门之职成仙归隐。外传中，协助南宫煌修复蜀山地脉，继续守护正道。性格稳重坚毅，有情有义，重情重义但不善言辞，最终以归隐山林自省赎过。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "稳重"
+      },
+      {
+        "trait": "坚毅"
+      },
+      {
+        "trait": "痴情"
+      },
+      {
+        "trait": "有责任感"
+      },
+      {
+        "trait": "自省"
+      },
+      {
+        "trait": "正直"
+      },
+      {
+        "trait": "不善言辞"
+      },
+      {
+        "trait": "领导力强"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "继任掌门",
+        "situation": "长卿成为蜀山第二十三代掌门，主持门派大小事务。",
+        "emotional_state": "肩负重任，冷静自律",
+        "behavior_pattern": "以身作则，统率弟子，推动蜀山发展壮大"
+      },
+      {
+        "title": "与紫萱三世情缘",
+        "situation": "与紫萱相识、相知、相恋，情感深刻却终成遗憾。",
+        "emotional_state": "痴情、痛苦、无奈",
+        "behavior_pattern": "倾心守护，多次为紫萱牺牲"
+      },
+      {
+        "title": "共抗邪剑仙",
+        "situation": "与景天、唐雪见等人并肩作战，抵御邪剑仙危机。",
+        "emotional_state": "坚定、专注、无私",
+        "behavior_pattern": "展现领导力，带头斩妖除魔"
+      },
+      {
+        "title": "紫萱牺牲与自省",
+        "situation": "紫萱为修复锁妖塔献身，长卿深受打击。",
+        "emotional_state": "极度悲痛，自责",
+        "behavior_pattern": "反思自身责任，决定成仙归隐"
+      },
+      {
+        "title": "成仙归隐",
+        "situation": "辞去掌门之职，远离尘世，归隐山林。",
+        "emotional_state": "平静、内疚、释然",
+        "behavior_pattern": "主动退出权力中心，自省赎过"
+      },
+      {
+        "title": "委托南宫煌修复地脉",
+        "situation": "将蜀山地脉修复任务托付给南宫煌，传授御剑飞行术。",
+        "emotional_state": "信任、关怀",
+        "behavior_pattern": "扶持后辈，传授本领"
+      },
+      {
+        "title": "对战友的关怀",
+        "situation": "与景天、唐雪见、龙葵共患难，对龙葵等表现保护之情。",
+        "emotional_state": "关切、温和",
+        "behavior_pattern": "保护战友，指导新一代弟子"
+      },
+      {
+        "title": "壮大蜀山与反思",
+        "situation": "主持蜀山新建筑，推动门派鼎盛，却因人妖失衡引发自省。",
+        "emotional_state": "自豪、后悔",
+        "behavior_pattern": "推动发展后反思自身决策，主动承担后果"
+      },
+      {
+        "title": "重楼对峙",
+        "situation": "面对紫萱情敌重楼，坚定守护自己所爱。",
+        "emotional_state": "坚定、隐忍",
+        "behavior_pattern": "坚持本心，不轻言放弃"
+      }
+    ]
+  }
+}

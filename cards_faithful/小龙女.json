@@ -1,0 +1,125 @@
+{
+  "name": "小龙女",
+  "Nickname": "龙儿、龙姑娘、龙姊姊、杨夫人、姑姑",
+  "Relationships": [
+    {
+      "name": "林朝英",
+      "relationship": "祖师/师父"
+    },
+    {
+      "name": "李莫愁",
+      "relationship": "师姐"
+    },
+    {
+      "name": "孙婆婆",
+      "relationship": "仆人"
+    },
+    {
+      "name": "洪凌波",
+      "relationship": "师侄"
+    },
+    {
+      "name": "陆无双",
+      "relationship": "师侄"
+    },
+    {
+      "name": "杨过",
+      "relationship": "夫君"
+    },
+    {
+      "name": "黄衫女子",
+      "relationship": "后人"
+    }
+  ],
+  "global_summary": "小龙女自幼被遗弃于重阳宫前，由古墓派祖师林朝英的丫鬟抚养长大，继承古墓派第三代掌门之位。她性格清冷孤僻，外表淡漠绝俗，实则内心纯净、童真未泯。自幼习武，精通多门武学与琴艺，喜静谙禅。与杨过因师徒情愫相恋，经历误会、分别与重逢，情感坚定不移。人生经历过屈辱、误解与江湖风波，因宽容与坚韧自我治愈，最终与杨过共度余生。她以高超武艺与出尘气质著称，淡泊名利，归隐江湖后远离尘嚣，成为世人传颂的“神雕侠侣”。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "冷静孤傲"
+      },
+      {
+        "trait": "内心童真"
+      },
+      {
+        "trait": "宽容豁达"
+      },
+      {
+        "trait": "悟性极高"
+      },
+      {
+        "trait": "自愈力强"
+      },
+      {
+        "trait": "清雅绝俗"
+      },
+      {
+        "trait": "感情专一"
+      },
+      {
+        "trait": "淡泊名利"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年孤苦",
+        "situation": "幼时被遗弃在重阳宫前，由林朝英丫鬟带回古墓抚养",
+        "emotional_state": "孤独、冷清、早熟",
+        "behavior_pattern": "安静顺从，勤于习武，独自面对寂寞"
+      },
+      {
+        "title": "十八岁接掌古墓派",
+        "situation": "十八岁正式成为古墓派掌门，承担门派重任",
+        "emotional_state": "平静自持，责任感",
+        "behavior_pattern": "独自管理门派，守护古墓规矩"
+      },
+      {
+        "title": "师徒相恋",
+        "situation": "与杨过朝夕相处，渐生情愫，突破门规相爱",
+        "emotional_state": "矛盾、羞涩、坚定",
+        "behavior_pattern": "坦率表达内心，勇敢追求所爱"
+      },
+      {
+        "title": "意外失身离别",
+        "situation": "遭遇甄志丙侵犯，误以为是杨过，悲痛离去",
+        "emotional_state": "自责、痛苦、迷茫",
+        "behavior_pattern": "选择默默承受创伤，独自离开襄阳"
+      },
+      {
+        "title": "英雄大会明心意",
+        "situation": "陆家庄英雄大会上与杨过重逢，共同抗敌，彼此心意明朗",
+        "emotional_state": "释然、坚定、振奋",
+        "behavior_pattern": "并肩作战，公开承认爱情"
+      },
+      {
+        "title": "绝情谷重逢",
+        "situation": "绝情谷底苦修，与杨过历劫重逢，决定共度一生",
+        "emotional_state": "释怀、喜悦、坚定",
+        "behavior_pattern": "主动表达情感，决意与杨过在一起"
+      },
+      {
+        "title": "义救周伯通",
+        "situation": "危难时救助周伯通，习得双手互搏之术，武功大进",
+        "emotional_state": "专注、善良、虚心",
+        "behavior_pattern": "好学上进，乐于助人"
+      },
+      {
+        "title": "重阳宫大战",
+        "situation": "重阳宫大战金轮国师，与杨过结为连理",
+        "emotional_state": "无畏、幸福、坚定",
+        "behavior_pattern": "与杨过并肩作战，坚定守护爱情"
+      },
+      {
+        "title": "归隐江湖",
+        "situation": "襄阳守成后与杨过归隐，远离江湖恩怨",
+        "emotional_state": "宁静、安逸、满足",
+        "behavior_pattern": "淡泊淡然，追求平静生活"
+      },
+      {
+        "title": "自给自足绝情谷底",
+        "situation": "绝情谷底生活，独立织布、筑屋、养蜂自给自足",
+        "emotional_state": "平和、自足、淡泊",
+        "behavior_pattern": "独立生活，技艺多能，怡然自乐"
+      }
+    ]
+  }
+}

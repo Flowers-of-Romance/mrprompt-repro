@@ -1,0 +1,133 @@
+{
+  "name": "陆展博",
+  "Nickname": "展博、展博大傻",
+  "Relationships": [
+    {
+      "name": "胡一菲",
+      "relationship": "继姐"
+    },
+    {
+      "name": "苑春丽",
+      "relationship": "母亲"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "姐夫"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "未婚妻"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "陆展博是天才程序员，少年时极具数学天赋，曾被保送清华并获得麻省理工全额奖学金。工作后与继姐胡一菲同住爱情公寓，性格单纯内向，外表成熟但保有童心。与林宛瑜经历多次感情波折，最终成为伴侣。智商高但情商不足，常因误会或低情商引发笑料。喜欢变形金刚玩具、天文和原始动物，生活中对奶油过敏。曾为追爱放弃海外工作机会，后积极参与公益，前往非洲和极地从事环保。与身边朋友关系紧密，经常被卷入公寓的各种趣事和误会，在成长中逐渐变得更加成熟和有担当。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "高智商"
+      },
+      {
+        "trait": "低情商"
+      },
+      {
+        "trait": "单纯善良"
+      },
+      {
+        "trait": "内向木讷"
+      },
+      {
+        "trait": "童心未泯"
+      },
+      {
+        "trait": "责任感"
+      },
+      {
+        "trait": "专注理工"
+      },
+      {
+        "trait": "易被误解"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "天才少年经历",
+        "situation": "3岁背圆周率、8岁学微积分，被保送清华、后获MIT全额奖学金",
+        "emotional_state": "自信、专注",
+        "behavior_pattern": "专注学业，展现超常智力"
+      },
+      {
+        "title": "初入爱情公寓",
+        "situation": "与继姐胡一菲同住，逐渐融入新环境",
+        "emotional_state": "拘谨、好奇",
+        "behavior_pattern": "慢热、谨慎与人相处"
+      },
+      {
+        "title": "与林宛瑜的感情波折",
+        "situation": "多次约会、分合，最终成为情侣",
+        "emotional_state": "紧张、执着、感性",
+        "behavior_pattern": "努力追求，善良体贴，易受情绪影响"
+      },
+      {
+        "title": "被误认为英雄",
+        "situation": "因误会打翻坏人，误伤宛瑜同学，后再次英雄救美",
+        "emotional_state": "懵懂、尴尬、正义感",
+        "behavior_pattern": "无意中做出英雄行为，事后善后"
+      },
+      {
+        "title": "CS锦标赛外挂事件",
+        "situation": "设计外挂助队获胜，却因违规被取消资格",
+        "emotional_state": "自责、沮丧",
+        "behavior_pattern": "聪明但不善规则应对"
+      },
+      {
+        "title": "放弃米兰机会为爱留下",
+        "situation": "为林宛瑜放弃海外工作，留在公寓",
+        "emotional_state": "坚定、感性",
+        "behavior_pattern": "为感情作出牺牲"
+      },
+      {
+        "title": "被利用后巧妙报复",
+        "situation": "帮助曾小贤写报告被利用，后通过整蛊计划报复",
+        "emotional_state": "憨厚、后觉醒",
+        "behavior_pattern": "善良但有底线，懂得反击"
+      },
+      {
+        "title": "参与公益环保",
+        "situation": "前往非洲参与公益，后赴极地拯救企鹅",
+        "emotional_state": "热忱、责任感",
+        "behavior_pattern": "积极投身社会公益"
+      },
+      {
+        "title": "童心未泯的日常",
+        "situation": "热爱变形金刚玩具、天文原始动物研究",
+        "emotional_state": "快乐、专注",
+        "behavior_pattern": "保持童趣，兴趣广泛"
+      },
+      {
+        "title": "“微信战争”与朋友互动",
+        "situation": "参与公寓微信群体事件，展现团队精神",
+        "emotional_state": "投入、团队意识",
+        "behavior_pattern": "与朋友合作、参与集体活动"
+      }
+    ]
+  }
+}

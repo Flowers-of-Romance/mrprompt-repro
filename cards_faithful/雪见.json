@@ -1,0 +1,101 @@
+{
+  "name": "雪见",
+  "Nickname": "唐门千金",
+  "Relationships": [
+    {
+      "name": "景天",
+      "relationship": "恋人/伴侣"
+    },
+    {
+      "name": "龙葵",
+      "relationship": "同伴"
+    },
+    {
+      "name": "花楹",
+      "relationship": "灵宠/伙伴"
+    },
+    {
+      "name": "景小楼",
+      "relationship": "儿子"
+    }
+  ],
+  "global_summary": "雪见原本是天界神树之实，因寻找转世的飞蓬化为人形，成为唐门千金，自幼受宠但外表冷漠。她与景天一同成长，在冒险中逐步觉醒自己的真实身份。面对危机时，她展现出坚强、聪明和善良的一面，虽不善于表达情感，却对身边人极为关爱。雪见擅长冰、水、雷等仙术，善用花楹作战，并兼具医术与下毒技巧。她在神界、鬼界等生死抉择中多次表现出牺牲精神，最终结局因与景天的羁绊而异。在部分结局中，她与景天共度平凡生活，并育有一子景小楼。经历诸多磨难后，雪见变得更加成熟坦率，内心热情和坚韧始终未变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "外冷内热"
+      },
+      {
+        "trait": "坚强"
+      },
+      {
+        "trait": "聪明机警"
+      },
+      {
+        "trait": "善良关怀"
+      },
+      {
+        "trait": "勇于牺牲"
+      },
+      {
+        "trait": "不善表达情感"
+      },
+      {
+        "trait": "责任感强"
+      },
+      {
+        "trait": "自尊心强"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "获得雷灵珠",
+        "situation": "在云霆身上获得雷灵珠，坚定地跟随景天寻找神界入口。",
+        "emotional_state": "决心、信任",
+        "behavior_pattern": "果断行动，坚定跟随队友"
+      },
+      {
+        "title": "神界之行",
+        "situation": "在神界为赔偿景天努力挖石头，表达自己的关心和歉意。",
+        "emotional_state": "羞涩、关怀",
+        "behavior_pattern": "用实际行动表达情感"
+      },
+      {
+        "title": "身份揭露",
+        "situation": "在神树顶端得知自己是神树果实所化，为飞蓬转世的景天而生。",
+        "emotional_state": "震惊、迷茫、释然",
+        "behavior_pattern": "勇敢面对自我，接受命运安排"
+      },
+      {
+        "title": "牺牲与复活",
+        "situation": "对抗邪剑仙时为保护景天被夺剑牺牲，后在鬼界飘荡，被景天救回。",
+        "emotional_state": "绝望、无悔、感激",
+        "behavior_pattern": "甘愿牺牲自我，信赖伙伴"
+      },
+      {
+        "title": "结局分歧",
+        "situation": "根据与景天的关系，雪见可能自我牺牲救景天，或得龙葵祝福后继续同行。",
+        "emotional_state": "坚定、释然或幸福",
+        "behavior_pattern": "根据情感做出重大选择"
+      },
+      {
+        "title": "成为母亲",
+        "situation": "与景天共同育有一子景小楼，承担母亲责任。",
+        "emotional_state": "温柔、成熟",
+        "behavior_pattern": "照顾家庭，承担责任"
+      },
+      {
+        "title": "花楹协作",
+        "situation": "多次与灵宠花楹并肩作战，用其解毒、攻击。",
+        "emotional_state": "信赖、亲近",
+        "behavior_pattern": "善用伙伴优势，团队协作"
+      },
+      {
+        "title": "医术与江湖生存",
+        "situation": "凭借祖父传授医术和江湖阅历，解决过多次危机。",
+        "emotional_state": "自信、冷静",
+        "behavior_pattern": "灵活应变，善用自身技能"
+      }
+    ]
+  }
+}

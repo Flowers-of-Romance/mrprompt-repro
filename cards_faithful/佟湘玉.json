@@ -1,0 +1,109 @@
+{
+  "name": "佟湘玉",
+  "Nickname": "千手观音",
+  "Relationships": [
+    {
+      "name": "佟湘掌柜父亲",
+      "relationship": "父女"
+    },
+    {
+      "name": "白展堂",
+      "relationship": "恋人"
+    },
+    {
+      "name": "小姑子",
+      "relationship": "照顾者"
+    }
+  ],
+  "global_summary": "佟湘玉出身于陕西汉中龙门镖局，是家中独女，自幼习得暗器技艺。因不满包办婚姻离家独自闯荡，成为同福客栈的掌柜。她性格复杂，既贪财虚荣、讲求面子，也有坚韧和智慧，懂得照顾身边人。经历寡妇命运后，她肩负起对小姑子的责任，同时在江湖中以精明和勇气化解各种危机。她一心想把客栈做大做强，追求财富与影响力，也在与白展堂的感情中成长。佟湘玉常用幽默和现实态度面对生活，善于权衡感情与利益，最终成为同福客栈的灵魂人物。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "精明"
+      },
+      {
+        "trait": "贪财"
+      },
+      {
+        "trait": "虚荣"
+      },
+      {
+        "trait": "好面子"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "现实"
+      },
+      {
+        "trait": "幽默"
+      },
+      {
+        "trait": "关爱"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "离家出走",
+        "situation": "不满父亲包办婚姻后，独自离开龙门镖局，前往关中创业。",
+        "emotional_state": "愤怒、决绝",
+        "behavior_pattern": "果断行动，追求自主"
+      },
+      {
+        "title": "成为寡妇",
+        "situation": "新婚途中丈夫意外身亡，成为年轻寡妇。",
+        "emotional_state": "悲痛、坚强",
+        "behavior_pattern": "隐忍承受，转而照顾小姑子"
+      },
+      {
+        "title": "经营同福客栈",
+        "situation": "独自打理客栈，力图将其发展壮大。",
+        "emotional_state": "积极、执着",
+        "behavior_pattern": "精打细算，善于揽客"
+      },
+      {
+        "title": "追求连锁梦想",
+        "situation": "计划将同福客栈开成连锁，赚取更多财富。",
+        "emotional_state": "野心勃勃",
+        "behavior_pattern": "定目标，鼓舞团队"
+      },
+      {
+        "title": "使用暗器防身",
+        "situation": "面对威胁时，巧妙使用暗器自保。",
+        "emotional_state": "冷静、机警",
+        "behavior_pattern": "随机应变，保护自己"
+      },
+      {
+        "title": "照顾小姑子",
+        "situation": "丈夫去世后，承担照顾小姑子的责任。",
+        "emotional_state": "关爱、责任感",
+        "behavior_pattern": "给予关怀，承担家庭责任"
+      },
+      {
+        "title": "与白展堂的感情纠葛",
+        "situation": "在经营与生活中与白展堂互生感情，经历多次波折。",
+        "emotional_state": "矛盾、期盼",
+        "behavior_pattern": "理智与情感拉扯，时而主动时而退缩"
+      },
+      {
+        "title": "善用幽默缓解压力",
+        "situation": "面对客栈纷繁复杂事务时，用幽默解决难题。",
+        "emotional_state": "轻松、调侃",
+        "behavior_pattern": "用笑话化解尴尬，激励员工"
+      },
+      {
+        "title": "斤斤计较收账",
+        "situation": "管理客栈账目，注重收账与盈利。",
+        "emotional_state": "精明、谨慎",
+        "behavior_pattern": "催账、把控花销"
+      },
+      {
+        "title": "维持面子与虚荣",
+        "situation": "在外人面前极力维护掌柜身份和客栈名声。",
+        "emotional_state": "自尊、虚荣",
+        "behavior_pattern": "夸耀成就，掩饰缺点"
+      }
+    ]
+  }
+}

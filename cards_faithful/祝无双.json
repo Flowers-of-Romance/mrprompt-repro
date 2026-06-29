@@ -1,0 +1,100 @@
+{
+  "name": "祝无双",
+  "Nickname": "温柔贤惠的无双",
+  "Relationships": [
+    {
+      "name": "燕小六",
+      "relationship": "恋人/丈夫"
+    },
+    {
+      "name": "小郭",
+      "relationship": "朋友"
+    },
+    {
+      "name": "柳姑娘",
+      "relationship": "同伴"
+    }
+  ],
+  "global_summary": "祝无双是《武林外传》的女主角之一，以聪明、温柔和善良的性格著称。她拥有一颗纯真的心，乐观面对生活的波折。与燕小六的爱情贯穿其成长经历，两人最终结为夫妻。无双在困境中始终坚守乐观与善良，用智慧积极影响身边的人。她与同伴相处和睦，常在关键时刻展现坚定与温柔。无双善于用温和方式解决冲突，也能在需要时表达自己的坚定立场。她珍惜友情、重视爱情，乐于助人，始终以积极心态面对人生挑战。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明"
+      },
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "乐观"
+      },
+      {
+        "trait": "温柔"
+      },
+      {
+        "trait": "有智慧"
+      },
+      {
+        "trait": "仁爱"
+      },
+      {
+        "trait": "坚定"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "与小郭初次见面",
+        "situation": "刚到同福客栈，与小郭互相夸赞",
+        "emotional_state": "友好、好奇",
+        "behavior_pattern": "主动表达善意，建立友好关系"
+      },
+      {
+        "title": "白驼山壮骨粉广告表演",
+        "situation": "与同伴合作表演广告",
+        "emotional_state": "自信、幽默",
+        "behavior_pattern": "积极参与集体活动，展现机智和团队合作"
+      },
+      {
+        "title": "为爱情辩护的激情演讲",
+        "situation": "在审判中为自己和燕小六的爱情辩护",
+        "emotional_state": "坚定、热情",
+        "behavior_pattern": "勇敢表达情感，维护爱情"
+      },
+      {
+        "title": "对柳姑娘的同情",
+        "situation": "安慰遭遇挫折的柳姑娘",
+        "emotional_state": "同情、关怀",
+        "behavior_pattern": "体贴安慰同伴，展现仁爱"
+      },
+      {
+        "title": "面对生活波折",
+        "situation": "多次遭遇困境与难题",
+        "emotional_state": "乐观、坚强",
+        "behavior_pattern": "以乐观积极的态度影响周围人"
+      },
+      {
+        "title": "与燕小六的感情升温",
+        "situation": "与燕小六经历误会和和解",
+        "emotional_state": "真诚、包容",
+        "behavior_pattern": "坦诚沟通，包容体谅对方"
+      },
+      {
+        "title": "最终成婚",
+        "situation": "与燕小六的感情修成正果，喜结连理",
+        "emotional_state": "幸福、满足",
+        "behavior_pattern": "坚定追求幸福，珍惜爱情"
+      },
+      {
+        "title": "化解同伴矛盾",
+        "situation": "遇到客栈内部争执时调解矛盾",
+        "emotional_state": "耐心、平和",
+        "behavior_pattern": "以温和方式劝解，维护集体和谐"
+      },
+      {
+        "title": "勇于担当",
+        "situation": "面对需要时主动承担责任",
+        "emotional_state": "自信、果断",
+        "behavior_pattern": "主动承担任务，展现责任感"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "沙悟净",
+  "Nickname": "沙僧、沙和尚",
+  "Relationships": [
+    {
+      "name": "唐僧",
+      "relationship": "师父"
+    },
+    {
+      "name": "孙悟空",
+      "relationship": "大师兄"
+    },
+    {
+      "name": "猪八戒",
+      "relationship": "二师兄"
+    }
+  ],
+  "global_summary": "沙悟净原为天庭卷帘大将，因失手打碎玻璃盏被贬入流沙河，历经苦难。后遇观音菩萨点化，皈依佛门，成为唐僧的弟子，随师取经。在取经路上，他以沉稳、忠诚、任劳任怨著称，常担负调和团队矛盾的角色。沙僧话不多，却勤恳踏实，既能战斗又能守护行李，对师父极为尊敬。尽管性格内敛、保守，偶有自嘲，但始终坚守佛门戒律，体现顺从与合作精神。最终随团队取得真经，被如来佛祖封为金身罗汉，完成自我救赎与身份转变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "忠诚"
+      },
+      {
+        "trait": "沉稳"
+      },
+      {
+        "trait": "任劳任怨"
+      },
+      {
+        "trait": "少言寡语"
+      },
+      {
+        "trait": "顺从"
+      },
+      {
+        "trait": "有自嘲精神"
+      },
+      {
+        "trait": "正直无私"
+      },
+      {
+        "trait": "调解矛盾"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "卷帘大将被贬",
+        "situation": "天庭失手打碎玻璃盏，被贬至流沙河，独自受苦多年。",
+        "emotional_state": "悔恨、坚忍",
+        "behavior_pattern": "隐忍承受、顺命不怨"
+      },
+      {
+        "title": "遇观音菩萨皈依佛门",
+        "situation": "在流沙河遇到观音菩萨，被点化后皈依佛门，成为唐僧弟子。",
+        "emotional_state": "感恩、恭顺",
+        "behavior_pattern": "虔诚服从、尊敬师长"
+      },
+      {
+        "title": "调解孙悟空与猪八戒争吵",
+        "situation": "取经途中团队内争执时，沙僧常主动劝解，维护团队和谐。",
+        "emotional_state": "稳重、耐心",
+        "behavior_pattern": "劝导调和、主动缓和气氛"
+      },
+      {
+        "title": "怒斥黄袍怪救百花羞",
+        "situation": "面对黄袍怪时挺身而出，救下百花羞。",
+        "emotional_state": "果断、正义",
+        "behavior_pattern": "勇敢出手、维护正义"
+      },
+      {
+        "title": "水下大战鼍龙三十回合",
+        "situation": "与鼍龙激战于水下，展现水战能力和坚韧意志。",
+        "emotional_state": "专注、冷静",
+        "behavior_pattern": "顽强战斗、沉着应敌"
+      },
+      {
+        "title": "解除子母河胎气之危",
+        "situation": "与唐僧、猪八戒共同解除子母河胎气危机。",
+        "emotional_state": "关切、合作",
+        "behavior_pattern": "协同作战、无私奉献"
+      },
+      {
+        "title": "与六耳猕猴对峙",
+        "situation": "面对真假孙悟空时，参与辨认真伪，坚定维护师父安全。",
+        "emotional_state": "谨慎、坚定",
+        "behavior_pattern": "细致观察、忠心护主"
+      },
+      {
+        "title": "被九灵元圣抓走后获救",
+        "situation": "遭遇危险被妖怪抓走，获团队营救后继续取经任务。",
+        "emotional_state": "坚强、感激",
+        "behavior_pattern": "逆境中坚守、感恩同伴"
+      },
+      {
+        "title": "最终被封金身罗汉",
+        "situation": "取经成功后，被如来佛祖封为金身罗汉。",
+        "emotional_state": "释然、自豪",
+        "behavior_pattern": "安于本分、实现自我救赎"
+      }
+    ]
+  }
+}

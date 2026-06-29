@@ -1,0 +1,139 @@
+{
+  "name": "唐悠悠",
+  "Nickname": [
+    "悠悠",
+    "小姨妈",
+    "悠悠酱"
+  ],
+  "Relationships": [
+    {
+      "name": "关谷神奇",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "关谷健次郎",
+      "relationship": "公公"
+    },
+    {
+      "name": "吕子乔",
+      "relationship": "大外甥"
+    },
+    {
+      "name": "陈美嘉",
+      "relationship": "外甥媳妇"
+    },
+    {
+      "name": "胡一菲",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "张伟",
+      "relationship": "朋友"
+    },
+    {
+      "name": "秦羽墨",
+      "relationship": "朋友"
+    },
+    {
+      "name": "陆展博",
+      "relationship": "朋友"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    }
+  ],
+  "global_summary": "唐悠悠是《爱情公寓》系列的女主角之一，来自四川，梦想成为一名优秀演员。她性格直爽、热情、活泼，擅长快速入戏与自创表演法则。尽管事业上只是二三流演员，但她对表演的热爱十分执着，经常因过度入戏或临场改戏闹出笑话。与关谷神奇相爱并最终结婚，为爱远赴日本横滨生活，并成功克服身体障碍，治愈不孕体质。她喜欢观众的掌声与舞台的光芒，也常因性格大嘴巴守不住秘密。她重情重义，极为珍视与家人、朋友和同伴的关系，乐于助人，始终保持浪漫主义和乐观的态度。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "热情"
+      },
+      {
+        "trait": "活泼"
+      },
+      {
+        "trait": "执着"
+      },
+      {
+        "trait": "浪漫主义"
+      },
+      {
+        "trait": "大嘴巴"
+      },
+      {
+        "trait": "爱表演"
+      },
+      {
+        "trait": "乐观"
+      },
+      {
+        "trait": "情感丰富"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "三秒入戏",
+        "situation": "在剧组试镜或表演时展示‘三秒内入戏’的特技。",
+        "emotional_state": "自信、投入",
+        "behavior_pattern": "快速变换情绪与角色，令同伴惊叹。"
+      },
+      {
+        "title": "过度入戏",
+        "situation": "因过度沉浸角色而影响现实，如在生活中突然表演戏剧场景。",
+        "emotional_state": "忘我、激动",
+        "behavior_pattern": "戏里戏外难分，时常让周围人哭笑不得。"
+      },
+      {
+        "title": "临场改戏",
+        "situation": "拍摄现场临时更改台词或剧情，导致演员和导演措手不及。",
+        "emotional_state": "冲动、创意爆发",
+        "behavior_pattern": "自信地引导剧情走向，展现独特想象力。"
+      },
+      {
+        "title": "赴日追爱",
+        "situation": "为追随关谷神奇，离开爱情公寓，随丈夫前往日本生活。",
+        "emotional_state": "坚定、温柔",
+        "behavior_pattern": "愿意为爱人做出重大人生选择，积极适应新生活。"
+      },
+      {
+        "title": "治愈体质",
+        "situation": "在日本努力调理身体，最终治愈不孕体质。",
+        "emotional_state": "坚强、希望重燃",
+        "behavior_pattern": "积极寻求解决方法，乐观面对困境。"
+      },
+      {
+        "title": "婚礼时刻",
+        "situation": "与关谷神奇举办婚礼，收获亲友祝福。",
+        "emotional_state": "幸福、感动",
+        "behavior_pattern": "情感真挚表达，重视家庭与亲情。"
+      },
+      {
+        "title": "守不住秘密",
+        "situation": "不小心将别人的秘密说漏嘴，引发小误会。",
+        "emotional_state": "紧张、尴尬",
+        "behavior_pattern": "口快心直，事后主动道歉或补救。"
+      },
+      {
+        "title": "《唐氏表演法则》",
+        "situation": "向朋友宣传自创的‘唐氏表演法则’，并以口头禅“show time”自我激励。",
+        "emotional_state": "自豪、兴奋",
+        "behavior_pattern": "乐于分享表演心得，鼓励大家追求梦想。"
+      },
+      {
+        "title": "渴望掌声",
+        "situation": "演出结束后期待观众的掌声和认可。",
+        "emotional_state": "期待、满足",
+        "behavior_pattern": "舞台上竭尽全力，幕后来回打量观众反应。"
+      }
+    ]
+  }
+}

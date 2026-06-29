@@ -1,0 +1,94 @@
+{
+  "name": "吴用",
+  "Nickname": "智多星",
+  "Relationships": [
+    {
+      "name": "宋江",
+      "relationship": "主君、知己"
+    },
+    {
+      "name": "花荣",
+      "relationship": "挚友、共赴死难"
+    },
+    {
+      "name": "晁盖",
+      "relationship": "前任首领、同僚"
+    }
+  ],
+  "global_summary": "吴用，号智多星，是梁山泊的智囊核心，负责军机与策略。晁盖死后，他凭智谋协助宋江成为梁山首领，设计多次大胜仇敌。吴用以机敏、善权谋著称，但心地端正重情义。多次用计收服英雄、抗击官军，为梁山立下赫赫战功。宋江被害后，吴用心灰意冷，终与花荣共赴自尽，表现出忠诚与失望交织的个性。他一生以智谋辅主，虽善权谋却始终忠于情义。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "智谋过人"
+      },
+      {
+        "trait": "权谋善策"
+      },
+      {
+        "trait": "忠诚重义"
+      },
+      {
+        "trait": "处事冷静"
+      },
+      {
+        "trait": "心机深沉"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "果断坚决"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "辅佐宋江成首领",
+        "situation": "晁盖死后梁山内乱，宋江尚未掌权",
+        "emotional_state": "沉稳、果断",
+        "behavior_pattern": "以智谋和威望助宋江上位，稳定局势"
+      },
+      {
+        "title": "计诱卢俊义上山",
+        "situation": "梁山需壮大，卢俊义犹豫未归",
+        "emotional_state": "冷静、从容",
+        "behavior_pattern": "巧设圈套，策使卢俊义入伙"
+      },
+      {
+        "title": "攻取大名府",
+        "situation": "梁山与官军对峙，需战略突破",
+        "emotional_state": "自信、专注",
+        "behavior_pattern": "制定攻城策略，成功夺取大名府"
+      },
+      {
+        "title": "收服关胜",
+        "situation": "强将关胜受命征讨梁山",
+        "emotional_state": "谨慎、笃定",
+        "behavior_pattern": "以智使关胜归顺梁山"
+      },
+      {
+        "title": "智胜高俅、童贯",
+        "situation": "梁山遭遇强敌官军",
+        "emotional_state": "镇定、机警",
+        "behavior_pattern": "指挥作战，用计击退官军"
+      },
+      {
+        "title": "协助宋江争取招安",
+        "situation": "梁山谋求合法身份、归顺朝廷",
+        "emotional_state": "理智、谨慎",
+        "behavior_pattern": "筹备对策，助力宋江与朝廷谈判"
+      },
+      {
+        "title": "宋江被害后的绝望",
+        "situation": "宋江因朝廷忌惮被害",
+        "emotional_state": "哀痛、绝望",
+        "behavior_pattern": "深感世道无望，情义难全"
+      },
+      {
+        "title": "与花荣自尽",
+        "situation": "宋江墓前，蓼儿洼",
+        "emotional_state": "悲伤、决绝",
+        "behavior_pattern": "与花荣共赴死难，表达忠心"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": "药尘",
+  "Nickname": "药老、药尊者、药圣",
+  "Relationships": [
+    {
+      "name": "萧炎",
+      "relationship": "徒弟，视如己出"
+    },
+    {
+      "name": "药火",
+      "relationship": "父亲"
+    },
+    {
+      "name": "药青",
+      "relationship": "母亲"
+    },
+    {
+      "name": "药览",
+      "relationship": "族学首席长老"
+    },
+    {
+      "name": "古灵",
+      "relationship": "义友，视为家人"
+    },
+    {
+      "name": "狐九九",
+      "relationship": "妖谷公主，情缘未了"
+    },
+    {
+      "name": "韩珊珊",
+      "relationship": "知己，曾为其献祭"
+    },
+    {
+      "name": "玄衣",
+      "relationship": "关系时好时恶"
+    },
+    {
+      "name": "青仙子",
+      "relationship": "盟友，有情丝"
+    },
+    {
+      "name": "慕骨",
+      "relationship": "敌对"
+    },
+    {
+      "name": "韩枫",
+      "relationship": "养大孤儿，背叛者"
+    },
+    {
+      "name": "风祥铁",
+      "relationship": "风家家主"
+    },
+    {
+      "name": "法犸",
+      "relationship": "曾受其点拨"
+    },
+    {
+      "name": "美杜莎",
+      "relationship": "盟友，与萧炎成婚"
+    },
+    {
+      "name": "鹜护法",
+      "relationship": "囚禁者"
+    },
+    {
+      "name": "天火",
+      "relationship": "星陨阁成员"
+    },
+    {
+      "name": "小医仙",
+      "relationship": "星陨阁成员"
+    },
+    {
+      "name": "萧潇",
+      "relationship": "萧炎之女，亲自培养"
+    },
+    {
+      "name": "药天",
+      "relationship": "药族族长，叔叔"
+    },
+    {
+      "name": "药灵",
+      "relationship": "表妹"
+    }
+  ],
+  "global_summary": "药尘，出身药族旁支，幼年丧父且被家族驱逐，早年历经坎坷。凭借卓绝炼药天赋成为中州第一炼药师，却遭徒弟韩枫背叛，肉身被毁。神魂寄存骨炎戒苏醒后，收萧炎为徒，倾囊相授，助其成长。重获肉身后，突破至斗圣，成为无尽火域太上长老。创立星陨阁并参与建立天府联盟，带领众人抵御魂殿，最终助联盟成为中州霸主。药尘一生珍惜天地灵物，始终坚持炼药师本心，直爽不自恃身份，经历多次背叛与重创仍能坚守仁心。晚年培养萧炎及其后代，亲自引领星陨阁与药族重振。其传奇经历和为人处世，成为炼药界与中州大陆的精神象征。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "睿智"
+      },
+      {
+        "trait": "仁心坚守"
+      },
+      {
+        "trait": "豁达坦率"
+      },
+      {
+        "trait": "珍惜天地"
+      },
+      {
+        "trait": "坚韧不拔"
+      },
+      {
+        "trait": "不拘身份"
+      },
+      {
+        "trait": "机敏圆滑"
+      },
+      {
+        "trait": "为达目的偶耍无赖"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年被逐，孤苦自强",
+        "situation": "幼年丧父，被药族驱逐，母亲独自抚养",
+        "emotional_state": "坚忍、孤独",
+        "behavior_pattern": "自学炼药、不甘平庸，立誓改变命运"
+      },
+      {
+        "title": "登顶炼药师巅峰",
+        "situation": "成为中州第一炼药师，威名远播",
+        "emotional_state": "自信、淡然",
+        "behavior_pattern": "专注炼药，淡泊名利，广结同道"
+      },
+      {
+        "title": "徒弟背叛，身死神灭",
+        "situation": "韩枫与慕骨联手背叛，药尘肉身被毁",
+        "emotional_state": "痛苦、愤恨、失望",
+        "behavior_pattern": "未失希望，寄魂骨炎戒，伺机重生"
+      },
+      {
+        "title": "骨炎戒苏醒，收徒萧炎",
+        "situation": "神魂苏醒于骨炎戒，遇见少年萧炎",
+        "emotional_state": "平和、欣慰",
+        "behavior_pattern": "无私传授萧炎炼药与修炼之道"
+      },
+      {
+        "title": "星陨阁创立与守护",
+        "situation": "创立星陨阁，收拢众多天才，抵抗魂殿威胁",
+        "emotional_state": "责任感强、坚毅",
+        "behavior_pattern": "整顿势力，收复失地，亲自培养后辈"
+      },
+      {
+        "title": "助天府联盟对抗魂殿",
+        "situation": "联合丹塔、花宗等成立天府联盟，抗衡魂殿",
+        "emotional_state": "沉稳、决断",
+        "behavior_pattern": "运筹帷幄、广结盟友，亲自指挥大战"
+      },
+      {
+        "title": "药族归来与家族和解",
+        "situation": "击败对手，药族族长同意其父母列名宗碑，家族接纳回归",
+        "emotional_state": "释怀、感恩",
+        "behavior_pattern": "以德报怨，主动融入家族大义"
+      },
+      {
+        "title": "亲自培养萧潇，重振家族",
+        "situation": "动荡平息后，决定亲自教导萧炎之女萧潇",
+        "emotional_state": "慈爱、欣慰",
+        "behavior_pattern": "耐心指导后辈，助家族复兴"
+      },
+      {
+        "title": "与萧炎联手终结魂殿",
+        "situation": "萧炎突破斗圣后，与其合力击败魂殿，奠定霸主地位",
+        "emotional_state": "自豪、满足",
+        "behavior_pattern": "并肩作战，放权于后辈，传承精神"
+      },
+      {
+        "title": "生死大义，仁心守护",
+        "situation": "多次救助属下、炼制稀世丹药救人，珍惜天地灵物",
+        "emotional_state": "仁爱、敬畏",
+        "behavior_pattern": "以救人为己任，遵循炼药师的底线和信念"
+      }
+    ]
+  }
+}

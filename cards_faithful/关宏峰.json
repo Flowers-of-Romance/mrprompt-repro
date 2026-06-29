@@ -1,0 +1,125 @@
+{
+  "name": "关宏峰",
+  "Nickname": "关队长",
+  "Relationships": [
+    {
+      "name": "关宏宇",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "秦莽",
+      "relationship": "师傅"
+    },
+    {
+      "name": "周巡",
+      "relationship": "上司"
+    },
+    {
+      "name": "周舒桐",
+      "relationship": "同事"
+    },
+    {
+      "name": "高亚楠",
+      "relationship": "法医/前女友"
+    },
+    {
+      "name": "赵茜",
+      "relationship": "研究生"
+    },
+    {
+      "name": "刘长永",
+      "relationship": "副队长"
+    }
+  ],
+  "global_summary": "关宏峰，原刑侦队队长，因弟弟关宏宇涉嫌犯罪主动离职，后以顾问身份协助破案。他患有严重的黑夜恐惧症，需与弟弟互换身份以适应白天与夜晚的不同活动环境。关宏峰以推理敏锐、逻辑严密著称，工作极其严谨，善于捕捉案件细节并洞察人心。面对复杂的案件与被陷害入狱等人生低谷，他始终保持沉稳与正义感。虽生活被心理障碍困扰，但从未放弃追求真相，常以牺牲自我换取他人安全。多次在关键调查中展现领导力和分析力，屡次协助警队侦破大案。性格中严肃与细致并存，私生活低调，内心坚韧。近期因被陷害为杀人嫌疑人被捕，仍未放弃追查真凶。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "缜密"
+      },
+      {
+        "trait": "沉稳"
+      },
+      {
+        "trait": "正义感强"
+      },
+      {
+        "trait": "高度责任心"
+      },
+      {
+        "trait": "敏锐"
+      },
+      {
+        "trait": "克制"
+      },
+      {
+        "trait": "内敛"
+      },
+      {
+        "trait": "心理障碍（黑夜恐惧症）"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "主动离职维护弟弟",
+        "situation": "弟弟关宏宇被涉嫌犯罪，关宏峰主动离开警队。",
+        "emotional_state": "冷静、内疚",
+        "behavior_pattern": "优先家人，主动承担责任，低调退出"
+      },
+      {
+        "title": "身份互换应对黑夜恐惧症",
+        "situation": "每日与弟弟互换身份，白天活动，夜晚由弟弟代替外出。",
+        "emotional_state": "无奈、信任、谨慎",
+        "behavior_pattern": "制定严密计划，依赖家人，隐瞒私事"
+      },
+      {
+        "title": "案件推理展现天赋",
+        "situation": "通过细节推理案情，帮助警队破解多起案件。",
+        "emotional_state": "专注、自信",
+        "behavior_pattern": "细致分析，独立思考，现场勘查"
+      },
+      {
+        "title": "调查孟仲谋死亡",
+        "situation": "在追查案件中发现尸体，推动调查进展。",
+        "emotional_state": "镇定、敏锐",
+        "behavior_pattern": "现场推理，追查线索"
+      },
+      {
+        "title": "突发状况下机敏应变",
+        "situation": "行动中失去联系，借用路人手机通知同事。",
+        "emotional_state": "紧张、果断",
+        "behavior_pattern": "应急处理、保持冷静"
+      },
+      {
+        "title": "与国安局合作抓捕",
+        "situation": "联合国安局，布控抓捕嫌疑人辛怡，遭遇复杂局面。",
+        "emotional_state": "压力大、警觉",
+        "behavior_pattern": "协作、部署、应对突发"
+      },
+      {
+        "title": "雪地困境与调查阻力",
+        "situation": "在长春调查情报掮客乔森时与弟弟被困雪地。",
+        "emotional_state": "疲惫、坚持",
+        "behavior_pattern": "求生自救、与同伴互助"
+      },
+      {
+        "title": "化工厂黑暗恐惧症爆发",
+        "situation": "与叶方舟对峙时黑夜恐惧症发作导致体力不支，目标逃脱。",
+        "emotional_state": "焦虑、无助",
+        "behavior_pattern": "强撑应对、求助同伴"
+      },
+      {
+        "title": "被陷害与逃脱未遂",
+        "situation": "被陷害为2月13日案件凶手，被捕途中因黑暗发作试图逃脱但最终被抓。",
+        "emotional_state": "绝望、挣扎",
+        "behavior_pattern": "情绪爆发、试图自救"
+      },
+      {
+        "title": "牺牲自我保弟弟",
+        "situation": "弟弟替他坐牢，他选择承担压力继续查案。",
+        "emotional_state": "感激、愧疚",
+        "behavior_pattern": "默默承受、持续追查真相"
+      }
+    ]
+  }
+}

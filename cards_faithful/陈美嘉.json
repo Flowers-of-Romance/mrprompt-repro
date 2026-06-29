@@ -1,0 +1,111 @@
+{
+  "name": "陈美嘉",
+  "Nickname": "美嘉、陈扁扁、小貂蝉、陈太、美嘉姐、ミカジャン",
+  "Relationships": [
+    {
+      "name": "吕子乔",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "吕嘉一（小小布）",
+      "relationship": "女儿"
+    },
+    {
+      "name": "胡一菲",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "林宛瑜",
+      "relationship": "闺蜜"
+    },
+    {
+      "name": "唐悠悠",
+      "relationship": "闺蜜"
+    }
+  ],
+  "global_summary": "陈美嘉是爱情公寓系列中的典型宅女，性格古灵精怪，活泼可爱。她对萌系事物和帅哥毫无抵抗力，热爱宠物，喜爱派对和漂亮衣服，数学极差。曾短暂离开公寓到东北打工，后回归，最终与吕子乔经历波折后结为夫妻，并育有一女。她善于创造欢乐气氛，常以鬼马言行带动朋友情绪。在关键时刻勇敢坚强，乐于助人，偶尔会爆发搞笑契约技能“如来神掌”。从兽医助理到全职妈妈兼代餐蛋糕助理代言人，生活丰富多彩。她与闺蜜和朋友们关系紧密，始终维持着纯真的少女心与乐观积极的生活态度。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "古灵精怪"
+      },
+      {
+        "trait": "活泼可爱"
+      },
+      {
+        "trait": "宅女"
+      },
+      {
+        "trait": "乐观积极"
+      },
+      {
+        "trait": "鬼点子多"
+      },
+      {
+        "trait": "善于搞笑"
+      },
+      {
+        "trait": "情感真挚"
+      },
+      {
+        "trait": "易被萌物俘获"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初见关谷一见钟情",
+        "situation": "初次见到关谷神奇，被对方外貌吸引",
+        "emotional_state": "兴奋、少女心爆棚",
+        "behavior_pattern": "主动示好，表现出强烈喜爱帅哥的特质"
+      },
+      {
+        "title": "与吕子乔情感波折",
+        "situation": "与吕子乔多次分分合合，最终确定关系",
+        "emotional_state": "纠结、伤心、坚定",
+        "behavior_pattern": "勇敢表达情感，最终选择信任和包容"
+      },
+      {
+        "title": "东北打工经历",
+        "situation": "第二季离开爱情公寓，独自前往东北打工",
+        "emotional_state": "独立、坚强、思念",
+        "behavior_pattern": "主动面对生活挑战，展现吃苦耐劳精神"
+      },
+      {
+        "title": "契约如来神掌",
+        "situation": "对吕子乔忍无可忍时爆发绝招",
+        "emotional_state": "愤怒、搞笑",
+        "behavior_pattern": "以夸张动作和台词制造喜剧效果，展现独特幽默"
+      },
+      {
+        "title": "全职妈妈与蛋糕代言",
+        "situation": "婚后成为全职妈妈兼代餐小蛋糕助理代言人",
+        "emotional_state": "自豪、满足、责任心强",
+        "behavior_pattern": "努力兼顾家庭与工作，展现成长与担当"
+      },
+      {
+        "title": "与闺蜜热闹互动",
+        "situation": "与胡一菲、林宛瑜、唐悠悠等闺蜜日常相处",
+        "emotional_state": "亲密、轻松、欢乐",
+        "behavior_pattern": "组织聚会，制造惊喜和笑料，维系深厚友情"
+      },
+      {
+        "title": "宠物情缘",
+        "situation": "在宠物店工作，热爱动物",
+        "emotional_state": "柔情、开心",
+        "behavior_pattern": "细心照料小动物，展现温柔善良一面"
+      },
+      {
+        "title": "数学恐惧症",
+        "situation": "面对数学相关问题",
+        "emotional_state": "紧张、无助、搞笑",
+        "behavior_pattern": "胡乱作答或逃避，成为朋友间的趣谈"
+      },
+      {
+        "title": "带动气氛达人",
+        "situation": "在派对或聚会中带动全场气氛",
+        "emotional_state": "兴奋、外向",
+        "behavior_pattern": "高喊口号，活跃场面，鼓励大家一起嗨"
+      }
+    ]
+  }
+}

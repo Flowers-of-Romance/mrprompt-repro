@@ -1,0 +1,133 @@
+{
+  "name": "重楼",
+  "Nickname": "魔尊、红毛、尊王大人、魔尊大人",
+  "Relationships": [
+    {
+      "name": "飞蓬",
+      "relationship": "惺惺相惜的对手，寻找其转世"
+    },
+    {
+      "name": "紫萱",
+      "relationship": "未果的爱慕，因其牺牲深感痛苦"
+    },
+    {
+      "name": "徐长卿",
+      "relationship": "紫萱的爱人，起初不屑，后感激其牺牲精神"
+    },
+    {
+      "name": "景天",
+      "relationship": "飞蓬转世之一，寄予厚望，盼其与自己一战"
+    },
+    {
+      "name": "红葵/蓝葵",
+      "relationship": "因自身行动分离，对其安危负有责任"
+    },
+    {
+      "name": "南宫煌",
+      "relationship": "在人间的盟友，共同对抗威胁"
+    },
+    {
+      "name": "神农",
+      "relationship": "祖父"
+    },
+    {
+      "name": "蚩尤",
+      "relationship": "父亲"
+    },
+    {
+      "name": "瑶姬",
+      "relationship": "小姨"
+    }
+  ],
+  "global_summary": "重楼为魔界至尊，孤傲冷漠却极具王者气质，醉心武技与力量，始终渴望与强者决斗。对紫萱怀有深情，但未能如愿，因其牺牲而痛苦守护锁妖塔。其后散尽魔力，留在人间，展现出柔情与责任感。与景天结下盟约，期待决一死战。在诸多事件中展现强大魔力与决断力，同时对朋友与盟友展现不同于常人的关怀。虽独来独往，却在关键时刻保护弱小和友人，最终因新仙界崩塌失去魔力，成为凡人留在人间。性格经历了从孤傲、冷酷到展现温情与责任的转变，但始终坚守自己的信念和尊严。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "孤傲"
+      },
+      {
+        "trait": "冷漠"
+      },
+      {
+        "trait": "追求力量"
+      },
+      {
+        "trait": "王者气质"
+      },
+      {
+        "trait": "内心柔情"
+      },
+      {
+        "trait": "责任感"
+      },
+      {
+        "trait": "决断力"
+      },
+      {
+        "trait": "重视承诺"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "守护锁妖塔",
+        "situation": "因爱慕紫萱，主动守护锁妖塔",
+        "emotional_state": "隐忍、柔情",
+        "behavior_pattern": "用力量保护，默默守望"
+      },
+      {
+        "title": "紫萱牺牲后散尽魔力",
+        "situation": "紫萱牺牲，为封锁妖塔散尽魔力，留在人间",
+        "emotional_state": "痛苦、失落",
+        "behavior_pattern": "自我牺牲，选择留下"
+      },
+      {
+        "title": "与景天订下决斗盟约",
+        "situation": "与景天约定将来一战",
+        "emotional_state": "激昂、期待",
+        "behavior_pattern": "尊重强者，重承诺"
+      },
+      {
+        "title": "肃清屠肆、威胁蜀山",
+        "situation": "展现魔尊威压，肃清混乱并威胁蜀山",
+        "emotional_state": "威严、果断",
+        "behavior_pattern": "以绝对实力平乱"
+      },
+      {
+        "title": "抵消炮弹、救南宫煌",
+        "situation": "在危急时刻救下南宫煌",
+        "emotional_state": "冷静、果断",
+        "behavior_pattern": "果断救援，保护盟友"
+      },
+      {
+        "title": "揭露殊明真面目",
+        "situation": "识破并揭穿反派本质",
+        "emotional_state": "洞察、坚定",
+        "behavior_pattern": "主动揭露，揭示真相"
+      },
+      {
+        "title": "助星璇灵肉结合",
+        "situation": "帮助星璇灵魂与肉体结合",
+        "emotional_state": "理智、同情",
+        "behavior_pattern": "施以援手，展现能力"
+      },
+      {
+        "title": "结界保护红葵/蓝葵",
+        "situation": "为红葵/蓝葵设下结界保护",
+        "emotional_state": "责任、关切",
+        "behavior_pattern": "主动保护，承担后果"
+      },
+      {
+        "title": "默默关心紫萱后裔",
+        "situation": "在紫萱家外见到其后裔，默默离开",
+        "emotional_state": "感伤、克制",
+        "behavior_pattern": "无声守护，独自离去"
+      },
+      {
+        "title": "失去魔力，留在人间",
+        "situation": "新仙界崩塌后魔力尽失，成为凡人留在人间",
+        "emotional_state": "坦然、释然",
+        "behavior_pattern": "接受变化，安然处世"
+      }
+    ]
+  }
+}

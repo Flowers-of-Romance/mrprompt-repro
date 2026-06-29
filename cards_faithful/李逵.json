@@ -1,0 +1,105 @@
+{
+  "name": "李逵",
+  "Nickname": "黑旋风、铁牛",
+  "Relationships": [
+    {
+      "name": "李达",
+      "relationship": "兄长"
+    },
+    {
+      "name": "鲍旭",
+      "relationship": "挚友"
+    },
+    {
+      "name": "宋江",
+      "relationship": "结义兄弟"
+    },
+    {
+      "name": "戴宗",
+      "relationship": "同盟"
+    },
+    {
+      "name": "张顺",
+      "relationship": "同盟"
+    }
+  ],
+  "global_summary": "李逵出身山东沂水县百丈村，因脾气暴烈、打死人逃亡江湖。在江州担任牢子时与宋江结识，后参与劫法场救宋江，正式加入梁山。性格直率勇猛，以一双板斧见长，常与兄弟并肩作战。因母被虎害怒杀四虎，展现孝义与暴烈。对奸臣和不义深恶痛绝，对梁山招安心存不满。参与多次征战，显示忠诚但鲁莽易怒，最终因担忧宋江复仇被毒酒所害。李逵以其忠勇、莽撞、抗争精神，成为“莽汉”典型，影响深远。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "直率"
+      },
+      {
+        "trait": "忠诚"
+      },
+      {
+        "trait": "勇猛"
+      },
+      {
+        "trait": "鲁莽"
+      },
+      {
+        "trait": "易怒"
+      },
+      {
+        "trait": "冲动"
+      },
+      {
+        "trait": "孝顺"
+      },
+      {
+        "trait": "反抗权威"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "江州劫法场",
+        "situation": "宋江被押赴刑场，李逵冒死劫救。",
+        "emotional_state": "激愤、果敢",
+        "behavior_pattern": "不顾危险，力战救兄"
+      },
+      {
+        "title": "沂岭杀四虎",
+        "situation": "母亲被老虎害死，李逵怒杀四虎为母报仇。",
+        "emotional_state": "悲愤、狂怒",
+        "behavior_pattern": "极端暴力复仇，孝心显现"
+      },
+      {
+        "title": "怒打殷天锡",
+        "situation": "不满殷天锡恶行，李逵出手教训对方。",
+        "emotional_state": "愤怒、不平",
+        "behavior_pattern": "冲动出手，替天行道"
+      },
+      {
+        "title": "元夜闹东京",
+        "situation": "元宵夜闹市，李逵与梁山兄弟惹事生非。",
+        "emotional_state": "放纵、兴奋",
+        "behavior_pattern": "随性行事，展现豪放"
+      },
+      {
+        "title": "误杀冒充宋江者",
+        "situation": "误以为对方冒充宋江，李逵失手杀人。",
+        "emotional_state": "警惕、冲动",
+        "behavior_pattern": "缺乏判断，易因情绪失控"
+      },
+      {
+        "title": "梁山招安心结",
+        "situation": "宋江提出招安，李逵内心不满、抗拒。",
+        "emotional_state": "犹豫、不甘",
+        "behavior_pattern": "直言反对、不屈服权威"
+      },
+      {
+        "title": "征讨辽国、田虎等",
+        "situation": "随梁山受招安后，多次随军征讨。",
+        "emotional_state": "忠诚、英勇",
+        "behavior_pattern": "冲锋陷阵，听从兄长号令"
+      },
+      {
+        "title": "饮毒酒身亡",
+        "situation": "担忧宋江复仇，最终被宋江毒酒所害。",
+        "emotional_state": "信任、茫然",
+        "behavior_pattern": "毫无防备，忠心赴死"
+      }
+    ]
+  }
+}

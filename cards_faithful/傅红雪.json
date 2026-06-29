@@ -1,0 +1,111 @@
+{
+  "name": "傅红雪",
+  "Nickname": "天下第一快刀",
+  "Relationships": [
+    {
+      "name": "花白凤",
+      "relationship": "养母"
+    },
+    {
+      "name": "翠浓",
+      "relationship": "初恋"
+    },
+    {
+      "name": "卓玉贞",
+      "relationship": "妻子"
+    },
+    {
+      "name": "傅小红",
+      "relationship": "继女"
+    },
+    {
+      "name": "周婷",
+      "relationship": "归宿"
+    }
+  ],
+  "global_summary": "傅红雪自幼为花白凤收养，成长于边城，孤独寡言，行事冷静。少年时误以为自己是大侠白天羽之子，为复仇而活，承受巨大心理压力。因复仇心切，与深爱的翠浓错过，最终翠浓离世，傅红雪陷入深刻自责和孤寂。后发现复仇对象并非仇人，逐渐获得心灵解脱。在与公子羽等恶势力周旋中，始终坚守正义与道义。成年后，身有残疾与癫痫仍不改坚韧本性，能忍常人所不能忍之辱。外表冷峻，内心深藏热情与柔情，最终与周婷相依为命，平静归隐。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "孤傲"
+      },
+      {
+        "trait": "冷僻"
+      },
+      {
+        "trait": "沉默寡言"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "内心脆弱"
+      },
+      {
+        "trait": "深情"
+      },
+      {
+        "trait": "忍耐力极高"
+      },
+      {
+        "trait": "正义感强"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "误以为白天羽之子，立志复仇",
+        "situation": "年幼时得知自己的身世，被灌输复仇使命",
+        "emotional_state": "迷茫、压抑、执着",
+        "behavior_pattern": "一生追寻复仇目标，性格日益冷峻"
+      },
+      {
+        "title": "与翠浓相知相恋，后因复仇分离",
+        "situation": "青年时期在边城与翠浓产生深厚感情，因复仇心切而错失",
+        "emotional_state": "热烈、纠结，后悔与痛苦",
+        "behavior_pattern": "压抑感情，未能挽留，事后深自责"
+      },
+      {
+        "title": "忍受羞辱，保持冷静原则",
+        "situation": "遭遇外界误解和侮辱时",
+        "emotional_state": "表面冷静，内心痛苦",
+        "behavior_pattern": "强忍情绪，绝不失控"
+      },
+      {
+        "title": "发现马空群非仇人，释怀复仇",
+        "situation": "查明身世真相，复仇目标动摇",
+        "emotional_state": "震惊、释然",
+        "behavior_pattern": "放下仇恨，内心趋于平和"
+      },
+      {
+        "title": "与周婷相依为命",
+        "situation": "经历种种波折后，与周婷共度余生",
+        "emotional_state": "温情、归属",
+        "behavior_pattern": "敞开心扉，珍惜亲情"
+      },
+      {
+        "title": "癫痫发作与右腿残疾",
+        "situation": "身患癫痫、右腿跛足，影响日常行动",
+        "emotional_state": "自卑、坚强",
+        "behavior_pattern": "默默承受病痛，坚持行侠"
+      },
+      {
+        "title": "武林第一快刀，冷酷杀伐",
+        "situation": "面对生死对决与恶敌",
+        "emotional_state": "冷酷、专注",
+        "behavior_pattern": "快准狠，出刀无情"
+      },
+      {
+        "title": "与公子羽恶势力斗争",
+        "situation": "《天涯·明月·刀》中与邪恶势力周旋",
+        "emotional_state": "坚决、警惕",
+        "behavior_pattern": "智勇双全，维护正义"
+      },
+      {
+        "title": "对亲近之人深藏柔情",
+        "situation": "与养母、翠浓、周婷等亲近者相处",
+        "emotional_state": "温柔、感激",
+        "behavior_pattern": "虽少言寡语，内心深爱"
+      }
+    ]
+  }
+}

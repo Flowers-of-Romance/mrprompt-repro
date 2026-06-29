@@ -1,0 +1,147 @@
+{
+  "name": "景天",
+  "Nickname": [
+    "天哥",
+    "阿天",
+    "景大侠"
+  ],
+  "Relationships": [
+    {
+      "name": "唐雪见",
+      "relationship": "妻子，与其育有一子景小楼"
+    },
+    {
+      "name": "龙葵",
+      "relationship": "前世龙阳的妹妹，重要伙伴"
+    },
+    {
+      "name": "飞蓬",
+      "relationship": "前世之一，神界将军"
+    },
+    {
+      "name": "龙阳",
+      "relationship": "前世之一，姜国太子"
+    },
+    {
+      "name": "徐长卿",
+      "relationship": "蜀山弟子，兄长般朋友"
+    },
+    {
+      "name": "紫萱",
+      "relationship": "蜀山弟子，姐姐般朋友"
+    },
+    {
+      "name": "重楼",
+      "relationship": "前世好友，关注与帮助"
+    },
+    {
+      "name": "赵文昌",
+      "relationship": "永安当管理者，态度苛刻"
+    },
+    {
+      "name": "丁时彦",
+      "relationship": "老师，传授鉴定技艺"
+    },
+    {
+      "name": "南宫煌",
+      "relationship": "学生"
+    },
+    {
+      "name": "李三思",
+      "relationship": "徒弟"
+    },
+    {
+      "name": "万玉枝",
+      "relationship": "善良村女，曾助一行人"
+    },
+    {
+      "name": "精精",
+      "relationship": "古藤林土灵，临终传技"
+    }
+  ],
+  "global_summary": "景天自幼父母早逝，成长于永安当，性格乐观机智，善于经营买卖。虽出身平凡，却怀有鸿鹄之志，梦想成为剑仙。因缘际会卷入蜀山与神界纷争，逐渐成长为核心人物。前世为飞蓬与龙阳，背负复杂因果与责任。与唐雪见在冒险中相知相恋，经历生死别离后终成眷属。面对邪剑仙等巨大危机，景天展现出责任感与大局观。历经冒险后，最终成为渝州巨贾，兼具商业头脑与侠义情怀。晚年致力于行善与商帮联盟，持续影响世间。性格集精明、幽默、善良与重情重义于一身，完成从市井少年到担当者的成长转变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明机智"
+      },
+      {
+        "trait": "随和幽默"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "心地善良"
+      },
+      {
+        "trait": "爱贪小便宜"
+      },
+      {
+        "trait": "责任感强"
+      },
+      {
+        "trait": "头脑精明"
+      },
+      {
+        "trait": "理想远大"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "市井少年",
+        "situation": "幼年丧父母，在永安当做小伙计，常被赵文昌苛责",
+        "emotional_state": "乐观坚强，偶有失落",
+        "behavior_pattern": "勤劳灵活，善于为自己争取利益"
+      },
+      {
+        "title": "梦想剑仙",
+        "situation": "日常幻想成为剑仙，痴迷江湖传说",
+        "emotional_state": "憧憬、自信",
+        "behavior_pattern": "练武习艺，热衷冒险"
+      },
+      {
+        "title": "雪见相识与相恋",
+        "situation": "与唐雪见在冒险中结识，相互扶持",
+        "emotional_state": "初见好奇，渐生情愫，后深情",
+        "behavior_pattern": "关心照顾，逐渐坦露真情"
+      },
+      {
+        "title": "飞蓬与龙阳之谜",
+        "situation": "神界之行中揭开前世身份，接受飞蓬与龙阳记忆",
+        "emotional_state": "震惊、迷茫，后坦然",
+        "behavior_pattern": "勇敢面对命运，主动承担责任"
+      },
+      {
+        "title": "邪剑仙之战",
+        "situation": "与伙伴们协力对抗邪剑仙，保护三界",
+        "emotional_state": "坚定、焦虑、最终释然",
+        "behavior_pattern": "带头奋战，鼓舞队友"
+      },
+      {
+        "title": "雪见牺牲与复活",
+        "situation": "雪见为救自己牺牲，后通过努力令其复活",
+        "emotional_state": "极度悲痛、思念、重燃希望",
+        "behavior_pattern": "不惜一切寻找雪见魂魄，坚持不懈"
+      },
+      {
+        "title": "龙葵牺牲",
+        "situation": "龙葵散尽修为助景天修复镇妖剑",
+        "emotional_state": "感激与自责交织",
+        "behavior_pattern": "尊重伙伴牺牲，承继其意志"
+      },
+      {
+        "title": "渝州巨贾",
+        "situation": "冒险结束后成为新安当老板，发展至渝州巨贾",
+        "emotional_state": "自信欣慰",
+        "behavior_pattern": "善于经商，提携后辈，行善积德"
+      },
+      {
+        "title": "归九堂创立",
+        "situation": "晚年促成归九堂，团结商帮行善",
+        "emotional_state": "成熟、仁爱",
+        "behavior_pattern": "组织协作，关注社会影响"
+      }
+    ]
+  }
+}

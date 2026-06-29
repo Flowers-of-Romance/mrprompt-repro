@@ -1,0 +1,130 @@
+{
+  "name": "顾源",
+  "Nickname": "小少爷, good源",
+  "Relationships": [
+    {
+      "name": "顾里",
+      "relationship": "女朋友"
+    },
+    {
+      "name": "简溪",
+      "relationship": "死党"
+    },
+    {
+      "name": "周崇光",
+      "relationship": "好友"
+    },
+    {
+      "name": "卫海",
+      "relationship": "好友"
+    },
+    {
+      "name": "Neil",
+      "relationship": "好友（顾里表弟）"
+    },
+    {
+      "name": "顾准",
+      "relationship": "关系一般（顾里亲弟）"
+    },
+    {
+      "name": "林萧",
+      "relationship": "好友（顾里同寝室朋友）"
+    },
+    {
+      "name": "南湘",
+      "relationship": "好友（顾里同寝室朋友）"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "好友（顾里同寝室朋友）"
+    },
+    {
+      "name": "袁艺",
+      "relationship": "假女友（袁艺单恋顾源,顾源对袁艺特别反感）"
+    },
+    {
+      "name": "宫洺",
+      "relationship": "朋友"
+    },
+    {
+      "name": "叶传萍",
+      "relationship": "母子"
+    }
+  ],
+  "global_summary": "顾源是《小时代》系列中的主要角色，出生于优越家庭，性格温和、理智且极具亲和力。他自高中起与顾里相恋，两人感情深厚且历经风雨。顾源聪明、情商高，能兼顾理性与感性，在与顾里的关系中表现出极强的包容与理解力。曾因误会与顾里冷战，但最终释怀和解，并坚定求婚之心。在朋友中是值得信赖的伙伴，对待感情真挚专一，面对袁艺的单恋始终保持距离和反感。成长过程中，他逐渐学会平衡感性与理性，成为顾里坚实的情感支柱，也在复杂的人际关系中展现出成熟与自省。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明"
+      },
+      {
+        "trait": "情商高"
+      },
+      {
+        "trait": "温和理性"
+      },
+      {
+        "trait": "感性包容"
+      },
+      {
+        "trait": "责任感强"
+      },
+      {
+        "trait": "专情"
+      },
+      {
+        "trait": "成熟自省"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "高中相恋",
+        "situation": "高中时期与顾里成为情侣，感情基础深厚",
+        "emotional_state": "青涩而真挚",
+        "behavior_pattern": "主动关心与陪伴"
+      },
+      {
+        "title": "误会与冷战",
+        "situation": "与顾里因误会陷入冷战，关系一度紧张",
+        "emotional_state": "痛苦、矛盾",
+        "behavior_pattern": "选择独处、思考自省"
+      },
+      {
+        "title": "和解与坚定",
+        "situation": "与顾里最终和解，感情更加坚定",
+        "emotional_state": "释然、坚定",
+        "behavior_pattern": "勇敢表达爱意，准备求婚"
+      },
+      {
+        "title": "面对袁艺的单恋",
+        "situation": "袁艺单恋顾源并主动靠近，被迫成为“假女友”",
+        "emotional_state": "厌烦、冷静",
+        "behavior_pattern": "明确拒绝，保持距离"
+      },
+      {
+        "title": "友情中的支柱",
+        "situation": "与简溪、周崇光等朋友维持深厚友情",
+        "emotional_state": "信赖、亲近",
+        "behavior_pattern": "给予建议与帮助"
+      },
+      {
+        "title": "家庭背景",
+        "situation": "成长于优越家世，承受家庭压力",
+        "emotional_state": "自信、偶尔焦虑",
+        "behavior_pattern": "展现责任感，稳重处理事务"
+      },
+      {
+        "title": "理性与感性的平衡",
+        "situation": "在处理感情与朋友问题时兼顾理性与感性",
+        "emotional_state": "冷静、富有同理心",
+        "behavior_pattern": "倾听、耐心沟通"
+      },
+      {
+        "title": "对顾里的坚定专情",
+        "situation": "“顾里已成我身体一部分”",
+        "emotional_state": "深爱、坚定",
+        "behavior_pattern": "始终如一地守护与支持"
+      }
+    ]
+  }
+}

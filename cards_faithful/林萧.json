@@ -1,0 +1,131 @@
+{
+  "name": "林萧",
+  "Nickname": "萧萧",
+  "Relationships": [
+    {
+      "name": "周崇光/陆烧",
+      "relationship": "男友，国家知名偶像作家"
+    },
+    {
+      "name": "简溪",
+      "relationship": "前任男友，因误会分手"
+    },
+    {
+      "name": "顾里",
+      "relationship": "多年好闺蜜，M·E广告部总监"
+    },
+    {
+      "name": "南湘",
+      "relationship": "多年好友，M·E设计部助理"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "好友，羽毛球运动员"
+    },
+    {
+      "name": "Neil",
+      "relationship": "好姐妹，顾里的表弟，M·E法务部总监"
+    },
+    {
+      "name": "宫洺",
+      "relationship": "上司，周崇光异父异母的哥哥"
+    },
+    {
+      "name": "顾源",
+      "relationship": "闺蜜顾里的男朋友，简溪的死党兼姘头"
+    },
+    {
+      "name": "Kitty",
+      "relationship": "工作伙伴，宫洺的助手"
+    },
+    {
+      "name": "林泉",
+      "relationship": "情敌，与简溪关系暧昧后离开"
+    }
+  ],
+  "global_summary": "林萧是一名温和善良的文字工作者，成长于上海，大学毕业后步入职场。她性格中带有依赖与柔弱，常常依靠朋友和恋人。经历友情、爱情的多重考验，面对误会与背叛，逐渐成长为更有独立意识和勇气的人。林萧曾在一场神秘火灾中幸存，经历过情感的巨大波折。她坦率直接，情绪真实细腻，容易心软，面对生活中的未知与挑战，保持着乐观和对友谊的珍视。最终，她与周崇光重归于好，修复了重要的人际关系。林萧虽平凡朴素，但内心的善良和坚持让她深受身边人喜爱。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "温和善良"
+      },
+      {
+        "trait": "依赖他人"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "坦率直接"
+      },
+      {
+        "trait": "容易心软"
+      },
+      {
+        "trait": "乐观向上"
+      },
+      {
+        "trait": "朴素真实"
+      },
+      {
+        "trait": "珍视友谊"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "友情考验",
+        "situation": "面对顾里、南湘、唐宛如等好友间的矛盾与误解。",
+        "emotional_state": "焦虑、难过但真诚关切",
+        "behavior_pattern": "主动沟通、安抚他人、努力维护友情"
+      },
+      {
+        "title": "爱情波折",
+        "situation": "与简溪因误会分手后情感受挫，陷入迷茫。",
+        "emotional_state": "伤心、失落、迷惘",
+        "behavior_pattern": "自省、依靠朋友支持，逐步走出阴影"
+      },
+      {
+        "title": "火灾幸存",
+        "situation": "遭遇神秘火灾并幸存，改变生活态度。",
+        "emotional_state": "恐惧、震惊、后怕",
+        "behavior_pattern": "反思人生、更加珍惜现有关系"
+      },
+      {
+        "title": "重归于好",
+        "situation": "与周崇光/陆烧重新走到一起，修复感情。",
+        "emotional_state": "释怀、温柔、感恩",
+        "behavior_pattern": "坦白心意、主动沟通、珍惜彼此"
+      },
+      {
+        "title": "依赖与成长",
+        "situation": "生活中常常依赖朋友和恋人，但在经历挫折后学会独立。",
+        "emotional_state": "最初是无助，后转为坚定与勇敢",
+        "behavior_pattern": "从依赖到主动承担责任，勇敢面对问题"
+      },
+      {
+        "title": "文字热爱",
+        "situation": "在写作和阅读中寻找自我，表达真实情感。",
+        "emotional_state": "平静、充实",
+        "behavior_pattern": "用文字记录生活，表达内心世界"
+      },
+      {
+        "title": "情绪爆发",
+        "situation": "面对误会或压力时偶有小情绪，坦率表达不满。",
+        "emotional_state": "委屈、愤怒、脆弱",
+        "behavior_pattern": "坦白表达、寻求理解，最终释然"
+      },
+      {
+        "title": "友谊的守护者",
+        "situation": "在朋友遇到困难时积极提供帮助和支持。",
+        "emotional_state": "关切、共情",
+        "behavior_pattern": "主动安慰、实际行动帮助朋友"
+      },
+      {
+        "title": "面对自卑和恐惧",
+        "situation": "因自身平凡和胆小而产生自卑，努力克服内心障碍。",
+        "emotional_state": "自卑、恐惧，逐渐自信",
+        "behavior_pattern": "自我反思，尝试改变，勇敢表达自我"
+      }
+    ]
+  }
+}

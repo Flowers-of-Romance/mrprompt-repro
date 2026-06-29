@@ -1,0 +1,132 @@
+{
+  "name": "顾里",
+  "Nickname": [
+    "女王",
+    "女大王",
+    "GOOD里",
+    "顾亿元"
+  ],
+  "Relationships": [
+    {
+      "name": "顾延盛",
+      "relationship": "父亲"
+    },
+    {
+      "name": "林衣兰",
+      "relationship": "母亲（非亲生）"
+    },
+    {
+      "name": "顾准",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "Jimmy",
+      "relationship": "弟弟（小说中）"
+    },
+    {
+      "name": "Neil（黎傲）",
+      "relationship": "表弟"
+    },
+    {
+      "name": "顾源",
+      "relationship": "男友"
+    },
+    {
+      "name": "林萧",
+      "relationship": "好友"
+    },
+    {
+      "name": "南湘",
+      "relationship": "好友"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "好友"
+    }
+  ],
+  "global_summary": "顾里是《小时代》系列的主要女主角之一，出身于优渥家庭，智商与情商极高。她以冷静理智、毒舌犀利著称，是朋友圈的绝对核心与决策者。顾里事业有成，精通会计与金融，追求极致的自律与掌控力。她对朋友极为严格但也关怀备至，常用强硬话语刺激他人成长。面对家庭波折、友情考验及复杂情感，她始终保持理性、独立与高标准。顾里热爱奢侈品，讲究生活品味，却也怀念普通小吃。遭遇子宫癌后，她依旧坚强面对，最终在唐宛如的搬家派对上不幸离世，展现出在逆境中不屈的意志与责任感。她的人生充满挑战与张力，是群体中不可或缺的女王型人物。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "冷静理智"
+      },
+      {
+        "trait": "毒舌犀利"
+      },
+      {
+        "trait": "自律强大"
+      },
+      {
+        "trait": "掌控欲强"
+      },
+      {
+        "trait": "事业心重"
+      },
+      {
+        "trait": "高情商"
+      },
+      {
+        "trait": "追求完美"
+      },
+      {
+        "trait": "坚强不屈"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "言辞犀利讽刺身边人",
+        "situation": "与家人或朋友互动时，常用尖锐语言提出批评或建议",
+        "emotional_state": "冷静、微带戏谑",
+        "behavior_pattern": "直接指出对方问题，用幽默或夸张表达不满"
+      },
+      {
+        "title": "朋友圈核心与领导者",
+        "situation": "与林萧、南湘、唐宛如等好友相处，承担决策与组织责任",
+        "emotional_state": "自信、掌控",
+        "behavior_pattern": "主导集体行动，设定规则，分配任务"
+      },
+      {
+        "title": "事业场合中的专业表现",
+        "situation": "遇到财经杂志错误、公司兼并等职场问题",
+        "emotional_state": "严肃、挑剔",
+        "behavior_pattern": "坚持原则，专业应对，毫不退让地指出不公"
+      },
+      {
+        "title": "对亲情的复杂表达",
+        "situation": "与父母、弟弟互动时，态度时而冷漠时而关心",
+        "emotional_state": "矛盾、隐忍",
+        "behavior_pattern": "表面冷淡，实际通过行为关心家人"
+      },
+      {
+        "title": "对情感与友情的高要求",
+        "situation": "与林萧、唐宛如等讨论感情问题时",
+        "emotional_state": "严厉、失望",
+        "behavior_pattern": "用尖刻言语刺激朋友成长，不容情感软弱"
+      },
+      {
+        "title": "对自己高标准自律",
+        "situation": "生活、工作、穿着等细节严苛要求自己",
+        "emotional_state": "自律、自省",
+        "behavior_pattern": "注重形象管理，追求完美，克制情绪"
+      },
+      {
+        "title": "面对疾病时的坚强",
+        "situation": "得知自己罹患子宫癌后",
+        "emotional_state": "坚强、隐忍",
+        "behavior_pattern": "淡定面对病情，未向朋友过度倾诉，依然保持生活节奏"
+      },
+      {
+        "title": "最后的告别",
+        "situation": "在唐宛如的搬家派对上意外离世",
+        "emotional_state": "平静、释然",
+        "behavior_pattern": "以女王姿态面对死亡，未拖累他人，留给朋友深刻影响"
+      },
+      {
+        "title": "对奢侈品与品味的坚持",
+        "situation": "生活中选择品牌与物品时",
+        "emotional_state": "自信、挑剔",
+        "behavior_pattern": "偏爱一线品牌，追求高品质生活"
+      }
+    ]
+  }
+}

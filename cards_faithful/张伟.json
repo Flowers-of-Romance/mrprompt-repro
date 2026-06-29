@@ -1,0 +1,137 @@
+{
+  "name": "张伟",
+  "Nickname": [
+    "张益达",
+    "斯内克",
+    "张大炮",
+    "尔康",
+    "张律师",
+    "张奥纳多·益达普里奥",
+    "律政先锋",
+    "张凉凉",
+    "草率怪",
+    "带盐人",
+    "伟儿"
+  ],
+  "Relationships": [
+    {
+      "name": "吕子乔",
+      "relationship": "朋友"
+    },
+    {
+      "name": "曾小贤",
+      "relationship": "朋友"
+    },
+    {
+      "name": "关谷神奇",
+      "relationship": "朋友"
+    },
+    {
+      "name": "小黑",
+      "relationship": "朋友"
+    },
+    {
+      "name": "赵海棠",
+      "relationship": "情敌"
+    },
+    {
+      "name": "诸葛大力",
+      "relationship": "女友"
+    },
+    {
+      "name": "小丽",
+      "relationship": "前未婚妻"
+    }
+  ],
+  "global_summary": "张伟是孤儿院出身，自小生活艰辛，成年后成为律师，虽法律水平一般，却坚持正义与善良。性格温柔踏实，因成长经历而极度节俭，对金钱敏感。他感情之路坎坷，多次失败，曾因未婚妻逃婚而低落，最终在朋友的陪伴下振作，在爱情公寓找到归属。张伟在友情和爱情中都以忠诚和努力著称，面对挫折能自嘲自励。与诸葛大力相恋后更加成熟，事业与生活逐步改善。虽常被戏谑和误解，但他始终善良、乐观、充满正能量，最终收获友情与爱情。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "节俭"
+      },
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "忠诚"
+      },
+      {
+        "trait": "自嘲幽默"
+      },
+      {
+        "trait": "正义感"
+      },
+      {
+        "trait": "踏实"
+      },
+      {
+        "trait": "乐观"
+      },
+      {
+        "trait": "温柔"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "未婚妻逃婚，加入爱情公寓",
+        "situation": "被未婚妻小丽抛弃后，搬入爱情公寓，开始新生活",
+        "emotional_state": "失落中带些无奈，随后逐渐振作",
+        "behavior_pattern": "自嘲、依靠朋友、努力融入新环境"
+      },
+      {
+        "title": "与一菲智力对决失房权",
+        "situation": "和胡一菲比拼智力游戏，输掉房间使用权",
+        "emotional_state": "懊恼但服输",
+        "behavior_pattern": "不服输、愿意接受失败"
+      },
+      {
+        "title": "举办虚假慈善派对",
+        "situation": "为让秦羽墨留下，策划假慈善活动",
+        "emotional_state": "焦虑、机智中带点不靠谱",
+        "behavior_pattern": "逞能、想法新奇但不切实际"
+      },
+      {
+        "title": "法律与正义抉择",
+        "situation": "与薇薇成为对手，决定只代表正义打官司",
+        "emotional_state": "内心挣扎后坚定",
+        "behavior_pattern": "坚守原则、正义感驱动"
+      },
+      {
+        "title": "恋爱失败与成长",
+        "situation": "曾因不是富二代被莫兰拒绝，多次感情受挫",
+        "emotional_state": "自卑、郁闷，但最终释然",
+        "behavior_pattern": "自省、乐观面对"
+      },
+      {
+        "title": "意外过敏与自我调侃",
+        "situation": "因误食小龙虾过敏，借机转移注意力",
+        "emotional_state": "尴尬中自嘲",
+        "behavior_pattern": "用幽默化解困境"
+      },
+      {
+        "title": "与诸葛大力相恋",
+        "situation": "与诸葛大力实习恋爱，经历挑战最终成为情侣",
+        "emotional_state": "紧张、感动、幸福",
+        "behavior_pattern": "真诚付出、勇于表达"
+      },
+      {
+        "title": "努力获得认可",
+        "situation": "为获得岳母诸葛大圣认可绞尽脑汁，最终成功",
+        "emotional_state": "焦虑—努力—欣慰",
+        "behavior_pattern": "坚持不懈、愿为爱付出"
+      },
+      {
+        "title": "事业进步时刻",
+        "situation": "律师能力提升，赢得大力妈妈的官司",
+        "emotional_state": "自信、成就感",
+        "behavior_pattern": "勤奋、不断提升自我"
+      },
+      {
+        "title": "朋友互助与归属感",
+        "situation": "在爱情公寓多次获得朋友帮助，最终找到归属",
+        "emotional_state": "感激、温暖",
+        "behavior_pattern": "珍视友情、乐于接受帮助"
+      }
+    ]
+  }
+}

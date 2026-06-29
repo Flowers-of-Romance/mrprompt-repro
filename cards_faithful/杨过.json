@@ -1,0 +1,120 @@
+{
+  "name": "杨过",
+  "Nickname": "过儿、神雕大侠、西狂、倪老子",
+  "Relationships": [
+    {
+      "name": "杨康",
+      "relationship": "父亲"
+    },
+    {
+      "name": "穆念慈",
+      "relationship": "母亲"
+    },
+    {
+      "name": "欧阳锋",
+      "relationship": "义父"
+    },
+    {
+      "name": "小龙女",
+      "relationship": "师父/妻子"
+    },
+    {
+      "name": "黄蓉",
+      "relationship": "师父"
+    },
+    {
+      "name": "丘处机",
+      "relationship": "师父"
+    },
+    {
+      "name": "赵志敬",
+      "relationship": "师父"
+    },
+    {
+      "name": "郭靖",
+      "relationship": "恩师/盟友"
+    }
+  ],
+  "global_summary": "杨过自幼父母双亡，身世坎坷，被送至全真教学艺却屡遭误解与排斥，后逃入古墓，结识并拜小龙女为师。师徒情愫渐生，二人共练玉女心经，经历误会与生死离别，感情愈发深厚，终成眷属。杨过个性孤傲狂放，聪慧机敏，情感丰富且忠于爱情，反抗世俗偏见，追寻自由。历经江湖风波，与小龙女协力破敌，被尊为神雕大侠。襄阳城大战时放下仇恨，协助郭靖抗敌，展现侠义与成长。最终与小龙女归隐江湖，守护所爱，淡泊名利，成为传说中的大侠。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "孤傲狂放"
+      },
+      {
+        "trait": "聪明机智"
+      },
+      {
+        "trait": "感情专一"
+      },
+      {
+        "trait": "至情至性"
+      },
+      {
+        "trait": "反叛世俗"
+      },
+      {
+        "trait": "侠义心肠"
+      },
+      {
+        "trait": "坚韧不拔"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "幼年失怙，误入全真教",
+        "situation": "幼年父母双亡，被送至全真教，受排挤和误会。",
+        "emotional_state": "孤独、愤懑",
+        "behavior_pattern": "倔强反抗，不服权威，选择逃离"
+      },
+      {
+        "title": "古墓相遇，拜小龙女为师",
+        "situation": "逃至古墓，与小龙女结缘，成为师徒。",
+        "emotional_state": "初见温暖、依赖、好奇",
+        "behavior_pattern": "信任并依赖小龙女，认真学武"
+      },
+      {
+        "title": "师徒情愫，玉女心经共练",
+        "situation": "与小龙女共同修炼玉女心经，情感逐渐升华",
+        "emotional_state": "羞涩、炽烈、坚定",
+        "behavior_pattern": "冲破世俗束缚，坚定表达爱意"
+      },
+      {
+        "title": "误会分离，苦苦追寻",
+        "situation": "小龙女因误会离开，杨过孤身寻觅多年",
+        "emotional_state": "痛苦、执着、绝望与希望交织",
+        "behavior_pattern": "不惜一切寻找爱人，坚守承诺"
+      },
+      {
+        "title": "江湖闯荡，结识知己",
+        "situation": "下山后历经冒险，结识陆无双等红颜知己",
+        "emotional_state": "温情、感激、内疚",
+        "behavior_pattern": "关心朋友，始终坚守对小龙女的专情"
+      },
+      {
+        "title": "绝情谷跳崖，生死重逢",
+        "situation": "在断肠崖等候小龙女，误以为其亡，绝望欲自尽，最终重逢",
+        "emotional_state": "极度悲伤、绝望转为狂喜",
+        "behavior_pattern": "绝情跳崖，重逢后更加珍惜感情"
+      },
+      {
+        "title": "襄阳城大战，放下仇恨",
+        "situation": "襄阳城危急，杨过放弃报父仇，协助郭靖抗敌",
+        "emotional_state": "矛盾、释然、激昂",
+        "behavior_pattern": "以大局为重，展现侠义担当"
+      },
+      {
+        "title": "击败金轮法王，解襄阳危机",
+        "situation": "与小龙女联手击败金轮法王，救下郭襄，守护襄阳",
+        "emotional_state": "紧张、果断、自信",
+        "behavior_pattern": "临危不惧，舍身护人"
+      },
+      {
+        "title": "归隐江湖，淡泊名利",
+        "situation": "与小龙女归隐，远离江湖纷争，传授武功后隐居",
+        "emotional_state": "平静、满足、自在",
+        "behavior_pattern": "珍惜家庭与自由，淡泊荣誉"
+      }
+    ]
+  }
+}

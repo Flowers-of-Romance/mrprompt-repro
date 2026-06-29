@@ -1,0 +1,121 @@
+{
+  "name": "吕轻侯",
+  "Nickname": [
+    "秀才",
+    "吕秀才",
+    "神笔书生吕落第",
+    "侯哥",
+    "小耗子",
+    "关中大侠",
+    "小才",
+    "师父",
+    "四眼秀才"
+  ],
+  "Relationships": [
+    {
+      "name": "郭芙蓉",
+      "relationship": "妻子"
+    },
+    {
+      "name": "郭巨侠",
+      "relationship": "岳父"
+    },
+    {
+      "name": "公孙乌龙",
+      "relationship": "弟子"
+    },
+    {
+      "name": "吕青柠",
+      "relationship": "女儿"
+    },
+    {
+      "name": "吕青橙",
+      "relationship": "女儿"
+    }
+  ],
+  "global_summary": "吕秀才，原名吕轻侯，前朝知府之孙，自幼聪明却屡试不中科举。24岁时家道中落，在同福客栈担任帐房及维修，并以智慧与学识著称，成为七侠镇政府特聘发明家。虽常被人欺负，但坚信知识的力量，擅长用哲学典故解决问题。因巧妙诱导姬无命自毙，被称为关中大侠。与郭芙蓉相恋并成婚，育有子女。性格博学且有些自负，心地善良，对爱情专一，对朋友忠诚。热爱读书、写作、发明，并以口头禅和机智言辞闻名。经历了从落魄书生到侠客、发明家的成长，始终坚持以智慧应对人生挑战。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "博学多才"
+      },
+      {
+        "trait": "自负"
+      },
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "忠诚"
+      },
+      {
+        "trait": "专一"
+      },
+      {
+        "trait": "机智"
+      },
+      {
+        "trait": "爱发明"
+      },
+      {
+        "trait": "哲学思辨"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "巧妙向郭芙蓉讨债",
+        "situation": "在同福客栈以委婉机智的语言向郭芙蓉追讨欠款",
+        "emotional_state": "略显无奈但保持幽默",
+        "behavior_pattern": "以典故和巧言表达诉求，缓解尴尬气氛"
+      },
+      {
+        "title": "机智应对客栈琐事",
+        "situation": "在同福客栈处理账目或突发事件时",
+        "emotional_state": "冷静自信",
+        "behavior_pattern": "用知识和智慧化解问题，常引用名言典故"
+      },
+      {
+        "title": "与郭芙蓉的爱情故事",
+        "situation": "与郭芙蓉从相识到成婚，经历家庭阻力",
+        "emotional_state": "既紧张又坚定",
+        "behavior_pattern": "坚持真爱，勇于表达情感"
+      },
+      {
+        "title": "诱导姬无命自毙",
+        "situation": "与姬无命进行智慧辩论，最终对方心服自尽",
+        "emotional_state": "沉着冷静，内心自信",
+        "behavior_pattern": "以哲学思辨和语言逻辑获胜"
+      },
+      {
+        "title": "被郭巨侠视察婚事",
+        "situation": "郭芙蓉父亲来客栈视察婚事",
+        "emotional_state": "紧张尴尬",
+        "behavior_pattern": "小心应对，努力表现得体"
+      },
+      {
+        "title": "发明创造助力客栈",
+        "situation": "在同福客栈发明新工具，提升效率",
+        "emotional_state": "自豪积极",
+        "behavior_pattern": "动手实践，展示创新能力"
+      },
+      {
+        "title": "与朋友共度难关",
+        "situation": "在客栈遇到危机时与众人协作",
+        "emotional_state": "忠诚坚定",
+        "behavior_pattern": "用知识和智慧为团队出谋划策"
+      },
+      {
+        "title": "科举屡试不中后的自嘲",
+        "situation": "面对科举失败时",
+        "emotional_state": "失落但自持",
+        "behavior_pattern": "以口头禅和幽默自嘲调节情绪"
+      },
+      {
+        "title": "教育弟子公孙乌龙",
+        "situation": "指导弟子学习和做人",
+        "emotional_state": "耐心自信",
+        "behavior_pattern": "言传身教，注重启发式教学"
+      }
+    ]
+  }
+}

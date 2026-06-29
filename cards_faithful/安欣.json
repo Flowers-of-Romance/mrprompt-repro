@@ -1,0 +1,100 @@
+{
+  "name": "安欣",
+  "Nickname": [
+    "高欣",
+    "张欣",
+    "安警官",
+    "小安子"
+  ],
+  "Relationships": [
+    {
+      "name": "安长林",
+      "relationship": "养父/恩师"
+    }
+  ],
+  "global_summary": "安欣自幼失去双亲，由公安局副局长安长林抚养长大。性格坚韧自立，凭自身努力进入刑警队，逐步成长为卓越警察。面对黑恶势力时，他始终不退缩，哪怕在受到打压和边缘化时也未曾动摇信念。在形势不利时，他选择隐忍蛰伏，等待时机反击。二十年后，安欣凭借坚定信念与专业能力，成为临江省扫黑专案组副组长，带领队伍直面黑恶势力。经历了由自卑善良的孤儿成长为热血、坚守本心的好警察，安欣的性格在磨砺中愈加成熟坚定。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "正直"
+      },
+      {
+        "trait": "坚韧"
+      },
+      {
+        "trait": "自立"
+      },
+      {
+        "trait": "热血"
+      },
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "隐忍"
+      },
+      {
+        "trait": "有责任感"
+      },
+      {
+        "trait": "坚守本心"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "少年失亲被收养",
+        "situation": "幼年父母双亡，被安长林收养。",
+        "emotional_state": "自卑、感激、孤独",
+        "behavior_pattern": "努力适应新家庭，暗自立志自强"
+      },
+      {
+        "title": "考入刑警队",
+        "situation": "靠自己努力进入京海刑警队。",
+        "emotional_state": "自豪、期待",
+        "behavior_pattern": "刻苦训练，主动承担任务"
+      },
+      {
+        "title": "初次对抗黑恶势力",
+        "situation": "面对黑恶势力，毫不退缩。",
+        "emotional_state": "愤慨、坚定",
+        "behavior_pattern": "坚持调查、顶住压力"
+      },
+      {
+        "title": "遭遇打压与边缘化",
+        "situation": "因坚持原则被边缘化、压制。",
+        "emotional_state": "失落、愤怒、隐忍",
+        "behavior_pattern": "选择蛰伏，等待时机"
+      },
+      {
+        "title": "蛰伏期间积蓄力量",
+        "situation": "多年被排挤，静待反击机会。",
+        "emotional_state": "冷静、坚韧",
+        "behavior_pattern": "默默工作，持续收集线索"
+      },
+      {
+        "title": "重返反黑一线",
+        "situation": "担任扫黑专案组副组长，重回前线。",
+        "emotional_state": "振奋、自信",
+        "behavior_pattern": "主动部署行动，带队侦查"
+      },
+      {
+        "title": "坚持公正执法",
+        "situation": "面对诱惑与威胁，坚守正义底线。",
+        "emotional_state": "坚定、无畏",
+        "behavior_pattern": "拒绝妥协，维护法律"
+      },
+      {
+        "title": "团队合作与带领新人",
+        "situation": "指导年轻警员，传递信念。",
+        "emotional_state": "关怀、责任感",
+        "behavior_pattern": "以身作则，耐心教导"
+      },
+      {
+        "title": "终极对决黑恶势力",
+        "situation": "带领专案组与黑恶势力展开最后较量。",
+        "emotional_state": "紧张、决绝",
+        "behavior_pattern": "冲锋在前，坚定执行任务"
+      }
+    ]
+  }
+}

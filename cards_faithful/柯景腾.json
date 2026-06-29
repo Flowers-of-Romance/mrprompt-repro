@@ -1,0 +1,86 @@
+{
+  "name": "柯景腾",
+  "Nickname": "柯腾",
+  "Relationships": [
+    {
+      "name": "沈佳宜",
+      "relationship": "暗恋对象，挚友"
+    }
+  ],
+  "global_summary": "柯景腾是台湾学生，起初成绩不佳，调皮捣蛋。受到沈佳宜的监督和鼓励后，他努力学习，成绩提升，对沈佳宜产生感情但未表白。大学后因误会与沈佳宜疏远，经历地震后重新联系，最终两人未能成为恋人但保持深厚友谊。柯景腾后成为作家，性格由叛逆转为内省上进，重视友情与梦想，对感情表达内敛。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "调皮"
+      },
+      {
+        "trait": "叛逆"
+      },
+      {
+        "trait": "上进"
+      },
+      {
+        "trait": "内向"
+      },
+      {
+        "trait": "感情内敛"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "自省"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "成绩不佳，调皮捣蛋",
+        "situation": "中学时期，班上表现散漫，常被老师批评",
+        "emotional_state": "无忧无虑，略显自满",
+        "behavior_pattern": "逃避学业责任，和同学打闹"
+      },
+      {
+        "title": "沈佳宜监督学习",
+        "situation": "被沈佳宜要求每天写功课，逐步提升成绩",
+        "emotional_state": "被激励，产生依赖与好感",
+        "behavior_pattern": "接受监督，努力学习"
+      },
+      {
+        "title": "暗恋沈佳宜",
+        "situation": "与沈佳宜日常相处时逐渐喜欢对方",
+        "emotional_state": "羞涩、克制",
+        "behavior_pattern": "关心对方但不主动表白"
+      },
+      {
+        "title": "大学时期误会吵架",
+        "situation": "大学阶段一次争吵后与沈佳宜疏远",
+        "emotional_state": "受伤、失落",
+        "behavior_pattern": "选择自我放弃，减少联系"
+      },
+      {
+        "title": "地震后重新联系",
+        "situation": "台湾大地震后主动与沈佳宜恢复联系",
+        "emotional_state": "牵挂、释怀",
+        "behavior_pattern": "主动找回友情，释然过去"
+      },
+      {
+        "title": "最终未能表白",
+        "situation": "始终未向沈佳宜表白心意",
+        "emotional_state": "遗憾，坦然",
+        "behavior_pattern": "默默守护，接受现实"
+      },
+      {
+        "title": "成为作家",
+        "situation": "毕业后追求写作梦想并获得成就",
+        "emotional_state": "坚定、自信",
+        "behavior_pattern": "坚持理想，努力实现自我价值"
+      },
+      {
+        "title": "与沈佳宜成为永远的朋友",
+        "situation": "两人未成恋人但保持深厚友谊",
+        "emotional_state": "珍惜、感恩",
+        "behavior_pattern": "以朋友身份支持彼此"
+      }
+    ]
+  }
+}

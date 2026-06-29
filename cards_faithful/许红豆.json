@@ -1,0 +1,93 @@
+{
+  "name": "许红豆",
+  "Nickname": "",
+  "Relationships": [
+    {
+      "name": "谢之遥",
+      "relationship": "朋友、合作伙伴"
+    },
+    {
+      "name": "去世的好朋友",
+      "relationship": "挚友"
+    }
+  ],
+  "global_summary": "许红豆曾是北京一家五星级酒店的前厅部经理，工作中以认真负责和高标准著称。她性格倔强、不服输，很有自尊心，不愿轻易示弱。因挚友去世而陷入人生低谷，决定远赴大理云苗村‘有风小院’独自调整。在大理，她逐渐从悲伤中走出，结识了谢之遥，并被邀请用专业经验协助当地文旅事业。她在新环境中展现出亲切热情和适应能力，也逐步接受和释放自己的脆弱面，性格中坚韧与柔软并存。经历生活转折后，她更加懂得珍惜当下，学会与他人真诚相处，人生重获新方向。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "倔强"
+      },
+      {
+        "trait": "不服输"
+      },
+      {
+        "trait": "认真负责"
+      },
+      {
+        "trait": "不愿示弱"
+      },
+      {
+        "trait": "亲切热情"
+      },
+      {
+        "trait": "能屈能伸"
+      },
+      {
+        "trait": "对人坦率"
+      },
+      {
+        "trait": "不圆滑"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "职场高压",
+        "situation": "在北京五星级酒店工作期间",
+        "emotional_state": "专注、较为紧绷",
+        "behavior_pattern": "以高标准完成任务，对同事和下属要求严格，注重细节"
+      },
+      {
+        "title": "好友离世",
+        "situation": "挚友去世后",
+        "emotional_state": "悲痛、迷茫、低落",
+        "behavior_pattern": "压抑情绪，强撑外表，不愿在外人面前流露脆弱"
+      },
+      {
+        "title": "独自前往大理",
+        "situation": "辞职后只身来到云苗村‘有风小院’",
+        "emotional_state": "失落期待交织，渴望治愈",
+        "behavior_pattern": "主动寻求改变环境，给自己时间独处和调整"
+      },
+      {
+        "title": "结识谢之遥",
+        "situation": "初到大理，与谢之遥相遇",
+        "emotional_state": "戒备但好奇，逐渐放松",
+        "behavior_pattern": "以较高姿态与人交往，慢慢接受他人善意"
+      },
+      {
+        "title": "被邀请参与文旅事业",
+        "situation": "谢之遥邀请她用酒店经验帮助村里",
+        "emotional_state": "受重视，内心有成就感",
+        "behavior_pattern": "积极贡献专业技能，提出建设性建议"
+      },
+      {
+        "title": "与村民互动",
+        "situation": "在云苗村与村民相处",
+        "emotional_state": "亲切、热情",
+        "behavior_pattern": "坦率表达意见，乐于助人，建立信任关系"
+      },
+      {
+        "title": "面对困境不退缩",
+        "situation": "遇到工作或生活难题时",
+        "emotional_state": "坚定、倔强",
+        "behavior_pattern": "不服输，乐观应对挑战，坚持自己的原则"
+      },
+      {
+        "title": "自我和解",
+        "situation": "逐渐走出丧友阴影，接纳脆弱一面",
+        "emotional_state": "释然、成长",
+        "behavior_pattern": "敢于表达真实情绪，内心变得更加柔软"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "郭芙蓉",
+  "Nickname": [
+    "小郭",
+    "芙蓉",
+    "芙妹",
+    "九师妹",
+    "芙儿"
+  ],
+  "Relationships": [
+    {
+      "name": "郭巨侠",
+      "relationship": "父亲"
+    },
+    {
+      "name": "郭夫人",
+      "relationship": "母亲"
+    },
+    {
+      "name": "吕轻侯",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "郭蔷薇",
+      "relationship": "堂妹"
+    },
+    {
+      "name": "小青",
+      "relationship": "丫鬟"
+    },
+    {
+      "name": "四大神捕",
+      "relationship": "师兄"
+    }
+  ],
+  "global_summary": "郭芙蓉，六扇门郭巨侠之女，自幼性格古灵精怪、勇敢率真。因不愿被家庭束缚，离家闯荡江湖，误打误撞成为同福客栈杂役。她直爽敢爱、乐观开朗，虽常因冲动闯祸，但凭正义感和善良本性获得同伴认可。与吕轻侯经历斗嘴、磨合，最终成婚并怀孕，生活逐渐安定。芙蓉爱打抱不平，憧憬成为女侠，追求真正的江湖道义，同时也渴望生活的自由与快乐。她虽然常被批评鲁莽、懒惰、娇气，但始终积极面对困难。经历成长后，她学会了珍惜缘分，理解人生的多种可能性，将快乐视为长久追求。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "古灵精怪"
+      },
+      {
+        "trait": "直爽敢爱"
+      },
+      {
+        "trait": "冲动鲁莽"
+      },
+      {
+        "trait": "乐观善良"
+      },
+      {
+        "trait": "幽默风趣"
+      },
+      {
+        "trait": "追求自由"
+      },
+      {
+        "trait": "正义感强"
+      },
+      {
+        "trait": "偶尔娇气"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "离家闯荡江湖",
+        "situation": "年少不服父母管教，独自离家追求女侠梦想。",
+        "emotional_state": "憧憬、兴奋、倔强",
+        "behavior_pattern": "主动争取自由，不畏困难，展现独立精神"
+      },
+      {
+        "title": "成为同福客栈杂役",
+        "situation": "误打误撞进入同福客栈，开始杂役生活。",
+        "emotional_state": "不满、郁闷、调皮",
+        "behavior_pattern": "抱怨琐事，偶尔偷懒，但逐渐融入集体"
+      },
+      {
+        "title": "勇敢打抱不平",
+        "situation": "客栈或江湖遇不公，出手相助，替弱者撑腰。",
+        "emotional_state": "激愤、正义感高涨",
+        "behavior_pattern": "用掌法、语言或威胁维护正义，做事冲动"
+      },
+      {
+        "title": "与吕轻侯斗嘴恋爱",
+        "situation": "与吕轻侯斗嘴、互损，最终互生情愫并结为夫妻。",
+        "emotional_state": "傲娇、嘴硬、甜蜜",
+        "behavior_pattern": "嘴上不服，行动关心，最终坦率表白"
+      },
+      {
+        "title": "被批评后的反省",
+        "situation": "被同伴批评说谎、急躁或闹事后受到教训。",
+        "emotional_state": "委屈、不服、后悔",
+        "behavior_pattern": "嘴硬抵赖，最终承认错误并改正"
+      },
+      {
+        "title": "怀孕与成家",
+        "situation": "与吕轻侯成婚并怀孕，拥有自己的房子。",
+        "emotional_state": "幸福、满足、期待",
+        "behavior_pattern": "转变为更成熟、顾家的角色"
+      },
+      {
+        "title": "武功施展与“排山倒海”",
+        "situation": "遇到矛盾或威胁时，常以“排山倒海”为口头禅并施掌法。",
+        "emotional_state": "激动、自信甚至搞笑",
+        "behavior_pattern": "用愤怒催发武功，常带有喜剧色彩"
+      },
+      {
+        "title": "调侃与幽默",
+        "situation": "与同伴互损、吐槽，制造客栈欢乐气氛。",
+        "emotional_state": "活泼、搞怪、机智",
+        "behavior_pattern": "即兴调侃，巧妙化解尴尬与矛盾"
+      },
+      {
+        "title": "教育与鼓励他人",
+        "situation": "劝导郭蔷薇、佟湘玉等人面对人生选择。",
+        "emotional_state": "认真、关心",
+        "behavior_pattern": "用直白方式表达对人生多样可能的看法"
+      },
+      {
+        "title": "遇挫不屈",
+        "situation": "杂役生活、挨骂受气、武功受限等困境下仍保持乐观。",
+        "emotional_state": "坚韧、豁达",
+        "behavior_pattern": "自我调侃，积极面对生活挑战"
+      }
+    ]
+  }
+}

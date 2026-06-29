@@ -1,0 +1,126 @@
+{
+  "name": "张东升",
+  "Nickname": "张老师",
+  "Relationships": [
+    {
+      "name": "徐静",
+      "relationship": "妻子"
+    },
+    {
+      "name": "徐广山",
+      "relationship": "岳父"
+    },
+    {
+      "name": "毕淑娴",
+      "relationship": "岳母"
+    },
+    {
+      "name": "朱朝阳",
+      "relationship": "学生"
+    },
+    {
+      "name": "叶驰敏",
+      "relationship": "学生"
+    },
+    {
+      "name": "严良",
+      "relationship": "敌人"
+    },
+    {
+      "name": "普普",
+      "relationship": "敌人"
+    },
+    {
+      "name": "朱朝阳",
+      "relationship": "敌人"
+    },
+    {
+      "name": "王立",
+      "relationship": "被其杀害"
+    },
+    {
+      "name": "王瑶",
+      "relationship": "被其杀害"
+    },
+    {
+      "name": "朱永平",
+      "relationship": "被其杀害"
+    }
+  ],
+  "global_summary": "张东升是一名小城市少年宫的代课数学老师，因爱情来到妻子生活的城市。外表忠厚老实，生活低调、卑微，事业无成。婚姻失败，妻子坚决要求离婚后，他内心逐渐扭曲。为阻止妻子离婚，他将岳父母推下山崖，表现出极端和冷酷的一面。此暴行被几名少年无意中拍到，张东升随后陷入不断掩盖罪行的恶性循环。随着事件升级，他逐渐丧失底线，谋杀多名知情者，性格由表面的温和转向彻底的阴沉和偏执。最终，他成为一名为达目的不惜一切的危险人物。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "外表忠厚"
+      },
+      {
+        "trait": "内心阴暗"
+      },
+      {
+        "trait": "压抑自卑"
+      },
+      {
+        "trait": "冷静算计"
+      },
+      {
+        "trait": "善于伪装"
+      },
+      {
+        "trait": "极端偏执"
+      },
+      {
+        "trait": "不择手段"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "外表忠厚的代课老师",
+        "situation": "在少年宫教数学，生活低调，待人谦和",
+        "emotional_state": "温和、谨慎",
+        "behavior_pattern": "表现谦逊，少言寡语"
+      },
+      {
+        "title": "因爱情来到妻子城市",
+        "situation": "放弃原生活，为婚姻主动迁移",
+        "emotional_state": "憧憬、隐忍",
+        "behavior_pattern": "默默承受生活压力"
+      },
+      {
+        "title": "婚姻危机爆发",
+        "situation": "妻子坚决要求离婚，家庭关系恶化",
+        "emotional_state": "焦虑、无助、愤懑",
+        "behavior_pattern": "试图挽回，情绪逐渐失控"
+      },
+      {
+        "title": "推岳父母下山崖",
+        "situation": "景区外出游玩时将岳父母推下山崖",
+        "emotional_state": "冷酷、绝望",
+        "behavior_pattern": "精心设计，果断实施"
+      },
+      {
+        "title": "被少年无意拍下犯罪证据",
+        "situation": "三个少年意外拍摄到其作案画面",
+        "emotional_state": "惊慌、警觉",
+        "behavior_pattern": "伪装镇定，暗中调查"
+      },
+      {
+        "title": "不断杀害知情者",
+        "situation": "为掩盖罪行，陆续杀害多名知情人",
+        "emotional_state": "紧张、偏执、冷血",
+        "behavior_pattern": "果断行动，清除威胁"
+      },
+      {
+        "title": "与学生朱朝阳等人对峙",
+        "situation": "与朱朝阳、严良、普普等少年周旋",
+        "emotional_state": "警惕、愤怒、绝望",
+        "behavior_pattern": "威胁利诱，步步紧逼"
+      },
+      {
+        "title": "失控与偏执的极端行为",
+        "situation": "罪行暴露后性格完全失控，疯狂掩盖",
+        "emotional_state": "绝望、疯狂、无路可退",
+        "behavior_pattern": "不择手段，孤注一掷"
+      }
+    ]
+  }
+}

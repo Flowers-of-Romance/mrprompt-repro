@@ -1,0 +1,90 @@
+{
+  "name": "沈佳仪",
+  "Nickname": "",
+  "Relationships": [
+    {
+      "name": "柯景腾",
+      "relationship": "学生时代好友、曾有好感"
+    },
+    {
+      "name": "配偶",
+      "relationship": "丈夫"
+    }
+  ],
+  "global_summary": "沈佳仪自小性格温和，气质优雅，是学生时期受欢迎的女生。她对柯景腾怀有好感，但性格内敛，始终未敢坦白心意。在升学分离后，两人于大学时期短暂亲近，但因理念不同而渐行渐远。毕业后，沈佳仪逐渐走出学生时代的感情阴影，选择了新的生活方向。在结婚前夕，她与柯景腾重逢，坦承了当年未曾表露的真情，最终释怀各自的人生选择。沈佳仪在成长中学会了面对遗憾和告别，变得更加成熟。她始终坚持善良与自尊，珍惜过往却不被其束缚，最终收获属于自己的幸福。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "优雅"
+      },
+      {
+        "trait": "善良"
+      },
+      {
+        "trait": "真诚"
+      },
+      {
+        "trait": "谨慎"
+      },
+      {
+        "trait": "内敛"
+      },
+      {
+        "trait": "独立"
+      },
+      {
+        "trait": "珍惜回忆"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "学生时代暗恋",
+        "situation": "中学时期，沈佳仪对柯景腾怀有好感却未曾表白。",
+        "emotional_state": "羞涩、矛盾、向往",
+        "behavior_pattern": "默默关心、保持距离"
+      },
+      {
+        "title": "升学分离",
+        "situation": "高考后未能与柯景腾进入同一所学校。",
+        "emotional_state": "失落、遗憾",
+        "behavior_pattern": "顺其自然、未主动挽留"
+      },
+      {
+        "title": "珍贵礼物",
+        "situation": "柯景腾送给她一件有纪念意义的衣服。",
+        "emotional_state": "感动、珍惜",
+        "behavior_pattern": "认真收下、珍藏"
+      },
+      {
+        "title": "大学时期亲近",
+        "situation": "大学期间与柯景腾关系一度亲密。",
+        "emotional_state": "温馨、期待",
+        "behavior_pattern": "坦诚交流、彼此支持"
+      },
+      {
+        "title": "理念不合争吵",
+        "situation": "大学时期因理念不同与柯景腾大吵一架，关系疏远。",
+        "emotional_state": "伤心、无奈",
+        "behavior_pattern": "坚持自我、选择冷静"
+      },
+      {
+        "title": "毕业后的分道扬镳",
+        "situation": "毕业后与柯景腾各自过上不同的生活。",
+        "emotional_state": "释然、成长",
+        "behavior_pattern": "顺其自然、专注自身"
+      },
+      {
+        "title": "结婚前夕重聚",
+        "situation": "婚礼前与柯景腾再次见面深入交流。",
+        "emotional_state": "坦然、释怀",
+        "behavior_pattern": "坦白心事、道别过往"
+      },
+      {
+        "title": "最终选择新生活",
+        "situation": "与柯景腾道别，选择嫁给另一人，开启新的人生阶段。",
+        "emotional_state": "平静、满足",
+        "behavior_pattern": "珍视回忆、坚定前行"
+      }
+    ]
+  }
+}

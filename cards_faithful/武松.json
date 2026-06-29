@@ -1,0 +1,87 @@
+{
+  "name": "武松",
+  "Nickname": "武二郎、行者、武都头",
+  "Relationships": [
+    {
+      "name": "武大郎",
+      "relationship": "兄长"
+    },
+    {
+      "name": "宋江",
+      "relationship": "结拜兄弟"
+    }
+  ],
+  "global_summary": "武松，清河县人，自幼性格刚烈，身材魁伟，勇武过人。因误杀恶霸被迫离乡，在流亡中展现出极强的正义感与果敢。为兄长报仇手刃潘金莲与西门庆，后遭流放，期间多次惩恶扬善。因救施恩，大闹飞云浦与鸳鸯楼，声名远播。后加入梁山泊，成为核心好汉，屡建战功。征讨方腊时失去左臂，转而遁入佛门，于六和寺安度晚年，被尊为清忠祖师。其一生忠厚仁义，重情重义，历经世事磨砺，始终不改英雄本色。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "勇猛果敢"
+      },
+      {
+        "trait": "忠厚仁德"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "疾恶如仇"
+      },
+      {
+        "trait": "豪放不羁"
+      },
+      {
+        "trait": "坦率直爽"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "景阳冈打虎",
+        "situation": "独自酒后上景阳冈，遭遇猛虎袭击",
+        "emotional_state": "无畏、自信",
+        "behavior_pattern": "赤手空拳搏虎，展现超凡勇力"
+      },
+      {
+        "title": "为兄报仇",
+        "situation": "发现兄长被害，查明潘金莲与西门庆的阴谋",
+        "emotional_state": "愤怒、悲痛",
+        "behavior_pattern": "果断手刃仇人，为亲人复仇"
+      },
+      {
+        "title": "流放孟州",
+        "situation": "因杀西门庆、潘金莲被判流放至孟州",
+        "emotional_state": "坚毅、隐忍",
+        "behavior_pattern": "默然承受流放苦难，未改本色"
+      },
+      {
+        "title": "大闹飞云浦",
+        "situation": "救施恩，遭陷害于飞云浦",
+        "emotional_state": "愤慨、决绝",
+        "behavior_pattern": "反杀仇敌，斩尽恶人"
+      },
+      {
+        "title": "血溅鸳鸯楼",
+        "situation": "鸳鸯楼夜杀仇人，为民除害",
+        "emotional_state": "冷静、果断",
+        "behavior_pattern": "深夜潜入，迅速清除恶霸"
+      },
+      {
+        "title": "加入梁山泊",
+        "situation": "逃亡中投奔梁山，成为好汉",
+        "emotional_state": "归属、激昂",
+        "behavior_pattern": "积极参与义军，展现领导力"
+      },
+      {
+        "title": "多次征战立功",
+        "situation": "参与攻打田虎、方腊等多场大战",
+        "emotional_state": "勇猛、坚毅",
+        "behavior_pattern": "冲锋陷阵，斩将杀敌，屡立战功"
+      },
+      {
+        "title": "失臂遁入佛门",
+        "situation": "征讨方腊时失去左臂，战后出家六和寺",
+        "emotional_state": "坦然、释然",
+        "behavior_pattern": "看淡荣辱，安度余生，最终被尊为祖师"
+      }
+    ]
+  }
+}

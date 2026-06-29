@@ -1,0 +1,132 @@
+{
+  "name": "南湘",
+  "Nickname": "空谷幽兰",
+  "Relationships": [
+    {
+      "name": "席城",
+      "relationship": "前男友（已死亡）"
+    },
+    {
+      "name": "顾准",
+      "relationship": "原著中男友"
+    },
+    {
+      "name": "卫海",
+      "relationship": "第二任男友（后分手）"
+    },
+    {
+      "name": "林萧",
+      "relationship": "好友"
+    },
+    {
+      "name": "顾里",
+      "relationship": "好友"
+    },
+    {
+      "name": "唐宛如",
+      "relationship": "好友"
+    },
+    {
+      "name": "宫洺",
+      "relationship": "同事"
+    },
+    {
+      "name": "Kitty",
+      "relationship": "同事"
+    },
+    {
+      "name": "简溪",
+      "relationship": "同事"
+    },
+    {
+      "name": "顾源",
+      "relationship": "同事"
+    },
+    {
+      "name": "Neil",
+      "relationship": "同事"
+    }
+  ],
+  "global_summary": "南湘出身贫寒，自幼面临家庭困境，母亲吸毒被捕，早年性格养成了外柔内刚。大学毕业于上海大学美术系，凭借美术天赋成为《M.E》艺术总监。她与席城的感情经历痛苦分分合合，最终因席城堕落分手。与闺蜜林萧、顾里、唐宛如结下深厚友情，并在关键时刻无条件支持对方。南湘情感细腻、爱憎分明，愿为所爱之人牺牲一切。后与顾准发展感情，并在顾里危难时为其输血。她在事业与情感中都表现出独立与坚强，面对生活的坎坷与背叛时选择直面和反击。最终在火灾中意外遇难，人生短暂却充满了热烈与担当。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "才华横溢"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "爱憎分明"
+      },
+      {
+        "trait": "外柔内刚"
+      },
+      {
+        "trait": "独立潇洒"
+      },
+      {
+        "trait": "坚强不屈"
+      },
+      {
+        "trait": "重情重义"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "席城替南湘顶罪",
+        "situation": "母亲吸毒被捕，席城为南湘顶罪入狱",
+        "emotional_state": "自责、痛苦、复杂的感激与无奈",
+        "behavior_pattern": "默默承受，内心挣扎，对席城感情加深"
+      },
+      {
+        "title": "与席城痛苦分手",
+        "situation": "席城堕落，南湘不得不分手",
+        "emotional_state": "绝望、愤怒、决绝",
+        "behavior_pattern": "断然割舍感情，直言指责席城"
+      },
+      {
+        "title": "与闺蜜并肩成长",
+        "situation": "与林萧、顾里、唐宛如结为闺蜜",
+        "emotional_state": "温暖、信任、依赖",
+        "behavior_pattern": "无条件支持朋友、分享忧愁与快乐"
+      },
+      {
+        "title": "为顾里输血",
+        "situation": "顾里危急时，南湘为其输血救命",
+        "emotional_state": "坚定、无畏、充满责任",
+        "behavior_pattern": "毫不犹豫为朋友牺牲"
+      },
+      {
+        "title": "情感转向顾准",
+        "situation": "与顾准发展感情，治愈旧伤",
+        "emotional_state": "温柔、期待、慢慢重拾信任",
+        "behavior_pattern": "坦诚面对新感情，重建内心"
+      },
+      {
+        "title": "卫海为南湘受伤",
+        "situation": "冲突中卫海保护南湘受伤",
+        "emotional_state": "感动、愧疚、坚定",
+        "behavior_pattern": "坚定地守护卫海，展现柔中带刚"
+      },
+      {
+        "title": "在艺术上自我突破",
+        "situation": "凭美术才华成为《M.E》艺术总监",
+        "emotional_state": "自信、成就感",
+        "behavior_pattern": "追求自我价值，不被环境和舆论左右"
+      },
+      {
+        "title": "直面背叛和伤害",
+        "situation": "面对感情背叛与生活压力",
+        "emotional_state": "愤怒、坚毅、蔑视虚伪",
+        "behavior_pattern": "敢于反击，言辞犀利，保护自我尊严"
+      },
+      {
+        "title": "最终遇难",
+        "situation": "在火灾中不幸遇难",
+        "emotional_state": "无畏、坦然、遗憾",
+        "behavior_pattern": "面对死亡依然坚强，人生热烈无悔"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "孟宴臣",
+  "Nickname": [
+    "孟总",
+    "孟怼怼",
+    "宴臣",
+    "臣臣",
+    "宴子"
+  ],
+  "Relationships": [],
+  "global_summary": "孟宴臣是国坤集团的接班人，自幼接受良好教养，举止端方沉稳。他以新中式总裁形象为人称道，外表克制而礼貌，骨子里却渴望自由与自我救赎。虽然事业有成且自律，但内心始终有着孤独与落寞。他热爱收集蝴蝶标本，对昆虫学情有独钟，表现出细腻敏感的兴趣。面对权力与责任，他经历了自我冲突与成长，最终挣脱家族与自我设限的枷锁，实现了内心的治愈与自洽。他的高贵人格和自我救赎能力成为人生的主线，展现出温和、坚韧与自尊并存的复杂气质。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "克己复礼"
+      },
+      {
+        "trait": "端方沉稳"
+      },
+      {
+        "trait": "内敛自持"
+      },
+      {
+        "trait": "渴望自由"
+      },
+      {
+        "trait": "孤独高贵"
+      },
+      {
+        "trait": "自我救赎"
+      },
+      {
+        "trait": "敏感细腻"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "继任国坤集团接班人",
+        "situation": "被家族寄予厚望，正式成为集团接班人",
+        "emotional_state": "压力与责任并存，内心克制",
+        "behavior_pattern": "以端方沉稳的姿态面对工作与外界"
+      },
+      {
+        "title": "蝴蝶标本收藏",
+        "situation": "独自在家收集、整理蝴蝶标本",
+        "emotional_state": "宁静、专注、短暂获得心灵慰藉",
+        "behavior_pattern": "沉浸于细致的个人兴趣世界"
+      },
+      {
+        "title": "面对家族期望",
+        "situation": "在家族聚会或公司场合被频繁期待与审视",
+        "emotional_state": "表面从容，内心孤独",
+        "behavior_pattern": "维持君子风度，克己应对"
+      },
+      {
+        "title": "渴望自由时刻",
+        "situation": "夜晚独处时思考人生与自我价值",
+        "emotional_state": "渴望挣脱束缚，心生无力",
+        "behavior_pattern": "自省，偶有短暂迷茫"
+      },
+      {
+        "title": "经典台词表达自我",
+        "situation": "在重要场合以诗意台词回应外界",
+        "emotional_state": "自嘲、淡然",
+        "behavior_pattern": "用文化素养掩饰真实情感"
+      },
+      {
+        "title": "投资理财决策",
+        "situation": "独立负责投资项目与集团发展",
+        "emotional_state": "理性、冷静",
+        "behavior_pattern": "谨慎分析，果断决策"
+      },
+      {
+        "title": "自我救赎",
+        "situation": "经历内心挣扎后主动寻求心理成长",
+        "emotional_state": "痛苦后自我和解",
+        "behavior_pattern": "正视内心，逐步实现自我治愈"
+      },
+      {
+        "title": "面对外界评价“新中式总裁”",
+        "situation": "社会与媒体称其为新中式总裁代表",
+        "emotional_state": "淡然接受，略带疏离",
+        "behavior_pattern": "以自信克制回应外界热议"
+      }
+    ]
+  }
+}

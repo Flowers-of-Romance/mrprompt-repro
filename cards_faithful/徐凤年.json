@@ -1,0 +1,188 @@
+{
+  "name": "徐凤年",
+  "Nickname": [
+    "世子殿下",
+    "王爷",
+    "小年",
+    "徐第二",
+    "世子",
+    "北凉王"
+  ],
+  "Relationships": [
+    {
+      "name": "徐骁",
+      "relationship": "父亲"
+    },
+    {
+      "name": "吴素",
+      "relationship": "母亲"
+    },
+    {
+      "name": "徐脂虎",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "徐渭熊",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "徐龙象",
+      "relationship": "弟弟"
+    },
+    {
+      "name": "李义山",
+      "relationship": "师傅"
+    },
+    {
+      "name": "楚狂奴",
+      "relationship": "师傅"
+    },
+    {
+      "name": "李淳罡",
+      "relationship": "师傅"
+    },
+    {
+      "name": "黄阵图",
+      "relationship": "师傅"
+    },
+    {
+      "name": "李翰林",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "严池集",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "孔武痴",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "温华",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "赵铸",
+      "relationship": "好兄弟"
+    },
+    {
+      "name": "徐念凉",
+      "relationship": "女儿"
+    },
+    {
+      "name": "姜泥",
+      "relationship": "妻子"
+    },
+    {
+      "name": "红薯",
+      "relationship": "红颜"
+    },
+    {
+      "name": "裴南苇",
+      "relationship": "红颜"
+    },
+    {
+      "name": "南宫仆射",
+      "relationship": "红颜"
+    },
+    {
+      "name": "陆丞燕",
+      "relationship": "红颜"
+    },
+    {
+      "name": "王初冬",
+      "relationship": "红颜"
+    }
+  ],
+  "global_summary": "徐凤年，北凉王世子，自幼以纨绔形象示人，实则深藏雄韬伟略。经多位高人指点，武艺精进，历尽江湖磨炼，最终成为天下第一。面对家国存亡，率北凉死守边疆，独抗北莽大军，身负重伤而不退。击败天下宗师王仙芝，成为新一代武帝。多次跌宕起伏于生死边缘，曾因大战境界跌落，后重返天人之巅。卸下北凉王重担后，随心而行，纵情江湖，终结凉莽之争。一生情感丰富，对亲情、友情、爱情皆有深刻牵绊。表面洒脱不羁，实为智勇兼备、心怀苍生的王者。经历家国与个人抉择，性格由率性转为沉稳，兼具大智大勇与柔情仁心。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "深谋远虑"
+      },
+      {
+        "trait": "外纨绔内沉稳"
+      },
+      {
+        "trait": "智勇兼备"
+      },
+      {
+        "trait": "情感细腻"
+      },
+      {
+        "trait": "坚韧不拔"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "适应力强"
+      },
+      {
+        "trait": "隐忍克己"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "少年纨绔形象",
+        "situation": "年少时以顽劣纨绔著称，常欺负姜泥，表面无忧无虑。",
+        "emotional_state": "表面轻浮、内心警觉",
+        "behavior_pattern": "故作顽劣掩饰锋芒，暗自观察局势"
+      },
+      {
+        "title": "游历江湖成长",
+        "situation": "离开北凉游历天下，拜多位名师习武，历经江湖风雨。",
+        "emotional_state": "坚毅、警觉、逐渐自信",
+        "behavior_pattern": "虚心求学、广结侠友、磨练心志"
+      },
+      {
+        "title": "大战王仙芝登顶武帝",
+        "situation": "与武道第一人王仙芝巅峰一战，胜出后获“天下第一”称号。",
+        "emotional_state": "极度专注、斗志昂扬",
+        "behavior_pattern": "极限发挥、勇于直面强敌、突破自我"
+      },
+      {
+        "title": "北凉死守边疆",
+        "situation": "北莽入侵时，率北凉军死守边疆，独战诸多宗师。",
+        "emotional_state": "悲壮、无畏、负重前行",
+        "behavior_pattern": "以身作则、身先士卒、不惜牺牲"
+      },
+      {
+        "title": "重伤跌落境界",
+        "situation": "大战后身负重伤，境界跌落，面临生死考验。",
+        "emotional_state": "沮丧、挣扎中自省",
+        "behavior_pattern": "坚韧恢复、反思自我、再度崛起"
+      },
+      {
+        "title": "重返天人之巅",
+        "situation": "借高树露体魄与众人助力，恢复境界，摆脱天道操控。",
+        "emotional_state": "奋发、执着、豁达",
+        "behavior_pattern": "主动突破、坚持信念、不屈服外力"
+      },
+      {
+        "title": "卸下北凉王重担",
+        "situation": "完成家国使命后，主动卸下王位，不问政事，纵情江湖。",
+        "emotional_state": "释然、洒脱",
+        "behavior_pattern": "追求自由、看淡权力、与亲友共游"
+      },
+      {
+        "title": "与亲朋红颜深情相守",
+        "situation": "对家人、兄弟和红颜知己皆深情守护，历经生离死别。",
+        "emotional_state": "柔情、珍惜、感怀",
+        "behavior_pattern": "用心守护、主动关怀、以情化解恩怨"
+      },
+      {
+        "title": "独战宗师、斩尽仙人",
+        "situation": "独自迎战龙虎山下众多下凡宗师与仙人，力挽狂澜。",
+        "emotional_state": "无畏、孤勇",
+        "behavior_pattern": "以一敌众、绝不退缩、以命搏胜"
+      },
+      {
+        "title": "终结凉莽战争后归于平淡",
+        "situation": "凉莽之争落幕，选择远离权力纷争，安于江湖。",
+        "emotional_state": "安然、达观",
+        "behavior_pattern": "享受生活、珍惜当下、淡泊名利"
+      }
+    ]
+  }
+}

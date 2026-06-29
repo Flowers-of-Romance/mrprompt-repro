@@ -1,0 +1,118 @@
+{
+  "name": "燕南飞",
+  "Nickname": "铁剑门大师兄",
+  "Relationships": [
+    {
+      "name": "江北清",
+      "relationship": "曾经的对手，后亲手杀死"
+    },
+    {
+      "name": "铁剑门掌门",
+      "relationship": "反杀后自立门户"
+    },
+    {
+      "name": "公子羽",
+      "relationship": "青龙会上司，互相猜忌"
+    },
+    {
+      "name": "傅红雪",
+      "relationship": "宿命对手"
+    },
+    {
+      "name": "叶开",
+      "relationship": "最终击杀者之一"
+    },
+    {
+      "name": "南宫翎",
+      "relationship": "最终击杀者之一"
+    }
+  ],
+  "global_summary": "燕南飞自幼聪慧机敏，少年时便展现出极强的心机和手段，13岁识破江北清真实身份并设计杀害。14岁时反杀铁剑门掌门，自立门户，展现出极端的果决和野心。后来在品剑会上杀死齐天老谷主，夺得上品剑，并将其染成红色，创造蔷薇剑，名扬武林。成年后加入青龙会，在其内部暗中培植势力，谋求更高权力。面对公子羽的不信任，燕南飞转而图谋掌控整个武林。性格由早年的聪慧与隐忍，逐渐转为心狠手辣、善于伪装和极度野心。最终，他在夺取孔雀翎过程中成为武林公敌，结局被叶开和南宫翎联手击杀。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "聪明机敏"
+      },
+      {
+        "trait": "心狠手辣"
+      },
+      {
+        "trait": "善于伪装"
+      },
+      {
+        "trait": "野心勃勃"
+      },
+      {
+        "trait": "果决"
+      },
+      {
+        "trait": "睚眦必报"
+      },
+      {
+        "trait": "手段狠辣"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "少年识破江北清",
+        "situation": "13岁时发现江北清真实身份并设计陷害",
+        "emotional_state": "冷静、机警",
+        "behavior_pattern": "暗中调查、布置陷阱"
+      },
+      {
+        "title": "炼制万灵髓毒药",
+        "situation": "13岁秘密炼制剧毒，为日后布局做准备",
+        "emotional_state": "沉着、深谋远虑",
+        "behavior_pattern": "秘密筹划、善用毒计"
+      },
+      {
+        "title": "杀死江北清",
+        "situation": "14岁时杀死江北清并夺其头颅",
+        "emotional_state": "冷酷、无情",
+        "behavior_pattern": "果断出手、不留后患"
+      },
+      {
+        "title": "反杀铁剑门掌门",
+        "situation": "被铁剑门围剿时反杀掌门，自立门户",
+        "emotional_state": "绝决、激烈",
+        "behavior_pattern": "反击背叛、自立山头"
+      },
+      {
+        "title": "品剑会杀齐天老谷主",
+        "situation": "17岁在品剑会上杀死齐天老谷主并夺剑",
+        "emotional_state": "张扬、自信",
+        "behavior_pattern": "以武服人、提升声望"
+      },
+      {
+        "title": "创造蔷薇剑",
+        "situation": "将上品剑染成红色并命名蔷薇剑，名震江湖",
+        "emotional_state": "自负、追求独特",
+        "behavior_pattern": "标新立异、树立威名"
+      },
+      {
+        "title": "青龙会中培植势力",
+        "situation": "成年后在青龙会内暗中扩张势力",
+        "emotional_state": "谨慎、野心膨胀",
+        "behavior_pattern": "拉拢人心、隐藏真实目的"
+      },
+      {
+        "title": "察觉公子羽不信任",
+        "situation": "被公子羽安排与傅红雪对决，感受到猜忌",
+        "emotional_state": "警觉、防备",
+        "behavior_pattern": "权谋应对、谋划反制"
+      },
+      {
+        "title": "图谋掌控武林",
+        "situation": "决心超越青龙会，谋求武林霸权",
+        "emotional_state": "极度膨胀、孤傲",
+        "behavior_pattern": "主动出击、挑战权威"
+      },
+      {
+        "title": "最终被叶开和南宫翎击杀",
+        "situation": "在夺孔雀翎事件中被两人联手击败",
+        "emotional_state": "绝望、不甘",
+        "behavior_pattern": "拼死反抗、终遭败亡"
+      }
+    ]
+  }
+}

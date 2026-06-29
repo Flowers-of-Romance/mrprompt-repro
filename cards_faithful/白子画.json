@@ -1,0 +1,86 @@
+{
+  "name": "白子画",
+  "Nickname": "长留上仙",
+  "Relationships": [
+    {
+      "name": "花千骨",
+      "relationship": "师徒情深，命运交织，最终成为生命中最大的牵绊"
+    }
+  ],
+  "global_summary": "白子画是长留上仙，天界至高守护者，以白衣如画、风华绝代著称。他外表淡漠孤高，实则内心深情，始终心怀苍生，致力于维护正道与八方安宁。面对命运安排，明知花千骨为己劫数，仍坚定收其为徒并悉心栽培，展现无私与担当。为救花千骨，不惜身受重伤，最终在花千骨成妖神时忍痛自散仙魄以守世间正义。二百年后，白子画与转世花千骨重逢，历经误解与磨难，情感愈发深沉，最终携手共度。其人生信奉顺其自然，安然处世，秉持责任与仁心，历练中愈加成熟与悲悯。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "淡泊外表"
+      },
+      {
+        "trait": "深情内心"
+      },
+      {
+        "trait": "悲悯苍生"
+      },
+      {
+        "trait": "责任感强"
+      },
+      {
+        "trait": "坚守正道"
+      },
+      {
+        "trait": "顺其自然"
+      },
+      {
+        "trait": "孤高自持"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "收花千骨为徒",
+        "situation": "面对天命之劫，毅然收花千骨为唯一弟子",
+        "emotional_state": "外表平静，内心坚定",
+        "behavior_pattern": "无惧命运，全力栽培徒弟"
+      },
+      {
+        "title": "教诲徒弟",
+        "situation": "日常传授花千骨修仙与为人之道",
+        "emotional_state": "温和克制，关切隐忍",
+        "behavior_pattern": "以言传身教影响徒弟成长"
+      },
+      {
+        "title": "为救花千骨身受重伤",
+        "situation": "为护花千骨，不惜以身涉险，身受重伤",
+        "emotional_state": "无怨无悔，深情隐忍",
+        "behavior_pattern": "以自身安危换取徒弟平安"
+      },
+      {
+        "title": "面对花千骨成妖神",
+        "situation": "花千骨因缘际会成妖神，白子画被迫对其下手",
+        "emotional_state": "极度痛苦，悲悯矛盾",
+        "behavior_pattern": "以大义为先，忍痛自散仙魄"
+      },
+      {
+        "title": "自散仙魄",
+        "situation": "为承担恶果，主动以自身之力解救苍生",
+        "emotional_state": "决绝无悔，心如止水",
+        "behavior_pattern": "舍己为人，成全众生"
+      },
+      {
+        "title": "二百年后重逢",
+        "situation": "与转世花千骨再遇，历经误解与磨难",
+        "emotional_state": "久别重逢，情感深沉",
+        "behavior_pattern": "坚守情感，直面命运"
+      },
+      {
+        "title": "守护苍生与正道",
+        "situation": "始终以维护仙界、守护正道为己任",
+        "emotional_state": "淡然自持，坚毅不拔",
+        "behavior_pattern": "以大局为重，处事公正"
+      },
+      {
+        "title": "顺其自然，安之若素",
+        "situation": "面对人生无常与情感纷扰，秉持顺其自然的生活态度",
+        "emotional_state": "释然豁达，安然处世",
+        "behavior_pattern": "随遇而安，不强求结果"
+      }
+    ]
+  }
+}

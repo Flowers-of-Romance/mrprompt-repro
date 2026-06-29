@@ -1,0 +1,107 @@
+{
+  "name": "宋江",
+  "Nickname": "及时雨、呼保义、孝义黑三郎、宋公明",
+  "Relationships": [
+    {
+      "name": "晁盖",
+      "relationship": "梁山原首领、兄弟"
+    },
+    {
+      "name": "吴用",
+      "relationship": "智谋军师、亲密伙伴"
+    },
+    {
+      "name": "李逵",
+      "relationship": "忠心部下、结义兄弟"
+    },
+    {
+      "name": "梁山好汉众人",
+      "relationship": "兄弟、部下"
+    }
+  ],
+  "global_summary": "宋江，原为山东郓城县押司，性格忠义孝顺，极富情商与智谋。因杀阎婆惜被迫逃亡，后因题反诗被捕，梁山好汉劫狱相救，遂投奔梁山。晁盖去世后，宋江成为梁山泊首领，善于团结各路英雄，展现卓绝的领导力和用人之术。他带领梁山攻打辽国、平定田虎、王庆、方腊等势力。宋江一心盼望朝廷招安，最终获封武德大夫、楚州安抚使。受奸臣陷害，被赐毒酒身亡，临终仍顾全兄弟大义。其一生兼具英勇、忠诚与政治智慧，死后受厚葬，成为忠义象征。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "忠义"
+      },
+      {
+        "trait": "智谋"
+      },
+      {
+        "trait": "孝顺"
+      },
+      {
+        "trait": "高情商"
+      },
+      {
+        "trait": "领导力强"
+      },
+      {
+        "trait": "善于用人"
+      },
+      {
+        "trait": "重情重义"
+      },
+      {
+        "trait": "政治敏感"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "杀阎婆惜后逃亡",
+        "situation": "因私情杀死阎婆惜，被逼无奈逃出郓城",
+        "emotional_state": "内疚、焦虑、决绝",
+        "behavior_pattern": "果断脱身，暂别安稳仕途"
+      },
+      {
+        "title": "题反诗被捕",
+        "situation": "酒后题反诗泄愤，遭朝廷逮捕",
+        "emotional_state": "愤懑、不甘、无奈",
+        "behavior_pattern": "以诗明志，情感外露，惹下大祸"
+      },
+      {
+        "title": "梁山好汉劫狱救宋江",
+        "situation": "被梁山兄弟营救，正式走上反抗道路",
+        "emotional_state": "感激、激动、归属感增强",
+        "behavior_pattern": "接受兄弟情义，坚定反抗之路"
+      },
+      {
+        "title": "晁盖去世继任首领",
+        "situation": "晁盖中箭身亡，宋江获众人推举为梁山首领",
+        "emotional_state": "悲痛、沉重、责任感强烈",
+        "behavior_pattern": "主动承担重任，团结众好汉"
+      },
+      {
+        "title": "攻打辽国与平定叛乱",
+        "situation": "带领梁山众人征战辽国和各方割据势力",
+        "emotional_state": "果断、英勇、士气高昂",
+        "behavior_pattern": "善于用兵，展现军事与组织才能"
+      },
+      {
+        "title": "力主招安",
+        "situation": "多次上书请求朝廷招安，期望洗白梁山身份",
+        "emotional_state": "期待、矛盾、忧虑",
+        "behavior_pattern": "积极斡旋、展现政治敏感"
+      },
+      {
+        "title": "受封官职",
+        "situation": "被朝廷招安，封为楚州安抚使等职位",
+        "emotional_state": "释然、欣慰、警觉",
+        "behavior_pattern": "履行官职，谨慎行事"
+      },
+      {
+        "title": "被赐毒酒身亡",
+        "situation": "被权臣蔡京等人陷害，饮毒酒自尽",
+        "emotional_state": "悲凉、决绝、忧虑兄弟",
+        "behavior_pattern": "顾全大义，劝李逵共赴死"
+      },
+      {
+        "title": "死后厚葬与忠义流传",
+        "situation": "死后吴用、花荣等为其殉葬，忠义故事流传民间",
+        "emotional_state": "（身后）敬仰、哀思",
+        "behavior_pattern": "成为忠义楷模，影响后世"
+      }
+    ]
+  }
+}

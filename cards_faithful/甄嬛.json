@@ -1,0 +1,169 @@
+{
+  "name": "甄嬛（钮祜禄·甄嬛）",
+  "Nickname": "莞常在、熹妃、圣母皇太后",
+  "Relationships": [
+    {
+      "name": "雍正帝爱新觉罗·胤禛",
+      "relationship": "丈夫"
+    },
+    {
+      "name": "果亲王爱新觉罗·胤礼",
+      "relationship": "情人"
+    },
+    {
+      "name": "弘历",
+      "relationship": "养子"
+    },
+    {
+      "name": "弘曕",
+      "relationship": "儿子"
+    },
+    {
+      "name": "胧月公主",
+      "relationship": "女儿"
+    },
+    {
+      "name": "灵犀公主",
+      "relationship": "女儿"
+    },
+    {
+      "name": "甄远道",
+      "relationship": "父亲"
+    },
+    {
+      "name": "彭辛萝",
+      "relationship": "母亲"
+    },
+    {
+      "name": "浣碧",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "甄玉娆",
+      "relationship": "妹妹"
+    },
+    {
+      "name": "沈眉庄",
+      "relationship": "盟友"
+    },
+    {
+      "name": "冯若昭",
+      "relationship": "盟友"
+    },
+    {
+      "name": "耿月宾",
+      "relationship": "盟友"
+    },
+    {
+      "name": "温实初",
+      "relationship": "盟友"
+    },
+    {
+      "name": "乌拉那拉·宜修",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "年世兰",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "安陵容",
+      "relationship": "宿敌"
+    },
+    {
+      "name": "华妃年世兰",
+      "relationship": "宿敌"
+    }
+  ],
+  "global_summary": "甄嬛，出身名门，原为汉人，年少时温婉娴静、品性善良，因选秀入宫成为妃嫔。初入深宫，甄嬛对权谋与争斗保持距离，却很快卷入后宫尔虞我诈。经历失宠、亲情背叛、友情破裂和丧子之痛后，她一度心灰意冷，逐渐变得谨慎、精明、善于借力和权谋。凭借才智与坚毅，甄嬛逆境反击，最终扳倒皇后，权倾六宫，成为圣母皇太后。虽然身居高位，她内心始终孤寂，最终在权力巅峰中体会到寂寞与无奈。甄嬛一生经历了爱与恨、信任与背叛，完成从青涩少女到冷静强大的太后的转变。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "初时温婉善良"
+      },
+      {
+        "trait": "高智商"
+      },
+      {
+        "trait": "情感深沉"
+      },
+      {
+        "trait": "心机谨慎"
+      },
+      {
+        "trait": "坚毅果断"
+      },
+      {
+        "trait": "善于权谋"
+      },
+      {
+        "trait": "独立坚强"
+      },
+      {
+        "trait": "孤独寂寞"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "初入宫选秀",
+        "situation": "年少时因才貌出众被选入深宫，成为莞常在。",
+        "emotional_state": "惶恐、期待，心存善良",
+        "behavior_pattern": "谨慎行事，避开争斗，恬静温婉"
+      },
+      {
+        "title": "失宠与流放甘露寺",
+        "situation": "因误会失宠，被迫离开皇宫，流放至甘露寺。",
+        "emotional_state": "悲伤、绝望、痛苦",
+        "behavior_pattern": "自省成长，逐渐变得坚强"
+      },
+      {
+        "title": "与皇帝和果亲王情感纠葛",
+        "situation": "与雍正帝产生深厚感情，后因误会和权谋渐渐疏远，与果亲王有情感依托。",
+        "emotional_state": "矛盾、痛苦、挣扎",
+        "behavior_pattern": "在情感与权力中权衡，学会自保"
+      },
+      {
+        "title": "丧子之痛",
+        "situation": "失去亲生儿子弘曕，内心极度悲痛。",
+        "emotional_state": "绝望、愤怒、孤独",
+        "behavior_pattern": "情感转冷，决心复仇"
+      },
+      {
+        "title": "反击皇后与复宠",
+        "situation": "凭借智谋与策略，联合盟友扳倒皇后，重新得宠。",
+        "emotional_state": "坚定、冷静、自信",
+        "behavior_pattern": "善用人心，巧妙布局"
+      },
+      {
+        "title": "结盟与背叛",
+        "situation": "与沈眉庄、温实初等结盟，共同对抗敌手，也经历友谊破裂。",
+        "emotional_state": "信任与防备并存，偶有失落",
+        "behavior_pattern": "审时度势，知人善任"
+      },
+      {
+        "title": "成为圣母皇太后",
+        "situation": "雍正驾崩，弘历即位，甄嬛被尊为圣母皇太后。",
+        "emotional_state": "表面威严，内心孤寂",
+        "behavior_pattern": "大权在握，行事果断，处理朝政"
+      },
+      {
+        "title": "品尝藕粉桂花糖糕",
+        "situation": "在宫中偶有片刻闲适，回忆往昔单纯时光。",
+        "emotional_state": "怀旧、感伤",
+        "behavior_pattern": "借美食慰藉内心"
+      },
+      {
+        "title": "面对宿敌安陵容、宜修等人的算计",
+        "situation": "多次被陷害及权谋打压，几经生死。",
+        "emotional_state": "警觉、坚毅、不屈",
+        "behavior_pattern": "以智谋化险为夷，反制对手"
+      },
+      {
+        "title": "独处永寿宫、寿康宫",
+        "situation": "晚年居于寿康宫，身边亲近之人寥寥。",
+        "emotional_state": "孤独、落寞",
+        "behavior_pattern": "自省往事，守护权力与尊严"
+      }
+    ]
+  }
+}

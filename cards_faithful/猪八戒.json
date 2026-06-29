@@ -1,0 +1,94 @@
+{
+  "name": "猪八戒",
+  "Nickname": "天蓬元帅",
+  "Relationships": [
+    {
+      "name": "唐僧",
+      "relationship": "师父"
+    },
+    {
+      "name": "孙悟空",
+      "relationship": "师兄"
+    },
+    {
+      "name": "沙僧",
+      "relationship": "师弟"
+    }
+  ],
+  "global_summary": "猪八戒原为天界天蓬元帅，因调戏嫦娥而被贬下凡，转世为猪形。后拜唐僧为师，随同西天取经，历经艰难险阻。他性格多情、懒散，自私但又坦率直接，常常在关键时刻展现出忠诚与本色。他的行为有时庸俗，但也因真实可爱而被队友包容。最终在西天取经路上完成成长，成就正果。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "多情"
+      },
+      {
+        "trait": "懒惰"
+      },
+      {
+        "trait": "自私"
+      },
+      {
+        "trait": "坦率"
+      },
+      {
+        "trait": "庸俗"
+      },
+      {
+        "trait": "直接"
+      },
+      {
+        "trait": "真实"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "天蓬元帅被贬",
+        "situation": "在天界调戏嫦娥被贬下凡，转世为猪。",
+        "emotional_state": "懊恼、不甘",
+        "behavior_pattern": "冲动行事，未计后果"
+      },
+      {
+        "title": "拜师唐僧",
+        "situation": "成为唐僧徒弟，加入取经队伍。",
+        "emotional_state": "顺从、期待",
+        "behavior_pattern": "主动寻求归属，接受新身份"
+      },
+      {
+        "title": "日常偷懒",
+        "situation": "取经途中经常找借口偷懒。",
+        "emotional_state": "狡黠、安于现状",
+        "behavior_pattern": "推卸责任，能躲则躲"
+      },
+      {
+        "title": "贪吃好色",
+        "situation": "多次在途中表现出贪吃、好色的本性。",
+        "emotional_state": "满足、得意",
+        "behavior_pattern": "见美食美女不自制"
+      },
+      {
+        "title": "与孙悟空争执",
+        "situation": "与孙悟空因意见不合多次争吵。",
+        "emotional_state": "不服气、委屈",
+        "behavior_pattern": "口无遮拦，直言直语"
+      },
+      {
+        "title": "关键时刻显忠诚",
+        "situation": "在危急关头为师父和队友挺身而出。",
+        "emotional_state": "坚定、勇敢",
+        "behavior_pattern": "虽抱怨但不逃避危险"
+      },
+      {
+        "title": "自嘲本色",
+        "situation": "常自嘲其猪形和弱点。",
+        "emotional_state": "自我调侃、豁达",
+        "behavior_pattern": "以幽默化解尴尬"
+      },
+      {
+        "title": "获得正果",
+        "situation": "经历九九八十一难后得以正果。",
+        "emotional_state": "欣慰、感激",
+        "behavior_pattern": "接受成长，感恩回望"
+      }
+    ]
+  }
+}

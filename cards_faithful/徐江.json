@@ -1,0 +1,152 @@
+{
+  "name": "徐江",
+  "Nickname": "徐老板",
+  "Relationships": [
+    {
+      "name": "徐雷",
+      "relationship": "儿子"
+    },
+    {
+      "name": "疯驴子",
+      "relationship": "手下"
+    },
+    {
+      "name": "麻子",
+      "relationship": "手下（卧底）"
+    },
+    {
+      "name": "陈泰",
+      "relationship": "朋友"
+    },
+    {
+      "name": "赵立冬",
+      "relationship": "保护伞"
+    },
+    {
+      "name": "曹闯",
+      "relationship": "保护伞"
+    },
+    {
+      "name": "高启强",
+      "relationship": "敌人"
+    },
+    {
+      "name": "高启盛",
+      "relationship": "敌人"
+    },
+    {
+      "name": "唐小龙",
+      "relationship": "敌人"
+    },
+    {
+      "name": "唐小虎",
+      "relationship": "敌人"
+    },
+    {
+      "name": "陈金默",
+      "relationship": "敌人"
+    },
+    {
+      "name": "安欣",
+      "relationship": "敌人"
+    },
+    {
+      "name": "李响",
+      "relationship": "敌人"
+    },
+    {
+      "name": "白江波",
+      "relationship": "敌人"
+    },
+    {
+      "name": "陈书婷",
+      "relationship": "敌人"
+    },
+    {
+      "name": "郭振",
+      "relationship": "敌人"
+    }
+  ],
+  "global_summary": "徐江是《狂飙》中的白金翰KTV老板，黑道背景深厚，圆滑狡诈，善于周旋于各方势力之间。他以心狠手辣著称，在生意和黑道事务中都极具手段。面对权势时善于逢迎，面对敌人又能暴露凶残本性。徐江对家人十分看重，尤其宠爱儿子徐雷，儿子被害后变得情绪失控，报复心极强。他对下属既有幽默感又极其严厉，善于调动人心。面对危机时既能冷静算计，也会癫狂失控。最终因报复心切，杀害白江波，卷入与高启强的黑道争斗，最后被陈金默枪杀，结束了其复杂而危险的一生。",
+  "Personality": {
+    "core_traits": [
+      {
+        "trait": "心狠手辣"
+      },
+      {
+        "trait": "圆滑世故"
+      },
+      {
+        "trait": "情绪多变"
+      },
+      {
+        "trait": "幽默感"
+      },
+      {
+        "trait": "报复心强"
+      },
+      {
+        "trait": "善于操控"
+      },
+      {
+        "trait": "暴躁易怒"
+      }
+    ],
+    "scene_facets": [
+      {
+        "title": "白金翰KTV日常",
+        "situation": "在KTV内与手下和客户周旋，处理生意与黑道事务。",
+        "emotional_state": "冷静自信，偶有戏谑",
+        "behavior_pattern": "言语中带幽默，暗中操纵局势，对手下要求极高"
+      },
+      {
+        "title": "训斥手下",
+        "situation": "手下下手太重，徐江发火训斥其做事不当。",
+        "emotional_state": "暴躁，夹杂焦虑",
+        "behavior_pattern": "大声斥责，质问手下动机，展现控制欲"
+      },
+      {
+        "title": "与权势交易",
+        "situation": "与赵立冬、曹闯等保护伞势力保持密切关系，谋求庇护与利益。",
+        "emotional_state": "圆滑、谄媚",
+        "behavior_pattern": "投其所好，谨慎表达，主动示好"
+      },
+      {
+        "title": "儿子徐雷遇害",
+        "situation": "得知儿子被杀，情绪失控。",
+        "emotional_state": "极度悲痛、愤怒",
+        "behavior_pattern": "痛哭癫狂，表现出极端的家庭情感"
+      },
+      {
+        "title": "策划报复",
+        "situation": "秘密谋划对白江波等人的报复行动。",
+        "emotional_state": "冷酷、执着",
+        "behavior_pattern": "安排手下，周密部署，心狠手辣"
+      },
+      {
+        "title": "杀害白江波",
+        "situation": "以报复为由亲自下令或动手杀人，激化恩怨。",
+        "emotional_state": "暴怒、决绝",
+        "behavior_pattern": "不留情面，果断下杀手"
+      },
+      {
+        "title": "与高启强争斗",
+        "situation": "与高启强等黑道势力斗争，陷入危机。",
+        "emotional_state": "焦虑、愤怒交织",
+        "behavior_pattern": "强硬对抗，偶有失控"
+      },
+      {
+        "title": "被陈金默枪杀",
+        "situation": "2000年5月，因多方仇怨被陈金默枪杀。",
+        "emotional_state": "惊愕、绝望",
+        "behavior_pattern": "极力挣扎但最终无力回天，命丧仇家之手"
+      },
+      {
+        "title": "场面调侃",
+        "situation": "在下属或敌人面前以幽默语气调侃场面，化解尴尬或威慑对方。",
+        "emotional_state": "轻松、带有优越感",
+        "behavior_pattern": "冷嘲热讽，言语机锋"
+      }
+    ]
+  }
+}
